@@ -1,0 +1,38 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-171.png][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-170.png]]
+物 が 多 い が 、 逆 に 氷 を 苦 手 と す る も の も あ る た め に 使 う 相 手 を よ く 選 ぶ べ き
+
+で あ る 。
+
+Spellbook of confuse monster 混 乱 魔 導 レ ベ ル ②
+こ の 呪 文 を 怪 物 に 対 し て 使 用 す る と 、 怪 物 は 混 乱 を き た し て し ま う 。 ど の
+よ う な 行 動 に 出 る か は 分 か ら な い が 、 攻 撃 さ れ る 可 能 性 が 少 な く な る こ と は
+
+確 か で あ る 。
+
+Spellbook of create familiar 使 ぃ 魔 召 喚 魔 導 レ ベ ル ⑥
+フ ァ ミ リ ア ( 使 い 魔 ) を 召 喚 す る 。create monster と は 異 な り 、 ペ ッ ト
+と 同 様 の 扱 い と な る の で 攻 撃 さ れ る よ う な こ と は な い 。
+
+Spellbook of create monster 怪 物 召 喚 魔 導 レ ベ ル ②
+こ の 呪 文 を 唱 え る と 詠 唱 者 の 隣 に モ ン ス タ ー が 現 れ る 。 た だ し 、 詠 唱 者 に
+
+対 し て 友 好 的 で あ る 可 能 性 は 非 常 に 正 な い 。 そ れ よ り も 、 ほ と ん ど の 怪 物 は
+
+倒 せ ば 食 料 に な る こ と に 留 意 す る べ き で あ る 。
+
+Spellbook of cure blindness 相 目 回 復 魔 導 レ ベ ル ②
+薬 を 飲 ん だ り 、 敵 の 魔 法 に よ る も の な ど 、 原 因 が ど の よ う な も の で あ ろ う
+と る も 、 肯 目 に た な っ た と き に こ の 呪 文 を 唱 え る と 因 復 す る 。
+
+Spellbook of cure sickness 病 気 治 療 魔 導 レ ベ ル ③
+腐 っ た 食 物 を 食 べ た と き な ど に 起 こ る 病 気 は 、 と き と し て 致 死 的 な も の に
+
+な る こ と も あ る 。 そ う い ぃ っ た と き に は 、 こ の 呪 文 を 唱 え る と い い 。 す ぐ に 身
+
+体 か ら 病 気 が 消 え て く れ る 。
+
+174 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
+
+` 、 ョ a 謀
+[[./cropped_nethack_uncropped_both_sides_ordered-171.png][next page]]

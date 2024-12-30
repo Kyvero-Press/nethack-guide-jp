@@ -1,0 +1,38 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-172.png][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-171.png]]
+Spellbook of detect food 食 物 看 破 魔 導 レ ベ ル ②
+術 者 の ぃ る 階 に あ る す べ て の 食 物 を 表 示 す る 。 空 腹 時 に ち ぃ い て は 非 常 に 重
+宿 更 弥 煌 る I,
+
+Spellbook of detect monsters 怪 物 看 破 魔 導 レ ベ ル ①
+術 者 の ぃ る 階 に 存 在 し て ぃ る 、 す べ て の 怪 物 の 位 置 を 表 示 す る 。 怪 物 の 位
+置 だ け で は な く 、 種 別 も 理 解 で き る よ う で あ る 。
+
+Spellbook of detect treasure ア イ テ ム 看 破 魔 導 レ ベ ル ④
+詠 唱 者 と 同 じ 階 に あ る 、 す べ て の ア イ テ ム を 表 示 す る 。 ア イ テ ム の 大 ま か
+な 種 別 も 表 示 さ れ る の で 、 武 器 や 防 具 を 手 に 入 れ た い と き に は 重 宝 す る だ ろ
+る e
+
+Spellbook of detect unseen 不 可 視 看 破 魔 導 レ ベ ル ③
+こ の 呪 文 を 唱 え る て か ら し ば ら く の 間 、 不 可 視 の も の が 見 え る よ う に な る 。
+透 明 な 怪 物 に 襲 わ れ た と き な ど に 使 用 す る べ き で あ る 。
+Spellbook of dig 掘 削 魔 導 レ ベ ル ⑤
+こ の 呪 文 を 唱 え る と 魔 窟 の 壁 が 瓦 解 し て 、 通 路 が で き る 。 ま た 、 岩 に 対 し
+て 使 う こ と も で き 、 岩 を 無 数 の 小 さ な 石 と す る こ と も で き る 。
+Spellbook of extra healing 全 快 魔 導 レ ベ ル ③
+の 呪 又 唱 で る 、 ピ ニ ッ ト ポ イ ン ド が か な り 因 復 す る 。 healing で 懇 間
+に 合 わ な い よ う な と き に は 、 こ ち ら の ほ う が お 勧 め ら で き る だ ろ う 。
+Spellbook of finger of death 死 の 指 魔 導 レ ベ ル ⑦
+術 者 が こ の 呪 文 を 唱 え る と 、 指 先 か ら 死 の 光 線 が 発 せ ら れ る 。 対 象 と な っ
+燭 隠 股 火 な 喪 恐 耐 交 削 0 な ゆ れ ぼ 死 沢 で レ ま う そ と ど ど な る ? レ が か し じ マ 向
+切 こ と さ ス で き れ に な に ひ と っ 起 は し な り い 。
+Spellbook of fireball 火 珠 魔 導 レ ベ ル ④
+術 者 の 掌 か ら 飛 び 出 た 火 の 玉 が 広 が り 、 巨 大 な 火 球 と 化 し て 敵 を 襲 う 。 代
+表 的 な 攻 撃 型 の 呪 文 で あ る 。
+Spellbook of force bolt 力 張 魔 導 レ ベ ル ①
+掌 か ら 力 場 を 発 し て 、 ダ メ ー ジ を 与 え る 呪 文 。 与 え る ダ メ ー ジ は 少 な く 、
+敵 に 避 け ら れ る こ と も あ る が 、 消 費 す る 魔 導 力 が 少 な い と い う 利 点 が あ る 。
+
+Spellbook 一 一 魔 導 書
+
+[[./cropped_nethack_uncropped_both_sides_ordered-172.png][next page]]

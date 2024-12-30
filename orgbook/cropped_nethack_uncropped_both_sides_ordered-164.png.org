@@ -1,0 +1,65 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-165.png][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-164.png]]
+探 索 の 指 輪
+
+Ring of searching
+
+隠 き れ た 扉 や 、 罵 の 発 見 を よ り 容 易 に し て く れ る 指 輪 で あ る 。 単 に 歩 い て
+
+ま が で き 窟 浩 う た な る の 療 s
+
+bz
+に ぅ
+
+い る だ け で 、 こ れ ら の も の を 見 つ け る
+
+Ring of see invisible
+
+透 明 看 破 の 指 輪
+
+魔 法 で 透 明 に な っ た 怪 物 や 、 透 明 で あ る こ と を 資 質 と し て 持 っ て い ぃ る 怪 物
+
+き 見 る き き が で き る ま う に な る 。
+
+Ring of shock resistance
+
+雷撃 系 の 魔 法 や 、 與 と し て 仕 掛 け ら れ て い る 電 撃 か ら 身 を 守 る こ と が で き
+
+る よ う に な る 指 輪 で あ る 。
+Ring of stealth
+
+忍 び 足 の 指 輪
+
+こ の 指 輪 の 装 着 者 は 寝 て い ぃ る 怪 物 の い る 部 屋 に 入 っ て も 、 怪 物 が 目 を さ ま
+す よ う な こ と は な い 。 隠 密 行 動 が で き る よ う に な る 指 輪 と ぃ う わ け だ 。
+
+Ring of teleport control
+
+超 越 操 作 の 指 輪
+
+テ レ ポ ー ト す る と き に 、 ど こ ヘ テ レ ポ ー ト す る か を 選 択 で き る よ う に な る
+
+拾 輝 あ る ク ョ 〆 な に す る ミ だ も で き る ま う に な な る DLV,
+
+家 間 超 越 の 指 輪
+
+Ring of teleportation
+
+な ん の 前 触 れ も な く 、 唐 突 に テ レ ポ ー ト す る よ う に な っ て し ま う 。 テ レ ポ
+ー ト コ ン ト ロ ー ル 能 力 を 持 っ て い な い か ぎ り 、 テ レ ポ ー ト 先 は 選 べ な い 。
+
+探 知 の 指 輻
+
+Ring of warning
+
+こ の 指 輪 を は め て い る と 、 近 く た 怪 物 が き た と き に さ ま ざ ま な 色 を 発 し て
+
+噛 告 し て く ぐ れ る よ う に な る s。
+
+燕 窟 で あ な た を 待 ち 受 け る 道 具 た ち
+
+ITEMS
+
+168
+
+[[./cropped_nethack_uncropped_both_sides_ordered-165.png][next page]]

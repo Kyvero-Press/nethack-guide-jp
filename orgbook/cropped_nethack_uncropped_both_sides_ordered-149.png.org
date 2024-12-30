@@ -1,0 +1,37 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-150.png][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-149.png]]
+helm of opposite alignment
+い ヘ ル ム オ フ ・。 オ れ ポ シ ッ ト ア ラ イ ム メ ン ト AC-①
+キ ャ ラ ク タ ー の 属 性 を 劇 的 に 変 化 さ せ て し ま う 兜 。 多 く の 場 合 、 呪 わ れ て
+い ぃ る た め に 解 呪 ま で は 属 性 が 変 わ っ た ま ま に な っ て し ま う 。 兜 を 腕 ぐ こ と さ
+え で き れ ば 、 属 性 は 本 来 の も の へ と 戻 る 。
+helm of telepathy ヘ ル ム オ ブ テ レ パ シ ー AC-①
+こ の 児 を か ぶ ぷ る と 、 テ レ パ シ ー の 資 質 を 得 た こ と に な る 。 目 隠 し を 保 ぅ う
+と 、 こ の 兜 の 威 力 が 理 解 で き る こ と と な る だ ろ う 。
+orcish helm オ ー キ ッ シ ュ ヘ ル ム AC-①
+オ ー ク や ゴ ブ リ ン が 好 ん で 使 用 す る 兜 。 か な り 重 い も の の 、 最 低 限 の 防 御
+力 は 確 保 さ れ て い る 。
+
+SHIELDS 盾
+
+シ ー ル ド は 防 具 と し て は 補 助 的 な 意 味 合 い が 大 き い ん だ よ ね 。① 対 ① の 戦
+い よ り も 、 乱 戦 に お い て の ほ う が 役 に 立 つ し 。 ま ぁ 、 そ れ で も 両 手 用 の 武 器
+を 持 っ て い な い な ら 使 っ た ほ う が い い ん じ ゃ な い か な 。
+
+dwarvish roundshield ド ワ ー ヴ ィ ッ シ ュ _ ラ ウ ン ド シ ー ル ド AC-2
+ド ワ ー フ ら が 好 ん で 使 う 中 型 の 円 形 の 盾 で あ る 。 ご く 普 通 の 盾 と い う こ と
+
+が で き る だ ろ の
+
+elven shield エ ル ブ ン シ ー ル ド  AC-2
+INVTEYDY—VRTHD, そ る こ そ こ に 軽 く 、 そ 輝 き こ の 防 御 力 譲 持 っ
+
+ている。 部 分 的 と は い え を ど も ミ ス リ ル 銀 が 使 わ れ て ぃ る た だ た め だ ろ う 。
+
+large shield ラ ー ジ シ ー ル ド AC-②
+定 謀 の シ ー ル T で も あ る 。 大 き き ミ 、 さ と も に ス モ ー ル シ ョ ー 炎 | 寝 ② 僚 ほ ど あ
+る が 、 防 御 カ も 倍 増 し て ぃ る 。
+
+Armors 一 一 防 具
+
+[[./cropped_nethack_uncropped_both_sides_ordered-150.png][next page]]

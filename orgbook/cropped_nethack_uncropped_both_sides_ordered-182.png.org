@@ -1,0 +1,51 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-183.png][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-182.png]]
+Wand of death 死 の ワ ン ド
+
+死 の 光 線 を 発 す る 。 光 線 の 進 行 方 向 上 に ぃ る 生 物 は 、 す べ て 死 滅 す る 。 し
+か し 、 死 の 光 線 に 耐 性 を 持 つ っ 生 物 に は 一 切 の ダ メ ー ジ を 与 え ら れ な い 。
+
+Wand of digging 掌 則 の ワ ン ド
+ダ ン ジ ョ ン 内 に 穴 を 掘 る こ と が で き る 。 ま だ 、 キ ャ ラ ク タ ー を 包 み 込 ん で
+
+攻 撃 を 行 な う モ ン ス タ ー に 対 し て も 有 効 な 攻 撃 手 段 と し て 使 え る 。
+
+Wand of fire 炎 の ワ ン ド
+こ の 杓 杖 は 先 端 よ り 猛 り 狂 う 炎 の 蛇 を 産 み 出 す 。 多 く の 怪 物 に ダ メ ー ジ を
+
+明 え る に と が か で ミ き る 。
+
+Wand of light 光 の ワ ン ド
+光 球 を 産 み 出 す 杓 杖 で あ る 。 暗 い 部 屋 を 明 る く す る 以 外 に は 、 こ れ と い っ
+て 來 い ぃ 道 は な い 。
+
+Wand of lightning 雷撃 の ワ ン ド
+雷撃 を 発 す る 杓 杖 で あ る 。 電 気 に 対 し て 耐 性 を 持 っ 怪 物 は 比 較 的 少 な い た
+め に 、 は ほ と ん ど の 怪 物 に 対 し て 有 効 な 手 段 と な る で あ ろ う 。
+
+Wand of locking 施 錠 の ワ ン ド
+ド ア や 櫃 、 大 箱 な ど に 対 し て 鍵 を か け る こ と が で き る 。
+Wand of magic missile 魔 弾 の ワ ン ド
+
+魔 法 の 失 を 封 じ 込 め て あ る 杓 杖 で あ る 。 威 力 そ の も の は 大 し た こ と は な い
+が 、 確 実 な ダ メ ー ジ を 与 え る の に 向 い て い る 。
+Wand of make invisible 透 明 化 の ワ ン ド
+こ の 杓 杖 を 怪 物 に 対 し て 振 り か ぎ す と 透 明 に な っ て し ま う 。 つ ま り 、 自 分
+に 対 し て 使 え ば 自 ら を 透 明 に す る こ と が で き る と い う わ け だ 。
+
+Wand of nothing 無 の ワ ン ド
+一 切 の 効 果 を 持 た な い 杓 杖 で あ る 。
+
+Wand of opening 解 鋼 の ワ ン ド
+施 錠 き れ た 扉 や 大 櫃 の 錠 を 開 け る こ と が で き る 。
+
+Wand of polymorph 変 化 の ワ ン ド
+
+へ ん ザ
+弐 ペ タ ー モ ー ベ ク ッ 、 あるいは自分自身を菱イ牡させる。 ま た こ ア コ イ テ ム に
+
+186 ITEMS
+
+魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
+
+[[./cropped_nethack_uncropped_both_sides_ordered-183.png][next page]]

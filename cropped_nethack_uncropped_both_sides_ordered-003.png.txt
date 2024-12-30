@@ -1,0 +1,40 @@
+COPYING POLICIES
+
+1. You may copy and distribute verbatim copies of NetHack source code as
+you receive it, in any medium, provided that you keep intact the notices on all
+files that refer to copyrights, to this License Agreement, and to the absence
+of any warranty; and give any other recipients of the NetHack program a
+copy of this License Agreement along with the program.
+
+2. You may modify your copy or copies of NetHack or any portion of it, and
+copy and distribute such modifications under the terms of Paragraph 1 above
+(including distributing this License Agreement), provided that you also do the
+following:
+
+⑧ cause the modified files to carry prominent notices stating that you
+changed the files and the date of any change; and
+
+b) cause the whole of any work that you distribute or publish, that in whole
+or in part contains or is a derivative of NetHack or any part thereof, to be
+licensed at no charge to all third parties on terms identical to those contained
+in this License Agreement (except that you may choose to grant more
+extensive warranty protection to some or all third parties, at your option)
+
+ら You may charge a distribution fee for the physical act of transferring a
+copy, and you may at your option offer warranty protection in exchange for
+a fee.
+
+3. You may copy and distribute NetHack (or a portion or derivative of it,
+under Paragraph 2) in object code or executable form under the terms of
+Paragraphs 1 and 2 above provided that you also do one of the following:
+
+a) accompany it with the complete machine-readable source code, which
+must be distributed under the terms of Paragraphs 1 and 2 above; or,
+
+b) accompany it with full information as to how to obtain the complete
+machine-readable source code from an appropriate archive site. (This alterna-
+
+tive is allowed only for noncommercial distribution.)
+
+For these purposes, complete source code means either the full source
+

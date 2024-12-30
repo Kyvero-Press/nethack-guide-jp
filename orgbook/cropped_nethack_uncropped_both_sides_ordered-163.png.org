@@ -1,0 +1,37 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-164.png][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-163.png]]
+Ring of levitation 洞 揚 の 指 輪
+こ の 指 輪 を は め る と 浮 揚 で き る よ う に な る 。 ほ と ん ど の 罠 を 避 け る こ と が
+
+で き る が 、 床 に 落 ち て ぃ る ア イ テ ム を 拾 え な く な る と い う 欠 点 が あ る 。
+
+Ring of poison resistance 耐 毒 の 指 輪
+毒 に 対 し て 耐 性 を 持 て る よ う に な る 指 輪 。 腐 っ て し ま っ た も の を 食 べ た と
+き の 病 気 は 防 げ な い も の の 、 コ ボ ル ド の よ う な 毒 を 持 っ た 死 体 を 食 べ で も 、
+ま っ た く の 健 康 体 で ぃ ら れ る わ け で あ る 。
+
+Ring of polymorph 変 化 の 指 輪
+と こ の 指 輪 を 美 着 す る と 、 な ん の 前 触 れ む も な し に 変 身 が 起 こ る 。 ど の よ う な
+
+怪 物 に 変 化 す る か は ラ ン ダ ム で あ る た め に 、 大 き な 危 険 が 伴 う 。
+
+Ring of polymorph control 変 化 操 作 の 指 輪
+変 仁 を 行 な う と き に 、 こ の 指 輪 を 装 着 し て あ れ ば 変 化 を コ ン ト ロ ー ル す る
+さ が で き る レ m ド ラ ゴ ン や ミ ン タ タ ル ス な ど の 強 江 な 感 物 に 変 身 ま る
+の も 悪 く な い だ ろ う 。
+
+Ring of protection 守 り の 指 輪
+防 御 力 を 増 す 効 果 の あ る 指 輪 で あ る 。 最 高 級 の も の で あ れ ば 、 チ ェ イ ン メ
+イ ル と 同 等 の 防 御 力 を 提 供 し て く れ る も の す ら あ る 。
+
+Ring of protection from shape changers 守 護 の 指 輪
+さ き さ ま ざ ま な 憑 依 型 の 生 物 の 攻 撃 に よ っ て 生 じ る 変 化 病 を 防 ぐ 効 果 の あ る と
+い う 指 輪 で あ る 。
+
+Ring of regeneration 再 生 の 指 輪
+① 歩 歩 く た び に 、① の ヒ ッ ト ポ イ ン ト を 回 復 す る と い ぃ う 再 生 の 機 能 を 持 っ
+た 指 輪 で あ る 。 た だ し 、 空 腹 に な る 度 合 も と て つ も な く 増 加 す る 。
+
+Rings 一 一 指 輪
+
+[[./cropped_nethack_uncropped_both_sides_ordered-164.png][next page]]

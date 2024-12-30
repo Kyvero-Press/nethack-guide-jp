@@ -1,0 +1,7 @@
+* intro
+This is a scan and OCR of the japanese nethack guide book
+[[file:cropped_nethack_uncropped_cover.png]]
+
+* download
+- [[file:ocr_nethack_guide.pdf][OCRed PDF]]
+- [[file:orgbook/cropped_nethack_uncropped_both_sides_ordered-001.png.org][read online]]
