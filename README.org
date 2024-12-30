@@ -3,7 +3,7 @@ This is a scan and OCR of the japanese nethack guide book
 [[file:cropped_nethack_uncropped_cover.png]]
 
 * download
-- [[file:orgbook/cropped_nethack_uncropped_both_sides_ordered-001.png.org][read online]]
+- [[file:orgbook/cropped_nethack_uncropped_cover.png.org][read online]]
 - [[https://drive.google.com/file/d/1-eAczSVXnPrMW5MCCRnYmlNN93wTOEBf/view?usp=sharing][uncompressed OCR'ed PDF (google drive link)]] 
 - [[file:ocr_nethack_guide.pdf][uncompressed OCR'ed PDF (github link)]]
 - [[https://drive.google.com/file/d/1JYKaW0vbtiBVhV253mfTABP37RUmbaSY/view?usp=sharing][compressed OCR'ed PDF (google drive link)]]

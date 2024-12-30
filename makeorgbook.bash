@@ -20,6 +20,16 @@ makepage
 filename="cropped_nethack_uncropped_openpages_1_2_3-2.png"
 PAGE_NUM=0
 TEXT=$(cat "$filename.txt")
+NEXT_FILE="cropped_nethack_uncropped_tocpage-1.png"
+makepage
+filename="cropped_nethack_uncropped_tocpage-1.png"
+PAGE_NUM=0
+TEXT=$(cat "$filename.txt")
+NEXT_FILE="cropped_nethack_uncropped_tocpage-2.png"
+makepage
+filename="cropped_nethack_uncropped_tocpage-2.png"
+PAGE_NUM=0
+TEXT=$(cat "$filename.txt")
 NEXT_FILE="cropped_nethack_uncropped_both_sides_ordered-001.png"
 makepage
 
