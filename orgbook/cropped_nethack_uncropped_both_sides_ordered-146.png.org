@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-147.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-147.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-146.png]]
 ど に は 鎖 常 子 を つ け て 自 由 度 を 確 保 し て い ぃ る 。 通 常 の 材 質 で は 最 強 の 鐙 だ と
 言 う こ と が で き る だ ろ う 。 た だ し 、 そ れ だ け に 重 量 も か さ む し 、 か な り 高 価
@@ -31,4 +31,4 @@ cloak of magic resistance _ ク ロ ー ク オ ブ マ ジ ッ ク レ ジ ス 
 
 150 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-147.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-147.png.org][next page]]

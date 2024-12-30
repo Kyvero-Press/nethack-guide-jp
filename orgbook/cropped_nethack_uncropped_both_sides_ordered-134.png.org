@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-135.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-135.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-134.png]]
 D) e
 
@@ -34,4 +34,4 @@ R
 
 ル &
 
-[[./cropped_nethack_uncropped_both_sides_ordered-135.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-135.png.org][next page]]

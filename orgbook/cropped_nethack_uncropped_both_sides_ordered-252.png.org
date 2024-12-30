@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-253.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-253.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-252.png]]
 ` 自 分 の 属 す る 神 の 祭 壇 に 供 物 を 捧 げ る こ と だ 。 倒 し た 怪 物 ど も の 死 体 を 捧
 げ っ つ づ け る ん だ 。 供 物 が で て か け れ ば で か い だ け 、 強 力 で あ れ ば あ る だ け 見 返
@@ -54,4 +54,4 @@ INFORMATIONS 一 一 窺 窟 を 踏 破 す る た め に
 
 256
 
-[[./cropped_nethack_uncropped_both_sides_ordered-253.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-253.png.org][next page]]

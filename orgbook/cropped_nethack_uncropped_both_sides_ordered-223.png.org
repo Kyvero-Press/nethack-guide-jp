@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-224.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-224.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-223.png]]
 S
 
@@ -55,4 +55,4 @@ warg, wolf, ~were, winter 一 , hell hound, pup
 
 液 状 生 物 . コ カ ト リ ス . 大 ・ 犬 型 魔 物 ` 297
 
-[[./cropped_nethack_uncropped_both_sides_ordered-224.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-224.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-100.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-100.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-099.png]]
 で ② き る 。
 キャラク夕_の腹具合(?〉は画面右下のステ_夕 ス 行 に 示 さ れ る 。 空 腹 に
@@ -40,4 +40,4 @@
 
 Y
 
-[[./cropped_nethack_uncropped_both_sides_ordered-100.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-100.png.org][next page]]

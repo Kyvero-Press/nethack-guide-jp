@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-40.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-040.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-039.png]]
 魔 窟 を 歩 く た め に …...
 
@@ -44,4 +44,4 @@ Y
 
 &
 
-[[./cropped_nethack_uncropped_both_sides_ordered-40.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-040.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-142.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-142.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-141.png]]
 amulet of restful sleep 安 眠 の 魔 除 け
 こ の ア ミ ミ ッ ツ ド は 表 着 ? で ⑧⑥ 凌 か な 効 果 が 現 れ ま う だ は じ な い や が
@@ -33,4 +33,4 @@ Amulet of Yendor イ ェ ン ダ ー の 魔 除 け
 
 Armors 一 一 防 具
 
-[[./cropped_nethack_uncropped_both_sides_ordered-142.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-142.png.org][next page]]

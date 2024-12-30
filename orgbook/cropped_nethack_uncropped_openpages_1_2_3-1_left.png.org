@@ -1,4 +1,4 @@
-[[][previous page]]
+[[.org][previous page]]
 [[../cropped_nethack_uncropped_openpages_1_2_3-1_left.png]]
 aocceeo c。 n oooec Sssoa S
 RN e o & % i
@@ -156,4 +156,4 @@ G リ ー ッ ② で そ れ で ④ れ 0 の 倫 睡
 ・ 本 書 で 取 り 上 げ 付 録 デ
 
 れ る キ ュ ス メ ン ト ⑧ で 参 照 く
-[[cropped_nethack_uncropped_openpages_1_2_3-1_right.png][next page]]
+[[cropped_nethack_uncropped_openpages_1_2_3-1_right.png.org][next page]]

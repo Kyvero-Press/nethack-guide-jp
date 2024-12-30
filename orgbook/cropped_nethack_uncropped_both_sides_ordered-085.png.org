@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-86.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-086.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-085.png]]
 に 違 っ T,
 
@@ -42,4 +42,4 @@ FE う い う と 0
 
 防 具 を 外 す 、 指 輪 を 外 す
 
-[[./cropped_nethack_uncropped_both_sides_ordered-86.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-086.png.org][next page]]

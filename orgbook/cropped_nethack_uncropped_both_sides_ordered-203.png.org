@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-204.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-204.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-203.png]]
 リ は 明 ら か に 傷 の 治 癒 が 他 の コ ウ モ リ に 比 べ て 速 い た め に 出 た 噂 で あ ろ う 。
 
@@ -43,4 +43,4 @@ D ゥ ラ ュ ン unknown? ( 知 ら れ ざ る 存 在 )
 
 梨 E 綱 の ク ウ ロ ス . W ヲ ョ 巡 207
 
-[[./cropped_nethack_uncropped_both_sides_ordered-204.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-204.png.org][next page]]

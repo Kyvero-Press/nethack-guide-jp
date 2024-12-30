@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-169.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-169.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-168.png]]
 Scroll of punishment 懲 罰 の ス ク ロ ー ル
 こ の ス ク ロ ー ル に は 神 々 の 繰 り 言 が 書 か れ て い ぃ い る 。 よ っ て 、 こ の ス ク ロ ー
@@ -22,4 +22,4 @@ Scroll of teleportation 超 越 の ス ク ロ ー ル
 
 172 ITEMS— R ThHul- 556572885
 
-[[./cropped_nethack_uncropped_both_sides_ordered-169.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-169.png.org][next page]]

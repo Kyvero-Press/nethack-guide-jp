@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-12.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-012.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-011.png]]
 ユ ピ ー を 選 ほ う 。 コ ピ ー が 終 っ た ら 、 そ の ま ま ⑨⑧ ノ ー ト メ ニ ュ ー で ` モ
 ー ド 設 定 】 を 選 び 、『 シ ス テ ム 起 動 装 置 の 指 定 ① % ` 標 準 』 に 、` シ ス テ ム
@@ -37,4 +37,4 @@ A
 Instalーー イ ン ス ト ー ル
 
 閻 詣
-[[./cropped_nethack_uncropped_both_sides_ordered-12.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-012.png.org][next page]]

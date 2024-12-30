@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-36.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-036.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-035.png]]
 さ て 、 ゲ ー ム を 起 動 き さ せ る と 、 画面下方の2行にはス ト レ ン グ ス を は じ め
 と し た 能 力 以 外 の パ ラ メ ー タ も 、 い く つ か 表 示 さ れ ん て ぃ い る こ と に 気 が つ く だ
@@ -50,4 +50,4 @@ Be Invoked ネ ッ ト ハ ッ ク 始 動
 
 B N
 
-[[./cropped_nethack_uncropped_both_sides_ordered-36.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-036.png.org][next page]]

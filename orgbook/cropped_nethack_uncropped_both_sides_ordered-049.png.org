@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-50.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-050.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-049.png]]
 た め だ 。 か ろ う じ て 淑 遊 の 薬 だ け は 確 認 し て ぃ た が 、 あ と は 正 体 不 明 の ま
 ま 。 赤 、 青 、 緑 と 瓶 の 液 体 は い ず れ も 鮮 や か で あ っ た が 、 色 と 効 果 は 決 し て
@@ -49,4 +49,4 @@ book), #5# (ring) % (potion)、 杖 (wand)、 道 具 (tool). EF (jewel)
 Vo
 
 閻 詣 、 M
-[[./cropped_nethack_uncropped_both_sides_ordered-50.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-050.png.org][next page]]

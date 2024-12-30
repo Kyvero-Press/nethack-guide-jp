@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-231.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-231.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-230.png]]
 や 槍 で つ き か か る と 、 彼 ら は 身 体 の 一 部 を ナ イ フ の よ う に 飛 ば す 。 飛 ば さ れ た 身
 体 に は 酸 や 冷 気 が 含 ま れ て お り 、 胃 険 者 の 身 体 を 貫 け ば 少 な か ら ぬ 傷 を 与 え る 。
@@ -39,4 +39,4 @@ k コ ポ ル ト kobold, large~, ~lord, ~shaman
 
 234 MONSTERS 一 一 魔 窟 を さ ま よ う 怪 物 ら
 
-[[./cropped_nethack_uncropped_both_sides_ordered-231.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-231.png.org][next page]]

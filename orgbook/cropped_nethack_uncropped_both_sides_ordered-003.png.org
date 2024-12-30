@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-4.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-004.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-003.png]]
 COPYING POLICIES
 
@@ -40,4 +40,4 @@ tive is allowed only for noncommercial distribution.)
 
 For these purposes, complete source code means either the full source
 
-[[./cropped_nethack_uncropped_both_sides_ordered-4.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-004.png.org][next page]]

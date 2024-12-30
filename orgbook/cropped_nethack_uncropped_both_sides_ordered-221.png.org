@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-222.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-222.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-221.png]]
 イ エ テ ィ は 本 来 、 人 跡 未 踏 の 高 峰 に 居 住 す る 魔 物 で あ る が 、 イ ョ シ ク —DRD
 に 応 じ て 一 部 が 魔 窟 を う ろ つ き ま わ っ て い る 。 耐 寒 性 に す ぐ れ て お り 、 冷 却 系 の
@@ -47,4 +47,4 @@ a 駐 地 giant beetle, killer bee, queen bee
 
 ゾ ン ビ . 昆 虫
 
-[[./cropped_nethack_uncropped_both_sides_ordered-222.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-222.png.org][next page]]

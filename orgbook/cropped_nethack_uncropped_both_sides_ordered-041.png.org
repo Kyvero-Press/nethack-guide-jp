@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-42.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-042.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-041.png]]
 ナ ス ル ー ラ は 剣 を ふ り あ げ る 。
 
@@ -48,4 +48,4 @@ P
 ダ ー
 
 閻 詣 M
-[[./cropped_nethack_uncropped_both_sides_ordered-42.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-042.png.org][next page]]

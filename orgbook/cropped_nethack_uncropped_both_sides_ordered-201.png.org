@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-202.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-202.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-201.png]]
 魔 窟 を き ま よ う 怪 物 ら
 
@@ -28,4 +28,4 @@ BDIE,
 Monsters 序文
 
 閻
-[[./cropped_nethack_uncropped_both_sides_ordered-202.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-202.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-170.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-170.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-169.png]]
 R R A A 8 B o B DR D DA DR B D B 2t ②
 
@@ -38,4 +38,4 @@ Spellbook of cone of cold 冷 凍 光 線 魔 導 レ ベ ル ⑤
 
 Spellbook 一 一 一 魔 導 書 173
 
-[[./cropped_nethack_uncropped_both_sides_ordered-170.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-170.png.org][next page]]

@@ -1,4 +1,4 @@
-[[][previous page]]
+[[.org][previous page]]
 [[../cropped_nethack_uncropped_openpages_1_2_3-2.png]]
 2 o e
 <L い L IS
@@ -42,4 +42,4 @@ S AR O Q
 
 0 e パ o
 
-[[cropped_nethack_uncropped_both_sides_ordered-001.png][next page]]
+[[cropped_nethack_uncropped_both_sides_ordered-001.png.org][next page]]

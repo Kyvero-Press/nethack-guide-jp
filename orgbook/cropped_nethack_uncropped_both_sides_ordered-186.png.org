@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-187.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-187.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-186.png]]
 BROADSWORD
 
@@ -14,4 +14,4 @@ ITEMS
 
 190
 
-[[./cropped_nethack_uncropped_both_sides_ordered-187.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-187.png.org][next page]]

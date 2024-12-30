@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-209.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-209.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-208.png]]
 い
 
@@ -14,4 +14,4 @@ S
 三
 &
 
-[[./cropped_nethack_uncropped_both_sides_ordered-209.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-209.png.org][next page]]

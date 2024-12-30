@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-165.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-165.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-164.png]]
 探 索 の 指 輪
 
@@ -62,4 +62,4 @@ ITEMS
 
 168
 
-[[./cropped_nethack_uncropped_both_sides_ordered-165.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-165.png.org][next page]]

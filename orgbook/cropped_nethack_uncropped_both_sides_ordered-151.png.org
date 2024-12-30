@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-152.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-152.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-151.png]]
 BOOTS ブ ー ッ
 
@@ -42,4 +42,4 @@ Armors 一 一 防 具
 
 閻 !
 
-[[./cropped_nethack_uncropped_both_sides_ordered-152.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-152.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-190.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-190.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-189.png]]
 mace メ イ ス
 鉄 製 の 棍 棒 。 打 撃 部 分 は こ ぷ ぶ 状 に な っ て お り 、 こ の 部 分 に ス パ イ ク な ど を
@@ -16,4 +16,4 @@ quarterstaff ク ォ ー タ ー ス タ ッ フ
 
 MORNING STAR
 
-[[./cropped_nethack_uncropped_both_sides_ordered-190.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-190.png.org][next page]]

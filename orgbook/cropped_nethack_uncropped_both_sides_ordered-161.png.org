@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-162.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-162.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-161.png]]
 Potion of speed 速 度 増 加 菓
 こ の 薬 を 飲 ん だ 者 の 動 き を 倍 の 速 さ に す る 。 当 然 、 移 動 距 離 、 攻 撃 回 数 な
@@ -34,4 +34,4 @@ Rings 指 輻
 
 Rings 一 一 指 輪
 
-[[./cropped_nethack_uncropped_both_sides_ordered-162.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-162.png.org][next page]]

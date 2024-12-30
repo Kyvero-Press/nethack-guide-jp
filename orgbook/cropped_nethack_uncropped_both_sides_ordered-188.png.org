@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-189.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-189.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-188.png]]
 CRYSKNIFE
 
@@ -24,4 +24,4 @@ flail フ レ イ ル
 
 192 ITEMS 一 一 一 窺 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-189.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-189.png.org][next page]]

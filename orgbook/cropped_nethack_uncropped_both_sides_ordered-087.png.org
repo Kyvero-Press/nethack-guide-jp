@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-88.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-088.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-087.png]]
 捨 て た く な か っ た 。 そ の ま ま 地 上 に 帰 る ま で 持 っ て い き た か っ た 。
 し か し 、 魔 窟 も ②④ 階 に 達 し て ぃ い る 。 メ デ ュ ー サ は 倒 し た も の の 、 今 後 も
@@ -42,4 +42,4 @@ A コ マ ン ド は 防 具 を す べ て 外 す と き に 使 用 す �
 
 多
 
-[[./cropped_nethack_uncropped_both_sides_ordered-88.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-088.png.org][next page]]

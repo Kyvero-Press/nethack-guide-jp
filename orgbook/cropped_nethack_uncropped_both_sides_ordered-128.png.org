@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-129.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-129.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-128.png]]
 あ や ま る ク ラ イ ン に マ イ ク が 恨 み っ た ら し い 鳴 き 声 を か え す 。
 
@@ -50,4 +50,4 @@ a ま り < る a み の 姿 か み で = 思 わ d ル レ ん ラ イ シ �
 
 132 COMMANDS——ERE % 25 { 1281+
 
-[[./cropped_nethack_uncropped_both_sides_ordered-129.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-129.png.org][next page]]

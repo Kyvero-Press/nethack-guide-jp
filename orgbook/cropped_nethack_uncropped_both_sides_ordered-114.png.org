@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-115.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-115.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-114.png]]
 (3. T4 7 DOBENES T2,
 
@@ -42,4 +42,4 @@ k2T SWSV ん と す べ で の モ ン ヘ タ ト さ の 攻 奢 ま じ る
 
 118 COMMANDS—ERE % 3 { FobIT -+
 
-[[./cropped_nethack_uncropped_both_sides_ordered-115.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-115.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-113.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-113.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-112.png]]
 菫 E Engrave 書 く
 と ネ ク テ ケ テ ク ケ テ ケ キ ク テ ケケ テ ク テ ケ ネ ケ キ ク テ ケ ト ク テ ケ ト ク テ タ テ テ テ タ テ タ な タ テ タ な タ テ テ テ タ デ タ テ タ デ タ デ ケ
@@ -45,4 +45,4 @@ I な で れ 0
 
 116 COMMANDS 一 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-113.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-113.png.org][next page]]

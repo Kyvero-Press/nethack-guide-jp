@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-235.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-235.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-234.png]]
 も p も t s 扶 閤 に も u ら e ke み 、 ら は に - ッ ト ゲ シ ン ド テ ッ ① ト の 戦 法 を た - る か 飛
 び 道 具 た よ る 攻 撃 が 有 効 だ ろ う 。
@@ -46,4 +46,4 @@ R ⑨ パ れ 0 い ② 人 で て あ れ は ば 羊 目 と た た す ず 
 
 238 MONSTERS 一 一 魔 窟 を さ ま よ う 怪 物 ら
 
-[[./cropped_nethack_uncropped_both_sides_ordered-235.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-235.png.org][next page]]

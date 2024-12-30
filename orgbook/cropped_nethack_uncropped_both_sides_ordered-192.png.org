@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-193.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-193.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-192.png]]
 TRIDENT
 
@@ -20,4 +20,4 @@ bow 口
 
 こ ヘ ー
 
-[[./cropped_nethack_uncropped_both_sides_ordered-193.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-193.png.org][next page]]

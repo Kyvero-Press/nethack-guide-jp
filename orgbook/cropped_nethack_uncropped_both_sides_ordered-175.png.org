@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-176.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-176.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-175.png]]
 ーーscmmー ペ シ v
 
@@ -38,4 +38,4 @@ e, : 場 倉 に よ っ て は い く っ か の 測 と し 穴 (pit) を �
 
 Tools 一 一 道 具
 
-[[./cropped_nethack_uncropped_both_sides_ordered-176.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-176.png.org][next page]]

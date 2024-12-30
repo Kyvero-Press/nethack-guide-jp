@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-38.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-038.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-037.png]]
 そ し て 、 画 面 中 央 の 魔 窟 内 に は キ ャ ラ ク タ ー が 歩 き 回 っ て 見 つ け た も の が
 
@@ -57,4 +57,4 @@ Be Invoked
 
 ネ ッ ト ハ バ ッ ク 始 動
 
-[[./cropped_nethack_uncropped_both_sides_ordered-38.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-038.png.org][next page]]

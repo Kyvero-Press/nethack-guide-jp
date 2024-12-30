@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-154.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-154.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-153.png]]
 water walking boots ウ ォ ー タ ー ウ ォ ー キ ン グ ブ ー ツ AC-1
 
@@ -25,4 +25,4 @@ gauntlets of power ガ ン ト レ ッ ト オ ブ パ ワ ー AC-1
 leather gloves レ ザ ー グ ロ ー ブ AC-①
 革 製 の グ ダ ロ ー ブ 。 普 通 の グ ロ ー プ ブ で あ っ て 、 で そ れ 以 の も の で は な い に 。
 
-[[./cropped_nethack_uncropped_both_sides_ordered-154.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-154.png.org][next page]]

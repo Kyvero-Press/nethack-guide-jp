@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-107.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-107.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-106.png]]
 そ の 部 屋 の 扉 を 開 け よ う と し た テ ィ ケ は 妙 な 感 覚 に と ま ど ぃ 、 ノ ブ に 伸 ば
 し た 手 を 思 わ ず 引 き 戻 し た 。
@@ -41,4 +41,4 @@ Do
 
 110 COMMANDS—ERE A4 < 28Iz -
 
-[[./cropped_nethack_uncropped_both_sides_ordered-107.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-107.png.org][next page]]

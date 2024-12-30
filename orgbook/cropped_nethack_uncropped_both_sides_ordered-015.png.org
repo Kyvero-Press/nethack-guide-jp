@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-16.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-016.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-015.png]]
 - の マ ー
 
@@ -46,4 +46,4 @@ BIOS] と 、 ① 行 目 の `number pad 」 の 文 字 を 削 除 す る �
 
 More |nfo.—é§%‘t LT
 
-[[./cropped_nethack_uncropped_both_sides_ordered-16.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-016.png.org][next page]]

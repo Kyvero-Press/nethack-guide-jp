@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-77.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-077.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-076.png]]
 ん で み て 効 果 が 判 明 し た ポ ー シ ョ ン は 、 ギ コ マ ン ド で 表 示 さ れ る 識 別 リ ス ト
 に 加 え ら れ 、 以 後 同 色 の ポ ー シ ョ ン を 発 見 し た 場 合 は 自 動 的 に 名 前 が 表 示 さ
@@ -39,4 +39,4 @@ Up, Down 階 殿 の 昇 降 薨
 
 80 COMMANDS 一 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-77.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-077.png.org][next page]]

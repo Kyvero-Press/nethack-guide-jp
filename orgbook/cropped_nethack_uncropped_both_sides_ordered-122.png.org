@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-123.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-123.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-122.png]]
 一 瞬 、 驚 き こ そ し た も の の 、 ヨ シ ッ ツ ネ も 叩 き 上 げ の 戦 士 で あ る 。 次 の 瞬 間
 
@@ -57,4 +57,4 @@ COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
 126
 
-[[./cropped_nethack_uncropped_both_sides_ordered-123.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-123.png.org][next page]]

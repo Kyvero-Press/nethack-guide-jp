@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-23.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-023.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-022.png]]
 し か し 、 と こ れ ら の パ ラ メ ー タ や 属 性 以 上 に 、 キ ャ ラ ク タ ー の 特 性 を 雄 弁 に
 物 語 る も の が 存 在 す る 。 そ れ が ク ラ ス ( 職 業 ) で あ る 。
@@ -38,4 +38,4 @@ T34, ChFMCEELERCES 2V THERE LS 2 ERERLTL
 26 CHARACTERS—BRIT# ) T H TR &
 
 T e
-[[./cropped_nethack_uncropped_both_sides_ordered-23.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-023.png.org][next page]]

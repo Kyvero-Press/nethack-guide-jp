@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-108.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-108.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-107.png]]
 あ だ 警 沼 た ゃ を 助 け で |
 
@@ -80,4 +80,4 @@ SN
 
 - g
 
-[[./cropped_nethack_uncropped_both_sides_ordered-108.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-108.png.org][next page]]

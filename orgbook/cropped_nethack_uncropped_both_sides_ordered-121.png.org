@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-122.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-122.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-121.png]]
 ア イ テ ム を 泉 に 浸 す 場 合 に は い ろ い ろ な 効 果 が あ ら わ れ る 。 怪 物 が 出 現 す
 る 場 合 も あ れ ば 呪 い や 祝 福 を 受 け る 場 合 が あ り 、 実 に さ ま ざ ま だ 。 プ レ イ ヤ
@@ -39,4 +39,4 @@ o 気分蓋ぃなぁ」
 =
 Z
 
-[[./cropped_nethack_uncropped_both_sides_ordered-122.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-122.png.org][next page]]

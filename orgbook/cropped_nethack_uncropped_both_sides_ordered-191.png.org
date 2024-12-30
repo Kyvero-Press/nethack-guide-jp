@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-192.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-192.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-191.png]]
 S
 
@@ -36,4 +36,4 @@ trident ュ ス イ ゲ ン ョ
 
 Weapons 一 一 武 器
 
-[[./cropped_nethack_uncropped_both_sides_ordered-192.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-192.png.org][next page]]

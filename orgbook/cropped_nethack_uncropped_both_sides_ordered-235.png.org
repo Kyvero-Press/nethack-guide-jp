@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-236.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-236.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-235.png]]
 を し た 岩 の よ う に み え る 。 固 い 岩 盤 さ え も 貫 く 岩 モ グ ダ グ ラ た ち の 動 き を さ え ぎ れ る
 物 体 は ほ と ん ど な く 、 待 ら は 魔 窟 を 縦 横 無 尽 に 動 き 回 る こ と が で き る の だ 。
@@ -44,4 +44,4 @@ I (scorpion) の 尻 尾 の 中 に は 、 よ く 知 ら れ て い る よ
 ミ ( 詞 D
 巨 獣 . ネ ズ ミ 、 岩 モ グ ラ , 蜘 峠 、 蟻 . 潜 む 者 ②②⑨ 匝邑晨酷
 
-[[./cropped_nethack_uncropped_both_sides_ordered-236.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-236.png.org][next page]]

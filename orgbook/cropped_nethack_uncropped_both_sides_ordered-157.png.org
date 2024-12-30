@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-158.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-158.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-157.png]]
 orange
 
@@ -44,4 +44,4 @@ otions 水 薙
 
 Potions 一 一 水 薬 161
 
-[[./cropped_nethack_uncropped_both_sides_ordered-158.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-158.png.org][next page]]

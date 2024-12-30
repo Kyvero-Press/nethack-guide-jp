@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-17.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-017.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-016.png]]
 リ と 食 い 違 っ て い る と ネ ッ ト ハ ッ ク は 起 動 し な い 。
 
@@ -40,4 +40,4 @@ n を 入 力 す れ ば 復 活 す る こ と が で き る 。
 
 20 DISK 一 一 添 付 デ ィ ス ク の 使 用 方 法
 
-[[./cropped_nethack_uncropped_both_sides_ordered-17.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-017.png.org][next page]]

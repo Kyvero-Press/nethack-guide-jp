@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-237.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-237.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-236.png]]
 Scorpion
 
@@ -6,4 +6,4 @@ baluchitherium
 
 unicorn
 
-[[./cropped_nethack_uncropped_both_sides_ordered-237.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-237.png.org][next page]]

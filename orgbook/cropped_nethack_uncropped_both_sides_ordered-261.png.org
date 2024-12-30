@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-262.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-262.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-261.png]]
 e
 
@@ -51,4 +51,4 @@ e
 
 行 動 す る コ マ ン ド
 
-[[./cropped_nethack_uncropped_both_sides_ordered-262.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-262.png.org][next page]]

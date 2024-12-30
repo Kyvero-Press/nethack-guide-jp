@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-180.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-180.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-179.png]]
 magic harp マ ジ ッ ク ハ ー プ
 奏 者 の 腕 前 に 拘 ら お 、 マ ジ ッ ク ハ ー プ を 奏 で る と 、 ほ と ん ど の 怪 物 は ハ ー
@@ -24,4 +24,4 @@ mirror ミ ラ ー
 
 \ MAGIC MARKER
 
-[[./cropped_nethack_uncropped_both_sides_ordered-180.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-180.png.org][next page]]

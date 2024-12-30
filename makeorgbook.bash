@@ -1,5 +1,5 @@
 makepage () {
-    cat <( [[ "cropped_nethack_uncropped_cover.png" == "$filename" ]] && echo "" || echo "[[$PREV_FILE][previous page]]") <(echo "[[../$filename]]" ) "$filename.txt" <( [[ $PAGE_NUM -gt "267" ]] && echo "" || echo "[[$NEXT_FILE][next page]]" ) > orgbook/$filename.org
+    cat <( [[ "cropped_nethack_uncropped_cover.png" == "$filename" ]] && echo "" || echo "[[$PREV_FILE.org][previous page]]") <(echo "[[../$filename]]" ) "$filename.txt" <( [[ $PAGE_NUM -gt "267" ]] && echo "" || echo "[[$NEXT_FILE.org][next page]]" ) > orgbook/$filename.org
 }
 
 filename="cropped_nethack_uncropped_cover.png"
@@ -26,8 +26,8 @@ makepage
 for filename in ./cropped_nethack_uncropped_both_sides_ordered*.png; do
     PAGE_NUM=$( grep -o '[0-9]\+' <(echo $filename) )
     TEXT=$(cat "$filename.txt")
-    NEXT_PAGE_NUM=$(expr $PAGE_NUM + 1)
-    PREV_PAGE_NUM=$(expr $PAGE_NUM - 1)
+    NEXT_PAGE_NUM=$( printf "%03d" $(expr $PAGE_NUM + 1) )
+    PREV_PAGE_NUM=$( printf "%03d" $(expr $PAGE_NUM - 1) )
     if [[ $PAGE_NUM -eq "001" ]]; then
         PREV_FILE='cropped_nethack_uncropped_tocpage-2.png'
     else

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-184.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-184.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-183.png]]
 対 し て 振 り か ぎ せ ば 、 任 意 の ア イ テ ム を 別 の も の に 変 換 で き る 。
 
@@ -32,4 +32,4 @@ Wands 一 一 杓 杖
 
 閻 哉 `
 
-[[./cropped_nethack_uncropped_both_sides_ordered-184.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-184.png.org][next page]]

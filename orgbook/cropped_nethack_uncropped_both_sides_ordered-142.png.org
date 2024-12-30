@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-143.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-143.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-142.png]]
 ほ ら 、 こ こ に カ タ ロ グ が あ る か ら 、 う ち の 品 と 見 比 べ て お く れ よ 。 予 算 と
 要 求 の 間 で 折 り 合 い を つ け て く れ れ ば 、 最 高 の 品 が 見 つ か る は ず さ 。
@@ -39,4 +39,4 @@ chain mail チ ェ イ ン メ イ ル AC-5
 
 A Ma
 
-[[./cropped_nethack_uncropped_both_sides_ordered-143.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-143.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-155.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-155.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-154.png]]
 OTHERS そ の 他 の 防 具
 
@@ -35,4 +35,4 @@ banana
 
 158 ITEMS 一 一 實 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-155.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-155.png.org][next page]]

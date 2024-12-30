@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-22.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-022.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-021.png]]
 森 00 体 の ッ バ ペ ッ ント f は 途 0 、 ぶ で 3~18 の 範 囲 で 表 さ れ る 。 た だ
 レ し 、 ス ト レ ン ク グ ス に 限 言 綱 ②0 は 18 を 超 え る こ と も あ り 、 そ う い っ た 場 合 に は
@@ -36,4 +36,4 @@ Chaotic 反 祥 伊 』 マ イ ベ ー ス タ イ ヲ
 Parameter 一 一 能 力 値
 
 B ー
-[[./cropped_nethack_uncropped_both_sides_ordered-22.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-022.png.org][next page]]

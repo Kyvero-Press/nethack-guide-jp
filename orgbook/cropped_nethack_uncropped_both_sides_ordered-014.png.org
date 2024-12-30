@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-15.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-015.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-014.png]]
 ・・・・・・ と 入 力 す る と 、`Welcome to NetHack」 と ぃ う メ ッ セ ー ジ と と も に メ
 ニ ュ ー 画 面 が 表 示 さ れ る 。 プ レ イ ヤ ャ ー や ペ ッ ト の 名 前 な ど を 入 力 し 、 職 業 を
@@ -38,4 +38,4 @@ us ク ③
 
 で iNuk に c
 
-[[./cropped_nethack_uncropped_both_sides_ordered-15.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-015.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-145.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-145.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-144.png]]
 orcish chain mail オ ー キ ッ シ ュ チ ェ イ ン メ イ ル AC-⑤
 オ ォ オ ー ク の 戦 士 ら が 好 ん で 使 う チ ェ イ ン メ イ ル で あ る 。 戦 士 が 使 う だ け あ っ
@@ -33,4 +33,4 @@ plate mail プ レ ー ト メ イ ル AC-7
 
 148 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-145.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-145.png.org][next page]]

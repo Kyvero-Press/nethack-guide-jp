@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-111.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-111.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-110.png]]
 え ら れ た 。 眠 り な が ら ゴ ブ リ ン や オ ー ク に 肉 を む さ ほ ぼ り 喰 わ れ る 可 能 性 す ら
 あ り M の だ
@@ -30,4 +30,4 @@ M
 &\
 
 NS B ト vl NLX ん SRMMN
-[[./cropped_nethack_uncropped_both_sides_ordered-111.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-111.png.org][next page]]

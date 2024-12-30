@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-175.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-175.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-174.png]]
 Spellbook of sleep 誘 眠 魔 導 レ ベ ル ①
 こ の 呪 文 は 詠 唱 者 の 指 先 か ら 誘 眠 光 線 を 発 す る 。 こ の 呪 文 が 効 き さ え す れ
@@ -40,4 +40,4 @@ BRI RN RN R RS RN
 
 ODNLEE e a u ク つ ANA
 
-[[./cropped_nethack_uncropped_both_sides_ordered-175.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-175.png.org][next page]]

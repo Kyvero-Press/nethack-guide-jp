@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-240.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-240.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-239.png]]
 e
 
@@ -49,4 +49,4 @@ y イ エ ロ ー・ ラ イ ト yellow light
 
 /o S = ョ ー ヲ イ |
 
-[[./cropped_nethack_uncropped_both_sides_ordered-240.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-240.png.org][next page]]

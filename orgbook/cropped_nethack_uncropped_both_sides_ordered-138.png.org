@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-139.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-139.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-138.png]]
 ` ア ル ベ ナ …... 眉 は そ う 呼 ん で ぃ る 」
 ク ラ イ ン と ア ル ベ ナ は 目 の 前 あ た り に 酒 を か か げ る と 、 ② 人 同 時 に 飲 み 十
@@ -23,4 +23,4 @@
 
 142 COMMANDS 一 一 魔 窟 を 歩 く た め に …..
 
-[[./cropped_nethack_uncropped_both_sides_ordered-139.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-139.png.org][next page]]

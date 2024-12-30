@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-218.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-218.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-217.png]]
 な い か ぎ り 、 何 度 で も 立 ち 上 が っ て 攻 撃 し て く る 。 レ ベ ル が 一 定 の 水 準 に 達 し て
 お り 、 武 器 も 防 具 も 十 分 に 持 っ て い ぃ れ ば 安 心 だ が 、 ま だ 経 験 の 浅 い 冒 険 者 に は 危
@@ -42,4 +42,4 @@ Y ウ ァ ン バ パ イ ィ テ ア vampire, ~lord, Vlad the Impaler
 
 PRV PR ウ ァ ン ジ バ み 221 0,( ー
 
-[[./cropped_nethack_uncropped_both_sides_ordered-218.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-218.png.org][next page]]

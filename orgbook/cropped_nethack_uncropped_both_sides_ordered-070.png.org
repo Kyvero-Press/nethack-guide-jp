@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-71.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-071.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-070.png]]
 場 所 に よ っ て は 扉 や 通 路 が 巧 妙 に 障 さ れ て い る こ と が あ る 。 あ き ら め ず
 に 、 何 度 で も 根 気 よ く 捜 し て み て ほ し い 。 思 わ ぬ 幸 運 が 待 っ て い る か も し れ
@@ -43,4 +43,4 @@ AL
 
 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-71.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-071.png.org][next page]]

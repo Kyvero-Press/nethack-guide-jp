@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-151.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-151.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-150.png]]
 orcish shield オ ー キ ギ ッ ジ ン き ジ ー ル ト ド AC-1
 オ ー ク の 雑 兵 ら が 持 つ 粗 悪 な シ ー ル ド で あ る 。 粗 悪 な だ け で な く 、 重 量 も
@@ -28,4 +28,4 @@ SHIELD OF REFLECTION
 
 154 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-151.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-151.png.org][next page]]

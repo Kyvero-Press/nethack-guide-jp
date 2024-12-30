@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-128.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-128.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-127.png]]
 ー ー ペ ー ベ ーーー
 
@@ -45,4 +45,4 @@ dump ジ ャ ン プ
 
 ` 悪 い 悪 い 」
 
-[[./cropped_nethack_uncropped_both_sides_ordered-128.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-128.png.org][next page]]

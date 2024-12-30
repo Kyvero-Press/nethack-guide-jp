@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-146.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-146.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-145.png]]
 PLATE MAIL
 
@@ -14,4 +14,4 @@ BANDED MAIL
 
 Armors
 
-[[./cropped_nethack_uncropped_both_sides_ordered-146.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-146.png.org][next page]]

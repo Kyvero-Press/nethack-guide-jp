@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-238.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-238.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-237.png]]
 同 じ よ う に ト ラ ッ パ ー (trapper) と 呼 ば れ る 怪 物 も 、 敵 を 丸 呑 み に し て 消 化
 し よ う と す る 怪 物 で あ る 。 だ が ト ラ ッ パ ー の 場 合 、 本 体 は 地 中 に 障 れ て お り 、 獲
@@ -47,4 +47,4 @@ y 族 風 dust vortex, energy~, ice~, steam~, fire~
 
 ユ ニ コ ー ン . 雲 霧 、 旋 風 ク ⑦ 頂
 
-[[./cropped_nethack_uncropped_both_sides_ordered-238.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-238.png.org][next page]]

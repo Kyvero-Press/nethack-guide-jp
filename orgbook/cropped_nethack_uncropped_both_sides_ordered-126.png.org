@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-127.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-127.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-126.png]]
 N
 
@@ -86,4 +86,4 @@ COMMANDS—Z
 
 130
 
-[[./cropped_nethack_uncropped_both_sides_ordered-127.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-127.png.org][next page]]

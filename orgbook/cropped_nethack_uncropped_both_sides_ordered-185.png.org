@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-186.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-186.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-185.png]]
 は 短 刀 を 好 ん で 使 う の だ 。 し か し 、 本 当 に 戦 闘 志 向 の ド ワ ー フ で あ れ ば 、 斧
 を 使 う で あ ろ う 。
@@ -46,4 +46,4 @@ orcish sh0rt sW0rd オ ー キ ッ シ ュ シ ョ ー ト ソ ー ド
 
 Weapons 一 一 武 器
 
-[[./cropped_nethack_uncropped_both_sides_ordered-186.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-186.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-138.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-138.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-137.png]]
 武 器 を 持 っ て 対 峙 し て ぃ た 。 一 人 は 常 連 の 客 で 酔 い ど れ 僧 侶 と 呼 ば れ て ぃ る
 レ ジ オ ス 。 い ま 一 人 は 北 方 系 の 整 っ た 顔 立 ち を し た ワ ル キ ュ ー レ だ っ た 。
@@ -43,4 +43,4 @@ I o2 9 g s W
 
 女 が そ う 言 っ て ク ラ イ ン の カ ッ プ に 酒 を つ い だ 。
 ` あ ん た 名 前 は な ん て い ぃ い う ん だ 。 お れ は ク ラ イ ン 」
-[[./cropped_nethack_uncropped_both_sides_ordered-138.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-138.png.org][next page]]

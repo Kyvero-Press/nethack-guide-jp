@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-20.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-020.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-019.png]]
 魔 宿 に 送 り 出 す あ な た の 分 身
 ⑩駄裁r裁璽士Br掻
@@ -31,4 +31,4 @@ Dx : Dexterity デ ク ス タ リ テ ィ 機 敏 、 器 用 さ
 
 Parameter 一 一 能 力 値 ン ⑳
 
-[[./cropped_nethack_uncropped_both_sides_ordered-20.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-020.png.org][next page]]

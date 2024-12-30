@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-194.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-194.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-193.png]]
 `
 |
@@ -23,4 +23,4 @@ silver arrow シ ル バ ー ア ロ ウ
 
 魔 や 幽 霊 と ぃ っ た 怪 物 に 対 し て 力 を 持 つ と ぃ う 。
 
-[[./cropped_nethack_uncropped_both_sides_ordered-194.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-194.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-182.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-182.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-181.png]]
 tinning kit 缶 詰 製 造 機
 怪 物 の 死 体 を 缶 詰 に で き る 機 械 で あ る 。 缶 詰 は 腐 ら な い の で 、 非 常 に 重 宝
@@ -39,4 +39,4 @@ Wand of cold 氷 の ワ ン ド
 
 Wands 一 一 一 杓 杖
 
-[[./cropped_nethack_uncropped_both_sides_ordered-182.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-182.png.org][next page]]

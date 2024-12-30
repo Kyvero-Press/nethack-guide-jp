@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-10.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-010.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-009.png]]
 す る と 、 画 面 に い ろ い ろ と メ ッ セ ー ジ が 表 示 さ れ る が 、 要 す る に ネ ッ ト ハ
 ク ク の プ ロ グ ラ ム が ` 起 動 用 デ ィ ス ク 」 に 展 開 さ れ て い く 。 途 中 で 、 デ ィ ス
@@ -36,4 +36,4 @@ FORMAT B: /M /S
 
 Instalーー イ ン ス ト ー ル
 
-[[./cropped_nethack_uncropped_both_sides_ordered-10.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-010.png.org][next page]]

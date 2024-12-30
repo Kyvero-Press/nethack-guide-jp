@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-215.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-215.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-214.png]]
 ま た 、 ス ラ イ ム の 脅 威 か ら 逃 げ よ う と す る と き に 扉 を 閉 め る こ と は 無 意 味 で あ
 る 。 ス ラ イ ム は 不 定 型 生 物 で あ る た め に 、 扉 の 隙 間 か ら 流 れ 込 ん で く る こ と が 確
@@ -41,4 +41,4 @@ R 酸ィヒ怪物 rust monster
 
 218 MONSTERS 一 一 一 魔 窟 を さ ま よ う 怪 物 ら
 
-[[./cropped_nethack_uncropped_both_sides_ordered-215.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-215.png.org][next page]]

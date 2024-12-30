@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-102.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-102.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-101.png]]
 お 金 を 受 け 取 っ て し ま う と 、 店 主 体 も う テ ィ ケ を 見 よ う と も し な い 。 パ ッ
 ク パ ッ ク に 荷 物 を 詰 め 終 え て 店 の 扉 に 向 か お う = だ デ テ ィ ク は さ さ ふ ミ リ ウ ク
@@ -73,4 +73,4 @@ o
 
 ヽ
 
-[[./cropped_nethack_uncropped_both_sides_ordered-102.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-102.png.org][next page]]

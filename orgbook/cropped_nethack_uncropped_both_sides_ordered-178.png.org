@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-179.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-179.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-178.png]]
 key
 各 種 の 鍵 で あ る 。 手 持 ち の 部 分 で 種 別 が な さ れ て い る 。
@@ -25,4 +25,4 @@ magic flute ャ ヤ シ ッ ク ク ル ー ト
 182 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
 W 』 ョ m 謀
-[[./cropped_nethack_uncropped_both_sides_ordered-179.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-179.png.org][next page]]

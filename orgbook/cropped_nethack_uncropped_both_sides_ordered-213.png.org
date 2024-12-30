@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-214.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-214.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-213.png]]
 褐 色 の 肌 に み す ぼ ぽ ら し い 腰 布 を 巻 き つ け 、 好 ん で 棍 棒 を 振 り 回 す と ぃ う 。 別 段
 に 棍 棒 を 好 ん で ぃ る わ け で は な く 、 彼 ら の 手 指 が 不 器 用 で あ る る た め に 武 器 を 持 つ
@@ -41,4 +41,4 @@ P ス ラ イ ム 状 生 物 gray ooze, brown pudding, black~
 
 ス ラ イ ム 状 生 物
 
-[[./cropped_nethack_uncropped_both_sides_ordered-214.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-214.png.org][next page]]

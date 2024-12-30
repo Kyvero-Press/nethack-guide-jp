@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-159.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-159.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-158.png]]
 Potion of blindness 貢 目 の 薬
 貢 目 に な る 。 敵 に 投 げ つ け れ ば 、 敵 の 攻 撃 力 を 大 幅 に 落 と す こ と が で き
@@ -23,4 +23,4 @@ Potion of extra healing 全 快 の 薬
 
 Ty
 
-[[./cropped_nethack_uncropped_both_sides_ordered-159.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-159.png.org][next page]]

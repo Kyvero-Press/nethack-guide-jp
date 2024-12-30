@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-255.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-255.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-254.png]]
 ダ ー の 魔 窟 を 進 む 上 で 最 大 の キ ー ポ イ ン ト と い う こ と が で き る 。 そ れ は 私 の
 今 ま で の 研 突 で 明 ら か に な っ て い ぃ た 。 強 烈 な 呪 い が か か っ て い る こ と を 知 ら
@@ -44,4 +44,4 @@ ment) を 読 ん で し ま い ぃ 、 足 か せ と 鉄 球 を 科 せ �
 258 INFORMATIONS 一 一 一 魔 窟 を 踏 破 す る た め に
 
 ittt b
-[[./cropped_nethack_uncropped_both_sides_ordered-255.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-255.png.org][next page]]

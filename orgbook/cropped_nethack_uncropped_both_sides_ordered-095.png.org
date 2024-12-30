@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-96.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-096.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-095.png]]
 ー マ
 
@@ -39,4 +39,4 @@ Vo 最 初 に ` 宝 箱 の 中 身 を 取 り だ す か ? 」 と い う �
 =
 外
 
-[[./cropped_nethack_uncropped_both_sides_ordered-96.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-096.png.org][next page]]

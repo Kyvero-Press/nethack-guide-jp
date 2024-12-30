@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-61.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-061.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-060.png]]
 て い な か っ た り 、 あ る い は 充 分 な 魔 力 Pw) が な か っ た 場 合 に は な に も 起
 き ず 、 魔 力 が 無 駄 に 消 費 さ れ る だ け で あ る 。 使 用 の 際 に は 事 前 に 試 し 撃 ち
@@ -50,4 +50,4 @@ e
 
 64 COMMANDS 一 一 窺 窟 を 歩 く た め に …....
 
-[[./cropped_nethack_uncropped_both_sides_ordered-61.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-061.png.org][next page]]

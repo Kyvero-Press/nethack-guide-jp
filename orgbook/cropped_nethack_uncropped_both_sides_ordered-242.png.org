@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-243.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-243.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-242.png]]
 く
 
@@ -46,4 +46,4 @@ Do
 946 MONSTERS 一 一 鬼 窟 を さ ま よ う 怪 物 ら
 
 『
-[[./cropped_nethack_uncropped_both_sides_ordered-243.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-243.png.org][next page]]

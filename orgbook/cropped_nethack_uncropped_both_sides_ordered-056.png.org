@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-57.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-057.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-056.png]]
 ら 、 最 初 か ら ダ ン ジ ョ ン に 入 り は し な い 。
 
@@ -42,4 +42,4 @@
 
 60 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-57.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-057.png.org][next page]]

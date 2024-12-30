@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-185.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-185.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-184.png]]
 Wand of teleportation 次 元 跳 躍 の ワ ン ド
 同 M 階 の 点 Ma へ ふ と テ レ ポ ー ト す る 。 テ レ ポ ー ド コ ン ト ロ ー ル 能 刃 き え ち も
@@ -38,4 +38,4 @@ dwarvish short sword ド ワ ー ヴ ィ ッ シ ュ シ ョ ー ト ソ ー ド
 
 188 ITEMS 一 一 慶 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-185.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-185.png.org][next page]]

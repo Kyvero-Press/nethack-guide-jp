@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-164.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-164.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-163.png]]
 Ring of levitation 洞 揚 の 指 輪
 こ の 指 輪 を は め る と 浮 揚 で き る よ う に な る 。 ほ と ん ど の 罠 を 避 け る こ と が
@@ -34,4 +34,4 @@ Ring of regeneration 再 生 の 指 輪
 
 Rings 一 一 指 輪
 
-[[./cropped_nethack_uncropped_both_sides_ordered-164.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-164.png.org][next page]]

@@ -1,4 +1,4 @@
-[[cropped_nethack_uncropped_tocpage-2.png][previous page]]
+[[cropped_nethack_uncropped_tocpage-2.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-001.png]]
 ・ 臺 ITEMS 7452 144 ー ¢
 ・ Amulets G “'Z萎契~ ”
@@ -23,4 +23,4 @@ i
 i
 
 l
-[[./cropped_nethack_uncropped_both_sides_ordered-2.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-002.png.org][next page]]

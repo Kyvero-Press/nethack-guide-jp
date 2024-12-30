@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-105.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-105.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-104.png]]
 ス ル ー ラ の 住 む 町 を 訪 れ た と き の こ と だ 。 彼 女 は 叔 母 に 嘘 を つ い て 、 胃 険 者
 た ち の 話 を 聞 き に い っ た 。 あ ま り に も 楽 し い 話 だ っ た た め 、 な か な か 帰 る 気
@@ -19,4 +19,4 @@
 
 108 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-105.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-105.png.org][next page]]

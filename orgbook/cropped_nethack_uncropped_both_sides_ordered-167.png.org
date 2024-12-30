@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-168.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-168.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-167.png]]
 Scroll of fire 炎 の ス タ ロ ー ル
 こ の ス ク ロ ー ル は 表 面 の ル ー ン を 読 む ぉ と 同 時 に 表 面 か ら 炎 を 噴 き 出 す 。 当
@@ -33,4 +33,4 @@ S る ト と a う e
 
 Scrolls 一 一 一 巻 物 171
 
-[[./cropped_nethack_uncropped_both_sides_ordered-168.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-168.png.org][next page]]

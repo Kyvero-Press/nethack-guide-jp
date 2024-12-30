@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-188.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-188.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-187.png]]
 DAGGERS 短 剣
 
@@ -34,4 +34,4 @@ wakizashi ワ キ ザ シ
 
 Weapons 一 一 武 器 19171
 
-[[./cropped_nethack_uncropped_both_sides_ordered-188.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-188.png.org][next page]]

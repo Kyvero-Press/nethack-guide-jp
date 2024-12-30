@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-163.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-163.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-162.png]]
 Ring of adornment 魅 惑 の 指 輪
 こ の 指 輪 を は め る と 、 そ の 瞬 間 か ら 装 着 し た 者 の 魅 力 が 増 加 す る 。
@@ -39,4 +39,4 @@ Ring of invisibility 透 明 の 指 輪
 
 166 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-163.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-163.png.org][next page]]

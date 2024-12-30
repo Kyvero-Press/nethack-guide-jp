@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-64.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-064.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-063.png]]
 ム m
 
@@ -49,4 +49,4 @@ a コ マ ン ド は 道 具 を つ っ か う た め の 命 令 で あ �
 ン
 ②
 
-[[./cropped_nethack_uncropped_both_sides_ordered-64.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-064.png.org][next page]]

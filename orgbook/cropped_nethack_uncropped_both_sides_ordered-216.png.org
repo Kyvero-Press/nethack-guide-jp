@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-217.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-217.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-216.png]]
 rust monster
 
@@ -6,4 +6,4 @@ umber hulk
 
 量 子 物 理 学 者
 
-[[./cropped_nethack_uncropped_both_sides_ordered-217.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-217.png.org][next page]]

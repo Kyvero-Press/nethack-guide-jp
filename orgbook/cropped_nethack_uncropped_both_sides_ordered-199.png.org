@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-200.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-200.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-199.png]]
 EXCALIBUR
 
@@ -60,4 +60,4 @@ _m
 3
 ミ
 
-[[./cropped_nethack_uncropped_both_sides_ordered-200.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-200.png.org][next page]]

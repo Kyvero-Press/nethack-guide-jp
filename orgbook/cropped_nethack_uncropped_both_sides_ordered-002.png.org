@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-3.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-003.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-002.png]]
 NETHACK GENERAL PUBLIC LICENSE
 (Copyright 1989 M. Stephenson)
@@ -38,4 +38,4 @@ Therefore we (Mike Stephenson and other holders of NetHack copyrights)
 make the following terms which say what you must do to be allowed to
 distribute or change NetHack.
 
-[[./cropped_nethack_uncropped_both_sides_ordered-3.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-003.png.org][next page]]

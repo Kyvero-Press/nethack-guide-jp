@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-264.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-264.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-263.png]]
 下 に あ る 箱 、 も し く は バ ッ ク の 中 身 を 略 套 す る
 怪 物 の 持 つ 特 殊 能 力 を 使 う _
@@ -54,4 +54,4 @@ p憂ckupオプシヨンの0N/。FF。 押 す - と に よ っ て 旭 り 暁 
 
 プ レ イ ヤ ー の た め の コ マ ン ド
 
-[[./cropped_nethack_uncropped_both_sides_ordered-264.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-264.png.org][next page]]

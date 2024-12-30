@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-247.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-247.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-246.png]]
 記 述 家 サ ン ダ ラ ス ・ フ ォ ー ン に よ る 前 書 き
 
@@ -33,4 +33,4 @@ DZEDDHoTDIZ,
 
 250 INFORMATIONS 一 一 魔 窟 を 踏 破 す る た め に
 
-[[./cropped_nethack_uncropped_both_sides_ordered-247.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-247.png.org][next page]]

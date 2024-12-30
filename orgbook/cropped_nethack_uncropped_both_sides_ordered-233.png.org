@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-234.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-234.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-233.png]]
 ゴ フ リ ン 、 goblin, hob goblin, Uruk-hai,
 オ ー ク orc, hill~, Mordor~, ~shaman, ~-captain
@@ -43,4 +43,4 @@ piercer) の 二 種 類 に わ け ら れ る 。
 
 に ② り あ 返 彫 ト ー ク 細 B
 
-[[./cropped_nethack_uncropped_both_sides_ordered-234.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-234.png.org][next page]]

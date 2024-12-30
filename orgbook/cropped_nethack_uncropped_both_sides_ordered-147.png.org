@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-148.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-148.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-147.png]]
 cloak of protection ク ロ ー ク オ ブ プ ロ テ ク シ ョ ン AC-③
 通 常 の マ ン ト よ り も 、 は る か に 防 御 力 に 優 れ た マ ン ト で あ る 。 ち ょ っ と し
@@ -36,4 +36,4 @@ dwarvish iron helm ド ワ ー ウ ィ イ ッ シ ョ o AT g ム oo AC ク
 
 Armors
 
-[[./cropped_nethack_uncropped_both_sides_ordered-148.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-148.png.org][next page]]

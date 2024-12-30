@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-119.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-119.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-118.png]]
 C と #n コ マ ン ド は 、 と も に ア イ テ ム や 怪 物 ら に 独 自 の 名 前 を つ け る た め
 の コ マ ン ド だ 。C コ マ ン ド は 怪 物 に 独 自 の 名 前 を つ け る こ と が で き る 。
@@ -39,4 +39,4 @@ C と #n コ マ ン ド は 、 と も に ア イ テ ム や 怪 物 ら に
 
 122 COMMANDS—ERE & 35 { F28DI2 -+
 
-[[./cropped_nethack_uncropped_both_sides_ordered-119.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-119.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-167.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-167.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-166.png]]
 ッ ク W ク パ で さ る の ⑨ で ゃ
 Scroll of create monster 召 喚 の ス ク ロ ー ル
@@ -26,4 +26,4 @@ Scroll of enchant weapon 攻 撃 激 化 の ス ク タ ロ ー ル
 
 170 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-167.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-167.png.org][next page]]

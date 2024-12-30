@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-51.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-051.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-050.png]]
 scrolls of enchant weapon」 と 表 示 さ れ て い れ ば 、 呪 わ れ て い な い enchant
 weapon の 巻 物 を ② つ 持 っ て い る こ と を 意 味 す る 。
@@ -42,4 +42,4 @@ R B B R R R e R R S R e e e N R R R S R R
 54 COMMANDS
 
 魔 窟 を 歩 く た め に …...
-[[./cropped_nethack_uncropped_both_sides_ordered-51.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-051.png.org][next page]]

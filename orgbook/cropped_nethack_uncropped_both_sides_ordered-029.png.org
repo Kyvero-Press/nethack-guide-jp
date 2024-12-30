@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-30.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-030.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-029.png]]
 僧 侶 た ち は 自 ら の 信 仰 を よ り 尊 き も の と す る
 た め の 試 練 と し て 、 イ ェ ン ダ ー の 魔 窟 へ 挑 む と
@@ -81,4 +81,4 @@ s シ >
 
 Class
 
-[[./cropped_nethack_uncropped_both_sides_ordered-30.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-030.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-227.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-227.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-226.png]]
 5. 0 つ の 琳 狂 土 肥 は た ん ん な る 自 い 玉 ら し い ⑤ 保 談 は は 目 E ド り も 少 な い 。
 か な り 危 険 な 存 在 ら し く 、 戦 っ た 冒 険 者 た ち は か な り の 凍 傷 に か か っ て い ぃ る 。 あ
@@ -40,4 +40,4 @@ g グ レ ム リ ン gremlin
 
 230 MONSTERS 一 一 魔 窟 を さ ま よ う 怪 物 ら
 
-[[./cropped_nethack_uncropped_both_sides_ordered-227.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-227.png.org][next page]]

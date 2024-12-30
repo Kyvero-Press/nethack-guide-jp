@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-125.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-125.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-124.png]]
 ` こ ん な 自 分 で コ ン ト ロ ー ル で き な い 能 力 な ん ぎ 願 い 下 げ だ ! 」
 と 叫 び た か っ た も の の 、 あ え て 自 重 し た 。 彼 を 探 し て い る コ ロ エ サ ス の ガ
@@ -33,4 +33,4 @@ R 0W は ほ ま 0
 
 128 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-125.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-125.png.org][next page]]

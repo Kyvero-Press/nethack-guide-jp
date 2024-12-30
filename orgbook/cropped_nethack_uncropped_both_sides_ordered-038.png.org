@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-39.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-039.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-038.png]]
 き て 、 こ れ ら の 記 号 に よ っ て 構 築 き れ て い ぃ る イ ェ ン ダ ー の 魔 窟 で あ る が 、
 こ の 中 を 歩 き 回 る た め に は テ ン キ ー に よ っ て キ ャ ラ ク タ ー を 移 動 さ せ な け れ
@@ -40,4 +40,4 @@ b 」 n
 
 42 CHARACTERS—TERICE Y T B T-0R &
 
-[[./cropped_nethack_uncropped_both_sides_ordered-39.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-039.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-94.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-094.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-093.png]]
 怪 物 を 蹴 る と ダ メ ー ジ を 与 え ら れ る 。 特 に サ ム ラ イ と プ リ ー ス ト の `“ 蹴
 り “ は 強 力 で 、 浅 い 層 の 怪 物 な ら ば 一 撃 で 倒 す こ と も 可 能 な ほ ど だ 。
@@ -39,4 +39,4 @@ Al e お ④ e
 
 こ じ 開 け る 、 中 身 を 見 る
 
-[[./cropped_nethack_uncropped_both_sides_ordered-94.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-094.png.org][next page]]

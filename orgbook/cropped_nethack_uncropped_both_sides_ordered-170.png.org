@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-171.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-171.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-170.png]]
 物 が 多 い が 、 逆 に 氷 を 苦 手 と す る も の も あ る た め に 使 う 相 手 を よ く 選 ぶ べ き
 
@@ -35,4 +35,4 @@ Spellbook of cure sickness 病 気 治 療 魔 導 レ ベ ル ③
 174 ITEMS 一 一 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
 ` 、 ョ a 謀
-[[./cropped_nethack_uncropped_both_sides_ordered-171.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-171.png.org][next page]]

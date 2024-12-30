@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-47.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-047.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-046.png]]
 ェ コ マ ン ド は 、 巻 き 物 と 呪 文 書 を 読 む の に 使 う 。 コ マ ン ド の 後 で ②) を 入
 カ す る と 、 自 分 の 持 っ て い る 巻 き 物 と 呪 文 書 の 一 覧 が 出 る の で 活 用 す る と よ
@@ -35,4 +35,4 @@ bz
 
 uuw
 
-[[./cropped_nethack_uncropped_both_sides_ordered-47.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-047.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-97.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-097.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-096.png]]
 ま あ 宝 箱 を 開 け た 時 に は 、 中 に 何 か を 入 れ る と い う こ と は 少 な い だ ろ う
 が き の 才 順 は は か ッ ク や ホ ル デ ィ ン シ ク グ ・ バ ッ ク グ ⑧ と い っ た 侵 利 な 道 具 ( 特 に
@@ -52,4 +52,4 @@ e Eat 食 事 を 友 る i
 m T R s u 、 、 、
 
 ー ョ ーーー ュ ニ ト ー
-[[./cropped_nethack_uncropped_both_sides_ordered-97.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-097.png.org][next page]]

@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-112.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-112.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-111.png]]
 ー 一 マ マ ー マ マ ッ ー 一
 
@@ -36,4 +36,4 @@ Vo も し 、Dx の 値 が I 程 度 で あ れ ば 、 ` 自 ら の 分 を
 山 感 知 、 罠 解 除 11 %
 ;/
 
-[[./cropped_nethack_uncropped_both_sides_ordered-112.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-112.png.org][next page]]

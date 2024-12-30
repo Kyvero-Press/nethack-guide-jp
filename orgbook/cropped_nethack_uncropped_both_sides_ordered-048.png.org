@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-49.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-049.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-048.png]]
 も う ひ と つ は 魅 了 の 巻 物 だ 。 ま だ 使 っ た こ と は な い が 、 怪 物 の 戦 意 を 削 ぐ
 効 果 が あ る と い う 。 怪 物 が う よ う よ い る 部 屋 で は 効 果 的 な は ず だ 。
@@ -67,4 +67,4 @@ o ほ と ん ど の 薙 の 正 体 が 判 ら な か っ た
 COMMANDS
 
 22
-[[./cropped_nethack_uncropped_both_sides_ordered-49.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-049.png.org][next page]]

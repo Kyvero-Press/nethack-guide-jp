@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-181.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-181.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-180.png]]
 pick-axe ピ ッ ク ア ッ ク ス
 つ る は し で あ る 。 壁 に 穴 を 空 け 、 岩 を 砕 く こ と が で き る 。 ま た 、 武 器 と し
@@ -22,4 +22,4 @@ STETHOSCOPE
 
 184 ITEMS—ERE Th - 55b%IT 3ER:L
 
-[[./cropped_nethack_uncropped_both_sides_ordered-181.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-181.png.org][next page]]

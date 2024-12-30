@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-93.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-093.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-092.png]]
 蹴 り 壊 し て し ま え ば そ れ で す む で は な い か 。
 テ ィ ケ は 踵 を 返 し て 駆 け 戻 り 、 そ の 勢 い の ま ま 宝 箱 に 蹴 り を 入 れ た 。
@@ -90,4 +90,4 @@ COMMANDS 一 一 一 魔 窟 を 歩 く た め に -
 
 96
 
-[[./cropped_nethack_uncropped_both_sides_ordered-93.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-093.png.org][next page]]

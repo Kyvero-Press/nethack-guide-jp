@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-28.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-028.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-027.png]]
 治 癖 師 は 冒 険 者 と し て 、 か な り 特 殊 な 存 在 で
 あ る と い う こ と が で き る 。 性 格 的 に は プ リ ー ス
@@ -104,4 +104,4 @@ M
 
 属 性 : ロ ウ フ ル
 
-[[./cropped_nethack_uncropped_both_sides_ordered-28.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-028.png.org][next page]]

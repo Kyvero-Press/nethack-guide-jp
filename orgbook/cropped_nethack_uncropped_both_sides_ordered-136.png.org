@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-137.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-137.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-136.png]]
 盗 賊 ギ ル ド の 中 枢 が 権 勢 を 誇 る 悪 徳 の 都 バ ル ス 。
 
@@ -42,4 +42,4 @@ NS
 140 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
 閻 誠 N
-[[./cropped_nethack_uncropped_both_sides_ordered-137.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-137.png.org][next page]]

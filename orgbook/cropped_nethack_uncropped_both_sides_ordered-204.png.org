@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-205.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-205.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-204.png]]
 vampire bat 〟
 
@@ -8,4 +8,4 @@ Q
 | | Carnivorous a
 り )
 
-[[./cropped_nethack_uncropped_both_sides_ordered-205.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-205.png.org][next page]]

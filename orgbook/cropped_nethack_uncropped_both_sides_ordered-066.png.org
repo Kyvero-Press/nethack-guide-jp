@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-67.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-067.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-066.png]]
 ば 、 犠 牲 者 が 一 人 増 え る の は い う ま で も な い ( そ の 犠 牲 者 が 誰 か …... S 0 ⑧
 い う ま で も な い だ ろ う )。 広 い 空 間 の あ る と こ ろ で な け れ ば 、 攻 撃 系 の ワ ン
@@ -45,4 +45,4 @@ Search ダ ン ジ ョ ン の 探 索
 70 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
 I m 縄
-[[./cropped_nethack_uncropped_both_sides_ordered-67.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-067.png.org][next page]]

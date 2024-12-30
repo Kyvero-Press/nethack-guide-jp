@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-141.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-141.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-140.png]]
 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
@@ -29,4 +29,4 @@ amulet of reflection 反 射 の 魔 除 け
 
 144 ITEMS 一 一 寵 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-141.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-141.png.org][next page]]

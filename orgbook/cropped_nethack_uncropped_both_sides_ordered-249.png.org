@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-250.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-250.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-249.png]]
 饒 舌 に な り 、 イ ェ ン ダ ー の 魔 窟 に つ ぃ い て の 話 を 始 め た 。
 
@@ -76,4 +76,4 @@ N
 
 交 流 、 は じ め て の 対 面
 
-[[./cropped_nethack_uncropped_both_sides_ordered-250.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-250.png.org][next page]]

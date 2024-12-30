@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-87.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-087.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-086.png]]
 を
 
@@ -121,4 +121,4 @@ COMMANDS—
 
 90
 
-[[./cropped_nethack_uncropped_both_sides_ordered-87.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-087.png.org][next page]]

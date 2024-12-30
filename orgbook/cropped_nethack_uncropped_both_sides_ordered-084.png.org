@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-85.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-085.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-084.png]]
 最 後 に 指 輪 を 装 備 す る た め の 命 令 が あ る 。P コ マ ン ド だ 。PJ を 入 力 し 、
 指 輪 を 選 択 す れ ば は め る こ と が で き る 。 た だ し 、 は め ら れ る 指 輪 は 左 右 の 手
@@ -45,4 +45,4 @@ Remove, Take off 防 具 を 外 す , 指 輪 を 外 す
 
 88 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-85.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-085.png.org][next page]]

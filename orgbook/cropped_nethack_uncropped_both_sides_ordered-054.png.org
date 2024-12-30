@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-55.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-055.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-054.png]]
 ` そ ん な 部 屋 に 入 っ て し ま っ た ら 、 ど う す れ ば い い ん で す か 」
 ナ ス ル ー ラ が 質 問 す る と 、 ネ ア ル コ 師 は か す か に 笑 っ た 。
@@ -45,4 +45,4 @@
 
 58 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-55.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-055.png.org][next page]]

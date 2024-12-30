@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-21.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-021.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-020.png]]
 Co : Constitution コ ン ス テ ィ ト ュ ー シ ョ ン 生 命 カ
 体 力 消 耗 に 耐 え た り 、 毒 の ダ メ ー ジ か ら 逃 れ る た め に は コ ン ス テ ィ ト ュ ー シ ョ
@@ -35,4 +35,4 @@ Ch : Charisma カ リ ス マ 魅 カ
 24 CHARACTERS—BE I3 ) T H 1= R B
 
 閻 詣 、 N
-[[./cropped_nethack_uncropped_both_sides_ordered-21.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-021.png.org][next page]]

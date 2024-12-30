@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-251.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-251.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-250.png]]
 詠 シ ク ソ ー ド (long sword) 宮 な . ト 。 技 量 が 誇 る べ き も の に 達 し た と
 思 う の で あ れ ば 、 ロ ン ダ グ ソ ー ド を 泉 に 浸 し て み る と い い 。 泉 の 中 に 住 む 貴 婦
@@ -41,4 +41,4 @@
 
 254 INFORMATIONS 一 一 一 魔 窟 を 踏 破 す る た め に
 
-[[./cropped_nethack_uncropped_both_sides_ordered-251.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-251.png.org][next page]]

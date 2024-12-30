@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-219.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-219.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-218.png]]
 や は り 牙 で あ る 。 彼 ら は 冒 険 者 の 生 き 血 を す す る こ と に よ っ て 生 命 力 を 得 る 。
 顎 動 脈 を か ま れ た 胃 険 者 は 肉 体 的 な 傷 の み な ら ず 、 精 神 的 な ダ メ ー ジ も う け
@@ -41,4 +41,4 @@ Lo, 琢 男 ほ さ ス ネ 体 男 ほ 滝 少 す る ミ 回 り ⑧ 小 き 
 
 299 MONSTERS 一 一 魔 窟 を さ ま よ う 怪 物 ら
 
-[[./cropped_nethack_uncropped_both_sides_ordered-219.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-219.png.org][next page]]

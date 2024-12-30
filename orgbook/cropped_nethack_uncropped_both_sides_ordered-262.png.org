@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-263.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-263.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-262.png]]
 ・ 持 ち 物 を 操 作 す る コ マ ン ド
 
@@ -37,4 +37,4 @@
 
 266 List of Commands 一 一 コ マ ン ド 一 覧
 
-[[./cropped_nethack_uncropped_both_sides_ordered-263.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-263.png.org][next page]]

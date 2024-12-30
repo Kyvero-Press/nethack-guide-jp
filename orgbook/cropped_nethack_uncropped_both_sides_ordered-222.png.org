@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-223.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-223.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-222.png]]
 蟻 の な か に は か み つ い た と き に 、 熱と炎で冒険者を痛めつけるものもおり` %
 般 に 考 え て ぃ い る よ り も 危 険 な 存 在 と な っ て い る 。 冒 険 者 養 成 所 の 教 本 に も ` 昆 虫
@@ -41,4 +41,4 @@ EAET, ・ 人 が 脇 つ E う な に S い y 放 つ s
 
 し akku コ
 
-[[./cropped_nethack_uncropped_both_sides_ordered-223.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-223.png.org][next page]]

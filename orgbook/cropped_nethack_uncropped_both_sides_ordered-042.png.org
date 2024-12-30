@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-43.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-043.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-042.png]]
 ス ル ー ラ は エ ル フ の 剣 が 届 く よ り も 早 く を か が め 、 ふ と こ ろ に 入 り こ ん
 だ 。 自 く 輝 く 剣 が エ ル フ の 右 腕 を 切 り 落 と し 、 心 臓 を 貫 く 。 先 刻 よ り も 大 量
@@ -44,4 +44,4 @@
 
 イ ⑥ COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-43.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-043.png.org][next page]]

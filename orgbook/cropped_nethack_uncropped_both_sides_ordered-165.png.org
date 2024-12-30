@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-166.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-166.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-165.png]]
 Scrolls ス ク ロ ー ル
 デ 翻洲⑪激謝⑪凛⑪⑪激
@@ -40,4 +40,4 @@ Scroll of confuse monster 混 乱 の ス ク ロ ー ル
 
 Scrolls 一 一 巻 物
 
-[[./cropped_nethack_uncropped_both_sides_ordered-166.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-166.png.org][next page]]

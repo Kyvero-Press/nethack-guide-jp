@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-109.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-109.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-108.png]]
 る た め に 頼 れ る の は 自 分 の 力 だ け な の だ 。
 ` ク ロ ム の ば か ぁ ッ ! 」
@@ -37,4 +37,4 @@
 
 112 COMMANDS 一 一 一 魔 窟 を 歩 く た め に …
 
-[[./cropped_nethack_uncropped_both_sides_ordered-109.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-109.png.org][next page]]

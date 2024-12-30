@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-161.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-161.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-160.png]]
 Potion of monster detection 怪 物 透 視 薬
 こ の 薬 を 飲 ん だ 瞳 間 、 同 じ フ ロ ア に い る 怪 物 の 位 置 を 知 る こ と が で き る 。
@@ -23,4 +23,4 @@ Potion of sickness 劇 薙
 
 164 ITEMS 一 一 燕 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
-[[./cropped_nethack_uncropped_both_sides_ordered-161.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-161.png.org][next page]]

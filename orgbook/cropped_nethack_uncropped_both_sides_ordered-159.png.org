@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-160.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-160.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-159.png]]
 Fruit juice タ ル ー ツ ジ ュ ー ス
 ほ ん の 少 し で は あ る が 、 空 腹 を 紛 ら わ せ る こ と が 可 能 で あ る 。 ち な み に あ
@@ -48,4 +48,4 @@ Potion of levitation 淑 遊 薬
 
 Potions 一 一 水 薬 163
 
-[[./cropped_nethack_uncropped_both_sides_ordered-160.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-160.png.org][next page]]

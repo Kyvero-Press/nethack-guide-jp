@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-150.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-150.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-149.png]]
 helm of opposite alignment
 い ヘ ル ム オ フ ・。 オ れ ポ シ ッ ト ア ラ イ ム メ ン ト AC-①
@@ -34,4 +34,4 @@ large shield ラ ー ジ シ ー ル ド AC-②
 
 Armors 一 一 防 具
 
-[[./cropped_nethack_uncropped_both_sides_ordered-150.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-150.png.org][next page]]

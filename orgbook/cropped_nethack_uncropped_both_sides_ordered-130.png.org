@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-131.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-131.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-130.png]]
 Monster’s ab…ty 怪 物 の 能 力 便 用
 
@@ -48,4 +48,4 @@ Monster’s ab…ty 怪 物 の 能 力 便 用
 
 134 COMMANDS—BERE & 8 < 12T ewere
 
-[[./cropped_nethack_uncropped_both_sides_ordered-131.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-131.png.org][next page]]

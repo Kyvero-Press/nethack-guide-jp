@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-172.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-172.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-171.png]]
 Spellbook of detect food 食 物 看 破 魔 導 レ ベ ル ②
 術 者 の ぃ る 階 に あ る す べ て の 食 物 を 表 示 す る 。 空 腹 時 に ち ぃ い て は 非 常 に 重
@@ -35,4 +35,4 @@ Spellbook of force bolt 力 張 魔 導 レ ベ ル ①
 
 Spellbook 一 一 魔 導 書
 
-[[./cropped_nethack_uncropped_both_sides_ordered-172.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-172.png.org][next page]]

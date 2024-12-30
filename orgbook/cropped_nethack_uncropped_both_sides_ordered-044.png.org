@@ -1,4 +1,4 @@
-[[./cropped_nethack_uncropped_both_sides_ordered-45.png][previous page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-045.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-044.png]]
 木 S ② な ⑮ m は ョ マ ン だ 細 の 資 啓 同 騎 ド う に 目
 標 と な る ア イ テ ム の 上 に 立 ち 、(,) キ ー を 押 す の で あ る 。 め ウ r カ M と つ
@@ -40,4 +40,4 @@ L,
 
 48 COMMANDS 一 一 魔 窟 を 歩 く た め に …...
 
-[[./cropped_nethack_uncropped_both_sides_ordered-45.png][next page]]
+[[./cropped_nethack_uncropped_both_sides_ordered-045.png.org][next page]]
