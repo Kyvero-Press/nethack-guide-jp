@@ -1,0 +1,49 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-016.png.org][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-015.png]]
+- の マ ー
+
+b ま
+
+宇 和 床 ー テ ア ク
+
+た と え ば 、 私 の NETHACK. J0NRNHDXF の い つ に な っ て い る ョ
+
+OPTIONS=!pickup,number_pad, time
+OPTIONS=98_BIOS, rawio,98graphics
+。P宙王。NS=name‥AVe工na_R' female,
+
+dogn ame : Suezow, oatname:Patty, TTu ⑪ ・ga t u a
+HACKDIR=A: ¥GAMES¥NETHACK
+LEVELS=A: ¥GAMES¥NETHACK¥BONES
+SAVE=A : ¥ GAMES¥NETHACK¥BONES ; n
+
+こ の 場 合 、 キ ャ ラ ク タ ー の 名 前 は Avelna、 職 業 は Rouge で 女 性 で あ る 。
+犬 の 名 前 が Suezow、 猫 の 名 前 が Patty、 好 き な フ ル ー ツ が satuma ( み か
+ん ) と な る わ け で あ る 。 ま た 、PC-⑨⑧00 シ リ ー ズ 独 自 の 機 能 を 利 用 す る =
+と ネ ッ ト パ ッ ク ほ A ド ラ イ ン の [¥GAMESY¥NETHACK I い う デ
+② り ミ ン ス に ド キ ル レ レ で ⑤ ② = と こ が か ボ ミ が で い ろ る
+
+日 通 、 修 正 す る と す れ ば ③ 行 目 の 、 キ ャ ラ ク タ ー や ペ ッ ト に 関 す る 設 定 で
+あ る 。 名 前 の 後 に あ る `-R」 が 職 業 を 表 わ す の だ が 、 英 字 と 職 業 は 次 の よ
+う に 対 応 し て い ぃ る 。
+
+Archeologist Barbarian Caveman Elf
+Healer Knight Priest Rogue
+Samurai Tourist Valkyrie Wizard
+
+ま た 、 フ ル ー タ ツ に 関 し て の 注 意 だ が 、 Auv, 4LV I. NFF. DA
+ご 、 そ し て 洋 梨 は ゲ ー ム 中 に も と か ら 存 在 す る の で 、 そ れ 以 外 の フ ル ー ツ を
+指 定 す る 必 要 が あ る 。
+
+も う ひ と つ 、 ノ ー ト パ ソ コ ン な ど テ ン キ ー の な い 機 種 で は 、② 行 目 の `⑨⑧_
+BIOS] と 、 ① 行 目 の `number pad 」 の 文 字 を 削 除 す る と よ ぃ 。 そ う す る と
+テ ン キ ー の 代 わ り に bjmhlyku で キ ャ ラ ク タ ー の 移 動 や 方 向 の 指 定 が で
+き る よ う に な る わ け で あ る 。 こ れ を し な い と い ち い ち 〔NUMJ ロ ッ ク が 必 要 に
+凌 る る 。
+
+そ れ か ら 、 最 後 の ③ 行 に あ る デ ィ レ ク ト リ の 指 定 に も 注 意 が 必 要 で あ る 。
+こ れ が 実 際 に ネ ッ ト ハ ッ ク が イ ン ス ト ー ル さ れ て い る ド ラ イ ブ 、 デ ィ レ ク ト
+
+More |nfo.—é§%‘t LT
+
+[[./cropped_nethack_uncropped_both_sides_ordered-016.png.org][next page]]

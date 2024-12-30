@@ -1,0 +1,26 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-159.png.org][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-158.png]]
+Potion of blindness 貢 目 の 薬
+貢 目 に な る 。 敵 に 投 げ つ け れ ば 、 敵 の 攻 撃 力 を 大 幅 に 落 と す こ と が で き
+%o
+Potion of booze 酒
+無 茶 苛 茶 に ア ル コ ー ル 度 が 高 く 、 き つ い ぃ 酒 。 ほ と ん ど の 者 は 一 瞬 で 酔 っ 払
+い 、 一 時 的 な が ら も 精 神 に 混 乱 を き た す と い う 。
+Potion of confusion 混 乱 の 薬
+混 乱 を 引 き 起 こ す 薬 。 敵 に 投 げ ず つ け れ ば 敵 が 混 乱 す る 。 た だ し 、 薬 全 般 に
+い え る こ と だ が 、 あ ま り に る も 近 く で 薬 を 投 げ る と 、 薬 剤 か ら 出 る 煙 を 吸 い 込
+ん で し ま う と こ と に な る の で 。。 投 げ た 人 人 も 巻 ミ ま れ も し る た か が あ . る 。
+Potion of enlightenment 自 己 判 断 の 薬
+飲 ん だ 瞬 間 に 、 自 分 の 資 質 を 知 る こ と が で き る 。 た と え ば 透 明 な も の を 見
+硯 っ 慈 元 ビ ポ ュ ト ュ が 削 能 で る ち あ っ た り ‥ w う よ う に 、 ど の ふ う る ④ 品 和
+を 持 っ て い る か が 明 確 に 示 さ れ る の だ 。
+Potion of extra healing 全 快 の 薬
+ヒ ッ ト ポ イ ン ト が 最 高 値 に ま で 回 復 す る 。 さ ら に 安 目 (blind) 、 病 気
+(sick) も 回 復 す る よ う で あ る 。 ま た 、 ヒ ッ ト ポ イ ン ト が 最 大 値 で あ れ ば 、
+ド ッ ド パ イ ン ト の ① 限 が 増 州 す る よ っ て あ る 。
+
+⑦⑥② ITEMS 一 一 璋 窟 で あ な た を 待 ち 受 け る 道 具 た ち
+
+Ty
+
+[[./cropped_nethack_uncropped_both_sides_ordered-159.png.org][next page]]

@@ -1,0 +1,35 @@
+[[./cropped_nethack_uncropped_both_sides_ordered-184.png.org][previous page]]
+[[.././cropped_nethack_uncropped_both_sides_ordered-183.png]]
+対 し て 振 り か ぎ せ ば 、 任 意 の ア イ テ ム を 別 の も の に 変 換 で き る 。
+
+Wand of probing 判 別 の ワ ン ド
+モ ン ス ク ー で や ペ ッ ド に 振 り か さ ペ ニ ミ に ・ ド ッ ト ト パ イ ン ド ド や リ リ リ ギ パ Y
+の 特 性 値 を 知 る こ と が で き る 。
+
+Wand of secret door detection 探 索 の ワ ン ド
+部 屋 の 中 で 、 こ の 杓 杖 を 振 り か ぎ す と シ ー ク レ ッ ト ド ア を 発 見 で き る 。 当
+
+然 0 と こ で は も る が - シ ー ク レ ッ ト ド / ア が な け れ は 反 広 は な い 。
+
+Wand of sleep 安 眠 の ワ ン ド
+怪 物 に 対 し て こ の 杓 杖 を 振 り か ぎ す と 、 眠 り に 陥 れ ら れ る 。 た だ し 、 賢 り
+に 烈 し て 喪 阿 の あ る 操 劣 に 関 し て は で . の か ざ り で は な い 。
+
+Wand Of SlOW monster 鍋 化 の ワ ン ド
+モ ン ス タ ー に 鈍 化 の 魔 法 を あ び せ か け 、 そ の 移 動 速 度 や 攻 撃 回 数 を 半 分 に
+
+派 0 す て こ と が か で ミ く る 、
+
+Wand of speed monster 加 速 の ワ ン ド
+杓 杖 を 振 り か ざ し た 対 象 の 移 動 速 度 や 攻 撃 回 数 を 倍 増 き さ せ る 。 も ち ろ ん 、
+心 霜 品 ク タ ネ 自 包 傀 用 劣 る さ と も . で き . る 。
+
+Wand of striking 打 撃 の ワ ン ド
+怪 物 な ど に 対 し て 振 り か ぎ ざ せ ば 、 多少のダメ」ジを与え ら し る ま も ま ケ e
+(boulder) な ど を 破 壊 す る こ と も で き る 。
+
+Wands 一 一 杓 杖
+
+閻 哉 `
+
+[[./cropped_nethack_uncropped_both_sides_ordered-184.png.org][next page]]
