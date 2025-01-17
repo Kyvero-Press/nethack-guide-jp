@@ -7,3 +7,5 @@ This is a scan and OCR of the japanese nethack guide book
 - [[https://drive.google.com/file/d/1-eAczSVXnPrMW5MCCRnYmlNN93wTOEBf/view?usp=sharing][uncompressed OCR'ed PDF (google drive link)]] 
 - [[https://drive.google.com/file/d/1JYKaW0vbtiBVhV253mfTABP37RUmbaSY/view?usp=sharing][compressed OCR'ed PDF (google drive link)]]
 - [[file:ocr_nethack_guide_COMPRESSED.pdf][compressed OCR'ed PDF (github link)]]
+- [[file:dist/full_eng.txt][deepl english translation]]
+- [[file:dist/full_eng2.txt][google translate english translation]]  
