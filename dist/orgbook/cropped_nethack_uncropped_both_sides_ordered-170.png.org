@@ -1,40 +1,40 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-171.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-170.png]]
-Many of them are good at ice, but others are not so good on ice, so you should choose the right partner carefully.
+There are a lot of things, but on the other hand, there are also some that don't like ice, so you should choose the person you use carefully.
 
-Therefore, you should choose the right partner carefully.
+There it is.
 
-Spellbook of confuse monster level 2
-Using this spell against a monster will cause it to become confused. What kind of behavior will the monster exhibit?
-It is not known what action the monster will take, but the chance of being attacked will be reduced.
+Spellbook of confuse monster Confusion Magic Level ②
+If you use this spell on a monster, the monster will confuse you and die. Where?
+I don't know if I will do something like this, but it will reduce my chances of being attacked.
 
-The possibility of being attacked will be reduced.
+It is certain.
 
-Spellbook of create familiar Invoke Invoke Magic Level 6
-Summons a familiar (messenger demon); unlike create monster, it is treated like pet.
-Unlike create monster, it is treated like pet, so it will not be attacked.
+Spellbook of create familiar magic summoning magic level ⑥
+Summon your family (familiar). Unlike create monster, create a pet
+I don't want a child to be attacked for being treated in the same way as a child.
 
-Spellbook of create monster Summon monster Magic Level 2
-When this spell is cast, a monster appears next to the reciter. However, if the reciter does not have a monster, the monster will appear next to the reciter.
+Spellbook of create monster Monster summoning magic level ②
+When this spell is cast, a monster will appear next to the caster. However, for the singer
 
-However, it is highly unlikely that they will be friendly toward the reciter. Rather, most monsters are not friendly to the chanters.
+On the other hand, the possibility of being friendly is very low. Even more than that, most monsters are
 
-It should be noted that most monsters can be killed for food.
+You should keep in mind that if you kill it, you can use it as food.
 
-Spellbook of cure blindness
-Whatever the cause, be it taking a potion or being bewitched by the enemy's magic, it is always possible to cure blindness.
-Whenever you are afflicted with blindness, cast this spell to recover the cause.
+Spellbook of cure blindness level ②
+The cause may be anything from taking drugs to being under the spell of an enemy.
+However, if you recite this spell when you are in a positive situation, the cause will be avenged.
 
-Spellbook of cure sickness
-Sickness caused by eating rotten food, for example, can sometimes be fatal.
+Spellbook of cure sickness magic level ③
+Diseases caused by eating rotten food can sometimes be fatal.
 
-They can be fatal. In such cases, recite this incantation. You will immediately feel
+There are also things that can be done. When that happens, recite this spell. Immediately
 
-The illness will disappear from your body immediately.
+The disease will disappear from your body.
 
-174 ITEMS 1 Tools Awaiting You in the Cave of Wonders
+174 ITEMS 11 Tools waiting for you in the devil's cave
 
-The plot.
+` , yo a conspiracy
 物 が 多 い が 、 逆 に 氷 を 苦 手 と す る も の も あ る た め に 使 う 相 手 を よ く 選 ぶ べ き
 
 で あ る 。

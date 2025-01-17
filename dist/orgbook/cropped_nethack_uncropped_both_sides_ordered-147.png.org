@@ -1,40 +1,40 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-148.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-147.png]]
-cloak of protection cloak of protection cloak of protection
-This mantle has much better protection than ordinary mantles. A little bit of stirrup
-Although he boasts of his ability to defend himself in the stirrups, it is better not to be afraid of the bear than to be afraid of the manure.
-It is better not to be in love with a bear.
+cloak of protection AC-③
+It is a cloak with much better defensive power than a normal cloak. Just a moment
+I'm proud of my defensive powers, but I'm afraid I'm a man.
+It was better than that.
 
-dwarvish cloak dwarvish cloak AC-0
-A mantle of colorful, colorful dwarves. For humans and elves, it is a bit too small.
-For humans and elves, it is a little too small to be effective as a protection.
+dwarvish cloak AC-0
+It is a cloak worn by a dwarf with a rich sense of color. For humans and elves
+It is too small to be able to exert any defensive power.
 
-elven cloak elven cloak ac-①
-This is an elf-built mantle. It is an elven cloak because its sound-absorbing magic is locked away,
-The sound-absorbing spell is sealed away, allowing it to move in absolute silence (without waking up the sleeping monster).
-The only thing that can be done is to turn off the power.)
+elven cloak AC-①
+It is a cloak made by an elf. Because the magical power that absorbs sound is sealed,
+You will be able to move completely silently (wake up a sleeping monster).
+(It's hard to get 0W).
 
-mummy wrapping mummy wrapping AC-0
-This is a bandage that is left behind after a mummy is defeated. The person equipped with this is called a "DIRE, intactummy wrapper.
-DIRE, a mummy wrapping that is left behind after the AC-0 mummy has been knocked out.
+mummy wrapping AC-0
+It is the bandage that is left behind after defeating mummy. Person equipped with this
+DIRE, just like that, I'm still in mourning.
 
-orcish cloak orcish cloak AC-0
-The black mantle worn by the leader of the orcish cloak clique. The black mantles are worn by the leaders of the Oktoberfest. They are made of the cloth only for show.
-The black mantle is worn by the leaders of the Aoaks.
+orcish cloak AC-0
+A black cloak worn by the captain of the Orcs. With a cloth that is just for show
+② ⑤ First time ⑳ Hoe Gu nai.
 
-HELMS 克
+HELMS Katsu
 
-It's the most important protection for your head. It may be the most important one. It may be the most important.
-And there are many magical items that work on KIMI's head in various ways.
-It's just that there are not many magic spells attached to Kimi's head that can do all kinds of things to it.
+It's a piece of armor that protects your head, which is the most important thing. I'm not sure if it's the most important thing. So
+There are many things that have been given magic that works on your head in various ways.
+That's what I'm talking about.
 
-Dwarvish iron helm Dwarvish iron helm Dwarvish iron helm Dwarvish iron helm Dwarvish iron helm Dwarvish iron helm Dwarvish iron helm
-Dwarvish iron helm is a helmet that dwarves like to wear. While it boasts good protection, it is also very heavy.
-It also has the disadvantage of being heavy.
+dwarvish iron helm o AT g oo AC
+A helmet that dwarfs like to wear. Even though it boasts good defensive power,
+It also poses a serious problem.
 
-Protective gear
+Armor
 
-Armors
+Armo rs
 
 cloak of protection ク ロ ー ク オ ブ プ ロ テ ク シ ョ ン AC-③
 通 常 の マ ン ト よ り も 、 は る か に 防 御 力 に 優 れ た マ ン ト で あ る 。 ち ょ っ と し

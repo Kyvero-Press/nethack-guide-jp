@@ -1,29 +1,29 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-154.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-153.png]]
-water walking boots water walking boots AC-1
+water walking boots AC-1
 
-When equipped with these boots, you will be able to walk on water thanks to the magic power in the soles of the boots.
-The sole of the boot gives you magical powers that allow you to walk on water. This is because you can safely cross the Rin in a certain place.
-Let's go to a certain place.
+When you wear these boots, you can walk on water thanks to the magical power attached to the soles.
+Become more able to handle wood. In a certain place, it is possible to cross Rin safely.
+Jumi Shiru and Song Rou
 
-GAUNTLETS BASKETS
+GAUNTLETS
 
-The basket hand is something you put in your hand. Some magic spells related to the hands are sealed in them.
-There are some magic spells for hands, but Bok is a layman when it comes to magic. I don't know much about it.
+A gauntlet is something you wear on your hand. The magic related to hands is sealed inside.
+I know, but I'm an amateur when it comes to magic. I don't really understand it.
 
 gauntlets of dexterity AC-1
-A cage with an enclosed hawk's power to increase dexterity. From the moment this dragon hand is placed in the cage, the player is in the best of hands.
-From the moment the dragon hand is placed in the cage, the wielder is said to become the most dexterous.
-gauntlets of fumbling Y2 ¥ Obfumbled AC-1
-When equipped with these baskets, the wearer tends to lose his weapons. It is fatal in battle.
-However, because it is cursed in many cases, it is not recommended to use it even once in a fight.
-Even a single act of neglect would be disastrous.
-gauntlets of power gauntlets of power AC-1
-A cage with increased arm strength. The blade is a jiuand or a wort.
-The swing of the cage is so powerful that it can inflict a great deal of damage on the enemy even with bare hands.
-Leather gloves
-leather gloves leather gloves AC-①
-Leather gloves. A normal glove, but nothing more.
+A gauntlet that is imbued with hawk power that increases manual dexterity. The moment I put on this dragon's hand?
+It is said that the person will be able to boast of the highest level of dexterity.
+gauntlets of fumbling Y2 ¥ of fumbling AC-1
+If you equip yourself with these gauntlets, you will easily drop your weapons. deadly in battle
+However, in many cases, it is cursed, so the tide is not strong enough, so it is difficult to reach the tide at once.
+However, if we were to prepare too badly, it would lead to a tragic situation.
+gauntlets of power AC-1
+A gauntlet that can increase your arm strength. The blade of the arm is round and round.
+Even with bare hands, you can inflict great damage on the enemy.
+I'm looking forward to it.
+leather gloves AC-①
+A leather robe. It's just a normal globe, and nothing else.
 
 water walking boots ウ ォ ー タ ー ウ ォ ー キ ン グ ブ ー ツ AC-1
 

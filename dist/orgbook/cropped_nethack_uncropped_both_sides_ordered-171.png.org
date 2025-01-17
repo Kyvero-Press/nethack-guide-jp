@@ -1,39 +1,39 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-172.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-171.png]]
-Spellbook of detect food Food Detection Magic Level 2
-Displays all food on the surgeon's floor. It is very heavy on an empty stomach.
-Shukusho Yaoru I,
+Spellbook of detect food food detection magic level ②
+Displays all the food on the caster's floor. It's very heavy when you're hungry.
+Yado Saraya Sparkle I,
 
-Spellbook of detect monsters
-Displays the location of all monsters present on the magician's floor. Not only the monster's location, but also the location of the monster.
-The user should be able to understand not only the location of the monster, but also its species.
+Spellbook of detect monsters Monster detection magic level ①
+Displays the locations of all monsters on the caster's floor. monster rank
+It seems that you can understand not only the location, but also the type.
 
-Spellbook of detect treasure Item detection spellbook level (4)
-Shows all items on the same level as the chanter. The general categories of the items are also displayed.
-(4) Displays all the items on the same level as the Chanting player, and also shows the general type of items, which is useful for obtaining weapons and armor.
+Spellbook of detect treasure item detection magic level ④
+Displays all items on the same floor as the caster. Item size
+The various types are also displayed, so this will come in handy when you want to obtain weapons and armor.
 e
 
-Spellbook of detect unseen invisibility spell level (3)
-For a short time after casting this spell, you will be able to see invisible objects.
-This spell should be used when you are attacked by a transparent monster.
-Spellbook of dig
-Casting this spell causes the walls of the grotto to crumble, creating a passageway. It can also be used against rocks.
-It can also be used against a rock, turning it into a multitude of small stones.
-Spellbook of extra healing
-Spellbook of extra healing, pinnit point will be restored considerably. Healing in the meantime.
-If healing doesn't seem to be the right choice for you, I'd recommend this one.
-Spellbook of finger of death level (7)
-When the conjurer casts this spell, a ray of death is emitted from the tip of the finger. The target is a candle, a crotch, or a fire.
-The spell is performed by the magician, and the spell is cast on the subject. The "death of the dead" is the result of the "death of the living".
-The only thing that matters is what happens to you.
-Spellbook of fireball
-A ball of fire flies out from the wielder's palm, spreads out, and turns into a huge ball of fire that attacks the enemy. Typical offensive spell
-This is a typical offensive spell.
-Spellbook of force bolt
-A spell to inflict damage by emitting a force field from the palm of the hand. The damage is small,
-It deals little damage and may be avoided by the enemy, but it has the advantage of consuming little magic power.
+Spellbook of detect unseen invisible magic level ③
+After reciting this spell, you will be able to see invisible things for a while.
+It should be used when you are attacked by a transparent monster.
+Spellbook of dig digging magic level ⑤
+When you recite this spell, the walls of the devil's cave will fall apart and a passage will open. Also, against rocks
+It can also be used as a stone, and it can also be used to transform a rock into a countless number of small stones.
+Spellbook of extra healing Level ③
+By reciting the spell, the pinpoint point will be able to restore the cause. healing and social gathering
+If it doesn't seem to suit you, these may be more recommended.
+Spellbook of finger of death Level 7
+When the caster casts this spell, death rays emanate from their fingertips. Target
+What's going on with you in this swaying river of death?
+If you clean it with chips and sandpaper, it will come out clean.
+Spellbook of fireball fire ball magic level ④
+The fireball that shoots out from the caster's palm spreads out, turning into a gigantic fireball that attacks the enemy. teenager
+It is a superficial attack type spell.
+Spellbook of force bolt Level ①
+A spell that causes damage by emitting a force field from its palm. The damage caused is small,
+Although it may be avoided by enemies, it has the advantage of consuming less magic power.
 
-Spellbook 1 1 grimoire
+Spellbook 11 Spellbook
 
 Spellbook of detect food 食 物 看 破 魔 導 レ ベ ル ②
 術 者 の ぃ る 階 に あ る す べ て の 食 物 を 表 示 す る 。 空 腹 時 に ち ぃ い て は 非 常 に 重

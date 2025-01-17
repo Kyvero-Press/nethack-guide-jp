@@ -1,0 +1,41 @@
+Becomes an overlord. The number in parentheses means the maximum hit point.
+No matter how much you rest or take medicine, you will never recover more than this number.
+different doctor,
+
+On the right, Pw: That's magical power. Every time I cast a spell, it fades and dries.
+Of course, this number is less than the magical power required to cast the spell.
+And even if you remember magic, it's hard to violate it.
+
+BIC ⑧ ru's 0 is the time of original disaster ⑤'s ⑤'s class is,
+It represents the strength of the armor that the character is equipped with. The fewer the number, the fewer
+E.
+
+The Xp next to it is the experience value. The number on the left is your level, and the number on the right is your experience value.
+Ru. When the experience value exceeds a certain value, the level increases. As the level increases
+As a result, your hit points will increase, making you more resistant to poison and magic.
+be . T: indicates the elapsed time.
+
+Additionally, the state of your stomach is displayed next to the elapsed time. Under normal conditions, nothing happens.
+Not displayed. Satiated when you're full, HHungry when you're hungry.
+If you don't have the strength to do so, you will be Weak, and if you faint due to hunger, you will be Faint-.
+It becomes ing. When you become Fainting, you don't even have to walk. Then,
+In the end, you will starve to death. Securing food should be a top priority.
+
+Your physical condition is often displayed next to your stomach condition. i put my lips in
+Conf, Sick when you get sick, Blind when you feel better, faint.
+Then, Stun discovers that he drank some kind of medicine and ate some kind of monster.
+Therefore, when a trip occurs, Hallu is displayed.
+
+The top of the screen depicts the surroundings and the progress of the battle with the monsters.
+e S e N e L ni ni zu wa quotient ni ni de mi m ky ku ku ku
+Special things that happened around you (pets are so cute that they disappear from your sight)
+) are explained in English. Also, the names of the things that fell on the floor, the throne, the fountain, etc.
+(S S e 0⑨⑧② RU ⑳ ⑲ U S,
+
+Alternatively, the character's action options are also displayed on this line. Ta
+To put it another way, when you throw away a number of items, you have choices, such as which ones to throw away.
+`What do you want to drop? [$ad-fi-kwor? *]]
+0 ② bz,
+
+40 CHARACTERS 1 1 One of you sent to the devil
+

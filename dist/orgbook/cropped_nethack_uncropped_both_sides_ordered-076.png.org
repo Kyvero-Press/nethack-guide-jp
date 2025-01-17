@@ -1,43 +1,43 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-077.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-076.png]]
-If a position proves to be effective, it will be added to the identification list displayed in the Guichomando.
-If the same-colored action is found later, the name will be displayed automatically.
-The name will be added to the identification list displayed by the command.
+Potions that have been tested and found to be effective are displayed in the identification list using the Gi command.
+If you find a potion of the same color from now on, the name will be displayed automatically.
+② Go to c.
 
-When the water from the spring is drunk, various effects will appear on the landmass.
-The water from the spring will have a variety of effects on the landmass. In most cases, nothing happens except for quenching the throat, but it may provide some nutritional supplementation.
-In some cases, the poison sent from the body can be used to stimulate the body's energy. Also, the
-K, M, small (Mosis, M, small (Mosis, M, small (Mosis, M
-Zme T USSR, m is the FS stop is M is the Wo rk t a c k 1 d a y m o n .
-And if he (or she?) is blessed with a handful of good fortune, he (or she?) will be able to fulfill his (or her?) desire. He will grant me what I want.
-I'm sure he will.
+When you drink water from a spring, various effects appear randomly.
+Ru. Often nothing happens just to quench your throat, but it did provide some nutritional support.
+②'s sending elementary school student will be born with poison.
+K M 1 ( M m small)
+Zme T USSR, m's FS stop is M's walk taxi demon.
+And if you are blessed with a handful of good luck, he (?) will make your wishes come true.
+Darro.
 
-But to drink from the fountain only by chance is folly.
-It would be a fool's errand. In the effects of the Fountain, the scales of fortune and misfortune are hung in the balance.
-The scales of fortune and misfortune hang in the balance at the Fountain. Before you meet your good fortune, you may have to bear your fatal misfortune.
+However, it is a foolish thing to drink a spring with your hands, hoping for some chance luck.
+Let's say yes. In the effect of the spring, the balance of good fortune and bad luck is balanced.
+That's it. Before you can find good luck, you may end up carrying fatal misfortune.
 
-Up, Down Ascending and Descending the stairs.
+Up, Down
 
-Nasrullah put several unidentified canes under his left arm and stepped onto the stairs. A
-The A-structure of the building would not be easily broken, but the steep steps were terrifying.
-Trembling, I clutched the support with my free right hand.
+Nasrulla held several unidentified canes under her left armpit and put her foot on the stairs. A
+Since it was constructed, it probably wouldn't break easily, but the steps that were so close to the steep descent were terrifying.
+Even though I was trembling, I gripped the pillar with my free right hand.
 
-She descended carefully and deliberately. Step by step, she could see the floor below.
-One by one, she could see the floor below. If she didn't have anything on her, she could have jumped down. However,
-However, I was concerned about the three pills in the pockets. If the bottle broke and the pills were sucked out, what would happen?
-If a bottle broke and I inhaled the pills, I didn't know what would happen. I could lose my eyesight from a bird's eye view.
-507, 507
+She lowered her foot slowly and carefully. One step, one step, and the floor below.
+I can see it. If you don't have anything with you, you can just jump down here. but ,
+I was curious about the three medicines I had in my pocket. What if the bottle breaks and you suck out the medicine?
+If so, I don't know what will happen. Is there any possibility of losing your eyesight?
+507,
 
-Going down the stairs would naturally slow down.
+My legs naturally become slower when going down the stairs.
 
-(How pathetic!)
+(Pathetic)
 
-I think about Lou's lips (8).
-(I wonder what he would say if he saw me like this.)
+Ru lips think ⑧
+(I wonder what he would say if he saw something like this.)
 
-Nasrullah was thinking of the faces of his friends at the orphanage.
+Nasrullah remembered the face of her friend from the training school.
 
-80 COMMANDS 11 11 To Walk Through the Cave ......
+80 COMMANDS To walk through the devil's cave...
 
 ん で み て 効 果 が 判 明 し た ポ ー シ ョ ン は 、 ギ コ マ ン ド で 表 示 さ れ る 識 別 リ ス ト
 に 加 え ら れ 、 以 後 同 色 の ポ ー シ ョ ン を 発 見 し た 場 合 は 自 動 的 に 名 前 が 表 示 さ

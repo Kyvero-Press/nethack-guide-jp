@@ -1,36 +1,36 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-184.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-183.png]]
-The user can convert an arbitrary item to another by shaking it off.
+You can convert any item into something else by using the corresponding shake.
 
-Wand of probing discrimination
-The probing method is based on the following formula: - Shift to the penimimim in the monskoo or ped.
-The characteristics of the dotted and lilligiputian y-values can be determined.
+Wand of probing
+MONSTER SCHOOL AND PED SIZE
+It is possible to know the characteristic values of.
 
 Wand of secret door detection
-In the room, wield this wand to detect a secret door. You can find the see-through door with a flick of the wand.
+If you wave this ladle inside the room, you will be able to discover the secret door. Current
 
-Without the secret door, there is no anti-expansion.
+Of course, there are some things here, but there is no anti-propagation unless there is a secret door/a.
 
 Wand of sleep
-Wielding the ladle against monsters will put them to sleep. But be wise.
-However, if you are concerned with a poor, wicked, and mournful manipulator, you should not use this ladle. But this is not the case.
+If you wave this ladle at a monster, it will fall asleep. Just and wise
+As for the poor management of the mourners, I am not entirely sure.
 
-Wand Of SlOW monster
-Spray a monster with a slowing spell, halving its movement speed and number of attacks.
+Wand Of SLOW monster
+Cast slowing magic on monsters, cutting their movement speed and number of attacks in half.
 
-The Wand Of SlOW monster can be used to cast a slowing spell on a pot-bellied wand monster, halving its movement speed and attack frequency,
+Part 0 The lever is very strong,
 
 Wand of speed monster
-The wand of speed monster doubles the movement speed and number of attacks of the target wielding the wand. Of course,
-Heart Frosted Goods Kutaneh Self-wrapping Puppet - Inferiority. It is also possible to The heart-frosted product can also be used as a self-wrapping puppet.
+Doubles the movement speed and number of attacks of the target you swing your staff at. of course ,
+It is also possible to self-package a puppet, which is inferior in quality.
 
 Wand of striking
-Wand of striking can be wielded against monsters, etc. to inflict some damage.
-(boulder), etc.
+If you swing it against monsters or the like, it will cause some damage.
+It can also destroy objects such as boulders.
 
-Wands 1. 1. 1 ladle.
+Wands one one ladle cane
 
-YAN
+Yan `
 
 対 し て 振 り か ぎ せ ば 、 任 意 の ア イ テ ム を 別 の も の に 変 換 で き る 。
 

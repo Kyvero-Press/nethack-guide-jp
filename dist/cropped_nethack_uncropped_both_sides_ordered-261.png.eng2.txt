@@ -1,0 +1,51 @@
+picture
+
+Command
+
+Stem gentleman ⑪⑪⑪ En en en en
+
+Command to perform actions
+
+” is displayed, ([(Hold down the CTRLJ key and press the specified alphabetic key.
+⑤
+
+` To execute a command that requires a command, first enter the ( key, then enter the specified alphabetic character.
+Enter.
+
+・Commands related to movement
+
+The corner of the elevated stage (E)
+``Go up the stairs to the floor below'' (when you are on the stairs)
+Take a break ~
+
+close the door
+
+open the door
+
+Teleport (if you have teleport ability)
+Jump to another location
+
+・Command to check your belongings etc.
+
+Show all your belongings to Yuan
+
+Display items of the specified type
+
+Display a list of known spells (same as [ + |)
+Show the weapons you have
+
+Show the armor you have
+
+Display the ring you are wearing
+
+Show the charms you are wearing
+
+Display the tools used
+
+Count the gold coins you have
+
+Display what kinds of things you have found so far
+Find out the type of punishment
+
+Command to take action
+

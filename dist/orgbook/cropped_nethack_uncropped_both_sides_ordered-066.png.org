@@ -1,50 +1,50 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-067.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-066.png]]
-If the victim is a person who has been killed, it goes without saying that there will be one more victim (see who that victim is at ......). S0⑧
-). Unless there is a large space, offensive wands (such as M2 LDs for kidnapping) are not recommended.
-If you don't have a large space, you should use an offensive wand (kidnap M②LD EH TWT=IT).
+It goes without saying that the number of victims will increase by one (who is that victim......S 0 ⑧
+(I don't think it's even possible.) Unless it's somewhere in a wide space, it's an offensive type one.
+M② LD EH TWT=IT should be good.
 
-Other `convenient' wands can be a valuable help in case of danger.
-Incidentally, if you want to use a wand for yourself, when asked for a direction
-If you want to use the wand against yourself, you can use IZ. for the odd pigeon (③W.).
+Other ``handy'' wands will prove to be valuable aids on your adventures.
+By the way, if you want to use the wand on yourself, when asked for direction,
+IZ.
 
-However, all wands have a `usage count'. i command
-The number in parentheses is the number of times it is used. When this number reaches 0, the wand is used as a fuel stamp.
-If this number reaches 0, the wand runs out of fuel and cannot be used again. Unidentified wands
-Even if the efficacy of the wand is known, the number of times it can be used is not known, so it may not be used until the time comes to use it.
-The reaction does not occur at the moment of use = (5) Arrui D, Arrui D, Arrui D, Arrui D, Arrui D, Arrui D, Arrui D, Arrui D, Arrui D
+However, every wand has a set number of uses. i command
+The number in parentheses when listed is the number of times it has been used. This becomes 0.
+The wand runs out of fuel and becomes unusable. Not identified
+Even if I know the effectiveness of the wand, I don't know how many times I'll use it, so I try to use it right away.
+No more reaction W@ \ = ⑤ D,
 
-In addition, although the cursed wand is effective as usual, there is a possibility that it will explode.
-D, and the cursed wand has a weakness that it can be detonated.
+Also, although a cursed wand has normal effectiveness, it has the potential to explode.
+There are some weaknesses.
 
-Thus, while wands are convenient, their use can be risky. However, it is important to
-However, they can be extremely useful if they are used in the right place and in the right situation after proper identification.
-(It can be very useful.
+While wands are convenient, they also come with some risks when used. deer
+It will be very useful if you make a careful judgment and then use it in the place and situation where it should be used.
+(It is possible to close it with your arm.
 
-Searching for Search Dictionaries
+Search dungeon exploration
 
-The road was clear.
+The road was a dead end.
 
-Nasrullah found a handmade map. Based on the number of steps, there was no doubt that the house was at the end of the platform.
-Nasrullah was sure that the house at the end of the platform was there.
+Nas Ruler stares at a handmade map. Calculated from the number of steps, there is a room beyond the platform.
+There is no doubt that this is true.
 
-However, what she sees in front of her is just a stone wall. There was no door.
+However, what was in front of her was a simple stone wall. I couldn't find the door.
 
-[Somewhere there was a way out. ...... ]
+[There's a way out somewhere...]
 
-She patted the wall. But there was no response. I poked her with the tip of my sword,
-No change was seen. I checked again, but the result was the same.
+She patted the wall. However, there was no reaction. I tried to poke it with the tip of my sword, but
+No change is observed. I re-examined the results, but the overall results were the same.
 
-Nasrullah bites Tetsu.
+Nasrullah believed in philosophy.
 
-[I'm wrong. ...... I don't know.
+[Is the outlook different?]
 
-If there is no door here, we will have to go back the same way. However, "a short walk will bring you to the ogre.
-But if you walk a little further, you will meet Ogre. With her current strength, she would not be able to defeat the monster. The moment before...
+If there was no door here, I would have no choice but to return the same way. However, if you walk a little, you'll find Ogre.
+I met him. With her current strength, she couldn't defeat that monster. ahead of time
 
-70 COMMANDS 1 To walk through the cave ......
+70 COMMANDS To walk through the devil's cave...
 
-I'm a rope
+I m rope
 ば 、 犠 牲 者 が 一 人 増 え る の は い う ま で も な い ( そ の 犠 牲 者 が 誰 か …... S 0 ⑧
 い う ま で も な い だ ろ う )。 広 い 空 間 の あ る と こ ろ で な け れ ば 、 攻 撃 系 の ワ ン
 ド ( 拐 用 M② LD EH TWT=IT う が い い は ず だ 。

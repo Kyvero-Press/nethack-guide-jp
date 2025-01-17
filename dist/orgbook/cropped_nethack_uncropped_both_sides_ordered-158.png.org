@@ -1,27 +1,27 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-159.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-158.png]]
 Potion of blindness
-Potion of blindness is a tribute. If cast on an enemy, it can greatly reduce their offensive capabilities.
+Become a tribute. If you throw it at the enemy, you can significantly reduce the enemy's attack power.
+%oh
 Potion of booze
-Potion of booze
-A highly alcoholic and harsh alcoholic beverage. Most people get drunk in an instant.
-Most people are intoxicated in an instant, and their spirits are said to be temporarily disturbed.
+It was a very strong drink with a high alcohol content. Most people get drunk in an instant
+Although it is temporary, it is said to cause mental confusion.
 Potion of confusion
-A potion that causes confusion. If applied without throwing it at the enemy, it will cause him to become confused. However, as with all medicines, it is not always possible to avoid the effects of the drug.
-However, as with all medicines, if you throw a medicine too close to the enemy, he may inhale the fumes from the drug.
-The person who administered the drug would also be exposed to the smoke. The person who administered the drug could also be injured. Potion of enlightenment
+A drug that causes confusion. If you throw it at the enemy one by one, it will confuse the enemy. However, regarding medicine in general
+The thing to say is that if you throw drugs too close together, you will inhale the smoke from the drugs.
+If you use it, you will get into a lot of trouble. . There is a chance that the person who threw the ball will also be able to catch it.
 Potion of enlightenment
-The moment you take it, you will know your own qualities. For example, when we see the transparent, we can see the transparent.
-For example, if you are able to see what is transparent, you will be able to see the light of day, and you will be able to see the light of night.
-The Potion of extra healing is the most important aspect of the healing process.
+You can know your own qualities the moment you drink it. For example, if you look at something transparent
+④ The quality of the inkstone is so high that it can be machined.
+It clearly shows who you have.
 Potion of extra healing
-The hit point will be restored to its highest value. In addition, blindness and sickness are also restored.
-(It also seems to restore blindness and sickness. Also, if the hit point is at its highest value,
-The limit of the docking point is also likely to increase.
+The hit point recovers to its maximum value. Furthermore, blindness and disease
+(sick) also seems to be recovering. Also, if the hit point is the maximum value,
+This is because the limit for dot pints will increase.
 
-The tools that await you at ITEMS Ippanzhanggu.
+⑦⑥② ITEMS The tools that will wait and receive you in the first place
 
-(7) (6) (2) ITEMS
+Ty
 
 Potion of blindness 貢 目 の 薬
 貢 目 に な る 。 敵 に 投 げ つ け れ ば 、 敵 の 攻 撃 力 を 大 幅 に 落 と す こ と が で き

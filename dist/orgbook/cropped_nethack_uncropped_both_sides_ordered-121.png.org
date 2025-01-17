@@ -1,42 +1,42 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-122.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-121.png]]
-There are various effects that can be achieved by immersing the items in the fountain. Some are monstrous, others are cursed or blessed.
-Some are monstrous, others are cursed or blessed. Prayer
-If the player's character is low level, he or she may simply want the Fountain to be blessed.
-It would be quite reckless to attach an item to the Fountain simply for the sake of receiving a blessing when the player's character is low. It would be a very reckless thing to do.
-It would be wise not to soak the water unless it is absolutely necessary or you are in trouble. It is also rumored that a certain sword is said to have been dipped into a fountain.
-(7) If a certain sword is dipped into a fountain, will it be possible to obtain the legendary Excalibur of the Polyjuu Sword?
-It is said that it is not possible.
+When items are immersed in a spring, various effects appear. A monster appears
+In some cases, you may receive a curse or a blessing, and there are a variety of cases. player
+If your character is of a low level, you may visit the fountain simply because you want to receive a blessing.
+Attaching the item may have been a very reckless act. It's very necessary
+It would be wiser not to dip into it except when you are in trouble. Or according to the rumors.
+If you immerse a certain sword in a spring, will you be able to obtain the legendary Excalibur?
+⑧⑥ I don't mind.
 
-Yoshitsune's consciousness has been clouded by a vague sensation for some time now, and he is not sure if he will be able to find the legendary ex-calibur of the Polyjuu Sword.
+Yoshitsune's consciousness was dominated by the senses he had been using for a while.
 
-o I feel so bad.
+o I'm in a bad mood.''
 
-He repeated this five times in just a dozen steps down the corridor.
-I was in such a bad mood that I repeated it 5 times in just a dozen steps. It was not that there was anything wrong with her body or that she was in pain.
-I had no physical problems or pains, but I couldn't deny that I was not in good shape.
-I guess that canned food was the last thing I needed. ......
+He was so unwell that he repeated this ⑤ times in just a dozen or so steps down the hallway.
+That's what happened. It doesn't mean that there's something wrong with your body or that something hurts.
+But no matter what, I couldn't deny that I wasn't feeling well.
+``I guess that canned food was the problem after all...''
 
-At this point, Josine, who had no monster to eat, found a can in the long chest.
-Yoshikine, who did not have any of the monsters that could be eaten, ate the canned food in the long chest without checking the contents.
+In this place, Yoshine, who had found a monster that seemed to be eaten, was in the long chest.
+I ate the canned food that was inside without really checking the contents.
 
-Then, she began to have a slight fever. He began to feel as if he had a slight fever.
-I felt as if I had a slight fever. My hands and feet were oppressed by a floating sensation, and my head felt as if it were in a haze.
-My head was as if in a haze.
-It was as if I had been poisoned.
+That's why. I started to feel like I had a slight fever.
+teeth . My limbs felt as if they were floating, and my head felt as if it were covered in mist.
+I didn't know what to do.
+``I think there's some poison in there.''
 
-I couldn't think. As he was about to speak to himself, Yoshine was struck by a sensation that made her body float.
-I was struck by a sensation that my body was floating. It was a sensation unlike anything he had ever felt before. Something emerged from the inside of his body.
-Something emerged from the inside of her body, and she felt as if her body was being pulled by that something. ...... E
+I couldn't think of anything. Just as she was about to say that to herself, her body floated upwards.
+I was assaulted by sensations. It was a different feeling than being in bed. Something is floating from inside my body.
+I felt like my body was being drawn to something... E
 
-During the next interval, Yoshitsune notices that the surroundings are completely different.
-It's not the corridor he's been walking in all these years - he's in a wailing dream somewhere.
-It is not the corridor where we walked to the end of the street. Not only that, but I could even see a few killer bees in front of me.
+In the next moment, Yoshitsune notices that his surroundings are completely different.
+2o Not in the hallway where I was walking, but somewhere, I heard a voice crying.
+That's it. What's more, I could even see several killer bees right in front of me.
 
-"What the..." "Oh, my God, that's..." "Oh, my God, that's...
+“What?
 
-Teleport 1252
-=Z
+Teleport 125 2
+=
 Z
 
 ア イ テ ム を 泉 に 浸 す 場 合 に は い ろ い ろ な 効 果 が あ ら わ れ る 。 怪 物 が 出 現 す

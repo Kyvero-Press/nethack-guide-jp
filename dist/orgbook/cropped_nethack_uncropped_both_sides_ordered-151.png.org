@@ -1,46 +1,46 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-152.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-151.png]]
-BOOTS BOOTS
+BOOTS
 
-Boots will protect your feet. ...... Just as well, eh? But in this grotto there are also
-But some of these ghouls are so vicious that they will bite your feet and not let go. I think it's a necessity.
-I think it's a necessity. Some of them have magical boots that make them faster or muffle their footsteps.
-I think it's a necessity.
+Boots protect your feet... of course. But inside this devil's cave,
+There are also some vicious insects that bite your feet and won't let you go. I think it's a necessity
+Yo . There are also magic boots that make your feet faster and the sound of your footsteps disappear.
+is.
 
-elven boots elven boots AC-1
-These boots are made of elves. Like the elven cloak, it has a magical power to absorb sound.
+elven boots AC-1
+These are elf-made boots. Similar to Elven Cloak, it has the magical power to absorb sound.
 
-Like the Elven Cloak, the Elven Boots have a sound-absorbing charm that allows them to move around without making the slightest noise.
+Because of this, you will be able to move around without making any loud noises.
 
 fumble boots AC-1
-At first glance, these boots may look like ordinary boots. However, these boots have a magic power that is truly frightening.
-However, this boot has a hidden magic power. They make the wearer fall down at the drop of a hat.
-And in many cases, they do. In many cases, the purple boots are so cursed that they are difficult to move around in the magical hollows.
-The magic of the magic hollows is that they are so cursed that it would be a great burden to move around the magic hollows.
+At first glance, they look like ordinary boots. However, these boots are scary.
+A magical power is hidden within it. The beautiful wearer fell all over the place.
+It's okay. And in many cases, fan pull boots are cursed, so they are magical.
+It would be a huge burden when moving.
 
-high boots High boots AC-②
-These are leather boots that go below the knees. They are quite heavy, but the weight of the boots is not too great.
-The high boots are made of leather and are made to fit below the knees.
+high boots AC-②
+They were leather boots that reached just below the knees. Although it has some weight, it is suitable for use as boots.
+It has a defensive power commensurate with its weight.
 
-iron shoes iron shoes AC-2
-Shoes made of iron. They are said to be used mainly by the Dwarves, but they are quite heavy.
-Needless to say, they are quite heavy. They have that much protection, though. ......
+iron shoes AC-2
+They are shoes made of iron. It is said that it is mainly used by dwarves, but it is quite heavy.
+Yes, it's not even possible. He has that much defensive power, but...
 
-jumping boots jumping boots AC-①
-These boots increase the number of jumpers by an astonishing amount. Jumping over a drop hole or moat is a DHER%.
-DHER% if you jump over a drop hole or moat.
+jumping boots AC-①
+These boots will dramatically increase your jumping ability. Jump over pits and moats
+That's DHER%.
 
-levitation boots `levitation boots AC-①
-The best way to get through is to get the best of both worlds. However, if you are not prepared for this boot, you may find yourself on the floor.
+levitation boots ` levitation boots AC-①
+The key to getting through this is to decide. However, I laid these boots on the floor.
 
-However, if these boots are not properly prepared, it will be impossible to find the ayte that has been dropped on the floor.
+⑤ I can't make small pictures anymore.
 
-low boots Low boots AC-①
-Boots that extend almost to the top of the cup. The boots are more comfortable than the sandals that are usually used by the criminals.
+low boots AC-①
+Boots that go almost to the top of the ankle. Much better than the sandals commonly used by adventurers.
 
 Armors
 
-Yama!
+En!
 
 BOOTS ブ ー ッ
 

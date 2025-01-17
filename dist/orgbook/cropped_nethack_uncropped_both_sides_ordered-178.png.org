@@ -1,30 +1,30 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-179.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-178.png]]
-key
-This is a key for each type of key. They are classified according to the part in hand.
+hairy
+There are various types of keys. The type is marked on the part you hold.
 
-lamp lamp lamps
-Lamps can be used to light up a dark room. The lamp lamp lamps can be used to light up a dark room, but they are not effective.
-Large box
+lamp lamp
+You can use it to brighten up a dark room. ① There is no effect. ② There is no effect.
+large box large box
 
-Like a sack, it can store items. However, because it is quite heavy, it is not advantageous to carry it to the office.
-However, it seems that there is no advantage in carrying it around with you.
+Like a sack, it can store items. However, due to the extra weight
+There seems to be no advantage to carrying it around.
 
-leash reins
-The leash allows the rider to walk with the pet. In other words, the pet can be treated like an item.
-In other words, they can treat the pet like an item. For example, if you get stuck on a teleport trap, you can still walk on the pet.
-The R
+leash
+Helps your pet learn to walk. In other words, treat your pet like an item.
+It is possible to do this. Even if you get caught in a teleport trap, your pet won't survive.
+It is said that R will be teleported together with the new machine.
 
-lock pick lock-opening tool
-Locked doors and large boxes can be opened. Many thieves prefer to use their own credit cards and credit cards with a password rather than a credit card.
-Many thieves prefer this lock-pick tool because they trust their own skills more than a credit card or a combination.
+lock pick tool
+Able to open locked doors and large boxes. Many thieves steal credit cards.
+He believes in his own skill more than in keys and keys, and loves using this lock-picking tool.
 
-magic flute Yashic flute
-The magic flute's soothing tones lull many monsters to sleep.
+magic flute
+The peaceful tone of the magic flute lulls many monsters into sleep.
 
-182 ITEMS 1 The tools that await you in the cave
+182 ITEMS 11 Tools waiting for you in the devil's cave
 
-W" plot
+W' yo m plot
 key
 各 種 の 鍵 で あ る 。 手 持 ち の 部 分 で 種 別 が な さ れ て い る 。
 

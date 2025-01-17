@@ -1,58 +1,58 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-264.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-263.png]]
-Briefly describe the contents of the box or bucket below.
-Use the monster's special powers.
+Cover the contents of the box or bag underneath.
+Use the special abilities of monsters.
 
-On the Mulberry Altar, offer sacrifices to God.
+Offer sacrifices to God on the mulberry altar.
 
-Pray to God for help.
+Pray to God and ask for help
 
-Rub the solid lamp
+Rub the dirt lamp
 
-Sit on the spot
+sit on the spot
 
-(if you have the ability to do so) to chase off the immortal monster.
-Remove the head
+(If you have that ability) Drive away the immortal monster.
+remove the length
 
-Wipe your face
+wipe your face
 
-Command for the En Players
+Commands for the player
 
-Open Help menu
+Open help menu
 
-Displays a description of the displayed symbol ________________________________________________________________________________________________________________.
+Display a description of the displayed symbol _
 
-Displays a description of the command's operation
+Display command behavior description
 
-Repeats the previous command.
+Repeats the previously executed command
 
-Give a name to each monster
+Name each monster
 
-Set up a new option
+Setting options
 
-Re-display the previous message (successive actions will display the previous messages one after the other)
-(By continuing to do this, the previous messages will be displayed one after the other)
+Redisplay the previous message (continue execution)
+Therefore, previous messages will be displayed one after the other.)
 
-Abandoning the game
+abandon the game
 
-Re-display if the screen is broken
+Redisplay if the screen is broken
 
-(7) Safes the game and finishes the game. The next team continues from the place where the game was played.
-The next group can continue from the place where they sep
+⑦ Safe and secure your home. The next group saved the place.
+Continued from `
 
-Display the NETHACK version number.
+Displaying the NETHACK version number
 
-Displays the history of NETHACK
+Display NETHACK history
 
-Displays options when NETHACK is compiled.
-Displays options when NETHACK is copied (dis)valley-mode Lo
-Once entered, the normal state cannot be restored.
+Show options when compiling NETHACK
+Dis) Bari mo I kel yo mo ni” Iru Lo
+Once you get into it, you can't go back to normal.
 
-Pressing the 0N/.FF button in the "p" option will bring up the rising sun.
-(5) (6) (7) (8) (9) (10) (11)
-(5) (6) (6) S-shell is available. To return to the game, enter `exit
+0N/ for p-ckup option. FF. The rising of the rising sun
+Ru
+⑤⑥ Use the S shell. Enter `exit' to return to the game.
 
-Commands for Players
+Commands for players
 
 下 に あ る 箱 、 も し く は バ ッ ク の 中 身 を 略 套 す る
 怪 物 の 持 つ 特 殊 能 力 を 使 う _

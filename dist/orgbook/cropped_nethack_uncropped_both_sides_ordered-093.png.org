@@ -1,43 +1,43 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-094.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-093.png]]
-Kicking the monster will give you a damage. Samurai and Priest's `kicks' are particularly powerful.
-The `"kick"' of Samurai and Priest in particular is so powerful that they can take down shallow monsters with a single blow.
+If you kick a monster, you will receive damage. Especially the samurai and priest's kicks.
+The force is so strong that it is possible to defeat monsters on shallow levels with a single blow.
 
-Normal doors can be opened with the o-command, but locked doors can only be opened with a duplicate key or a keypad.
-To open a locked door, you have to use a duplicate key, a credit card, or kick it open at random.
-There is no way to open the door. However, once a door has been kicked in, it cannot be closed again.
-Therefore, if you plan to use the door in the future, such as when you need to use the dormitory, it is better not to use the door.
-If you plan to use the door in the future, such as when you need a dormitory, it would be wise to stop using it. Also, kicking the loam will only hurt your feet.
-If the door is a concealed door, you can kick through it just as easily as you can through a visible door.
-If it is a concealed door, you can kick through it just as easily as you can through a visible door.
+Normal doors can be opened using the o command, but opening a locked door is not possible.
+To do this, you can use a duplicate key or credit card, or you can just kick it open.
+There is no way. However, the door that I had just kicked in could not be closed again.
+If you plan to use that door from now on, such as when you need a parlor for some reason.
+It would be wiser to just stop. Also, kicking the soil will only hurt your feet, but that's fine.
+If this was a hidden door, you could kick it down just like you could a visible door.
+Ru.
 
-When the item is kicked, the item moves in the direction of the kick in the case of a Taitai.
-However, the point of the kick is not a point of attack. However, it is better not to kick the point, as it may be broken by the impact.
-It is better not to do this. The distance the item moves depends on its weight and gut force (too heavy and too weak).
-(If the item is too heavy, it will not move.) And let's not forget,
-Kicking the treasure chest can break the lock. However, the trap is not a trap.
-If a trap has been planted, be sure to make sure that it works.
-Al e and 4) e
+When you kick an item, it usually moves in the direction it was kicked.
+Ru. However, if you kick the potion, it may break due to the impact, so I decided not to do so.
+That would be better. The distance an item must be moved depends on its weight and strength.
+(Items that are too heavy will not move). The only thing you have to do is forget it.
+This means that you can break the key by kicking the treasure chest. Tadasito
+If the wrap is set up, it is important to make sure it is working properly.
+Al e O ④ e
 
-#Force, Loot Pry open and look inside.
+#f #ー Force, Loot pry open, see inside
 
-There's no end to this! Oh, God! Oh, God!
+``There's no limit! Too!''
 
-Teeke swung his sword at the ogre in front of him with a wicked grin on his face. Excerpt
-The river cuts off the torso of the ogre very gently, and the upper part of the ogre's body falls backwards with a clean slice.
-The upper half of his body falls behind him, revealing a sharp cut. As if overcoming the corpse, the next monstrosity quickly moves in front of it.
-The next monster came forward. This time it was a demon with a burning flame on its body.
-It was
+Tike swore, but swung his sword at the ogre in front of him. Exca
+The river easily split the ogre's body, and cut the ogre's upper body clean.
+Without showing his mouth, he fell backwards and began to dream. As if I were to climb over that corpse, I would immediately move on to the next one.
+A monster came forward. This time, a demon was clothed in burning flame.
+is "
 
-The area around Teeke was filled with the corpses of the Monsters. How many have you seen so far?
-Tiké herself doesn't even know how many she's lost.
+The area around the tea room was filled with the corpses of monsters. In my house
+Even Tike himself doesn't know how many he will see.
 
-Fear Liu
+fear liu
 
-Teeke receives a dragon blaze from a long distance away in the shield. Bull.
-The dragons' "electric breath" was reflected back onto the mirrored surface of the shield, and several mobiles were seen in the distance.
+Tike received the dragon's breath from a long distance with his shield. bull
+- The dragon's ``electric breath'' is reflected on the surface of the mirror-like shield, and several monsters are struck by it.
 
-Pry open, see what's inside.
+Open it and see what's inside.
 
 怪 物 を 蹴 る と ダ メ ー ジ を 与 え ら れ る 。 特 に サ ム ラ イ と プ リ ー ス ト の `“ 蹴
 り “ は 強 力 で 、 浅 い 層 の 怪 物 な ら ば 一 撃 で 倒 す こ と も 可 能 な ほ ど だ 。

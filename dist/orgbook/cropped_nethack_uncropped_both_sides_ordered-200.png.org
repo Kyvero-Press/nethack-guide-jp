@@ -1,34 +1,34 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-201.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-200.png]]
-The swamp is sealed with an incision that is different from a 0.5 mm thick swamp, so it seems to be an insurmountable obstacle to orecchagas.
-The swamp seems to be a perfect match for the oukagas.
-Orcrist BHOEH-FN T YR b
-This great sword, called the Orcrist by the Elves, is called the Mitsukimaru by the Orcs.
-This great sword, called the Orcrist among the Elves, is feared by the Orcs, who call it the clawed circle. This great sword has been used by hundreds of orcs for centuries.
-The sword is the most famous sword that has been used for hundreds of years.
-Snickersnee Snickersnee
-This is the sword that every Samurai dreams of owning at least once. The blade of this katana
-Whatever it is that touches the blade of this katana, it will be cut in two.
-Sunsw. rd Sunsw. rd
-The long sword that holds the radiance of the sun, the car of life, in its blade. In the realm of death
-It is only natural that it should boast of its unparalleled power over the creatures that have their source of life in the realm of death.
-Sting Sting
-Sting. Or maybe you'd like to visit ....... The "Sting" is the hand of a hobbit hero, such as Marunouchi Sting, or Flo .
-The elf-made short sword is said to have been in the hands of the Hobbit heroes. It shows great power over orcs and reaches out to those who possess it.
-It is said to detect danger before it strikes and to shine a light on the danger to the wielder.
+It is a strange thing to be in the middle of a swamp that is sealed in with a cut-off, and it is absolutely effective against orc moths.
+NG5 Let's go.
+RC village st B bark H-Fn T YR b
+This great sword, called the Orcryst among the elves, is not known among the orcs.
+They call me Mitsukimaru and I'm scared of it. This great sword is worth 280% of hundreds of orcs.
+It is one of the most famous swords.
+Snickersnee
+If you are a samurai, you dream of owning a famous sword at least once. This katana blade
+Anything that touches it will be cut in two, no matter what it is.
+Sunsw. rd sun sword
+A long sword that is said to have the brilliance of the great sun sealed within its blade. into the realm of death
+It is only natural that a creature boasts unparalleled power over a creature that has its roots in life.
+Sting
+It's easy to understand, but there's a story about a hobbit hero...
+A dagger made by an elf that was said to have been made in ancient times. Demonstrates and possesses tremendous power against orcs.
+It is said to be able to detect dangers that may occur to people in advance and emit light.
 Stormbringer Stormbringer
-It is said that anyone who falls victim to the sword's blade will have their life force drained by the sword and will not be able to survive.
-The first person to get his hands on the sword will be the one who will be the first to use it. The first person to take hold of the sword will use the life force taken from him by the sword as sustenance for his own life.
-Rumor has it that the first person to take the sword would use the life force it took from him to sustain his own life, but it is unclear whether this is true or not.
-Tr0Hsbane
-Tr0Hsbane Trollbane
-A motorized star designed to smash drawls. The striking part
-The striking area is covered with silver mist and is said to hurt the trolls.
+Those who fall under the edge of this sword will have their life force taken away by the sword and will be annihilated.
+I don't think so. The first person to hold this sword was fed by the life force that was taken with the sword.
+There is a rumor that they were forced to take their own lives, but it is unclear whether this is true or not.
+Ru
+Tr0Hsbane Troll Vane
+A morning star created to crush people. Blow part
+It is said to be covered in mithril silver and hurt trolls.
 Werebane Werebane
-A long sword used to hunt beastmen. Some swords are said to detect the presence of a werebear, and announce the presence with a ringing sound.
-It is said that some Werebane swords can sense the presence of a beastman and announce his presence by ringing their blades, but it is not known if this is true or not.
+A long sword for hunting beasts. It senses the presence of beasts and warns them with the sound of its blade.
+It is said that there is a sword that says that, but it is unclear whether it is true or not.
 
-204 ITEMS 1.1 The tools that await you in the cave
+204 ITEMS 1-1 Tools waiting for you in the devil's cave.
 
 な 0 ッ ー ド と は 異 然 っ た 切 添 で 封 じ 込 め で い る 沼 め に 、 オ ー カ ガ に 対 し て 絶
 NG5 る よ う だ 。

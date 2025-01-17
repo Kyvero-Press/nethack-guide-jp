@@ -1,42 +1,42 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-100.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-099.png]]
-I can do it.
-The character's belly (?) is shown in the bottom right of the screen in the ste_evening line. is shown on the bottom right of the screen in the ste_evening line. When hungry, the character becomes hungry.
-When hungry, they become hungry. If he does not eat, he becomes weak.
-If they do not eat, they will become weak and Str will drop, making it difficult for them to curse (2) = and (8). Furthermore, if left unchecked
-If left unchecked, the character will go from weak to fainting (comatose state) and eventually die.
-Being hungry is a serious disadvantage, as it reduces fighting ability.
-If you are weak, you will not be able to fight a decent fight. At the very least, you need to eat before you become weak.
-At the very least, get food before you are weak.
+Then ②.
+The character's hunger level (?) is shown in the empty space row at the bottom right of the screen.
+When I get hungry, I get hungry. Furthermore, if you do not eat, you become weak.
+When it is displayed, Str goes down and the curse goes up (2) = and (8) it goes down with difficulty. Leave it alone
+If left untreated, the condition progresses from weak to fainting (coma) and eventually death.
+Being hungry reduces your fighting ability, so you are at a huge disadvantage. fainting
+If something were to happen, we wouldn't even be able to fight properly. At least be weak
+I would like you to eat something before you go.
 
-No matter how strong your character is, you will never be able to overcome hunger. Even the strongest character will not be able to resist hunger.
-It is almost impossible to continue the adventure without eating the dead body of a monster. It is also impossible to gain valuable resources by eating monsters.
-It is also possible to acquire valuable qualities by eating monsters. There may be some hesitations, but let's start with the following.
-You'll get used to it, and you'll find it tasty. Well : [Tz
-I will never eat a goblin carcass.
-I'll die in my stomach. Just as he has the same freedom to die of hunger.
+No matter how strong your character is, you can't beat hunger. Without eating the corpse of a monster
+It is almost impossible to continue the adventure. I also want to eat monsters.
+You can also acquire the qualities that are hard to obtain. I don't mind, but first of all
+Food party @ Mirari Once you get used to it, it's definitely delicious. Well: [Tz
+Naturally, he has the freedom to never eat goblin carcasses.
+Ru. It is the same as having the freedom to die in the belly of a temple.
 
-Do not eat the carcass of a dead person.
+Don't give up. Don't give up.
 
-The floor was spread out with a cloth, and a cloth was spread out on the floor with a cloth, and a cloth was spread out on the floor with a cloth, and a cloth was spread out on the floor with a cloth, and a cloth was spread out on the floor with a cloth, and a cloth was spread out on the floor with a cloth, and a cloth was spread out on the floor with a cloth.
-On the floor, a cloth is spread out with a variety of iaves on it. The "O" is for...
-The shop (4) is located in a cave with a sign that reads, "David's Grocer.
-The shop is located in a grotto with a sign that reads, `Debbie's Bazaar.
+Ku Po O Te Da Te Gu Ashi Gu Na Ke Ashi E Second E De Da Te Da O Ashi Ku Hana De O De O De Te De Gu Ta Te Te Te Te Tet Kit Kit Kit Net Ton Ne De Ne Ku ne ta ne ta de ta de ta te ta da ta te ta ne ta de oba
+On the cloth spread out on the floor, various kinds of ivy were scattered. Oh de saha
+A shop inside the devil's cave with a sign that says ``Daby's General Merchant'' ④
+be .
 
-It was a surprise to Teeke that such a store could be found in a grotto. Monsters and traps.
-The monster, the traps, and all the other things trying to kill Teeke. ...... In the grotto, there is only one thing.
-I had assumed that was all that existed in the grotto.
+It was a surprise to Tike that there was a store like this inside the demon cave. Month
+Tars, traps, and other things that try to kill you...inside the devil's cave.
+That's the only reason why I thought it didn't exist.
 
-Porchions in colors I had never seen before. A poster in an unfamiliar color, a leather cover with an unheard of title in gold lettering.
-A leather-covered spelling book with an unheard-of subject in gold lettering. Cloaks of cloth dyed in strange colors (worn by armorers).
-A cloak of cloth dyed in strange colors (as would be worn by a warrior).
+A potion with a color never seen before. A title I've never heard of is written in gold letters.
+A spell book with a leather cover. An armor made of cloth dyed in strange colors.
+(It's also hard to get to a doctor's office.)
 
-Wandering through the rows of items without a pause, I stopped in front of the TISP ring.
-She stopped in front of the TISP ring, where she had been wandering among the rows of items without falling off. The elaborate floral decoration of the rink was a delight to behold,
-It was like a small flower ring. It must have been a magic ring with a certain magic power.
-The ring may have been a magic ring, but it was more like an engagement ring used in marriage ceremonies.
+Itaty walks restlessly between the rows of items.
+I stopped in front of the gate. The story of the link, which was decorated with delicate details and decorated with flowers.
+It looked like a small, round garland. Magic that contains some sort of magical power.
+It's probably a ring, but it's more of an engagement ring used for wedding ceremonies.
 
-Pay 103/'%/"
+Pay 103 //’%/”
 
 Y
 

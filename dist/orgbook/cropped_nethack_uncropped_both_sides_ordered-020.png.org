@@ -1,40 +1,40 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-021.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-020.png]]
-Co: Constitutional Lifeforms
-The higher the Constitution, the more advantageous it is to withstand physical exhaustion or escape the effects of poison.
-The higher the level of substitution, the more advantageous it is. The higher the level of commitment, the better the chance of escaping the toxic effects of the poison.
-The higher the cost structure, the greater the benefit.
+Co: Constitution
+In order to withstand physical exhaustion and escape from poison damage, you need to prepare a constitution.
+The higher the value, the better the advantage. Also, the hit point increases when the level increases.
+It also has a strong relationship with
 
-As a result, we would expect a large value for the cost of construction. Muscle
-The reason is that a physically weak warrior, even with a superior muscle mass, would be a laughable proposition.
+Given the dry spell of the war, we expected the Constitution to have a large value. muscle power
+Even if they were superior, it would be a joke to be a weak warrior.
 
-In : Intelligence T i - I n t e r g e n s i o n
-Intelligence affects whether or not a spell can be recited. When reading a grimoire to learn magic
-Intelligence is also required to read grimoires in order to learn magic. Why do illiterate people
-How can someone who cannot read be able to read a grimoire?
-Naturally, a person who wishes to practice magic needs a great deal of intelligence.
-(8) (8) (8) (8) (8) (8) (8) (8) (8) (8) (8) (8) (8)
+In: Intelligence T
+Intelligence affects whether or not a spell can be cast. Magic to learn magic
+The value of intelligence is also required when reading a guide. People who can't read
+The question is, why is it possible to read magic books?
+Of course, if you are someone who practices magic, you need a great deal of intelligence.
+⑧⑧ ① re ① dau ),
 
-Wi : Wisdom Wisdom
-The most of them are related to the negotiation with the grudge. God seems to favor the wiser. God seems to favor the wiser.
-In addition, in order to store up the energy needed to perform magic, it is necessary to use the energy of the ordinary human being (6).
-In order to store up the energy needed to perform conjuring, he has to be much more qualitative than the average human being.
-The Priest (Priestess), who is the agent of thought, is so wise that she has earned the favor of the gods.
-He may be the one who has the mandate of God's favor.
+Wi: Wisdom
+Most of them are said to be related to negotiations with grudges. God seems to prefer those who are wiser. Ma
+In addition, in order to store a large amount of energy required to perform magic, ordinary
+Human beings are also much more powerful and strong.
+Priests, who are agents of thought, are favored by the gods because of their wisdom.
+There's probably a lot of people who are looking at the sky.
 
-Ch : Charisma Charisma charm
-The presence or absence of charisma is directly related to the price of the owners of the stores in the brothels of the Jews.
-The price of a product is the same as the price of the owner of the shop who owns the shop in the Yeenderer's cave.
-The more attractive the buyer is, the more they will sell the item at a lower price.
-The more attractive the buyer is, the more they will sell the item at a lower price.
+Ch: Charisma
+The presence or absence of charisma is directly related to the shopkeepers who set up shop in the devil's cave of Ye Ender.
+At the same time, we will remove ⑪ and ⑤, and also ②.
+The more attractive buyers are, the cheaper they will sell their items.
+It's a relief.
 
-Incidentally, the carisma is not only a visual element; it can also be a human (e.g., an elf or some other monster).
-It refers to the overall attractiveness of a person (who may be an elf or other star). The overall attractiveness of the product as an elf (or possibly other motors) is the overall attractiveness of the product.
-The most important factor is the appearance of the object,
+By the way, charisma is not only about external appearance, but also about humans (elves and other monsters).
+Although it has the potential to be a star, it also refers to its overall appeal. outward appearance
+It's just 0 and it's real.
 
-24 CHARACTERS-BEI3 ) T H 1= R B
+24 CharaCteRS-Bei3) T H 1= R B
 
-YAN, N
+Yan Pilgrimage, N
 Co : Constitution コ ン ス テ ィ ト ュ ー シ ョ ン 生 命 カ
 体 力 消 耗 に 耐 え た り 、 毒 の ダ メ ー ジ か ら 逃 れ る た め に は コ ン ス テ ィ ト ュ ー シ ョ
 ン が 高 け れ ば 高 い ほ ど 有 利 に な る 。 ま た 、 レ ベ ル 上 昇 時 の ヒ ッ ト ポ イ ン ト の 上 昇

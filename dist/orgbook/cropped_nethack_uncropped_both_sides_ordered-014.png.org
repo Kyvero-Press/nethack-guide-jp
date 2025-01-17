@@ -1,42 +1,42 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-015.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-014.png]]
-Enter ・・・・・・ to display the menu screen with the message `Welcome to NetHack'.
-The menu screen appears with the message `Welcome to NetHack'. Enter the player's or pet's name, etc., and select a job.
-Enter the player's or pet's name, etc., select a job, and press the key (@) to start the game.
+If you type ・・・・・・, you will receive a message saying ``Welcome to NetHack''.
+A new screen will be displayed. Enter the name of the player or pet, and enter the occupation.
+Select it and press the @) key to start the game.
 
-The fire is started by the following @ (@) ummansi.
+Fire starting is the responsibility of the following @.
 
-NTHK ()
+N THK ()
 
-When starting the netbahack, the free area of the memory must be at least 4), 5), and 0 KB.
-(4) ⑤0 KB or more of memory is required when starting the netbahack. In particular, if the memory is kept on hard disk, it must be at least 4), 5), and 0 KB in memory.
-If you want to use a hard disk, you should check it using [VMAP.COMJ] or similar. If you use [CHKDSK.
-EXE], the last `available memory' is the free area.
-This is the free area. If this number is 450000 or higher, NetHack can play.
-However, if the number is greater than 450000, NetHack can be played. If the number is 450000 or more, NetHack will be able to play. If it is not
-If it is not possible, please remove the Japanese FEP or do something about it. Specific instructions are given below.
-The specific method of operation depends entirely on the reader's environmental settings and cannot be explained in general terms.
-The specific operation methods vary greatly depending on the reader's environmental settings.
+Please note that when starting up the network hack, if the free memory area is ④⑤0 KB or more.
+One thing is necessary. Especially when saving on a hard disk, use ``CHtKDSK.EXE''.
+Please check it using something like [VMAP.COMJ. 『CHKDSK.
+EXE], the ``Available memory'' displayed at the end is free.
+It's Ria. If this number is 450000 or more, you can play NetHack.
+But... ⑥Creation is about ⑤②0 KB The garden area is where I get greedy. . if
+If it doesn't work, I would like to deal with it by removing the Japanese FEP. concrete
+The actual operating method varies depending on the reader's environment settings, and cannot be explained in general terms.
+Please feel free to omit it.
 
-More Info. for reference
+More Info. For reference
 
-The following explanations are for reference only and may be skipped.
-We do not mind if you skip over the rest. However, the information may be quite useful to those who understand it.
-It may be useful information for those who know what they are talking about.
+The explanations that follow are for reference only, so feel free to skip them.
+I don't have much support. However, it may be useful information for those who know about it.
+I don't know.
 
-About B NETHACK.CNF
+B NETHACK. About CNF
 
-NETHACK.CNF is a file that records the environment in which the NetHack is used.
-It is a file that records the environment for the use of the nethack. In the appendix of this document, the `nethack activation menu program' has been added.
-CNF, so there is no need to modify NETHACK.CNF. On the other hand
-Conversely, if NETHACK.CNF is properly configured, it is possible to directly access the NetHack.CNF without intervening via the startup menu.
-CNF, you can directly activate the nethack without having to go through the activation menu.
+NETHACK.CNF is a file that records the usage environment of NetHack.
+Ru. The ``Net Hack Startup Menu Program'' has been added to the disk attached to this book.
+In addition, there is no need to modify NETHACK.CNF. but
+On the other hand, if you set NETHACK.CNF appropriately, you can do it without going through the startup menu.
+You can launch a network hack directly.
 
-18 DISK How to use a single attached disk
+18 DISK 1 How to use the attached disk
 
-(1) DISK (3)
+us ③
 
-(3) to iNuk with c
+c to iNuk
 
 ・・・・・・ と 入 力 す る と 、`Welcome to NetHack」 と ぃ う メ ッ セ ー ジ と と も に メ
 ニ ュ ー 画 面 が 表 示 さ れ る 。 プ レ イ ヤ ャ ー や ペ ッ ト の 名 前 な ど を 入 力 し 、 職 業 を

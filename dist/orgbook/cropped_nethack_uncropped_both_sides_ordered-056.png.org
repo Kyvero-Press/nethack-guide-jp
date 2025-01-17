@@ -1,46 +1,46 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-057.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-056.png]]
-Therefore, they do not enter into a dungeon at the beginning.
+Therefore, you cannot enter the dungeon from the beginning.
 
-(This is a test.)
+(This is a test)
 
 Nasrullah thinks.
 
-(If we can't break through, we won't survive.)
+(If we can't break through this, there's no way we can survive in the future.)
 
-She puts her hand on the door.
+She put her hand on the door.
 
-She takes a deep breath and opens the door.
+I took a deep breath and opened the door.
 
-Nasrullah jumps into the room, and the monster's gaze is drawn to her. A strange scream is heard.
-The monsters in their chairs stand up. Orc gripped his sword and began to threaten the monsters.
-The monster's face was red and his eyes were wide open.
+The monster's gaze was focused on Nasu Ruler, who had jumped into the room. There's a strange scream
+The monsters who were sitting on the chairs stood up. The orc holds the sword and stands tall.
+Deku cho
 
-Nasrullah put up the cooking wand. The wand glows vermilion.
-The wand glowed in vermilion. I'm not going to let you do this!
+Nasrulla held up her cooking wand. The wand shines vermilion.
+``Ikeee!''
 
-The serpentine flames burned the monster. Screams filled the room, and an ugly smell filled the air.
-A hideous smell hit the nose. Bodies rolled and crumbled like pieces of lumber.
+A serpent-like flame consumed the monster. The screams light up the room, and the ugly smell
+My nose stings. The corpses were rolling and collapsing like lumber.
 
-Sometimes, despite the fact that there was a room in front of them, they could not enter or proceed.
-The door of the room was broken down. This is because the door to the room has not been opened. To open the door, press the (o) key and turn it toward the door.
-(o) Press the key and point in the direction of the door. When the door opens, a message appears,
-The message will appear when the door is opened and you will be able to see the direction of the door.
+Even though there is a room in front of me, there are times when I cannot enter or proceed.
+Ru. That's because the door to the room wasn't open. Press the (o) key to open the door.
+All you have to do is press it and specify the direction of the door. When the door opens, a message appears,
+I just came to see you.
 
-The door will open once, but if the door is not properly aligned, it may not open at all.
-In such cases, what is the procedure? In such cases, try again and again. If the door is not locked, it will be locked.
-If the key is not in the lock, the door will open.
+Most of the time, the door opens once, but if the door is poorly placed, it may take a while to open.
+There is. At that time, let's try it out in any order. After trying ③ and ④ times, I found the key.
+② The group is open ( =
 
-If the door is locked, you must unlock it first. If there is no key
-Without a key, your efforts to open the door will likely be in vain. Stop if you can.
-If possible, stop or find another way to open the door.
+To open a locked door, you must first unlock it. If the key is lost
+Efforts to open it are likely to be in vain. If I can, I will stop.
+Or maybe you should open it in some other way.
 
-To close a door that has been opened, press the [c] key and point in the direction of the door. The door will then close.
-The door will then be closed and you will not be able to enter or exit the room as long as you can't open it. Compared to opening a door, this is a much more difficult task.
-Although it is used less frequently than opening the door, it is useful when escaping from the monsters without hands.
+To close the opened door, press the (c) key and specify the direction of the door. Then the door opens
+If the room is closed or cannot be opened, you will not be able to enter or exit the room. I want to open the door
+Although it is used less frequently than normal work, it can be used, such as when running away from a monster that has no hands.
+⑳ G meru ⑤ S ERSEESISEEDE §20THTIELL,
 
-
-60 COMMANDS 1 To walk through the cave ......
+60 COMMANDS To walk through the devil's cave...
 
 ら 、 最 初 か ら ダ ン ジ ョ ン に 入 り は し な い 。
 

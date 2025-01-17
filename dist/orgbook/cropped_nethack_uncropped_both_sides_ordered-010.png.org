@@ -1,24 +1,24 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-011.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-010.png]]
-The `Pi' disk will be fitted, so after processing is complete, remove the disk and paste a label saying `Startup Disk' on it.
-After the processing is finished, remove the disk and paste a label saying `Startup Disk' on it. You can also use TEST 7 in c. You can also use TEST 7 in c.
-(2) Mod B 7 RG
+⑧ ② The disk will be formatted, so when the process is finished,
+Remove the disk and paste a label that says ``Boot Disk'' on it. difference
+y Mo U no Tes 7 So Kira ② Mod B 7 R G
 
-A>
-...... & from the state of i
+A＞
+...... & From the iii state`
 
-FORMAT B: /M
+FormaT B: /M
 
-A J 2) The river I e m i =,. The disk will be removed from the disk after the process is complete.
-When processing is complete, remove the disk and paste a label label with `Data disk' on it.
-After processing, you can pull out the disk and paste a label labeled `disk for data'.
+Su A J ② River i e mi =,. Team ⑤ In the early 1990s
+When the process is finished, remove the disk and use it as a ``data disk.''
+It is a good idea to attach a written label.
 
-Next, copy the contents of the attached disk onto the RAM drive. Next, copy the contents of the attached disk onto the RAM drive.
-Insert the attached disk of this document into the floppy drive and press the (HELP) key.
-Insist on the plotting scheme in PNs BSAs and press the (HELP) key.
+Next, simply copy the contents of the attached disk to the RAM drive. centre
+Insert the disc that came with this book into your computer drive, and press and hold the (HELP) key.
+PN s B S A s in the direction of the RAM
 
-(7) MSJo (2) for activation of ETER
-e Eye
+Thread allowance ⑦ MSJo② For starting effect Eta use
+e-eye
 
 14 DISK How to use the attached disk
 

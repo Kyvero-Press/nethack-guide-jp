@@ -1,0 +1,54 @@
+Cover the contents of the box or bag underneath.
+Use the special abilities of monsters.
+
+Offer sacrifices to God on the mulberry altar.
+
+Pray to God and ask for help
+
+Rub the dirt lamp
+
+sit on the spot
+
+(If you have that ability) Drive away the immortal monster.
+remove the length
+
+wipe your face
+
+Commands for the player
+
+Open help menu
+
+Display a description of the displayed symbol _
+
+Display command behavior description
+
+Repeats the previously executed command
+
+Name each monster
+
+Setting options
+
+Redisplay the previous message (continue execution)
+Therefore, previous messages will be displayed one after the other.)
+
+abandon the game
+
+Redisplay if the screen is broken
+
+⑦ Safe and secure your home. The next group saved the place.
+Continued from `
+
+Displaying the NETHACK version number
+
+Display NETHACK history
+
+Show options when compiling NETHACK
+Dis) Bari mo I kel yo mo ni” Iru Lo
+Once you get into it, you can't go back to normal.
+
+0N/ for p-ckup option. FF. The rising of the rising sun
+Ru
+⑤⑥ Use the S shell. Enter `exit' to return to the game.
+
+Commands for players
+

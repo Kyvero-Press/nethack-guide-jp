@@ -1,61 +1,61 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-038.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-037.png]]
-And in the grotto in the center of the screen is what the character found as he walked around.
+Then, in the magic cave in the center of the screen, the characters walk around and find what they find.
 
-The letters shown below are the ones that are displayed in the grotto. The following is a description of what the characters mean.
-L@ o lip
+It is not displayed. Please write down what the letters ILL that appear below mean.
+L@ lips
 
-(8) "You are a bad person.
+② ー ー ー ー ー ー ー ー ー ー ー ー ー ー ー ー ー ー ー ー Ｇｕｎｄ ｄａｎｄ） ⑧ You are the evil one who eats it.
 
-An open door in a vertical or horizontal wall of a room.
-Open door on the horizontal or vertical wall of the room
-Floor of the room, or an entry/exit hall without a door.
+An open door in the vertical or horizontal wall of a room.
+An open door in the side or vertical wall of a room.
+Access to the room without a floor or door
 
-A passageway, or a kitchen sink, or a movable bridge
+Walkway, kitchen sink, or movable bridge
 
-Stairs to the top
+stairs to top
 
-Stairs to the bottom
+stairs to the bottom
 
-Closed door or spellbook
+A closed door, or a spellbook.
 
-A human (player) or a monster with a human appearance
-Gold
+A human (player) or a monster with a human appearance.
+gold coin
 
-B (not revealed until discovered or caught)
+B (It will not be shown until it is discovered or stolen)
 
-Weapon (weap. n)
+weapon (weap.n)
 
 Armor (arm.r)
 
-Food (food, including dead monsters)
+Food (including monster corpses)
 
-Spells and scrolls with various effects (scrolls)
+A scroll with a spell or magical effect.
 
-Wands
+cane
 
-rings
+ring
 
-Water cypress (potiom)
+water cypress (potion)
 
-Various tools (tooD)
+Various tools (tooD
 
-AmuleD or spider web
+Amulet (amuleT, or spider's web)
 
-Treasure stone (leweD, or pebble)
+jewel (lewD, or pebble)
 
-Rock, or statue
+rock, or statue
 
-An iron sphere (to be given as an ankronym for any crime)
-An altar, or an iron stake to connect the sphere to a charge.
-A ball of iron, or an iron fountain to connect the ball to a crime.
-- - - - - - - - - - - - - - - or
+An iron ball (attached to your feet if you commit some kind of crime)
+An altar, or an iron wall for connecting an iron ball to a temple.
+I get dazzled when I fall.
+-
 
-A grandiose throne (something can happen to it if it falls).
+A luxurious throne (sometimes something happens when you enter the store)
 
-Be Invoked
+Be member voke d
 
-Be Invoked Net Havac Startup
+Starting the network back up
 
 そ し て 、 画 面 中 央 の 魔 窟 内 に は キ ャ ラ ク タ ー が 歩 き 回 っ て 見 つ け た も の が
 

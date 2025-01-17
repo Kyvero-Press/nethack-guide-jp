@@ -1,0 +1,37 @@
+Choose Yupi. When copying is complete, click `Model' on the Notes menu.
+Select ``System Boot Settings'' and select ``Specify System Startup Device ①% ``Standard''.
+``Specification of super-drive device'' to ``FDJ'', ``Specification of first drive'' to FD, and so on.
+Correct the settings. After setting, set the `bootable disk' to the floppy drive.
+After setting (Press the ESCJ key ② times to exit the ⑨⑧ Notes menu, the screen will open again.
+The computer drive should become A drive and start up. There again
+
+B Member S hand D B A
+
+Enter , and press the ) key.
+
+A message will then appear on the screen, but the required network information will be displayed.
+The program on the disk will be extracted to the `bootable disk'. BHET, 74X
+When I was instructed to replace the floppy drive, I received data on the floppy drive.
+Please insert a disk. Data such as CG is displayed on the ``data disk''.
+It opens.
+
+If you can use EMS, please use the EMS input you normally use.
+It is best to copy it to your hard disk and configure it in CONFIG.SYS. specifically and
+I will omit it in this book, as it would be a separate explanation of how to use it.
+
+Installation on hard disk
+
+① If you are trying to install a network pack on your electronic disk, check the free space.
+The minimum amount required is ③MB, so be sure to check.
+
+① The key is MS-DOS 2B L. BT+ 2272709
+Set it on the disk drive and move to that drive.
+The N driver that I have been using for a long time is on the B drive...
+
+a
+
+From the situation...
+
+Install
+
+Yan Pilgrimage

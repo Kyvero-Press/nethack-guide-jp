@@ -1,0 +1,46 @@
+- Ma
+
+b Ma
+
+Uwa Toko - Te Aku
+
+For example, when is my NETHACK.J0NRNHDXF?
+
+Oh Pchion S=! Pickp, Number_Pad, Chime
+OPchion S = 98_Bio S, Rawio, 98g Raphics
+. P Chuo. NS=name‥AVe工na_R' female,
+
+dogn ame : Suezow, oatname:Patty, TTu ⑪ ・ga t u a
+HACKDIR=A: \GAMES\NETHACK
+LEVELS=A: \GAMES\NETHACK\BONES
+SAVE=A : \ GAMES\NETHACK\BONES ; n
+
+In this case, the character's name is Avelna, her occupation is Rouge, and she is female.
+My dog's name is Suezow, my cat's name is Patty, and my favorite fruit is Satuma (Mika).
+That's why. Also, use the unique functions of the PC-⑨⑧00 series =
+and Net Pack Ho A Dry [\GAMESY\NETHACK I
+② Re-mining and do-ki-le-rere ⑤ ② = This is the bottom of the body.
+
+Nippon Express, if you want to fix it, go to line ③, settings related to characters and pets.
+be . The ``-R'' after the name represents the occupation, but the alphabet and occupation are as follows.
+It corresponds to the above.
+
+archieoo technique st ba rbarian kaveman picture lf
+Hairer K ni ght Priest Log picture
+Samurai and Sale ST Valky Rie Wizard rd
+
+Also, a word of caution regarding fruit trees: Auv, 4LV I. NFF. DA
+Oh, and pears are already in the game, so why not try other fruits?
+Must be specified.
+
+Another thing to note is that on models without a numeric keypad, such as notebook computers, `⑨⑧_ on the ②th line.
+BIOS] and delete the ``number pad'' characters on line ①. That way
+Instead of using the numeric keypad, you can use bjmhlyku to move the character and specify the direction.
+That's why it's like that. If you don't do this, you will need a NUMJ lock.
+Surpass.
+
+Also, be careful when specifying the directory in the last line ③.
+This is the drive and directory where the net hack is actually installed.
+
+More |nfo.—é§%‘t LT
+

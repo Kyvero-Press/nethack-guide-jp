@@ -1,38 +1,38 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-164.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-163.png]]
 Ring of levitation
-Put this ring of levitation on your finger and you will be able to levitate. It can help you avoid most traps.
+If you wear this ring, you will be able to levitate. Avoiding most traps
 
-However, it is also difficult to pick up items that have fallen to the floor.
+You can, but the drawback is that you won't be able to pick up items that fall on the floor.
 
 Ring of poison resistance
-Ring of poison resistance A ring that makes a person resistant to poison. It cannot prevent sickness from eating something that has gone bad.
-It does not prevent sickness from eating rotten food, but it does prevent sickness from eating poisoned corpses such as cobolds,
-But if you eat a dead body with a poison such as cobolds, you will still be in perfect health.
+A ring that makes you resistant to poison. I ate rotten food.
+There is no protection against these diseases, even if you eat the corpses of poisonous animals like Kobold.
+It's all about having a perfectly healthy body.
 
-Ring of polymorph transformation
-When the ring of polymorphism is put on a woman's finger, a transformation takes place without any prior contact with the woman's finger. What kind of
+Ring of polymorph
+When you wear this ring beautifully, a transformation occurs without you even touching it. like what
 
-The transformation into a monster is random, and therefore fraught with great danger.
+Since the transformation into a monster is random, there is great danger involved.
 
 Ring of polymorph control
-When performing a transformation, this ring can be worn to control the transformation.
-The ring would be able to transform into a strong sensory object such as a red dragon or a minutaur.
-It would not be a bad idea.
+If you wear this ring when performing transformation, you will be able to control the transformation.
+It transforms into powerful creatures such as dragons and mintarus that can be found.
+I guess that's not bad either.
 
 Ring of protection
-A ring that increases protection. The best ones can provide as much protection as chain mail.
-Some of the best ones provide protection equivalent to that of a chainmaille.
+It is a ring that has the effect of increasing your defensive power. If it is made of the highest quality, then the chain
+There are even some that can provide the same level of protection as an oil.
 
 Ring of protection from shape changers
-Ring of protection from shape changers A ring of protection from shape-changing diseases caused by the attack of various possessed organisms.
-The ring of protection from shape changers.
+It is said to be effective in preventing transformational diseases caused by attacks from various possessing creatures.
+It's a ring.
 
 Ring of regeneration
-The ring of regeneration has the function of restoring the hit point of (1) every time the user walks.
-(2) The ring has a regenerative function, i.e., it restores the hip point in (1) when walking. However, the degree of hunger increases tremendously.
+① It has a regeneration function that recovers the hit points from ① every time you walk.
+It's a ring. However, the degree to which you become hungry increases all the time.
 
-Rings 1 1 ring
+Rings
 
 Ring of levitation 洞 揚 の 指 輪
 こ の 指 輪 を は め る と 浮 揚 で き る よ う に な る 。 ほ と ん ど の 罠 を 避 け る こ と が

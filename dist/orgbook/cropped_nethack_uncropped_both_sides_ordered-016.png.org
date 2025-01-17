@@ -1,42 +1,42 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-017.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-016.png]]
-If the nethack is not in sync with the network, the nethack will not be triggered.
+If the settings are different, the net hack will not start.
 
-After you have properly configured NETHACK.CNF, you can start the nethack.
-To activate the nethack after setting the correct CNF, first move the directory to ......
+NETHACK. Now that you have properly configured CNF, start Nethack.
+To do so, first move the directory and then...
 
-F NETHACK ()
-...... You can start the nethack by moving the directory and typing  F NETHACK () . The game should start immediately.
+F Sleeping CK ()
+If you type ......, you'll be fine. The game should start immediately.
 
-About the park startup option
+About garden startup options
 
-Play with your friends using the direct startup method, or change your name and play with them just to change your mind.
-If you want to play with a different name just to change your mind, you can do so by sending an email to .......
+With the direct activation method, you can ask your friends to play, or you can use the name for a change of pace from time to time.
+If you want to change the previous version and play, at startup...
 
-NETHACK -uYositune
+CK if you sleep - Yoshitsune
 
-0 or the letter after M JINPOWER~u becomes the character's name.
-Similarly, if you want to try out a different profession, you can do so at .......
+The character's name is the letter after 0 or M.
+If you want to try a different profession in the same way...
 
-NETHACK - English
+NETHACK - English character
 
-You can type in " NETHACK - alphabetical". The "`English" part should contain the initial letter of your occupation in large alphabetical alphabets.
-The ``English'' part is the initial letter of your occupation in large alphabetical alphabets.
+If you don't enter it, you can. In the `English letter' part, the occupation is expressed in uppercase letters.
+Here's how to enter the initial letters.
 
-Starting in Sono Immortal Mode
+Starting in immortality mode
 
-The game NetfHfack is extremely difficult. A beginner will be able to play with dozens of people in no time at all.
-Beginners will be able to reach dozens of storehouse targets in the blink of an eye. Therefore, it is very difficult to return any deaths.
-There is an immortal mode (discovery-mode) in which the body is not dead, and the body is not dead. In the immortal mode, we are able to discuss the world.
-In the immortal mode, the body is not a body, but a body is a body.
+The NetfHfack game is extremely difficult. There are dozens of beginners in a few minutes.
+The store name: It will probably be a long time ago. That's where even death comes back to life ⑤ Conspiracy
+There is a mode called immortality mode (discovery-mode). In immortal mode
+Se ⑧ Suru de - yo ma
 
-NETHACK-X
+Sleep CK -X
 
-Starts at ・・・・・・. The first time the number of "0" is reached in the first place, it is a "0" in the second place, and the first time the number of "0" is reached in the third place, it is a "0" in the third place.
-The first time you enter 22T, you will be able to restore the data.
-The "22Tn" input can be used to revive the file.
+・・・・・・ Start from scratch ⑨ Yes. When the point value reaches 0, press the button L.
+The meaning of the word ``Kiwa River'' was discussed by Zhu et al.22T.
+You can revive it by entering n.
 
-Note that changing the name, determining the occupation, and assigning the immortal mode must be done at the same time.
+Please note that changing your name, deciding your occupation, and specifying your immortality mode must be done at the same time.
 
 20 DISK 1 How to use the attached disk
 

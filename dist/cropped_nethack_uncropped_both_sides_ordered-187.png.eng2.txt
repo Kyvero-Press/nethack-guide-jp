@@ -1,0 +1,34 @@
+DAGGERS dagger
+
+Rather than using a dagger as your main weapon, it's better to think of it as a secondary weapon just in case.
+I don't think so. It's also easy to throw, so you won't lose money even if you have several.
+There shouldn't be any difference between you and me.
+
+athame
+A dagger favored by magicians. It is cast from a very hard material.
+The blade will not break down. It is very easy to handle, but its power is well known.
+crysknife
+A knife with a blade length as long as a centimeter (⑳) made from meteorite iron. Magic power is hidden
+Maybe it's because it's so strong, but its power and sharpness are comparable to a great sword.
+
+dagger
+A dagger with an ashes measurement of ⑳ centimeters:
+elven dagger
+
+A dagger decorated with beautiful elf-made decorations. Hobbits are too tall to use swords.
+Favored and used by races that are lacking.
+knife knife
+It's a knife (was there anything else breathing in it?). Rather than holding and using it, throw it.
+It's probably one of the weapons you should pick up and use.
+orcish dagger
+A dagger that Oo-o-kuk and others like to use. I'm afraid that I'll be in the demon cave of Yender.
+It's probably a martial art that can be practiced in many ways. The power should be pushed.
+scalpel female
+It is a medical scalpel. It is a weapon that healers have from the beginning, but they can
+Just note that you should switch to another weapon as soon as possible.
+wakizashi wakizashi
+It is a dagger that warriors from the isolated islands of the East prefer to use as a weapon to support their katana.
+Ru. The manufacturing method is the same as that of a katana, and even though it is a dagger, it boasts some power.
+
+Weapons 19171
+

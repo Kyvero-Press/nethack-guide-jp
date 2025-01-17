@@ -1,47 +1,47 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-051.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-050.png]]
-If it is labeled "scrolls of enchant weapon," it means that it has two scrolls of enchant weapon that are not cursed.
-If it says "scrolls of enchant weapon," it means that the player has two scrolls of enchant weapon that are not cursed.
+If it says "scrolls of enchant weapon", it means it is not enchanted.
+It means having ② a scroll of weapon.
 
-The I-command can display only the scrolls of the specified possession. (D
-(D) and press the key to display the selection screen. Entering a symbol at this point will select a specific device, or a specific device, or a specific device, or a specific device, or a specific device, or a specific device.
-If you enter a symbol at this time, a list of specific devices or items will appear. For example, entering (?]) For example, entering (?) will display a list of scrolls.
-For example, entering (?]) would display the scroll catalog. (/)] for a wand, (?) for a scroll, and (? (/)] would be a wand, and (?) a scroll.
-(/) is a wand, and (?) is a scroll. However, if you press 171 [1/] or something else when entering the T yomand, the selection screen will change to a printout of the scroll.
-You can also search the prefectural registry while the screen remains blank.
+The I command allows you to display only the specified items in your inventory. (D
+Press the and key to display the selection screen. If you enter a symbol at this time, you can
+A list of predefined equipment or items will appear. For example, if you enter (?)
+An inventory of livestock will be displayed. If it is (/) then it is called a wand, if it is (?2〕) it is called a scroll.
+0 is. When entering the T command, if you type something like 171 [1/], the selection screen will be detailed.
+If you are running out of time, you can also search through the prefectural records.
 
-Special T commands include `lul', Flx", and F`I$J. `lul" is a special T-command for unpaid bills.
-Ix" is for unpaid payment (⑨), and "⑧" is for unmade payment (⑤), and "⑦" is for unpaid payment (⑦).
-I$" counts money. If you are in a large store and are unsure of what you want to buy, you can use the "I$" to get the money.
-It seems to be effective for those who have lost track of their purchases at a big shop.
+Special T command uses include `lul', ``Flx'', and F`I$J. `lul is unpaid
+⑨ sum [Ix], unerased foi ① ite ④ ⑤ bet on ⑧
+`I$' counts money. I don't know what I'm shopping for at a big store anymore.
+It seems to be a good idea for the amount of money invested.
 
-RBBBRRRRRRRRRRRRRRRRRRRRRRRRR
-Nasrullah felt that his steps were getting heavier. Just one step forward
-(1) Just to take one step forward requires the same amount of effort as (3) to (4) steps forward. I was out of breath just by taking 0 steps, and I had to rest for every 0 steps.
-(3) Every 0 steps requires a rest.
+R B B R R R Picture R R S R Picture Picture Picture R R R R S R R
+Nasrulla felt her steps becoming heavier. Take a step forward
+This alone requires ③ to ④ steps of effort. ①0 I get out of breath just by taking 0 steps, ③0
+You have to take breaks every step of the way.
 
-(I picked up too much stuff, didn't I?)
+(I guess I picked up too many things.)
 
-Whenever I see something I can use, I tend to pick it up. I'm too lazy to do anything else.
-I have unidentified medicines and other scrolls clinging to various parts of my body. I have tried many times to sort them out.
-I tried many times to sort them out, but I could never bring myself to throw them away.
+Maybe it's my job, but whenever I see something that looks like it could be of some use, I just pick it up. Thank you
+Unidentified drugs and scrolls were stuck all over his body. Organized over and over again
+I wanted to use it, but I just couldn't bring myself to throw it away.
 
-However, if the baggage continued to pile up, it would become an obstacle to our movement. In some cases, it could be fatal.
-It could be life-threatening in some cases.
-We have no choice. I'll just throw some away.
+However, if my baggage continues to increase, it will become a hindrance to my activities. Depending on the situation
+It could be life-threatening.
+`There is no way to attach it. Shall I throw some away?”
 
-The first thing to do is to find a treasure stone. Nasrullah had a large number of blue, red, green, and white stones.
-Nasrullah had to get rid of them. She had grown up in a world where stones were not associated with her, so she did not know the names of the stones.
+First of all, it's a gem. The ruler holds a number of gemstones in blue, red, green, and white.
+was excluded. She grew up in a world with no connection to gemstones, so she doesn't know the names of the stones.
 
-(If only Lapsi had been there at that time...)
+(I wish Lepsi would care about this.)
 
-Nasrullah thought of his friend from the orphanage.
+Nasrullah remembered a friend from her training school days.
 
-Lapsi was one of her closest friends at the orphanage, partly because they shared the same dormitory room.
+Lovesy was the closest girl at the school, as we shared the same dormitory room.
 
-54 COMMANDS
+54 Kokman DS
 
-To Walk the Grotto ......
+To walk through the devil's cave...
 scrolls of enchant weapon」 と 表 示 さ れ て い れ ば 、 呪 わ れ て い な い enchant
 weapon の 巻 物 を ② つ 持 っ て い る こ と を 意 味 す る 。
 

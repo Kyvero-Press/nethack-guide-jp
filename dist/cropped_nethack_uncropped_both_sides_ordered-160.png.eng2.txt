@@ -1,0 +1,23 @@
+Potion of monster detection
+When you drink this medicine, you can know the location of monsters on the same floor.
+Of course, monsters also move around, so it's hard to imagine them staying in the same place.
+Potion of object detection item
+The moment you take the medicine, you can know the location and type of items on the same floor.
+I can hear it. Sometimes the monsters pick it up first and eat it.
+Potion of paralysis
+When I take this medicine, my body immediately becomes paralyzed. I don't know when I will recover.
+I can't help it. This drug can also be used as a weapon. That's right
+Potion of restore ability
+
+Restores ability values that were lost due to some reason. Often poisonous
+This will help you regain your lost strength.
+Potion 0f see invisible medicine
+You can see through transparent creatures and creatures that have become transparent through magic. Ma
+As a side effect, my eyesight is restored. It tastes like fruit juice.
+Potion of sickness play Nagi
+Some of your ability values will decrease and you will receive damage from your hit points. Also ,
+You may even get sick. However, when you are suffering from psychedelic drugs, it is a shock.
+The hallucinations seemed to subside.
+
+164 ITEMS 11 Tools to wait and receive you in the Swallow Cave
+

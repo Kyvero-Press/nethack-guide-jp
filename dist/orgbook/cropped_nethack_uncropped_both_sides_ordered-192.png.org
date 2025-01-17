@@ -1,24 +1,24 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-193.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-192.png]]
-TRIDENT
+T Ridden T
 
-JAVELIN
+Javein
 
-BOW & ALLOW Bows & Arrows
+BOW & ALLOW
 
-You shoot with a bow (arrow), and you shoot with a crossbow (bolt).
-A crossbow bolt is a bolt. Both arrows and bolts can be thrown by hand.
-Both arrows and bolts can be thrown by hand, but they are much more powerful than when shot with a bow. After all, arrows should be shot with a bow.
-The arrow must be shot with a bow.
+What you shoot with a bow is what you shoot with an arrow, and what you shoot with a crossbow.
+What comes out is a crossbow bolt. Both arrows and bolts can be thrown by hand.
+The power of the fire is incomparable to when fired with a bow. After all, the arrow is
+You can't even shoot with a bow.
 
-Bow
-Used to shoot arrows. It is the most powerful against small creatures.
-It is said to be the most powerful against small creatures. The bow can also be used as a weapon to strike the enemy during a white hand-to-hand combat, but it is not recommended.
-It is not recommended.
+bow mouth
+Used to shoot arrows. It is said to be the most powerful against small creatures.
+Let's go. Also, when you're a white soldier, you can use a bow as a weapon to hit the enemy, but you can't.
+This is not something I can recommend.
 
-196 ITEMS 1 The tools that await you in the cave
+196 ITEMS 11 Tools waiting for you in the devil's cave
 
-HAY
+Hehe
 
 TRIDENT
 

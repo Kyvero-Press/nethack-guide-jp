@@ -1,35 +1,35 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-020.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-019.png]]
-Your alter ego to be sent to the brothel
-Your alter ego
+Your alter ego will be sent to the devil's inn.
+⑩Scandal judge
 
-The characters you send as your alter egos into the world of NetHack.
-The characters that you send as your alter egos into the world of the NetHack have a variety of parameters and occupations. Therefore, each of them has its own personality and occupation.
-This allows each one of them to find his or her own personality.
+A character sent as your alter ego into the world of internet hacking.
+Various parameters and occupations are set on the target. So
+Because of this, each person is designed to have their own individuality.
 
-Parameter Performance Value
+Parameter Capability Value
 
-The following is information about the parameters necessary to determine the performance of a contactor.
-The following is a list of information related to the parameters necessary to determine the performance of a contactor. These are mainly found on the bottom line (2) of the NetHack screen.
-These are mainly shown in the status rows across the bottom two lines of the NetHack screen.
-These are mainly shown in the status rows across row 2 at the bottom of the NetHack screen.
+Concerning the harassment necessary to assess the capabilities of the linker.
+We will provide the following information. These are mainly internet hacks.
+It is displayed in the status line, which is written across ② lines at the bottom of the screen.
+It is also the same as the one you are looking for.
 
-St : Strength Strength
-The larger this parameter is, the more powerful and muscular the person is.
-The larger this parameter is, the more powerful and muscular you will be. In the three dangers of weapons, and in the demon cave of the Yenders, how much of a
-Determine how many items you can hold.
-Warrior characters must excel in this parameter at all costs.
-The warrior characters must have this parameter at all costs. Mage characters also need a certain amount of muscle power to cast spells.
-The mage characters also need a certain amount of muscular strength to cast spells.
+St: Strength
+2) The larger these parameters, the stronger and stronger the muscle.
+Become. The damage caused by three weapons, and the amount of damage in Yender's cave.
+Determine if you can carry things.
+Warrior-type characters need to be excellent in this parameter no matter what.
+Ru. Also, wizard-type characters also require a certain amount of muscular strength in order to cast magic.
+It is essential.
 
-Dx : Dexterity, Dexterity, Dexterity, Dexterity, Dexterity
-Dexterity is the ability to perform tasks that require dexterity, such as hitting a target or unlocking a lock or disarming a trap.
-Dexterity must be high in order to perform tasks that require dexterity, such as hitting the target of an attack, unlocking a lock, or disarming a trap.
+Dx: Dexterity agility, dexterity
+In battle, manual dexterity is required to improve the accuracy of attacks, open locks, disarm traps, etc.
+In order to perform such tasks, dexterity must be high.
 
-Thief characters must be dexterous with their hands. A thieving character must be dexterous with his or her hands.
-What will happen to a thieving character who is not skilled with his or her hands? It is tragic.
+Thief-type characters need to be good with their hands. A clumsy thief
+What kind of fate will they end up with...that is a tragedy.
 
-Parameter 1①Power value⑳⑳
+Parameter 1 Ability Value ⑳
 
 魔 宿 に 送 り 出 す あ な た の 分 身
 ⑩駄裁r裁璽士Br掻

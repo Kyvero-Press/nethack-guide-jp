@@ -1,37 +1,37 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-140.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-139.png]]
-@porec ON/OEE
+@PORRECT ON/OEE
 
-If you press the (@) key while playing the netbahack, you can pass through the A of E that is dropped in the palace (you can pick it up with the decision =).
-You can pick it up by pressing the (@) key, and it will pass through the E of the E (you can pick it up by resolution = and so on), or you can use the Eck 9.
-7 ON state)
+If you press the (@) key while playing Net Hack, you will be dropped into the Demon Palace.
+It is possible to pass through the E of E.
+7 ON status)
 
-Then, if you press (@) key once more, the pickup will be in the OFF state and you can use the eye-tracking function.
-If you do not press the (@) key, you will not be able to pick up the pickup without pressing the (@) key again. In other words, @ every time you press the key, the beeper will be turned off.
-In other words, each time the @ key is pressed, the QN/QFF of the bit up cycles in sequence.
-QN and QFF of the bic-ap are cycled in sequence as you press the @ key.
+Then, press the (@) key again to turn the pickup off and select the item.
+Even if I'm walking over people, I can't pick up anything unless I press the () key. Tsumari,@ki
+- Each time you press , the QN and QFF of the big up change in order.
+eye
 
-The pickup ON state may indeed be convenient, but some ITEMs have a problem with the QN and QFF of the pickup.
-However, some of the items can cause disasters just by being removed, so I wouldn't recommend it to beginners.
-However, some of the items can cause disasters just by being discharged, so I would not recommend them to novice users.
+The pickup ON state may certainly be convenient, but some items
+There are some things that can cause disaster just by removing them, so I highly recommend beginners to avoid them.
+I can't help it
 
-$ = $ = $ =
+$ =
 
-The $$ command lets you know how much money you currently have.
-The most amount of money is in the Prerez. Since the amount of money is always displayed on the play screen, you will probably not need to use the %$ command.
-You will probably never need to use the %$ command since the amount is already displayed on the screen during play.
+You can find out how much money you currently have by using the $ command.
+Ru. The amount is already displayed on the screen during play, so use the %$ command.
+There probably won't be much use for it.
 
-List of identified items
+¥ List of identified items
 
-By entering the %G you can also see a list of all the items you have found so far.
-(2) It is possible to see a list of all the ITEMs that have been found so far. The old and the new are still in use. I have been using it for a long time. (2) The "commando" is a commando that has been used, read, or discarded.
-We can also see the things that have been discarded or thrown away (8). By looking at them, we can see the details that are still unclear.
-By looking at them, you may be able to guess what the items are for which details are still unknown.
-We recommend that you try it once in a while.
-
-Other Symbols 143
+G You can also see a list of ① items that you have discovered so far.
+② I can. ①Commands are things that I have only read in the field.
+You can also find a way to see ⑧, which was already done in the middle of the day. : By looking at the results,
+However, it is sometimes possible to guess what an item is for which the details are unknown.
+We recommend that you try using it.
 
 Other symbols 143
+
+Kupe
 
 @ ぽ ッ レ ク ア ッ ン ON/OEE
 

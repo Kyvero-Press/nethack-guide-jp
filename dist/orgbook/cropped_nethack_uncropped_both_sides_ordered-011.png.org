@@ -1,42 +1,42 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-012.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-011.png]]
-Select a user. After copying is complete, select `Mode setting' in the Note menu (9) (8).
-Select [Set mode], set [System activation device designation ① % `standard], set [System activation device designation TT] to [FDJ], and select [System activation device designation FDJ].
-Set "System Starter Designation TT" to "FDJ" and "First Drive Designation" to "FD".
-Reconfigure each of these settings. Once set, set the `Startup Disk' to the floppy drive.
-Set the `Startup Disk' to the floppy drive, press the ESCJ key twice (9) to exit the Note menu (8), and the floppy drive will now be set to the floppy drive.
-The floppy drive should now become the A drive and start up. Now press again.
+Choose Yupi. When copying is complete, click `Model' on the Notes menu.
+Select ``System Boot Settings'' and select ``Specify System Startup Device ①% ``Standard''.
+``Specification of super-drive device'' to ``FDJ'', ``Specification of first drive'' to FD, and so on.
+Correct the settings. After setting, set the `bootable disk' to the floppy drive.
+After setting (Press the ESCJ key ② times to exit the ⑨⑧ Notes menu, the screen will open again.
+The computer drive should become A drive and start up. There again
 
-B INSTED B A
+B Member S hand D B A
 
-and press the key ( ).
+Enter , and press the ) key.
 
-You will see various messages on the screen, but all you need to do is to open the program on the NetHack to the `Startup Disk'.
-The NetHack program will be deployed in the `Startup Disk'. BHET, 74 X
-If you are instructed to replace the `Startup Disk', you can insert the `Data Server Disk' into the floppy drive.
-CG and other data can be opened in the `disk for data'.
-CG and other data can be opened in `discs for data'.
+A message will then appear on the screen, but the required network information will be displayed.
+The program on the disk will be extracted to the `bootable disk'. BHET, 74X
+When I was instructed to replace the floppy drive, I received data on the floppy drive.
+Please insert a disk. Data such as CG is displayed on the ``data disk''.
+It opens.
 
-If EMS can be used afterwards, we would like to use the EMS interface that we normally use to create a pseudo-disk.
-SYS and configure it in CONFIG. SYS.
-SYS. The specifics of how to do this are beyond the scope of this document, as they require a separate explanation.
+If you can use EMS, please use the EMS input you normally use.
+It is best to copy it to your hard disk and configure it in CONFIG.SYS. specifically and
+I will omit it in this book, as it would be a separate explanation of how to use it.
 
-Instituting a hard disk in the park
+Installation on hard disk
 
-When trying to install a NetBackup to a hard disk, it is recommended that at least the minimum amount of free space be used (see Section 3.3).
-(2) Install the network buffer pack to the electronic disk: When installing the network buffer pack to the electronic disk, make sure that at least (3) MB of free space is required.
+① If you are trying to install a network pack on your electronic disk, check the free space.
+The minimum amount required is ③MB, so be sure to check.
 
-The keystroke must first be MS-DOS 2B L.BT+ 2272709 P Lagoon.
-(2) Set the keystone to the MS-DOS 2B L. BT+ 2272709 pee drive, and move the cursor to the drive.
-The N-layer is the B-drive.
+① The key is MS-DOS 2B L. BT+ 2272709
+Set it on the disk drive and move to that drive.
+The N driver that I have been using for a long time is on the B drive...
 
-A
+a
 
-From the state of ・・・・・・
+From the situation...
 
-Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo
+Install
 
-Yama
+Yan Pilgrimage
 ユ ピ ー を 選 ほ う 。 コ ピ ー が 終 っ た ら 、 そ の ま ま ⑨⑧ ノ ー ト メ ニ ュ ー で ` モ
 ー ド 設 定 】 を 選 び 、『 シ ス テ ム 起 動 装 置 の 指 定 ① % ` 標 準 』 に 、` シ ス テ ム
 超 動 装 置 の 指 定 TT』 を 『FDJ に 、『 第 一 ド ラ イ ブ の 指 定 』 を FD』 に 、 そ れ

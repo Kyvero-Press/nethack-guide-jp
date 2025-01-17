@@ -1,35 +1,35 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-147.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-146.png]]
-The stirrups are equipped with a chain ring to ensure freedom of movement. It is probably the strongest stirrup of any normal material.
-It is the strongest stirrup made of ordinary material. However, they were also very heavy and expensive.
-Even if you could find them in a stirrup shop, they would not be easy to get your hands on.
-dragon scale mail Dragon scale mail AC-9
-A chain made from dragon scales, which is said to be one of the rarest chains in the world. The highest protection factor
-The highest protection factor, not to mention the lightest weight, is the most important factor.
-Also, perhaps because of compatibility problems, this Zhen is made only from the scales of the dragons in its seed head.
-The hoe was made from only the scales of the dragons in the seed head. The scale metal is made from the scales of the dragon's seed head.
-Rumor has it that the scale metal has various special effects.
+Chains are attached to each end to ensure freedom. It is said to be the strongest stirrup made of ordinary materials.
+I think you can say something. However, it also adds weight and is quite expensive.
+Even if I were to go to a stirrup shop, I wouldn't be able to get my hands on it easily.
+dragon scale mail AC-9
+It is said to have been carved from the scales of a dragon, and is a rare chain in the world. Defense power
+Not only is it the best, but it's even more important that it's lightweight.
+Also, perhaps because there is a compatibility issue, this town is made up of ① seed-headed dragon scales only.
+Pissed up. x , hoe , 彡 dan s ji shi shin ⑨ , E ( ru ⑤ te dragon )
+Scale mail is rumored to have a variety of special effects.
 
-CLOAKS mant
+CLOAKS cloak
 
-It is a mantle worn over armor. It is a mantle worn over armor.
-The mantle covers the material that would otherwise corrode the armor itself. In this sense, it may be a very important piece of armor.
-In this sense, it may be a very important protection device.
+It's a cloak worn over armor. Even though the armor itself is made of corroding material, the cloak is
+As long as you keep it covered, you'll be fine. That's what it means, it's very important.
+I wonder if it's some kind of armor.
 
-cloak of displacement cloak of displacement AC-①
-This is a cofant with the magical power to warp light rays. The one who wears this mantle is,
-The wearer of this mantle will see a false image of himself at a distance from his actual position.
-The monsters, too, will be able to see this false image of themselves at some distance from their actual position. Monsters are likely to attack this virtual image first.
-Cloak of invisibility Cloak of invisibility AC-①
-D=y Tetsuro Tō will notice that his own image is not visible (⑧).
-He will notice that he is not visible (8). Yes, this mantle is a sealed version of the Clairvoyance spell. However, the protection spell is not a spell.
-The cloak of magic resistance _ cloak of magic resistance _ cloak of magic resistance _ cloak of magic resistance _ cloak of magic resistance _ cloak of magic resistance
+cloak of displacement AC-①
+It is a cophant that has the magical power to bend rays of light. The one who wore this cloak was
+The idea is to see a virtual image of yourself appear at a distance from your actual location.
+Let's go. It seems that monsters will often attack this virtual image first.
+cloak of invisibility AC-①
+D=y The old man must have noticed that he couldn't see himself.
+cormorant . Yes, this cloak is the one that seals the spell of invisibility. However, the defense force
+That's not even the case with W-Korei-Head Samurai.
 cloak of magic resistance _ cloak of magic resistance AC-①
-A cloak of magic resistance. It renders many spells used by mages ineffective.
-This is a mantle that has protection against magic. How effective this mantle is can only be understood by those who have invaded the lower levels of the grotto.
-You will understand this as soon as you invade the lower levels of the grotto.
+It is a cloak that has defensive power against magic. Many magics used by magicians
+shall be invalidated. How effective this cloak is can be seen by infiltrating the lower layers of the demon cave.
+It's just a matter of understanding.
 
-150 ITEMS (1) The tools that await you in the grotto
+150 ITEMS 11 Tools waiting for you in the devil's cave
 
 ど に は 鎖 常 子 を つ け て 自 由 度 を 確 保 し て い ぃ る 。 通 常 の 材 質 で は 最 強 の 鐙 だ と
 言 う こ と が で き る だ ろ う 。 た だ し 、 そ れ だ け に 重 量 も か さ む し 、 か な り 高 価

@@ -1,0 +1,24 @@
+Type and press the ( key. Then the disk drive will start working again.
+and format the disk of drive B. When the process is finished, move to B.
+I pulled out the live disk and attached a label that said ``Data Disk.''
+X,
+
+Next, remove the MS-DOS system disk from drive A.
+Set the ``boot disk'' instead, reset it, and start the computer.
+EZ 3,
+
+Then, when MS-DOS starts up, insert the attached disk into the B drive.
+ru 0 da w de e E de de
+
+A＞
+
+...... From the letter,
+
+B: InSteD B A
+
+Enter (and press the arrow key.)
+
+TR M U-U Startup Dek Tomo
+
+⑦② How to use the attached disk
+

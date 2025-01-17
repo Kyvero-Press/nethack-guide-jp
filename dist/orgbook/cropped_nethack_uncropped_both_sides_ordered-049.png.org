@@ -1,54 +1,54 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-050.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-049.png]]
-That's why. We had already confirmed that it was Sook-yu's medicine, but the rest remained unidentified.
-The other remained unidentified. The red, blue, and green liquid in the bottles were all very bright, but the color and the effect were not always in direct proportion.
-The color was not proportional to the effect. If it was a strong drug or a paralytic, it could be fatal.
+That's why. I was able to confirm that it was just the medicine for the lady, but the other one was an unknown one.
+Ma . The red, blue, and green liquids in the bottles were all vivid, but the colors and effects were never as vivid as they were.
+Not proportional. If it's a powerful drug or paralyzing drug, it could be life-threatening.
 
-(It is no use carrying something so useless, though.)
+(It can't be helped if you have something that's useless for this role, though.)
 
-Nasrullah thought that it was useless, but he could not bring himself to throw it away. If I could use the confirmation spell, I would be able to find out who she really was.
-If I could use the confirmation spell, I would know for sure who she was. Perhaps there was a drug I could use.
-Perhaps there was a medicine that could be used.
+I thought about it, but I didn't feel like throwing it away. Use a confirmation spell
+If so, the true identity will become clear. Maybe there are chemicals that can be used.
+stomach .
 
-(I'm sorry, but I'm not ready...)
+(I'm inexperienced)
 
-With a sigh, Nasrullah finally rechecked his weapons and gear against the remaining amount of food.
-The stirrups were on the ground floor (6). The stirrups were freshly purchased plate mail from the 6th floor below ground.
-As they were brand new, there was not a scratch on them. The shield he had taken with him when he came down to the grotto.
-The shield was the small shield I had brought with me when I descended into the grotto. It had been sealed up with magic, so it had good protection.
-However, it was damaged in many places, probably from overuse.
+With a sigh, Nasrurah finally rechecked the amount of food left and weapons and armor.
+I took a bath. The stirrups are made of plate mail, which I just bought on the 6th floor of the basement.
+It was new so there wasn't a single scratch on it. I took the shield with me when I descended into the devil's cave.
+It is a small shield. Its defensive power was high because it contained magical power.
+It has scratches all over the place from being used too much.
 
-(I'll have to buy a new one soon...)
+(Should I buy it soon?)
 
-And the sword. The sword is the legendary Stormbringer. It was given to her by Loki, the god who watches over her.
-It was given to her by Loki, the god who watches over her. The blade is sharp indeed. The blade doesn't even bounce. Sword
-The sword alone should be able to go deep into the earth without being replaced. Nass, who has little strength and stamina, is the only one who can use a sword.
-The Nasr Nekhlalayu and the Sudhran melin are the only ones who can return the kyphosis.
+Then there's the sword. The sword is the legendary sword Storm Pringer. God is watching over her.
+It was a gift from Loki. As expected, it is extremely sharp. There is no blade. sword
+It should work even deep underground without having to replace it. Eggplant with low arm strength and physical strength
+In the run-up, Merlin was a small-time student, and the song was a no-brainer.
 
-Once he was sure of everything, Nasrullah stood up slowly. The next enemy awaited.
-The next enemy was waiting.
+After checking everything, the ruler slowly stood up. The next enemy is waiting
+That's right.
 
-If we see any more defenses or attacks, we'll check in with the i, or possibly the TI command.
-Which UCommand? Whichever u-command you choose, you can always use the TI command.
+When you have a lot of supplies and items, check them using i, or perhaps the TI command.
+Let's take a look. Either of these commands is ⑤ or Makoto Wataru.
 
-Pressing the "↑" button will display the inventory of possessions. The order is amuletb, weapon, armor
-The order is amuletb, weapon, armor, food, scrolD, spell- book, #5# (ring- book), #5# (ring- book), #5# (ring- book), #5# (ring- book), #5# (ring- book), and #5# (ring- book).
-(spell-book), #5# (ring) % (potion), wand, tool. EF (jewel)
-EF (jewel). If there are too many items, they will not fit on one screen.
-It doesn't matter which key you press. The screen should change and the next item should appear.
-The screen will change and the next item should appear.
+When you press the button, an inventory of your belongings will be displayed. The order is amulet (amuletb), weapon
+(weapon), armor, food, scroll (scrollD), spell-book (spell-)
+book), #5# (ring) % (potion), wand, tool. EF (jewel)
+That's what happens. If you have too many items, you won't be able to fit them all on one screen, so you don't have to worry about using any key.
+Try pressing it instead. The screen should change and the next item should be displayed.
+There it is.
 
-The name and number of items will be displayed in the log. For example, `② uncursed
+What is displayed in the inventory is the name and number of items. For example, `② uncursed
 
-Confirmation of inadequacy 53
+Confirmation of atrophy 53
 
-3 2.
+3 2
 
-53.3 2.7
+7
 
 Vo
 
-Yan , M
+Yan Pilgrimage, M
 た め だ 。 か ろ う じ て 淑 遊 の 薬 だ け は 確 認 し て ぃ た が 、 あ と は 正 体 不 明 の ま
 ま 。 赤 、 青 、 緑 と 瓶 の 液 体 は い ず れ も 鮮 や か で あ っ た が 、 色 と 効 果 は 決 し て
 比 例 し な い 。 劇 薬 や 麻 痺 の 薬 だ っ た ら 命 に か か わ る 可 能 性 だ っ て あ る 。

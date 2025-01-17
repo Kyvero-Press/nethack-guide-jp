@@ -1,41 +1,41 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-263.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-262.png]]
-Command to operate belongings
+・Commands to operate your belongings
 
-Remove any protective gear you are wearing.
-Put down your belongings.
+Remove the armor you are wearing
+Put down your belongings〈 -
 
-Put down some of your belongings
-Put on a ring.
+Put down some belongings
+Remove dust` Wear a ring
 
-Remove the ring or remove the ring.
+Remove the amulet or ring you are wearing.
 
-Remove one of the items of armor you have on display, if you wish.
-Hold a weapon, and with a "T`w", you can also hold your body in your bare hands.
+Remove any piece of armor you have on hand.
+carry a weapon. T`w' becomes a bare hand that also holds the body.
 
-Wear protective gear
+wear protective gear
 
-Pick up something from the sun
+Pick up something in Japan
 
-Put a rule on the items you are picking up.
+Attach rules to the items you pick up.
 
-Command to use your belongings
+・Commands to use inventory
 
-Use tools
-Eat food (or monsoon carcass)
-Drink water
+use tools,
+Eating food (or the corpse of a monster)
+drink water bush
 
-Throw things. Or shoot arrows with a bow.
-Strike with pleasure. If it is a magic wand, you will see its effect.
-Dip the object you are holding in something.
+Throw things. Or shoot an arrow with a bow
+Hit with ease. If it were a magic wand, the effect would appear.'
+immerse what you have in something _ ~
 
-Other actions
+・Other actions
 
-Dip the object you are holding in something.
-Carving messages on the floor
-' Substitute for goods bought at the store )
+⑦ GBEEE) Mi ⑤ s
+carve a message on the floor
+'Cost of items purchased at the store)
 
-266 List of Commands
+266 List of Commands 1 List of Commands
 
 ・ 持 ち 物 を 操 作 す る コ マ ン ド
 

@@ -1,39 +1,39 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-047.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-046.png]]
-The first command is used to read scrolls and spellbooks. Enter 2) after the command and press
-(2) after the command, a list of scrolls and spellbooks you own will appear.
-It is a good idea to use it. By the time you reach the midpoint of the game, you should have several scrolls in your possession.
-(5) The following is a brief summary of the list of scrolls.
+The command is used to read scrolls and spell books. Enter ②) after the command
+When you do this, a list of the scrolls and spell books you own will appear, so make use of it.
+stomach . By the time you get to the middle of your adventure, you'll always have a few scrolls with you, right?
+⑤
 
-The benefits of reading a scroll are immediately apparent. Unlike words and rings, scrolls have a clear effect.
-(5) Unlike words and rings, the effects of scrolls are often clear, even if you read something unknown to you,
-If you read something you don't know, it will probably be registered in the identification list displayed on the front page. Before identification
-The first time the scroll is labeled with an unintelligible label, but after it has been identified for a while, the label will be changed to a meaningful name.
-After a few identifications, the name changes to something meaningful.
+When you read the scroll, the effects are instantaneous. Unlike wands, rings, etc.
+The effects of things are often clearly visible, so even if you read something unknown,
+In most cases, it will be registered in the identification list indicated by \. Before being identified
+The rolls are covered with labels that make no sense, but once they are identified, they are difficult to understand.
+Change the name to something more flavorful.
 
-If you try to read a spell book, it will take you a certain amount of time to finish it. During that time, the spell book will also change to "Monstar".
-During this time, the monsters will move around and attack, so learning the spells is not an easy task.
-It is better to learn the spell in a closed space. If you should stop reading in the middle of a spell, the spell book will not be able to help you.
-If you stop reading halfway through, the spellbook will not disappear. Don't worry.
+If you try to read a spell book, it will take some time to finish. So
+During this time, monsters move around and attack you, so learning spells is difficult.
+It would be better to do it in a closed space. If by any chance, you have to stop reading in the middle.
+Even if you stop, the spell book will not disappear. There is no need to worry.
 
-All spellbooks have a difficulty level, and there is a guideline for the level required to master the spells.
-(The level of a spellbook is the `spell level',
+All spell books have a difficulty level, which is required to master them.
+It serves as a guide to the required level (the level of a spell book is ``spell level'',
 
-The threat of huucue k
+threat huucue k
 
-YT 20 oo 4::::; `
-N uka
-N ϵ N
+YT 20 Oh 4:::;
+ton to to J au, uka
+Hmm ￥ Nmm
 
 bz
 
-50 COMMANDS 1 1 To walk in a cave .....
+50 COMMANDS To walk through the devil's cave...
 
-I'm not sure what you're talking about, but I'm sure you're right.
+Is that new?
 
 (.4 =
 
-uuw
+Ugh lol
 
 ェ コ マ ン ド は 、 巻 き 物 と 呪 文 書 を 読 む の に 使 う 。 コ マ ン ド の 後 で ②) を 入
 カ す る と 、 自 分 の 持 っ て い る 巻 き 物 と 呪 文 書 の 一 覧 が 出 る の で 活 用 す る と よ

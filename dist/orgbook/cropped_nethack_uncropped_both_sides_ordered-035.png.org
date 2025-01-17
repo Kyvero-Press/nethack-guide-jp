@@ -1,54 +1,54 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-036.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-035.png]]
-Now, when you start the game, you will notice that the bottom two rows of the screen show Strenth and a few other non-performance parameters.
-You will notice that the bottom two rows of the screen display several parameters other than the ability, starting with Strength.
-This is the case for the characters. This shows the state of the characters.
+Now, when you start the game, the two lines at the bottom of the screen will contain information including strength.
+I also noticed that some parameters other than the specified ability are not displayed.
+Let's go. This shows the character's state.
 
-On the left of the first line, the name of the character is shown. Next to the name
-The title [XXXX the Plunderer] is the title of the character. This
+- The character's name is written on the leftmost line. next to the name
+It is written as [XXXX the Plunderer] and is a title. this
 The title changes as the character's level increases. After the title
-The second and third columns of the title contain the aforementioned parameters. These parameters are not constant.
-These parameters are not constant, but change depending on various factors during play. The character on the right end of the first line is the character
-The character's attribute is written at the right end of the first line.
+The parameters mentioned above are recorded here. These parameters are also not immutable.
+It changes depending on various factors during play. Written on the right end of the first line
+These are the attributes of the character.
 
-The second line shows the current status of the character. The leftmost Dlvl
-on the left indicates how many floors below ground the dungeon is. G: to the right of it is the amount of money you have.
-G: is the amount of money you have.
+The second line records the character's current state. Leftmost DLVL
+The name indicates which floor of the dungeon's basement you are on. The G on the right is
+It's money you own.
 
-The tree to the right of the G: is the G:, which is the amount of gold you have. This point is the point where the enemy's attack will cause the player to lose his gold.
-When it reaches 0, the character dies and the game ends.
+What is written on the money tree is the hit point. This point is the enemy
+Depending on the attack, etc., the number of ports is increased, and when the number reaches 0, the character dies and the game ends.
 
-You hear the foot steps of a guar d_ on patrol .
+YO HAIR TEFOTS TEPS OF AGUAR d_ ON PATROL.
 
-~~~~~~~
+~~~~~~~ Kute E-1
 
-~~~~~~~~~ St. ... brass-don- (
+~~~~~~~~~ Saint... Brass bowl (
 
-~~~~~~~~ + year 1$, I#nada#鬆 1
+~~~~~~~~ + Year ①$ 、 Well#nada#鬆 ① -
 
-N" 1 li # = 8 8 2 1
+n ” ① Re # = ⑧ 2 ①
 
-"""""""" hand-sa# to
+〟〟〟〟〟〟〟〟 Hand sa - # ni
 
-1 1 1 1 1 1 1 托 gy BS: 手 手 手打 + ... HEHE
+1111111 托gy BS: 手 手 uch + … HEHE
 
-# 打手 # # 止打 せーーー-打拐 ` 手托拐
+# Hitting # # Stop hitting --- Hitting ` Hand kidnapping
 
-Hand # hand - ③ HHE - ③ HHE
-ーーーーlee 打 打打 ュ托托 ま ⑧⑧ 0 ①" ( ) itf o " > ...
-(1) "Itf o " > e ・Ki H . H .
-0 eo payment folded, ① is 0 HByo
-_________ H BRI,, i 0 0 also tak e m a rk %%%.
-~~~~~~~~~~ hand hand half + . % # , , 1 T
-__________ -s
+I Uchi Ite # Hand - ③ HHE -
+----- Li -hitting Uputa ⑧ 0 ①
+” ( ) itf o " > e ・ キ H .$ ①
+0 e o payment, ① is 0 HB
+_________ H BRI, , i 0 0 also %%
+~~~~~~~~~~ Hand Hand Half + .% # , , ① T
+__________ - to s
 
 Yoshitune the Bush i St:18/03 Dx :①0 Co:18 `n :①0 Wii①0 Ch :⑧ Lawfu l
 DIv : ③ G ①0① HP : ⑪ 〈④⑨) Pw:25(25) AC : ④ Xp ⑤/②④⑦ T : ④③④
 G① CU CA S① SU Vo①D NWL TNS REP <
 
-Be Invoked Nethack Start
+Be Invoked
 
-B N
+B
 
 さ て 、 ゲ ー ム を 起 動 き さ せ る と 、 画面下方の2行にはス ト レ ン グ ス を は じ め
 と し た 能 力 以 外 の パ ラ メ ー タ も 、 い く つ か 表 示 さ れ ん て ぃ い る こ と に 気 が つ く だ

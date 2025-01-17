@@ -1,0 +1,39 @@
+- Ma
+
+Base Sea
+
+ー Pe ー 1 1 A
+
+ni = yo one
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+By using the two commands H and #|, you can open a treasure chest or a mace and see its contents.
+You can get it. How to open a treasure chest by kicking it using the k command
+There are also. Also, the contents are falling asleep.
+There is also a way to "use" a treasure chest according to the command ⑧, but it is difficult to use a heavy treasure.
+You may have to temporarily drop some of your belongings on the floor to remove the box.
+However, it is extremely inefficient.
+
+When using the #f command, use a sharp-pointed weapon such as a sword, or a pick ax.
+I was equipped with a similar weapon called Mace, but in the middle of nowhere, I was unable to escape.
+Vo coid ② is 0.
+%, If the weapon you are currently preparing is not suitable for opening the treasure chest, then the star
+A message will be sent to you.
+
+#① To use a command, stand on top of the treasure chest and enter the command.
+Vo First, there was a question, ``Do you want to retrieve the contents of the treasure chest?'' To which the answer was y.
+Once you do that, the names of the items inside will be displayed one by one.
+Mada is able to compose m.
+
+Once all the items are displayed, the next question is ``Would you like to put something in the treasure chest?''
+There was a question, and just like when I picked it up, this time I asked myself what items I had.
+Questions will be asked to each person one by one.
+
+Open it and see what's inside 99
+
+=
+outside
+

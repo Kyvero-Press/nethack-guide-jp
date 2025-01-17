@@ -1,46 +1,46 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-084.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-083.png]]
-That's all I ask. That is all I ask."
+It's good. That is my only request.”
 
-I know that the "Tessumi consigns me to a place of business (8).
-I knew that the Lord had been in love with me.
+Testimonials ⑧ The world is filled with sadness as the staff hugs the staff and cries without saying a word.
+It was obvious.
 
-(Uncle Ki).
+(Uncle Ki-san)
 
-Nasrullah looked at the stirrups and thought.
+Nasrullah thought as she looked at the stirrup.
 
-( Thank you, Uncle! I have the best armor.)
+(Thanks to my uncle, I got the best armor.)
 
-She took the stirrups in her hand. It was lighter than the platemail. I have just poked her in the breastplate with my sword.
-I tried to pierce her breastplate with my sword just now, but I could not get a scratch. She was a good defender, no doubt.
-She took her eyes off the stirrup in front of her. She replaced her sword with a sturmbringer and stepped down to the stairs.
-She puts her feet up on the stairs. The second and fifth floors were waiting for her.
+She takes the stirrups in her hands. It was lighter than plate mail. A moment ago, I cut the breastplate with a sword.
+I tried to find it, but I couldn't find a single scratch. There is no doubt that it has high defensive power.
+She took her eyes off the stirrup in front of her. Bring the sword back to the Storm Bringer and go down.
+Step on the stairs. The second and fifth floors of the basement were waiting for her.
 
-The W command is used to put on the protective gear. Press (W) to ask which armor to wear.
-(%, if you don't know which is the target armor, enter ?) (%, if you don't know which is the target gear, you can input ?
-A list of the tools will be displayed. A list of the gear will be displayed. Once you are sure, select the armor you want to wear.
-After confirming the selection, select the gear you want to wear.
+Use the W command to wear armor. Press (W) to ask what armor to wear.
+(%, if you don't know which armor you want, enter ?).
+stomach . A list of armor will be displayed. After checking there, select the protective gear to wear.
+Ru.
 
-Note that when wearing new protective gear, it is necessary to remove the previously worn protective gear.
-When putting on the new armor, it is necessary to remove the previously worn armor. When putting on armor, the armor should be swept off before putting on the stirrups.
-Before putting on the armor, the armor must be swelled and new stirrups must be put on. Shields, pommels, helmets, and shoes are all the same.
-Shields, skirmishers, helmets, and shoes are all the same.
+What you need to be careful of is that when wearing new armor, the armor you had previously equipped
+There is a need to remove it. When you put on armor, you first inflate it.
+I have to wear new stirrups. The shield, hands, helmet, and shoes are all the same.
+It is the same.
 
-Some armor may only be worn after removing certain protective gear.
-The hawaian shirt cannot be worn over the stirrups. The hawaian shirt cannot be worn over the stirrups; it must be put on after the armor is removed.
-The mantle must be worn over the stirrups. The mantle is prepared over the stirrups. Therefore, once you put it on, the mantle (4) must be removed.
-Therefore, once the mantle is put on, the spear cannot be thrown until it is outside the stirrups.
+Also, depending on the type of protective gear, there are some that cannot be worn unless the specific protective gear is removed.
+Ru. Hawaiian shirts cannot be worn above the stirrups. I put it on after taking off my armor.
+That's what I'm talking about. Also, the cloak is prepared from above the stirrup. So I put it on once and put it on.
+I want to be able to throw a halberd until the end of Lamant 4.
 
-The command to equip the weapon is w. Press (w) to select the weapon you want to carry.
-As long as the weapon is not cursed, the selection will go smoothly. If you are not sure which weapon to choose
-If you are not sure which weapon to choose, press [(?) If you are not sure which weapon to choose, press [(?)] to display a list of weapons,
-If you are not sure which weapon to use, you can press [(?)] to see the list of weapons and then you can select the one you like.
-The details are input into the gleaming parent⑳ ら).
+The command to equip a weapon is w. Press (w) and select the weapon you want to carry.
+As long as you are not cursed, choosing a weapon will proceed smoothly. What kind of martial arts?
+If you are confused about which weapon to use, press (?) and a list of weapons will be displayed.
+Somiki Kara Former Run Nene Meto Kubo Selection Marebo Poi Group Somada Sako Naka Hoseza No Furnace D U Okashi
+Please enter the detailed information in ⑳ of the parent.
 
-Finger rings, armament, protective clothing, etc.
-8 Sir.
+Equip a ring, equip a weapon, wear armor 8th Lord
+%/
 
-Yama, `
+Yan Pilgrimage, `
 い ぃ で 。 そ れ だ け が わ し か ら の お 願 い だ 」
 
 テ ス ル ミ 託 佐 伺 ⑧ 言 お 商 に 抱 き う く き 伺 が 言 え ぼ 泣 き る 出 て 世 垂 う 趣 悲

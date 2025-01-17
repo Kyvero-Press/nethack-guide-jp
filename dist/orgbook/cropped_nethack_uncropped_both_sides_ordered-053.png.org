@@ -1,55 +1,55 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-054.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-053.png]]
-If you can't have a new system, you may want to consider using a new system or a new spotlight.
+If you have too many items or misconceptions, you must have new items.
+I don't know if it's possible to hit someone with a fist while reading.
 
+If you know what you want to throw away, just enter ``dh'' and it will be registered on hn.
+⑨ My belongings will be thrown away. [dh2] - then ② pieces. It will be put in place. ,. too
+If you are not sure, just press (d). When I asked him what he was throwing away, he said (D
+When you enter the key, an inventory of your belongings will appear, so take a closer look at the items you want to throw away.
+⑤
 
-If you know what you want to discard, enter "dh" and it will be registered in hn.
-If you know what you want to throw away, you can enter "dh" to see which of your belongings are registered in hn (9). If [dh2] -, then (ii) is discarded. If [dh2] -, then (ii) is placed. If [dh1] - is the case, then [dh2] - is the case. If [dh2] -, then (ii) will be placed.
-If you are not sure, press only (d). When you are asked what you want to discard, press (d).
-(d), the inventory of your belongings will appear, and you can examine the items you are throwing away.
-(5) 5.
+Use the D command to dispose of all your belongings. This is what happens in +. D)+
+If you hold down the pressure, you'll be wondering what to put in it. =============================================== ===
+We will ask you which of the symbolic items you would like to throw away. (Shinra Human Power
+If it is, it is wand, and if it is (?), it is scroll. While looking at the screen, I thought about the items I wanted to throw away.
+Select things. This is a useful command when you want to place certain items all at once.
 
-(5) Use the D command to place some of your belongings in one place. (6) Use the D command to place some of your belongings in one place. . and . D) + D) + D) + D) + D) + D) + D) + D) + D) + D) D)+
-D)++ asks you what to put down. If you suppress the ++, it will ask you what to put.
-If you hold down the + and -, it will ask you which of the symbolic objects you want to discard. (If you are a human being, you are a wand.
-If it is a wand, it is a wand, and if it is a scroll, it is a scroll. If it's a (?), it's a scroll. After that, the user looks at the screen and selects the item to be discarded.
-After that, they look at the screen and select the item they want to discard. This is a convenient command when you want to place certain items all at once.
+Special uses of the D command include ``Da'' and ``Du.'' ``Da'' is everything without Go recognition.
+FDu will place the unpaid items on the bottom. “`Du” is [D?
+``Ulms of C'' Mi = use s and pay the price: C fisting a piece of fresh ginger - is the first S,
+It's probably a useful command in a store.
 
-Special uses of the D command include "Da" and "Du". Da" allows you to put all items down without approval.
-FDu" puts the unpaid item at the bottom. Du" means [D?
-Du" can be used to fist only those items for which payment has not been made.
-This is a convenient command in a store.
+Shining carp Bonito Termisaki Peng paste Brain shining bonito Risho cormorant Ritribute
+Open, Close
 
-Open, Close Open and close the door.
-Open, Close Opening and closing doors
+N Picture LR T Oh Al B Ah
 
-N e L R T O Al B A
+Nas Lulla closed the door.
 
-Nasrullah closed the door.
+(I saw something incredible.)
+There was a monster behind the door. It's not ① or ② either. It's not very spacious.
 
-(Nasrullah closes the door.)
-Behind the door was a monster. It was not one or two of them. It was not a big place.
+The room was filled with monsters like Affenka. ①⑤..., depending on the case.
+⑳ I don't know if there will be more than one.
 
-The room was not very spacious, but it was filled with an abundance of monsters. (1) (5)... (1) ⑤....
-They may turn into 「⑳匹匹匹」(⑳).
+`There are rooms where monsters gather in various places in the demon cave.''
 
-There are rooms where monsters gather everywhere in the cave.
+This is what the nurse practitioner told me during the lecture.
 
-Master Nealko told us during the lecture.
+`It's dangerous here. ① Animals ① Even if you can fight for more than 5 minutes, it is impossible to fight in a group.
+The monster's strength will be 2 times as much as 3 times as strong."
 
-This place is dangerous. You can fight 1) one of them at least 50 percent of the time, but not when they are in a group.
-The monster's strength can be doubled or even tripled.
+De ②
 
-De 2.
+If you fight with wise people, you won't be able to get enough meat and beg for it.J
 
-If you fight them wisely, you will not have enough time to fight them.
+= , /’
+N N N
+character
 
-= J
-J = ,/'
-J = ,/' J = ,/' J = ,/' J = ,/' J
-
-Door open/close 97 /E&:ﬂ
-/;/ 9
+Door opening/closing 97 /E&:fl
+/;/ ⑨
 
 ア イ テ ム や 斑 信 が 多 ま よ ざ c 新 し ぃ 〆 イ テ ム を 持 て な く な っ 必 、 d も し
 く は 0 ヨ ミ マ ン ド で 物 る 拳 で た ほ る う 』 が u い か も し れ な \ い い 。

@@ -1,0 +1,50 @@
+Now, when you start the game, the two lines at the bottom of the screen will contain information including strength.
+I also noticed that some parameters other than the specified ability are not displayed.
+Let's go. This shows the character's state.
+
+- The character's name is written on the leftmost line. next to the name
+It is written as [XXXX the Plunderer] and is a title. this
+The title changes as the character's level increases. After the title
+The parameters mentioned above are recorded here. These parameters are also not immutable.
+It changes depending on various factors during play. Written on the right end of the first line
+These are the attributes of the character.
+
+The second line records the character's current state. Leftmost DLVL
+The name indicates which floor of the dungeon's basement you are on. The G on the right is
+It's money you own.
+
+What is written on the money tree is the hit point. This point is the enemy
+Depending on the attack, etc., the number of ports is increased, and when the number reaches 0, the character dies and the game ends.
+
+YO HAIR TEFOTS TEPS OF AGUAR d_ ON PATROL.
+
+~~~~~~~ Kute E-1
+
+~~~~~~~~~ Saint... Brass bowl (
+
+~~~~~~~~ + Year ①$ 、 Well#nada#鬆 ① -
+
+n ” ① Re # = ⑧ 2 ①
+
+〟〟〟〟〟〟〟〟 Hand sa - # ni
+
+1111111 托gy BS: 手 手 uch + … HEHE
+
+# Hitting # # Stop hitting --- Hitting ` Hand kidnapping
+
+I Uchi Ite # Hand - ③ HHE -
+----- Li -hitting Uputa ⑧ 0 ①
+” ( ) itf o " > e ・ キ H .$ ①
+0 e o payment, ① is 0 HB
+_________ H BRI, , i 0 0 also %%
+~~~~~~~~~~ Hand Hand Half + .% # , , ① T
+__________ - to s
+
+Yoshitune the Bush i St:18/03 Dx :①0 Co:18 `n :①0 Wii①0 Ch :⑧ Lawfu l
+DIv : ③ G ①0① HP : ⑪ 〈④⑨) Pw:25(25) AC : ④ Xp ⑤/②④⑦ T : ④③④
+G① CU CA S① SU Vo①D NWL TNS REP <
+
+Be Invoked
+
+B
+

@@ -1,55 +1,55 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-262.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-261.png]]
-e
+picture
 
 Command
 
+Stem gentleman ⑪⑪⑪ En en en en
 
+Command to perform actions
 
-Command to move
+” is displayed, ([(Hold down the CTRLJ key and press the specified alphabetic key.
+⑤
 
-If the command is marked with "⑪", press the key of the specified alphabet while holding down the [CTRLJ] key.
-(5) (5)
+` To execute a command that requires a command, first enter the ( key, then enter the specified alphabetic character.
+Enter.
 
-If the command has a ``command'', press the key first (also press the key) and then the specified alphabetical character.
-(6) Input the specified alphabetical character.
+・Commands related to movement
 
-(6) Commands related to movement
+The corner of the elevated stage (E)
+``Go up the stairs to the floor below'' (when you are on the stairs)
+Take a break ~
 
-E on the top step, corner on the bottom step (if the floor is good).
-Go down the stairs (when you are on the stairs)
-Take a rest.
+close the door
 
-Close the door.
+open the door
 
-Open the door
-
-Teleport (if capable) Teleport
+Teleport (if you have teleport ability)
 Jump to another location
 
-Check your belongings, etc. Command
+・Command to check your belongings etc.
 
-Yuan all belongings.
+Show all your belongings to Yuan
 
-Display the specified type of items
+Display items of the specified type
 
-Displays a list of spells you know (same with [ + | ])
-Displays the weapons he has in his possession
+Display a list of known spells (same as [ + |)
+Show the weapons you have
 
-Displays the armor you have in your possession
+Show the armor you have
 
-Displays rings worn
+Display the ring you are wearing
 
-Displays the removal of the amulet being worn
+Show the charms you are wearing
 
-Shows the tool being used
+Display the tools used
 
-Count the gold you have
+Count the gold coins you have
 
-Show what kinds of objects you have found so far
-Find out what kind of punishment
+Display what kinds of things you have found so far
+Find out the type of punishment
 
-Command to act
+Command to take action
 
 e
 

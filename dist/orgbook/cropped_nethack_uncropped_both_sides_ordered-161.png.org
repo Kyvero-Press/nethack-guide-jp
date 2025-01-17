@@ -1,38 +1,38 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-162.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-161.png]]
 Potion of speed
-This drug doubles the speed of the drinker's movements. Naturally, distance traveled, number of attacks, etc. are also doubled.
-Naturally, distance traveled, number of attacks, etc. are also doubled. In addition, for some reason (kicking a wall, stepping on a mine, etc.), a wounded leg can be removed.
-Water (clear potion) Water (clear potion)
-Water (clear potion) Water
-Water can be divided into three types. The first is plain water. This is the first of the three types of water.
-This water has the effect of making people habituate to hunger. Next is the cursed water. Dip any item in this water.
-If the character's attribute is chaotic, you can drink it.
-If the character's attribute is chaotic, you can drink it to recover some of your hit points. Lastly, Holy Water. This is for evil demons, immortal creatures, or attributes.
-It can harm evil demons, immortal creatures, or people whose attributes are chaotic. It can also be used to drench the cursed items in holy water.
-The cursed items can be broken by immersing them in the holy water.
+This medicine makes the drinker's movements twice as fast. Of course, the distance traveled and the number of attacks
+Everything will be doubled. Or for some reason (kicking a wall, stepping on a land mine, etc.)
+It can heal your injured leg.
+Water (clear potion)
+Water is classified into three types. First of all, it's just plain water. This is not only true, but also
+It has the effect of making you addicted to starvation. Next is the cursed water. Dip some item into this.
+d If you want to drink, but the character's attribute is chaotic, you should drink it.⑨⑧
+You can recover several hit points. Finally, holy water. This is the life of demons and immortals
+An object, or attribute causes damage to a chaotic person. Also, cursed a
+You can remove the curse by soaking the item in holy water.
 
-Rings finger radiation
+Rings fingers
+
+A Sl e
+
+At our store, we have many magic rings to satisfy our customers.
+I'm looking forward to it. What kind of ring would you like? Check out this enchanting ring!
+It will greatly enhance your charm. The ring of conflict deepens the devil's cave.
+The more you wander, the more you will need it. Of course, you can see the effects at a glance.
+We have also prepared an easy-to-understand catalog. Please feel free to read it.
+Sai .
+
+Welcome to Rigg's Jewelry Shop!
+
+The only thing you need to be careful about is the truth.
+A magic ring that is extremely effective is able to absorb the energy of the person wearing it on their finger.
+I am using the gear as is. That's why I gave you a magic ring.
+As a result, energy consumption is high...which means that every time a customer is hungry...
+The process will be accelerated. If you don't have to bring your own food, you can
+I think it would be better to just leave it out.
 
 Rings
-
-We have a large selection of magic rings to satisfy our customers.
-We have a large selection of magic rings to satisfy our customers. What kind of ring would you like? A ring of enchantment.
-A ring of enchantment will greatly enhance your charm. The ring of strife is a magic circle that will lead you deeper and deeper into the cave.
-The deeper you delve, the more you will need it. Of course, we have also prepared a log to help you understand the effects at a glance.
-We have also prepared a log to help you understand the benefits at a glance. Please feel free to read it.
-Please feel free to read it.
-
-Welcome to our jewelry store in Rigg!
-
-One thing you should be aware of is that the magic ring that is actually effective is the one that is put on your finger.
-A magic ring that is actually effective will use the energy of the person who holds it in his or her finger.
-The magic rings actually use the energy of the person who is wearing them. Therefore, when a magic ring is worn, the energy of the person who wears it is used as it is.
-Therefore, wearing a magic ring consumes a lot of energy. ...... In other words, the customers become hungry faster.
-This accelerates the rate at which customers become hungry. If you are not bringing food, we recommend that you remove as much as possible.
-If you are not bringing food, it would be better to remove as much as possible.
-
-Rings 1 1 Rings 1 1 Rings 1 1 Rings 1 1
 
 Potion of speed 速 度 増 加 菓
 こ の 薬 を 飲 ん だ 者 の 動 き を 倍 の 速 さ に す る 。 当 然 、 移 動 距 離 、 攻 撃 回 数 な

@@ -1,0 +1,36 @@
+When you do this, various messages will appear on the screen, but the main thing is to
+The program will be expanded to the `bootable disk'. On the way, Dis
+I'm going to put in a stub, so I'm going to put my fingers in there.
+7]. Data such as CG is expanded to the ``data disk''.
+Ru.
+
+Also, if you can use EMS, start the EMS driver that you normally use.
+It is best to copy it to your hard disk and configure it in CONFIG.SYS. What specifically?
+I will omit it in this book, as it would be a separate explanation of how to use it.
+
+Installation on a laptop computer (RAM drive)
+
+If you use a RAM drive properly, you will be able to access the Internet more or less comfortably when using a computer.
+ー っ ん き ん ( s ③ ro ou ha na de ne sun wa meat storehouse or W ② ra ba ken do
+⑤ Law of Yumori's Defense W School
+It's the same thing as with a portable disk, but you have to be careful in a lot of ways.
+%,
+
+First, save the contents of your RAM drive before starting the installation.
+It's okay. It's a different story if the contents of the RAM drive are worthless even if they disappear.
+Then, start it up while holding down the (HELP) key to display the 98 note menu, and select ``RAM''.
+2880. Frame's Cloth Settings
+Let's move the contents of the RAM drive to the disk.
+
+Next, set the NMS -D0S system 788 screen m — ⑧ to the device.
+Select `Auto mode' to start. When I start it up, I have a floppy drive and a new one.
+I want to use a fross disk,
+
+A＞
+
+FormaT B: /M /S
+
+The next step is to be honest.
+
+Install
+

@@ -1,29 +1,29 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-149.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-148.png]]
-ELVEN CLOAK
+Picture Lven CoaK
 
-FEDORA
+fedora
 
-HELMET
+To Lme T
 
-elven leather helm elven leather helm AC-①
-This helmet is made of elven leather, a favorite material of the elves. The elaborate design is featured on the entire body.
+elven leather helm AC-①
+A helmet made of leather that elves like to wear. The elaborate design throughout
 
-Elf's favorite helmet made of elf skin.
+It is engraved on the inside.
 
-fedora KHEMADON AC-1
+fedora queen AC-1
 
-A leather hat with brimmed brim. While not as strong in protection, its main advantages are its resistance to acid and rust, and its light weight.
-The hat is resistant to acid and rust, and is much lighter than its predecessor.
+A brimmed leather hat. Although the defense power is not that great, it is a big advantage.
+It is resistant to acids and rust, and most importantly, it is lightweight.
 
-helmet Helmet AC-①
-A very common helmet. It may be said to be unique in that it has no special characteristics.
-Helm of brilliance VA FT Kind Lilin A AC-1
+helmet AC-①
+A very ordinary helmet. I don't think you could even call it a feature, since it doesn't have any special features.
+helm of brilliance VA FT Kind Reli Rinn A AC-1
 
-Just for a moment, you can understand that wearing this overcoming beauty makes your own head brighter.
-I am sure you will understand that your mind will become cleverer when you put on this conquest every once in a while. Specifically, it is a helmet that increases the intelligence and wisdom of those who are equipped with it.
+Once you put on this beauty, you will understand that your mind will become intelligent.
+Oh, right. Specifically, it is a helmet that is said to increase the intelligence and wisdom of those who raid it.
 
-152 ITEMS The tools that await you in the cave of favor
+152 ITEMS 111 Tools to wait and receive you in the cave of favor.
 
 ELVEN CLOAK
 

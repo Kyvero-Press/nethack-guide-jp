@@ -1,28 +1,28 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-189.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-188.png]]
-CRYSKNIFE
+Feed to CRYSK
 
 STAFFS Cane
 
-A wand is a weapon that is favored by weak mages. It should not be used by mages who are not strong enough to use it, or by barbarians or ogres who lack the dexterity to use sophisticated weapons such as swords and spears.
-Or perhaps it is used by barbarians or ogres who lack the dexterity to use sophisticated weapons such as swords and spears.
+Magicians who lack physical strength prefer to use it. It is a sophisticated weapon like a sword or a spear.
+It seems like the clubs are being used by savages who don't have the dexterity to use them, or ogres, etc.
 
-aklys aklys aklys
-They increased their power by philosophizing with wires and burying sharp pieces of metal between them.
+aklys
+They made wires and embedded sharp pieces of metal between them to increase their power.
 
-A cudgel. It is said to be favored by the ogre and others.
+A club. It is said that ogres like to use it.
 
 club club
-A short wooden club. A strong man could inflict this damage with it, but it is not a primary weapon.
-It is a short wooden club, but it is not a primary weapon.
+A short wooden stick. If you are a strong person, you can do some damage.
+It may be, but I wouldn't mind using it as a main weapon.
 
 flail
-An interlocking club developed from an agricultural tool. The grip part and the club part, which strikes the enemy, are connected by a chain or gold chain.
+An articulated club developed from agricultural equipment. The part of the grip and the part of the club used to strike the enemy are made of chains and gold.
 
-The grip is connected to the club by a chain or metal ring. It uses centrifugal force to give even a man without a club a great deal of power.
-The cudgel is used to strike the enemy.
+The things that are connected by the genus ring. Using centrifugal force, even those without power can exert great power.
+Ru.
 
-192 ITEMS Tools waiting for you in the cave
+192 ITEMS 111 Tools waiting for you in the cave.
 
 CRYSKNIFE
 

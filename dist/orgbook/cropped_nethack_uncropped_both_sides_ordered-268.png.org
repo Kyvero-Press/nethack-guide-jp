@@ -1,41 +1,41 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-269.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-268.png]]
-Please send any comments or impressions regarding this document and the game in writing to our Service Center.
-Please send your comments and opinions regarding this document and the game in writing to the Company's Service Center. However, we may not be able to answer questions regarding the content due to the nature of the game.
-Please note that we may not be able to answer questions regarding the contents of the game due to the nature of the game.
+_ If you have any opinions or comments regarding this book or the game, please write to our service center.
+Please send it to me. However, any questions regarding the content will be answered due to the nature of the game.
+Please note that there may be cases where this is not possible.
 
-If you think that the game is malfunctioning, please tell us your name, address, the type of computer you are using, and how you operated it.
-If you suspect malfunction, please provide your name, address, the type of computer you are using, and a description of the situation, including how you tried to operate it and what happened before and after the operation.
-Please send a letter to our Service Center with a return envelope.
-Please send a letter with a return envelope to our Service Center. Please note that we will not be able to answer telephone inquiries.
+e If you think your computer is malfunctioning, please let us know your name, address, computer model and type of computer you are using.
+Write down the situation, including what happened before and after.
+Then, enclose a reply envelope and send it in writing to our service center.
+It's hard. Please note that we cannot respond to inquiries over the phone.
 
-e The attached disk does not contain the NetHack source code due to space limitations.
-The diskette attached to this document does not contain the NetHack source code due to capacity limitations. If you wish to obtain a source code, we will send it to you separately.
-Please fill out the reader's card attached to this form and return it to us.
+e Due to space limitations, the NetHack source code is not included on the disk attached to this book.
+I don't apologize. If you would like the source code, we will send it to you separately, so please refer to this document.
+Please fill out the necessary information on the reader card that comes with the card and mail it in.
 
-FRI SCHEME NUTA TRAINLARI : GAME COLLECTION EXTRA
+Free Conspiracy Nuta Train Library: Game Collection Extras
 
-(2) Forwarding Hess > Tie o A (e Y~)
+Ne ② He shi > Tie o A (e Y~
 
-NetHack the R.P.G.
+Go to sleep, R. P. G.
 
-(3) Difficulty of Confucianism 19934 (7) Eye
+Fa Confucianism 19934 ⑦ ④ eyes
 
-Author
+author
 
-Hideaki Makitani
+Publisher Hideaki Makiya
 
-Publisher Shuwa System Trading Co.
-(0.7) Akasaka, Minato-ku, Tokyo (8)-(5)-(2)-(9) Chequer Bldg.
-Phone: +81-3-3470-4941
+Publisher Hidekazu System Trading Co., Ltd.
+〒①0⑦ Akasaka, Minato-ku, Tokyo ⑧-⑤-②⑨ Checker Building
+TeL 03-3470-4941
 
-Printed in Japan
+Printed in Japan Sokosha Printing Co., Ltd.
 
-Printed in Japan ISBN④-⑧⑦⑦⑨⑥⑥-③②②-0 C③0⑤⑤⑤
+I SBN④-⑧⑦⑨⑥⑥-③②②-0 C③0⑤⑤
 
-The price is shown on the cover.
-Please send any misprinted or missing copies to our sales office. The shipping cost is borne by the Firm.
-The shipping cost will be borne by the Firm and the book will be replaced.
+The list price is displayed on the cover.
+We apologize for the inconvenience, but please send any copies that are out of order or missing to our sales department. sending
+We will replace it at our expense.
 
 _ 本 書 お よ び ゲ ー ム に 関 す る ご 意 見 ご 感 想 は 弊 社 サ ー ビ ス セ ン タ ー 宛 に 書 面
 に て お 送 り く だ さ い ぃ 。 た だ し 内 容 に 関 す る ご 質 問 は 、 ゲ ー ム の 性 質 上 お 答

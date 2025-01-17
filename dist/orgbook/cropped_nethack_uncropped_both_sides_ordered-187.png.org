@@ -1,38 +1,38 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-188.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-187.png]]
-DAGGERS Short Sword
+DAGGERS dagger
 
-Rather than using a short sword as a primary weapon, it is better to think of it as a secondary weapon in case of emergency.
-It is also easy to throw. Also, it is easy to throw, so it doesn't hurt to have a few.
-It should not be too risky to have several.
+Rather than using a dagger as your main weapon, it's better to think of it as a secondary weapon just in case.
+I don't think so. It's also easy to throw, so you won't lose money even if you have several.
+There shouldn't be any difference between you and me.
 
-athame athame athame athame athame athame athame
-A short sword favored by mages. It is cast from an extremely hard material.
-The blade does not break because it is cast from an extremely hard material. It is extremely easy to handle, but its power is considerable.
-crysknife crysknife
-The crysknife is a knife made of meteoric iron with a blade width of about 「⑳⑳⑳）. The magic power is hidden in it.
-It is said that its power and sharpness are comparable to that of a large sword.
+athame
+A dagger favored by magicians. It is cast from a very hard material.
+The blade will not break down. It is very easy to handle, but its power is well known.
+crysknife
+A knife with a blade length as long as a centimeter (⑳) made from meteorite iron. Magic power is hidden
+Maybe it's because it's so strong, but its power and sharpness are comparable to a great sword.
 
-Dagger dagger
-The dagger is as strong and sharp as the big swords.
-The dagger is as strong as the big sword in terms of power and cutting ability.
+dagger
+A dagger with an ashes measurement of ⑳ centimeters:
+elven dagger
 
-The dagger is beautifully decorated with elf-shaped ornaments. Hobbits and other races who are not tall enough to use the sword are called elven daggers.
-It is favored by hobbits and other races that are too short to use swords.
+A dagger decorated with beautiful elf-made decorations. Hobbits are too tall to use swords.
+Favored and used by races that are lacking.
 knife knife
-A knife knife is a knife (can you think of any others?). It is a knife knife. It is a weapon that should be thrown rather than held.
-It is one of the weapons that should be thrown rather than held.
-Orcish dagger
-A short dagger favored by the Aukukyuans. It is the most commonly obtained dagger in Jiba, the dungeon of the Jendār.
-The dagger is a very common weapon in Jiba, probably the most commonly obtained weapon in Jedi's lair. The power of the sword is to be reckoned with.
-scalpel scalpel
-The scalpel is a medical scalpel, the first weapon a healer has, but it should be replaced by another weapon as soon as possible.
-It is the first weapon a healer has, and should be replaced by another as soon as possible.
+It's a knife (was there anything else breathing in it?). Rather than holding and using it, throw it.
+It's probably one of the weapons you should pick up and use.
+orcish dagger
+A dagger that Oo-o-kuk and others like to use. I'm afraid that I'll be in the demon cave of Yender.
+It's probably a martial art that can be practiced in many ways. The power should be pushed.
+scalpel female
+It is a medical scalpel. It is a weapon that healers have from the beginning, but they can
+Just note that you should switch to another weapon as soon as possible.
 wakizashi wakizashi
-The wakizashi is a short sword favored by warriors on a solitary island in the east as a weapon of katana.
-It is made in the same way as the katana. It is made in the same way as the katana, and even though it is a short sword, it boasts a great deal of power.
+It is a dagger that warriors from the isolated islands of the East prefer to use as a weapon to support their katana.
+Ru. The manufacturing method is the same as that of a katana, and even though it is a dagger, it boasts some power.
 
-Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1
+Weapons 19171
 
 DAGGERS 短 剣
 

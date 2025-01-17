@@ -1,0 +1,31 @@
+RMA MVI F Dojishiku ③ for ⑨ Ponru Sora Eidaba included,
+Insert the `bootable disk' into your laptop drive and press the (HELP) key.
+② Starts ⑨ and selects 08 AT L8 2g [Auto mode].
+Start. `Welcome to NetHack | A message called ``Welcome to NetHack |
+If the screen is not displayed, you can save a large password to the floppy drive.
+Enter your name, select your occupation, and press the key to start the game.
+The sixth person is Peter Zusuru.
+
+If you want to quit and restart it, use the following command.
+
+N THK ()
+
+If you are paying a fee, you will have to pay for a toy.
+①0 is going to be a total disaster. Also ⑤ Doranya 7~ NetHack Sogin
+① Google Notes
+
+g group
+...... (This is not necessary if you installed on drive A). Continue
+
+CD game s\netyak ()
+
+Type ...... to move the directory.
+
+NTHkPATH
+
+...... and the last one.
+
+N THK (J)
+
+Start UpL How to start up
+

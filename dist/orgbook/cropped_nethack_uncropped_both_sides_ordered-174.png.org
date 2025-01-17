@@ -1,44 +1,44 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-175.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-174.png]]
-Spellbook of sleep induction level 1
-This spell emits a sleep-inducing ray from the tip of the reciter's finger. As long as this spell works
-(1) This spell causes a drowsiness ray to emit from the reciter's fingertips, making most monsters unenemyable.
-Spellbook of slow monster
-This spell reduces a monster's speed by half, as per haste self.
-It is a spell that reduces a monster's speed by half, as in haste self. It may be more useful than haste self in some cases.
-Spellbook of teleport away teleport magic level 6.
-This is a spell to teleport away yourself or a monster that is an enemy.
-(6) This is a spell that causes you to teleport yourself or the monster that is your enemy. When your strength is extremely low, you can use this spell to temporarily step away from the battle.
-It is also a good way to take a break from the fight when your strength is extremely low.
-Spellbook of turn undead Immortal Purification Magic Level 6
-Spellbook of turn undead is a spell to induce panic in the creatures whose lives are rooted in death, and to keep them away from the reciter.
-(6) A spell to induce panic in the creatures whose lives are rooted in death, and to separate them from the reciter. It is the equivalent of a monk's power of purification, and in some cases it can even destroy the conqueror.
-It can even destroy a conqueror in some cases.
-Spellbook of wizard lock
-This is a spell to lock a door with the power of magic. Unfortunately, this spell's
-Unfortunately, this spell is not very powerful and can be easily broken by normal means.
+Spellbook of sleep magic level ①
+This spell emits sleep-inducing rays from the caster's fingertips. This spell will work.
+In this case, most monsters are no longer enemies.
+Spellbook of slow monster Slow magic level ②
+A spell that reduces a monster's speed by half. There is a common effect of haste self.
+It's in the middle of the day. Depending on the situation, you may be able to use it more than haste self.
+Spellbook of teleport away Teleport Magic Level ⑥
+This is a spell that allows you to teleport yourself or monsters that are your enemies.
+be . When your physical strength is extremely low, use this spell to temporarily step away from the battle.
+I'll try my best to help.
+Spellbook of turn undead immortality purification magic level ⑥
+Death causes fear in the creatures that have their roots in life, causing them to distance themselves from the chanter.
+It's a spell to protect you. It is equivalent to the purifying power possessed by monks, and can be used depending on the situation.
+It is even possible to destroy the conquerors.
+Spellbook of wizard lock magic level ②
+It is a spell used to lock doors using the power of magic. Unfortunately, this spell
+Its effectiveness is not a big deal, and it can be easily unlocked using normal methods.
 
-Tools
-eB ei
-Hello, welcome to the Davey's Bazaar. Oh, hey, do I know you from somewhere?
-Have we met somewhere? Oh, is this your second time here? Oh, no, this is a great disappointment.
-Oh, no! What can I get for you? We carry everything from food to excalibur.
-We are a company that deals with everything from food to excalibur. Well, we don't carry ex-carbohydrates.
-We used to have a stock of ex-collection until recently, but we haven't been receiving any shipments in recent years,
-We have not received any shipments in recent years.
-But we are the only one who handles all sorts of small items and tools! Some of them are a little useful in hazardous situations.
-Some of them may be of some help to you, so please just take a look. Please enjoy the eye.
-It's just a 5) Takuda.
+t Tools Miscellaneous
+Picture B Picture Doctor
+If you have any questions, please come to Davy's General Store. I'll see you somewhere in the morning.
+Did you? Eh, this is the second time you've come to this store? Oh no, this is extremely rude.
+of . Do you need anything? From food to Excalibur, why not?
+One of my favorite parts is that I also deal with it. Well, the Excalibur is hard to come by.
+We currently have some in stock, but unfortunately we haven't had many in stock recently.
+Well, those are the same.
+However, we are the only ones who handle all kinds of small items and tools!
+Please feel free to take a look at it, as there are many helpful things. Feast your eyes
+⑤ It's tax free.
 
-178 ITEMS 1 Tools waiting for you in the cave
+178 ITEMS 11 Tools waiting for you in the devil's cave
 
-BRI RN RN RN RRS RN
+Bri Rn Rn R RS Rn
 
-Hand (iii) Belt
+③ Bet Chi
 
-Wa - t
+sum - g
 
-ODNLEE e a u k t ANA
+ODNLEE e a u ku tsu ANA
 
 Spellbook of sleep 誘 眠 魔 導 レ ベ ル ①
 こ の 呪 文 は 詠 唱 者 の 指 先 か ら 誘 眠 光 線 を 発 す る 。 こ の 呪 文 が 効 き さ え す れ

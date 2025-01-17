@@ -1,50 +1,50 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-016.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-015.png]]
-- Mar
+- Ma
 
-b
+b Ma
 
-Uwa Floor Teac
+Uwa Toko - Te Aku
 
-For example, my NETHACK.J0NRNHDXF has become what?
+For example, when is my NETHACK.J0NRNHDXF?
 
-OPTIONS=!pickup,number_pad,time
-OPTIONS=98_BIOS,rawio,98graphics
-NS=name... AVe工na_R' female,.
+Oh Pchion S=! Pickp, Number_Pad, Chime
+OPchion S = 98_Bio S, Rawio, 98g Raphics
+. P Chuo. NS=name‥AVe工na_R' female,
 
 dogn ame : Suezow, oatname:Patty, TTu ⑪ ・ga t u a
-HACKDIR=A: ¥GAMES¥NETHACK
-LEVELS=A: ¥GAMES¥NETHACK¥BONES
-SAVE=A : ³ GAMES¥NETHACK¥BONES ; n
+HACKDIR=A: \GAMES\NETHACK
+LEVELS=A: \GAMES\NETHACK\BONES
+SAVE=A : \ GAMES\NETHACK\BONES ; n
 
 In this case, the character's name is Avelna, her occupation is Rouge, and she is female.
-Her dog's name is Suezow, her cat's name is Patty, and her favorite fruit is Satuma (Mikan).
-The name of the dog is Suezow, the name of the cat is Patty, and the favorite fruit is Satuma (mikan). In addition, the unique functionality of the PC-⑨⑧00 series is used.
-The following example shows the use of the unique functionality of the PC-⑧00 series: = and the [³³] and [³³] of the Netpack and other A-drain devices.
-(2) In the "DOCKER" menu, use the "DOCKER" command to select the desired location.
+My dog's name is Suezow, my cat's name is Patty, and my favorite fruit is Satuma (Mika).
+That's why. Also, use the unique functions of the PC-⑨⑧00 series =
+and Net Pack Ho A Dry [\GAMESY\NETHACK I
+② Re-mining and do-ki-le-rere ⑤ ② = This is the bottom of the body.
 
-The only thing that needs to be corrected is the setting for characters and pets in line (3).
-The correction is in line (3), which is related to characters and pets. The `-R' after the first name indicates the occupation, and the alphabet and occupation correspond as follows
-The correspondence between the letter and the occupation is as follows.
+Nippon Express, if you want to fix it, go to line ③, settings related to characters and pets.
+be . The ``-R'' after the name represents the occupation, but the alphabet and occupation are as follows.
+It corresponds to the above.
 
-Archeologist Barbarian Caveman Elf
-Healer Knight Priest Rogue
-Samurai Tourist Valkyrie Wizard
+archieoo technique st ba rbarian kaveman picture lf
+Hairer K ni ght Priest Log picture
+Samurai and Sale ST Valky Rie Wizard rd
 
-Also, a note on the flutes: Auv, 4LV I.NFF.DA
-and pears are already present in the game, so you will need to specify other fruits.
-The following are the other fruits that are not included in the game.
+Also, a word of caution regarding fruit trees: Auv, 4LV I. NFF. DA
+Oh, and pears are already in the game, so why not try other fruits?
+Must be specified.
 
-Another point is that for machines without a key, such as notebook PCs, the `9) (8) __BIOS] in line (2) and the `9) (8) __BIOS] in line (1) must be specified.
-BIOS] and the `number pad' character in line 1) should be deleted. Then
-Then you can use bjmhlyku to move the character and specify the direction instead of the keypad.
-This is why you can use bjmhlyku to move and orient the character instead of the tenkey. Without this, the NUMJ lock will soon become necessary.
-Without this, the NUMJ lock will soon become necessary.
+Another thing to note is that on models without a numeric keypad, such as notebook computers, `⑨⑧_ on the ②th line.
+BIOS] and delete the ``number pad'' characters on line ①. That way
+Instead of using the numeric keypad, you can use bjmhlyku to move the character and specify the direction.
+That's why it's like that. If you don't do this, you will need a NUMJ lock.
+Surpass.
 
-Also, the directory designation in the last line (3) requires attention.
-This is the directory where the nethack is actually installed, the drive where the nethack is installed, and the directory where the nethack is installed.
+Also, be careful when specifying the directory in the last line ③.
+This is the drive and directory where the net hack is actually installed.
 
-More
+More |nfo.—é§%‘t LT
 
 - の マ ー
 

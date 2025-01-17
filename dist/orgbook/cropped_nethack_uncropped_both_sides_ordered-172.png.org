@@ -1,35 +1,35 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-173.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-172.png]]
-Spellbook of Genocide (Level 7)
-Casting this spell will completely destroy a race from within the caves of Yerendar.
-(7) This spell can be cast to completely eliminate a race of people from the Grotto of Yearendar. When using this spell, the name of the race you wish to slaughter must be inscribed correctly.
-The name of the race you wish to slay must be inscribed correctly when casting this spell.
-Spellbook of haste self Accelerated Magic Level (3)
-This spell can multiply the magician's mobility, number of attacks, etc. During battle
-Use this spell in combat or when dealing with creatures that are too fast to catch.
-Spellbook of healing
-This spell restores the reciter's hit points, if only slightly. (2) This spell can only be cast immediately after entering the grotto.
-(2) This spell is quite useful right after entering the grotto, but in the depths of the grotto, this spell will not be able to follow through.
-However, it is not so useful in the deepest depths, where the wounds are often too severe to be rolled with this spell.
-Spellbook of identify Identification Magic Level (5)
-Identify unknown items. Has the same effect as a scroll.
-However, since identification can be done simply by casting a spell, it is considered easier to use the spell.
-Spellbook of invisibility
-Spellbook of invisibility Transparency Magic level (4)
-When this spell is cast, the body of the witness becomes transparent. The same is true for the chanting person's possessions.
-The chantor's possessions become transparent as well, but once the spell is cast, they no longer become transparent.
-(viii) Spellbook of knock
-Spellbook of knock Unlock Magic Level (1)
-This spell can be used to unlock locked doors, chests, etc. Spell Recitation
-(2) As long as you recite the spell and do not fail, you can open any lock without risk of losing the spell.
-This is the advantage of being the most powerful.
-Spellbook of levitation
-[The reciter who casts the spell of "Floating Yang" will stroll through the air. In Yeh-En-Dah's
-In Yerender's cave, most of the animals are placed on the floor. This spell is the highest level of protection that will keep the trap from working.
-This spell is the best way to dissuade the trap from working. But the levitation spell is working.
-The spell of levitation is effective, however, and the swamp is too swampy to pick up.
+Spellbook of genocide level ⑦
+When this spell is recited, one race is completely wiped out from the demon cave of Yea Ender.
+It is possible to kill. When using this spell, name the tribe you wish to slaughter.
+It is necessary to engrave the name accurately.
+Spellbook of haste self acceleration magic level ③
+This spell can double the caster's movement power, number of attacks, etc. time of battle
+It is used by Masa when he is dealing with fast and difficult creatures.
+Spellbook of healing magic level ①
+This spell also slightly restores the caster's hit points. Enter the devil's cave
+Although it is quite useful immediately after the spell has been used, this spell cannot be used in a deeper way.
+They often suffer very serious injuries, so they are of little use.
+Spellbook of identify identification magic level ⑤
+Identify items whose identity is unknown. Has the same effect as scrolling
+Spells are easier to use because they can be identified just by chanting a spell.
+e
+Spellbook of invisibility Transparency magic level ④
+When this spell is recited, the person's body becomes transparent. The same goes for the chanter's belongings.
+It becomes transparent, but when one loses one's loyalty, it is no longer transparent.
+⑧
+Spellbook of knock unlock magic level ①
+This spell can unlock locked doors, large chests, etc. chanting a spell
+As long as you don't fail, you can open any lock without any risk of failure.
+The most obvious advantage of the service is that you can see it here.
+Spellbook of levitation Shu Yang Magic Level ④
+The caster who casts the ``Floating Yang'' spell ends up walking in the air. Yesterday's
+In the devil's cave, most of the animals were set up on the floor. This spell is a trap.
+It can be said that it is the best means of moving forward. However, the floating spell is effective.
+Listening to Kuratsu Chiru's Rakete Mina Picking up = What is the name of the swamp stupidity ⑧ Digging ②
 
-The tools that await you in the ITEMS One Hot Cave
+⑦ ⑦⑥ ITEMS 1. Tools waiting for you in the heat cave.
 
 Spellbook of genocide 向 殺 魔 導 レ ベ ル ⑦
 こ の 呪 文 を 唱 を え る と 、 ひ と つ の 種 族 を イ ェ エ ェ ン ダ ー の 魔 窟 の 中 か ら 完 全 に 抹

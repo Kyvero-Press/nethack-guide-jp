@@ -1,49 +1,49 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-085.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-084.png]]
-The last command is to put on the ring: P-command,
-Enter the PJ and select the ring to be fitted. However, the rings can only be placed on the left and right hands at a time.
-However, the rings can only be put on one each on the left and right hands. You cannot wear more than 3 rings. Despite the fact that there are rings on both hands, the ring can only be worn on the left hand and the right hand.
-If you want to put on a new ring, you have to remove one of the rings.
-The only way to do this is to remove one of the rings.
+Finally, there is a command to equip the ring. It's the P command. Enter PJ,
+Once you select a ring, you can start wearing it. However, the rings that are worn are on the left and right hands.
+One person per day. ③ You may not wear more than one ring. There are rings on both hands
+Regardless, when you want to put on a new ring, which one should you remove?
+Na \ no da:
 
-A R L T D T T T BT LA BT B
+A R L T D T T BT A BT B
 
-Remove, Take off Remove armor, take off rings
+Remove, Take off remove armor, remove ring
 
-Kettle the sling or metal ring or metal ring (8)
+⑧
 
-There were only scratches everywhere. There were several threads as if he had been scratched on the back of his chest,
-One of his shoulders was missing. In human terms, he would be likened to a soldier who had fought his entire life at sea.
-A man who had fought his way through a battle with a bleached scar. The scar shone like a badge of honor.
+There were scratches everywhere. There were many stripes that looked like they had been scratched on the chest.
+Part of his shoulder is chipped. If we compare it to humans, we are warriors who continued to fight with floating wounds.
+That's what I meant. The scars were shining like a badge of honor.
 
-(The scar was shining like a seal of approval.
+(R at the end of the day and J Nasa Mi
 
-Nasrullah found the stirrup. Since purchasing it on the 6th floor below ground, he has only been able to buy it once, on the 2nd and 4th floors below ground, and that was in the middle of the night.
-He had been able to use the sword for a long time, but only once, on the fourth floor.
-The sword was bitten by the fangs of a wolf, and clawed by the claws of a dragon. It was a rough and rough use of the sword.
-It was so rough. He had fought so hard that he could have had his stirrups shattered.
-Kiln a
+Nasrullah held the stirrup. I bought it on the ⑥th floor of the basement, and since then I have bought it on the ② and ④ floors of the basement.
+I was able to use it for a long time, and I was able to use it = Tsuotomi's sword.
+Bitten by the fangs of a rockfish, and scratched by the claws of a dragon. How to use rough
+It was. It survived such a fierce battle that it would not have been strange if the stirrup had been shattered to pieces.
+The kiln a
 
-It was a miracle that the defenses did not fall until the end of the battle.
+It was a miracle that his defensive strength remained intact until the very end.
 
-It was a real gem.
+``It was truly a masterpiece.''
 
-Nasrullah murmured as he patted the stirrups.
+Nasrulla was shaking the stirrup and thrashing.
 
-That's a real gem, young lady," Nasrullah murmured, patting her stirrup.]
+``My lady, that is a masterpiece.'']
 
-The waitress looked at the stirrups, and the waiter said to her, ``Mademoiselle, that's a great one.
+The waiter was staring at the stirrup, and the clerk called out to her.
 
-This is a special stirrup, the last one made by the master craftsman Lord Hyperion. It has no magic power.
-It has no magic power, but it is very fine because it is the last of his works. It is the only one of its kind I have ever seen.
-The most beautiful thing I've ever seen.
+``This is the last special stirrup made by the world's greatest craftsman, Lord Hyperion. Magic power
+However, the fact that it is his last work is quite impressive. This is the only item I have.
+Da m a
 
-[It looks to me as if it's not so different from the one I've seen before. .... |
+[It doesn't seem like there's much of a difference between Ruuka and Kei... |
 
-Nasrullah was not very interesting. The Hatake-drawn zhen was certainly a strong man.
-The Nasrullah was not very interesting. The chest armor was thick and the overall balance of the body was good. It was far from a cheap, inferior piece.
+Nasrullah wasn't very interested. It is true that the town built in the fields is strong.
+That's right. The chest is thick and the overall balance is good. What is a cheap and inferior product?
 
-88 COMMANDS 1 To walk through a cave ......
+88 COMMANDS To walk through the devil's cave...
 
 最 後 に 指 輪 を 装 備 す る た め の 命 令 が あ る 。P コ マ ン ド だ 。PJ を 入 力 し 、
 指 輪 を 選 択 す れ ば は め る こ と が で き る 。 た だ し 、 は め ら れ る 指 輪 は 左 右 の 手

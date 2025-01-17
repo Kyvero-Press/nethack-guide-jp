@@ -1,31 +1,31 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-174.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-173.png]]
-Oo se- c u s e - c u s e - c u s e
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 
-Spellbook of light
-Every once in a while, this spellbook of light will illuminate a darkened room.
-(2) The spell is to make the darkened room light up. ⑳⑳にうけに.
-Spellbook of magic mapping
-The spellbook of magic mapping is a spellbook of magic mapping.
-(5) The chanter who recites the incantation will feel the map of the floor where he or she is standing burn sharply in his or her mind. The presence of altars, fountains, etc. will also be known.
-Spellbook of magic missile
-This spell produces and fires arrows of light. It is a basic offensive spell,
-Mastery of this spell is a sign that the mage has become a full-fledged professional.
-Spellbook of Polymorph Transformation Magic Level 6
-This spell changes the reciter's own appearance or that of a monster. However, if you cast the Transformation spell on yourself, you must not cast it on the monster.
-However, if you cast the transformation spell on yourself, you must be able to control the transformation in some way.
-If you cannot control the transformation in any way, you may end up in a situation where you are not able to change your own body, and you may not be able to change your own body in any way.
-The following is a list of the most important points.
-Spellbook of remove curse
-Remove the curse from the cursed item. Curses a weapon that is no longer in your hand, or a weapon that has been removed from your hand.
-The spellbook of restoration ability is a list of spells that can be used to restore the item.
-S, Spellbook of restore ability Ability value restoration Magic level 4
-Restore the decreased Ability Value due to drinking poison or being touched by the wrath of the gods.
-Spellbook of Restore Ability Level 4
+Spellbook of light Light Magic Level ①
+Once you recite this spell, you can light up a room closed in darkness.
+⑤ is a friend of mine. ⑳
+Spellbook of magic mapping map breakdown magic level ⑤
+The caster who chanted this spell had the map of the floor he was on firmly etched in his mind.
+You must be able to remember the sensation. You can also learn about the existence of things like altars and fountains.
+Spellbook of magic missile magic bullet magic level ②
+It is a spell that produces and launches arrows of light. It is a basic attack spell,
+Learning this spell is proof that you have become a full-fledged magician.
+Spellbook of polymorph Transformation Magic Level ⑥
+This spell changes the appearance of the caster and the monster. However, for myself
+When casting a transformation spell, you must be able to control the change in some way.
+⑤ Because there is no water in the river, there is a river in the river.
+Caution is required.
+Spellbook of remove curse level ⑤
+Uncurs a cursed item. Weapons and equipment that are stuck in your hands
+R navigation m m ② of ⑤ S,
+Spellbook of restore ability ability value recovery magic level 4
+Minato's ability value decreased because he drank poison and was touched by God's wrath.
+It is a spell used to heal the body.
 
-Spellbook 1111 Grimoire 177
+Spellbook 111 Spellbook 177
 
-O p i g u t G m e c g r e s s G o c o t a l 5 5 .
+⑤
 
 ォ u セ ーーーc ュ っ
 

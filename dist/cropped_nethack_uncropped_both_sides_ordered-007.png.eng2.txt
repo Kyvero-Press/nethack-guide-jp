@@ -1,0 +1,35 @@
+It's time. ② may be a must-have item when using a network hack.
+I can't help it.
+
+Installation on a floppy disk
+
+It's a floppy disk just like it is when you say it.
+It is extremely difficult to play the game. It's painful, but it's not possible at all.
+2 At the time of writing the screenshot
+Well.
+
+In the ② shot, I prepared the ② disk:
+m MS D0S system 4.
+Insert the disk and start the computer. When the MS-DOS system starts...
+
+A＞
+
+...... From the toe state`
+
+FormaT B: /M /S
+
+Enter , and press the key.
+
+ULl | A, the disk is bulging, and B is lying.
+Start using the computer. When this process is finished, remove the disk from drive B.
+Remove :. Your computer is called a transportation device, so it is written as such.
+The label you have created can be saved in ⑤. 8T, E-dry the s disk.
+
+A＞
+
+...... From the situation,
+
+FormaT B: /M
+
+Install
+

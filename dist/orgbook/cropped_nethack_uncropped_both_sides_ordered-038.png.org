@@ -1,44 +1,44 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-039.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-038.png]]
-The Jendār is a magical cave built with these symbols, but in order to walk around it, you have to move your character by means of a tenkirk,
-To walk around in these caves, you have to move your character by means of a ten-key.
-The only way to get around is to move the character by means of a bamboo board. However, if the tenkie is pulled out by a seed batch (or other means), the tenkie will not be able to move.
-If you want to use the NUMJ key, you will need to use the NUMJ lock.
+It is a magical cave of young men built according to these symbols.
+To walk around in this place, you must move your character using the numeric keypad.
+There is no water. However, the numeric keypad is difficult to remove due to the seed-back mode.
+You can either use the NUMJ key or lock the NUMJ key.
 
-Miko Shimo Kamigami Ishigami
+The top of the shrine, the top of the stone
 / 8 9
--8.9
+-
 
-Left ④ Ⅰ @ Ⅰ ⑥ &
-| 1 2 3
-1 2 3
+Left ④ One @ One ⑥ &
+｜ ,
+① 2 3
 
-at T =
+In T =
 
-T = £ h one @ one | mouth
-£ h 1 @ 1 | mouth
-T = £ h 1 @ 1 | mouth
-b" n
-=T" n
+-
+£ h one @ one | mouth
+hmm ,
+b”
+=T” yo
 
-@ is the character
+@ is a character
 
-If a monster is in the direction you are moving, attack it with the weapons you have.
-However, if there is a monster in the direction you are moving, you must attack it with the weapons you have. However, if the opponent you are attacking is a pet, you can automatically avoid the pet.
-The player is allowed to avoid the pet at all costs. If a friendly monster or shopkeeper (who does not attack the character) is not attacking you, you can automatically avoid him.
-When the player tries to attack a friendly monster or shopkeeper (who does not attack characters), the player asks, `Are you really going to attack? (They don't attack the monsters or shopkeepers.)
-You can rest assured that you will be asked the meaning of the question and asked to answer with [y/n]. If you are about to attack, you will be asked, "Do you want to attack?
-If you want to attack, all you have to do is enter y. However, if there is a friendly monster or a store, it is not necessary to enter y.
-The best thing to do is to avoid attacking the friendly monster or shop.
+Additionally, if there is a monster in the direction you are trying to move, attack it with the weapon you have.
+This will happen. However, if the person trying to attack is a pet, the attack will be automatically activated.
+It is designed to be easily avoided. Friendly (attack characters)
+When you try to attack a monster or a shopkeeper, ask yourself, ``Are you really attacking me?''
+I feel safe knowing that when someone asks me what it means, I can get the answer as [y/n]. attack
+If you want to shoot, enter y. But there are friendly monsters and shops.
+Tip ⑧ You shouldn't be able to attack with a key.
 
-For more information on the effectiveness and power of weapons, refer to the chapter on "ITEMS," and for more information on the monsters' abilities, refer to the chapter on "MONSTER FIGHTING" (see "MONSTER FIGHTING" in the "MONSTER FIGHTING" section).
-For more information on the effects and power of weapons, please refer to the chapter on `Monsters. What other altars, fountains, sinks, etc. are there?
-The significance of the other altars, fountains, sinks, etc. is discussed in the chapter on the Grotto of Jehénder, by Sanzin, one of the leading researchers on the subject.
-We can learn some of the significance of the altar, the fountain, and the sink by reading the writings of Sandaras Phoenix, a leading researcher on the Grottoes of Yeänder.
+Also, the effects and power of weapons, etc. can be found in the ``Items'' chapter, and the abilities of monsters, etc.
+For more information, please refer to the ``Monsters'' chapter. Other altars, fountains, and sinks
+This is the first part of a study related to the secret meaning behind the word "Emperor".
+To some extent, by reading the description of one person, Thunderous Fawn.
 
-You can gain some knowledge by reading the writings of Sandaras Phuong, a leading researcher on the Grotto.
+You will probably gain a lot of knowledge.
 
-42 CHARACTERS-TERICE Y T B T-0R &
+42 Chara Cte RS-Terise Y T B T-0R &
 
 き て 、 こ れ ら の 記 号 に よ っ て 構 築 き れ て い ぃ る イ ェ ン ダ ー の 魔 窟 で あ る が 、
 こ の 中 を 歩 き 回 る た め に は テ ン キ ー に よ っ て キ ャ ラ ク タ ー を 移 動 さ せ な け れ

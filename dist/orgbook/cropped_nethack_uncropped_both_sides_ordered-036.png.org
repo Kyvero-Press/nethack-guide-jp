@@ -1,45 +1,45 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-037.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-036.png]]
-The number in parentheses means the maximum hit point. The number in parentheses represents the maximum hit point.
-No amount of rest or medication will help you recover above this number.
-I I, I
+Becomes an overlord. The number in parentheses means the maximum hit point.
+No matter how much you rest or take medicine, you will never recover more than this number.
+different doctor,
 
-Pw: is magical power. Every time you cast a spell, it will be extinguished.
-As a matter of course, if this number is less than the magic required to cast the spell, the magic will be reduced.
-If this number is less than the magical power required to cast the spell, the spell cannot be used, even if you have learned the magic.
+On the right, Pw: That's magical power. Every time I cast a spell, it fades and dries.
+Of course, this number is less than the magical power required to cast the spell.
+And even if you remember magic, it's hard to violate it.
 
-BIC Ji ⑧ is 0 in . The former is the time of disaster (5) The former 5) is the time of the charac
-The 0 in (5) indicates the strength of the protective equipment that the character has. The smaller the number, the less.
-E . The smaller the number, the smaller the E. be(TARS).
+BIC ⑧ ru's 0 is the time of original disaster ⑤'s ⑤'s class is,
+It represents the strength of the armor that the character is equipped with. The fewer the number, the fewer
+E.
 
-Xp next to it is the empirical value. The left figure is the level and the right figure is the empirical value.
-The number on the left is the level and the number on the right is the experienced value. If the experienced value exceeds a certain value, the level increases. As the level increases, the hit point increases.
-As the level increases, the hit point increases and the resistance to poison and magic increases.
-T-ding: indicates the time elapsed.
+The Xp next to it is the experience value. The number on the left is your level, and the number on the right is your experience value.
+Ru. When the experience value exceeds a certain value, the level increases. As the level increases
+As a result, your hit points will increase, making you more resistant to poison and magic.
+be . T: indicates the elapsed time.
 
-Next to the elapsed time is the abdominal condition. In a normal state, nothing is shown.
-No indication is shown. Satiated when full, Hungry when hungry, and Hungry when too hungry.
-Faint- ing is when a person is in a state of faintness due to hunger.
-Fainting means you can't even walk. Finally, they starve to death.
-Finally, they starve to death. Food security is a top priority.
+Additionally, the state of your stomach is displayed next to the elapsed time. Under normal conditions, nothing happens.
+Not displayed. Satiated when you're full, HHungry when you're hungry.
+If you don't have the strength to do so, you will be Weak, and if you faint due to hunger, you will be Faint-.
+It becomes ing. When you become Fainting, you don't even have to walk. Then,
+In the end, you will starve to death. Securing food should be a top priority.
 
-The stomach is often indicated by the condition of the body. Lips are often lip-smacking.
-Conf, Sick, Blind, Fainting, Stun, or Faint.
-Stun when you faint, trip from drinking certain medicines or eating certain monsters.
-If a person is in a tripping state due to drinking a certain drug or eating a certain type of monster, he or she will be labeled as Hallu.
+Your physical condition is often displayed next to your stomach condition. i put my lips in
+Conf, Sick when you get sick, Blind when you feel better, faint.
+Then, Stun discovers that he drank some kind of medicine and ate some kind of monster.
+Therefore, when a trip occurs, Hallu is displayed.
 
-The top of the screen depicts the scene and how the fight with the monster went.
-The top part of the screen depicts the scene at the top of the screen and how the fight with the Monster went down.
-The special things that happen around the MiMiKaKaKuKu, such as Pett's sudden disappearance from view, are explained in English.
-) will be explained in English. Also, the names of things that have fallen to the floor, such as the throne and the fountain, are explained in English.
-(The names of the objects on the floor, the ball and the fountain, etc. are also explained in English.
+The top of the screen depicts the surroundings and the progress of the battle with the monsters.
+e S e N e L ni ni zu wa quotient ni ni de mi m ky ku ku ku
+Special things that happened around you (pets are so cute that they disappear from your sight)
+) are explained in English. Also, the names of the things that fell on the floor, the throne, the fountain, etc.
+(S S e 0⑨⑧② RU ⑳ ⑲ U S,
 
-The names of the objects on the floor, the names of the ballroom, the fountain, etc. are also shown in this row. For example
-For example, if you want to drop some items, the choices of which items to drop are shown in this line.
-`What do you want to drop ? [$ad-fi-kwor?
-(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+Alternatively, the character's action options are also displayed on this line. Ta
+To put it another way, when you throw away a number of items, you have choices, such as which ones to throw away.
+`What do you want to drop? [$ad-fi-kwor? *]]
+0 ② bz,
 
-40 CHARACTERS Your identity to be sent to the magician.
+40 CHARACTERS 1 1 One of you sent to the devil
 
 オ ー バ パ ー と な る 。 括 弧 内 の 数 字 は ヒ ッ ト ポ イ ン ト の 最 大 値 を 意 味 し て ぃ る 。
 ど ん な に 休 息 し た り 、 薬 を 飲 ん だ り し て も 、 こ の 数 値 以 上 は 回 復 し な い と ぃ い

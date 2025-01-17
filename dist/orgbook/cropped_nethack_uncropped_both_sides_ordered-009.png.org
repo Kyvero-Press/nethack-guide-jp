@@ -1,40 +1,40 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-010.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-009.png]]
-When you do this, various messages appear on the screen, but the point is that the NetHack program will be deployed in the `startup disk'.
-In short, the NetHack program is developed into a `disk for activation'. In the middle of the process, the disk is inserted.
-If you are instructed to insert a disk, please insert a disk for the UI in the A-draji [7].
-Data such as CG will be displayed in the `Discs for data' area.
-The data for CG, etc. will be developed in the `disk for data'.
+When you do this, various messages will appear on the screen, but the main thing is to
+The program will be expanded to the `bootable disk'. On the way, Dis
+I'm going to put in a stub, so I'm going to put my fingers in there.
+7]. Data such as CG is expanded to the ``data disk''.
+Ru.
 
-If EMS is available, the EMS driver you normally use will be placed in the `Startup Disk'.
-SYS' and configure it in CONFIG. SYS.
-SYS. The specifics of how to do this are beyond the scope of this document, as they require a separate explanation.
+Also, if you can use EMS, start the EMS driver that you normally use.
+It is best to copy it to your hard disk and configure it in CONFIG.SYS. What specifically?
+I will omit it in this book, as it would be a separate explanation of how to use it.
 
-Installing on a notebook PC (RAM drive) in the park
+Installation on a laptop computer (RAM drive)
 
-With a notebook PC, you can use the RAM drive to create a more or less comfortable net connection if you puppet the RAM drive properly.
-The first is the RAM drive, and the second is the RAM drive, which can be used to drive the RAM drive.
-The first is to use the W-distance in the direction of the forest, and the second is to use the W-distance in the direction of the forest in the direction of the forest.
-The same as in the case of W-disks, but care must be taken to avoid the same problems as in the case of W-disks.
+If you use a RAM drive properly, you will be able to access the Internet more or less comfortably when using a computer.
+ー っ ん き ん ( s ③ ro ou ha na de ne sun wa meat storehouse or W ② ra ba ken do
+⑤ Law of Yumori's Defense W School
+It's the same thing as with a portable disk, but you have to be careful in a lot of ways.
+%,
 
+First, save the contents of your RAM drive before starting the installation.
+It's okay. It's a different story if the contents of the RAM drive are worthless even if they disappear.
+Then, start it up while holding down the (HELP) key to display the 98 note menu, and select ``RAM''.
+2880. Frame's Cloth Settings
+Let's move the contents of the RAM drive to the disk.
 
-First, you must wait for the contents of the RAM drive before starting installation.
-The contents of the RAM drive must be cleared unless you want the RAM drive to disappear.
-If you want to start up the RAM drive, hold down the (HELP) key to bring up the 98-note menu, and then press the "RAM Drive to Clock" key.
-The "RAM to DRAWFORD Clock Error OSCOPY" 2880 . The clock schedule of the RAM drive is displayed in the box.
-Move the contents of the RAM drive to the ClockSave window.
+Next, set the NMS -D0S system 788 screen m — ⑧ to the device.
+Select `Auto mode' to start. When I start it up, I have a floppy drive and a new one.
+I want to use a fross disk,
 
-Next, move the contents of the RAM drive to the NMS-D0S system 788 sctnm -dime,
-Select "Auto mode" to start. Once activated, click the floppy drive and select `New Floppy Drive'.
-Once activated, select the new floppy drive and the new floppy disk, and press SELKLT.
+A＞
 
-A>
+FormaT B: /M /S
 
-FORMAT B: /M /S
+The next step is to be honest.
 
-The following is an alignment of the following: A> FORMAT B: /M /S
-
-Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo
+Install
 
 す る と 、 画 面 に い ろ い ろ と メ ッ セ ー ジ が 表 示 さ れ る が 、 要 す る に ネ ッ ト ハ
 ク ク の プ ロ グ ラ ム が ` 起 動 用 デ ィ ス ク 」 に 展 開 さ れ て い く 。 途 中 で 、 デ ィ ス
