@@ -1,5 +1,30 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-154.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-153.png]]
+water walking boots water walking boots AC-1
+
+When equipped with these boots, you will be able to walk on water thanks to the magic power in the soles of the boots.
+The sole of the boot gives you magical powers that allow you to walk on water. This is because you can safely cross the Rin in a certain place.
+Let's go to a certain place.
+
+GAUNTLETS BASKETS
+
+The basket hand is something you put in your hand. Some magic spells related to the hands are sealed in them.
+There are some magic spells for hands, but Bok is a layman when it comes to magic. I don't know much about it.
+
+gauntlets of dexterity AC-1
+A cage with an enclosed hawk's power to increase dexterity. From the moment this dragon hand is placed in the cage, the player is in the best of hands.
+From the moment the dragon hand is placed in the cage, the wielder is said to become the most dexterous.
+gauntlets of fumbling Y2 ¥ Obfumbled AC-1
+When equipped with these baskets, the wearer tends to lose his weapons. It is fatal in battle.
+However, because it is cursed in many cases, it is not recommended to use it even once in a fight.
+Even a single act of neglect would be disastrous.
+gauntlets of power gauntlets of power AC-1
+A cage with increased arm strength. The blade is a jiuand or a wort.
+The swing of the cage is so powerful that it can inflict a great deal of damage on the enemy even with bare hands.
+Leather gloves
+leather gloves leather gloves AC-①
+Leather gloves. A normal glove, but nothing more.
+
 water walking boots ウ ォ ー タ ー ウ ォ ー キ ン グ ブ ー ツ AC-1
 
 こ の ブ ー ツ を 美 備 す る と 、 靴 底 に 付 与 さ れ た 魔 力 の お か げ で 水 の 上 を 歩 く

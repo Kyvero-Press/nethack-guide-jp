@@ -1,5 +1,42 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-263.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-262.png]]
+Command to operate belongings
+
+Remove any protective gear you are wearing.
+Put down your belongings.
+
+Put down some of your belongings
+Put on a ring.
+
+Remove the ring or remove the ring.
+
+Remove one of the items of armor you have on display, if you wish.
+Hold a weapon, and with a "T`w", you can also hold your body in your bare hands.
+
+Wear protective gear
+
+Pick up something from the sun
+
+Put a rule on the items you are picking up.
+
+Command to use your belongings
+
+Use tools
+Eat food (or monsoon carcass)
+Drink water
+
+Throw things. Or shoot arrows with a bow.
+Strike with pleasure. If it is a magic wand, you will see its effect.
+Dip the object you are holding in something.
+
+Other actions
+
+Dip the object you are holding in something.
+Carving messages on the floor
+' Substitute for goods bought at the store )
+
+266 List of Commands
+
 ・ 持 ち 物 を 操 作 す る コ マ ン ド
 
 身につけているすへての防具を外す

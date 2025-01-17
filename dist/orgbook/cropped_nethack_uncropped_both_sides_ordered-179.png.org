@@ -1,5 +1,29 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-180.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-179.png]]
+magic harp Magic Harp
+Regardless of the player's skill, it is said that most monsters are charmed by the sound of a magic harp when played by a magic harp player.
+Most monsters, regardless of the magic harp player's skill, are said to be mesmerized by the sound of the harp.
+
+magic lamp magic lamp
+This is a magic lamp. Of course, rubbing the lamp will reveal the spirit (djinni), which can be used in many situations.
+
+In many cases, the djinni will grant the wish.
+
+magic marker magic marker
+The magic marker makes it easier to carve messages on the floor of the grotto. It can also be used on a blank scroll,
+
+It also has the ability to write a spell of your choice on a blank scroll. He can write anywhere.
+The reason it can be written in any place and never disappears is because it uses `magic inking'.
+magic whistle
+Magic whistle. If you have a pet, the moment you blow it, the pet will immediately become a telemarketer.
+If you have a pet, the moment you blow it, the pet will immediately start playing telephones in your country.
+
+Mirror mirror.
+Mirror mirror. Certain monsters seem to be afraid of mirrors, perhaps because they don't want to look ugly. Some monsters seem to be afraid of mirrors, perhaps because they don't like their own ugly appearance.
+It would also be an effective tool against monsters that attack with their line of sight.
+
+\ MAGIC MARKER
+
 magic harp マ ジ ッ ク ハ ー プ
 奏 者 の 腕 前 に 拘 ら お 、 マ ジ ッ ク ハ ー プ を 奏 で る と 、 ほ と ん ど の 怪 物 は ハ ー
 プ の 音 色 に 魅 了 さ れ て し ま う と い ぃ う 。

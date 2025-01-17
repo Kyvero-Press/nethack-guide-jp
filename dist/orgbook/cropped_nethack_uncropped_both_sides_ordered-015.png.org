@@ -1,5 +1,51 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-016.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-015.png]]
+- Mar
+
+b
+
+Uwa Floor Teac
+
+For example, my NETHACK.J0NRNHDXF has become what?
+
+OPTIONS=!pickup,number_pad,time
+OPTIONS=98_BIOS,rawio,98graphics
+NS=name... AVe工na_R' female,.
+
+dogn ame : Suezow, oatname:Patty, TTu ⑪ ・ga t u a
+HACKDIR=A: ¥GAMES¥NETHACK
+LEVELS=A: ¥GAMES¥NETHACK¥BONES
+SAVE=A : ³ GAMES¥NETHACK¥BONES ; n
+
+In this case, the character's name is Avelna, her occupation is Rouge, and she is female.
+Her dog's name is Suezow, her cat's name is Patty, and her favorite fruit is Satuma (Mikan).
+The name of the dog is Suezow, the name of the cat is Patty, and the favorite fruit is Satuma (mikan). In addition, the unique functionality of the PC-⑨⑧00 series is used.
+The following example shows the use of the unique functionality of the PC-⑧00 series: = and the [³³] and [³³] of the Netpack and other A-drain devices.
+(2) In the "DOCKER" menu, use the "DOCKER" command to select the desired location.
+
+The only thing that needs to be corrected is the setting for characters and pets in line (3).
+The correction is in line (3), which is related to characters and pets. The `-R' after the first name indicates the occupation, and the alphabet and occupation correspond as follows
+The correspondence between the letter and the occupation is as follows.
+
+Archeologist Barbarian Caveman Elf
+Healer Knight Priest Rogue
+Samurai Tourist Valkyrie Wizard
+
+Also, a note on the flutes: Auv, 4LV I.NFF.DA
+and pears are already present in the game, so you will need to specify other fruits.
+The following are the other fruits that are not included in the game.
+
+Another point is that for machines without a key, such as notebook PCs, the `9) (8) __BIOS] in line (2) and the `9) (8) __BIOS] in line (1) must be specified.
+BIOS] and the `number pad' character in line 1) should be deleted. Then
+Then you can use bjmhlyku to move the character and specify the direction instead of the keypad.
+This is why you can use bjmhlyku to move and orient the character instead of the tenkey. Without this, the NUMJ lock will soon become necessary.
+Without this, the NUMJ lock will soon become necessary.
+
+Also, the directory designation in the last line (3) requires attention.
+This is the directory where the nethack is actually installed, the drive where the nethack is installed, and the directory where the nethack is installed.
+
+More
+
 - の マ ー
 
 b ま

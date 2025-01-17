@@ -1,5 +1,36 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-014.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-013.png]]
+(including the case of RMA MVI F d logic (3) for (9) and (10) with a toto-doped pc,
+Set the `startup disk' to the noloop drive and press the (HELP) key.
+Select "08 AT L8 2g [Auto mode]" and press the (HELP) key to start up.
+(HELP) key and press (9) to start. The message `Welcome to NetHack' appears on the screen.
+If the `Welcome to NetHack |' message appears, select the large passphrase for Icu on the floppy drive and click `Utsunan kiyasetu' to start.
+Enter the name of the user's name or other information, select a job, press the key, and the game will begin.
+The gate 6 will be painted.
+
+When you want to restart after the game is finished, use the following command.
+
+NTHK ()
+
+The toy is a pade deya pek peisin pet kirele.
+The command is "0" or "Mazyar". The same is true of the other two.
+(5) Doranya 7~ NetHack
+
+G group
+...... (This is not necessary if you have already installed on your A drive.) Continue
+
+CD games games\nethack ()
+
+Enter ...... Enter: CD games\nethack ()  to move the directory.
+
+NTHkPATH 勿
+
+...... The last line of the file is .
+
+NTHK (J)
+
+Start UpL 1 Startup Method
+
 ン ト ト ド ペ ッ コ ン で RMA MVI F ド ジ シ ク ③ 用 ⑨ ポ ン ン ル 空 介 英 う だ 場 含 ぽ 、
 ノ ロ ッ ピ ー ド ラ イ ブ に ` 起 動 用 デ ィ ス ク 」 を セ ッ ト し 、(HELP) キ ー を 押 し
 な ② が ⑨ ッ ュ ン 起 動 し て で 08 AT L8 2 g [ オ ー ト モ ー ド 』 を 選 ん で

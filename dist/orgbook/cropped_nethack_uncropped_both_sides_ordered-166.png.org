@@ -1,5 +1,31 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-167.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-166.png]]
+Scroll of create monster
+Scroll of create monster Summoning scrolls
+You can summon several monsters of your choice. However, the summoned monster must obey the summoner.
+However, the summoned monster does not necessarily obey the summoner. It may be summoned as a substitute for food when hungry.
+It could also be summoned as a substitute for food when hungry. It may also be possible to summon a monster that has the power of recovery to restore the cause of the hit point.
+You can also call out monsters that have the power of recovery to restore the hit points.
+Scroll of destroy armor
+If you are equipped with any type of armor, reading this scroll will destroy the armor.
+The armor will be destroyed. It does not matter whether the armor is magical or not, blessed or cursed.
+Scroll of enchant arrnor Scroll of increased protection
+This scroll may make armor such as stirrups or baskets more durable. Read
+When read, if the armor glows silver, it is a sign of increased defense. However, the scroll itself is cursed.
+But be careful if the scroll itself is cursed. When read, even the armor itself is cursed.
+The armor itself is also cursed when it is read.
+Also, if you try to increase the armor's defense too much, the armor itself will not be able to withstand the curse.
+The only way to prevent this is to wear a helmet.
+Scroll of enchant weapon Scroll of intensified offensive attack
+When you read this scroll, the weapon in your hand glows blue. This glow increases the weapon's power and makes it more deadly.
+This light increases the power of the weapon and makes it more accurate to hit. However, if the scroll is cursed, it will be destroyed.
+However, if the scroll is cursed, it will not only slow down the weapon, but the curse itself will also slow down the weapon.
+The curse not only slows down the weapon, but also the curse itself.
+D. Also, if you try to increase the offensive power too much, the weapon itself may collapse.
+There have been several reports that the weapons themselves sometimes collapse when the offensive force is increased too much.
+
+170 ITEMS I. The tools that await you in the cave.
+
 ッ ク W ク パ で さ る の ⑨ で ゃ
 Scroll of create monster 召 喚 の ス ク ロ ー ル
 数 匹 の 望 ん だ 怪 物 を 召 喚 す る こ と が で き る 。 た だ し 、 呼 び 出 き さ れ た 怪 物 が

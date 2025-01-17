@@ -7,6 +7,36 @@ PARTISAN
 
 VOULGE
 
+The "RANSEUR PARTISAN VOULGE" is sometimes treated as a "RANSEUR PARTISAN VOULGE".
+
+partisan Partisan
+A type of long spear. A type of long spear with a unique fan-like blade protruding from the base of the spearhead.
+
+A typical partisan spear is one with a unique fan-like blade protruding from the base of the spearhead.
+
+ranseur ranseur
+A weapon with a very long, thin blade attached to the end of a long pole. In many cases, the blade is not longer than 1.5 cm.
+
+In many cases, two blades protrude sideways from the base of the blade.
+
+spetum spetum
+
+A two-syllable weapon with an extraordinarily long hilt. It is an effective weapon against a large enemy.
+
+Voulg
+A long shaft with an axe-like point attached to the end. Basically, it is a weapon to repel.
+
+It is basically a martial art, but it can also be used to pierce.
+
+200 ITEMS 1 1 1 The tools that await you in the cave
+
+LUCERN HAMMER
+
+RANSEUR
+PARTISAN
+
+VOULGE
+
 の と し て 扱 わ れ る こ と も あ る 。
 
 partisan パ ル チ ザ ン

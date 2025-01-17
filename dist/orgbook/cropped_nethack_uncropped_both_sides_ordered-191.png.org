@@ -1,5 +1,41 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-192.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-191.png]]
+sadist
+
+[_ SPEARS #
+
+A versatile weapon that can be used as a javelin or in white combat. It has power and weight.
+It is a good secondary weapon since it is so powerful and not so heavy.
+It would be a good idea to have it as a secondary weapon.
+
+Dwarvish spear Wutzpasscher spear
+A shining spear made by the hands of the Duchess and her companions. The tip of the spear was made of silver.
+
+The spear's tip is made of silver, making it the most offensive of all spears.
+
+Elven spear Epsiye
+A flaming treasure made by a learned craftsman. The spear is engraved with a rune from the hilt to the tip of the ear.
+
+The handle to the tip of the ear is engraved with a rune island.
+
+javelin i
+A slender spear. It is designed primarily for throwing and is not suitable for hand-to-hand combat.
+lance Lances
+
+Lance lance. Usually used by mounted men in a charging attack, the lance is not a lance for infantrymen.
+It is not an assault spear as long as there is no lance for infantrymen.
+Orcish spear
+A black apple favored by orcs. Like other orcs' handiwork, it is a weapon of great power.
+Like other weapons made by orcs, it is less powerful than other apples.
+spear A spear.
+A spear, essentially a spear. The length varies, but it is about 1.5 meters. The length varies from about 1.5 meters to about 2.5 meters.
+The length varies from about 1.5 meters to about 2.5 meters, but those about 2.5 meters are called spears.
+(3) Trident (1)
+A spear with three spears with the tip of the spear forked into three pieces. Originally used to catch fish in the water.
+Its easy handling is a characteristic of this spear.
+
+Weapons 1 Weapons 1 Weapons 1
+
 S
 
 [_ SPEARS #

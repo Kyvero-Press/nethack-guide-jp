@@ -1,5 +1,47 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-051.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-050.png]]
+If it is labeled "scrolls of enchant weapon," it means that it has two scrolls of enchant weapon that are not cursed.
+If it says "scrolls of enchant weapon," it means that the player has two scrolls of enchant weapon that are not cursed.
+
+The I-command can display only the scrolls of the specified possession. (D
+(D) and press the key to display the selection screen. Entering a symbol at this point will select a specific device, or a specific device, or a specific device, or a specific device, or a specific device, or a specific device.
+If you enter a symbol at this time, a list of specific devices or items will appear. For example, entering (?]) For example, entering (?) will display a list of scrolls.
+For example, entering (?]) would display the scroll catalog. (/)] for a wand, (?) for a scroll, and (? (/)] would be a wand, and (?) a scroll.
+(/) is a wand, and (?) is a scroll. However, if you press 171 [1/] or something else when entering the T yomand, the selection screen will change to a printout of the scroll.
+You can also search the prefectural registry while the screen remains blank.
+
+Special T commands include `lul', Flx", and F`I$J. `lul" is a special T-command for unpaid bills.
+Ix" is for unpaid payment (⑨), and "⑧" is for unmade payment (⑤), and "⑦" is for unpaid payment (⑦).
+I$" counts money. If you are in a large store and are unsure of what you want to buy, you can use the "I$" to get the money.
+It seems to be effective for those who have lost track of their purchases at a big shop.
+
+RBBBRRRRRRRRRRRRRRRRRRRRRRRRR
+Nasrullah felt that his steps were getting heavier. Just one step forward
+(1) Just to take one step forward requires the same amount of effort as (3) to (4) steps forward. I was out of breath just by taking 0 steps, and I had to rest for every 0 steps.
+(3) Every 0 steps requires a rest.
+
+(I picked up too much stuff, didn't I?)
+
+Whenever I see something I can use, I tend to pick it up. I'm too lazy to do anything else.
+I have unidentified medicines and other scrolls clinging to various parts of my body. I have tried many times to sort them out.
+I tried many times to sort them out, but I could never bring myself to throw them away.
+
+However, if the baggage continued to pile up, it would become an obstacle to our movement. In some cases, it could be fatal.
+It could be life-threatening in some cases.
+We have no choice. I'll just throw some away.
+
+The first thing to do is to find a treasure stone. Nasrullah had a large number of blue, red, green, and white stones.
+Nasrullah had to get rid of them. She had grown up in a world where stones were not associated with her, so she did not know the names of the stones.
+
+(If only Lapsi had been there at that time...)
+
+Nasrullah thought of his friend from the orphanage.
+
+Lapsi was one of her closest friends at the orphanage, partly because they shared the same dormitory room.
+
+54 COMMANDS
+
+To Walk the Grotto ......
 scrolls of enchant weapon」 と 表 示 さ れ て い れ ば 、 呪 わ れ て い な い enchant
 weapon の 巻 物 を ② つ 持 っ て い る こ と を 意 味 す る 。
 

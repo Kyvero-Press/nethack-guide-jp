@@ -8,6 +8,20 @@ SCIMITAR
 
 TWO-HANDED SWORD
 
+The tools that await you in the cave
+
+ITEMS
+
+ITEMS 190
+
+BROADSWORD
+
+SHORT SWORD
+
+SCIMITAR
+
+TWO-HANDED SWORD
+
 魔 窟 で あ な た を 待 ち 受 け る 道 具 た ち
 
 ITEMS

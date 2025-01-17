@@ -6,6 +6,31 @@ FEDORA
 
 HELMET
 
+elven leather helm elven leather helm AC-①
+This helmet is made of elven leather, a favorite material of the elves. The elaborate design is featured on the entire body.
+
+Elf's favorite helmet made of elf skin.
+
+fedora KHEMADON AC-1
+
+A leather hat with brimmed brim. While not as strong in protection, its main advantages are its resistance to acid and rust, and its light weight.
+The hat is resistant to acid and rust, and is much lighter than its predecessor.
+
+helmet Helmet AC-①
+A very common helmet. It may be said to be unique in that it has no special characteristics.
+Helm of brilliance VA FT Kind Lilin A AC-1
+
+Just for a moment, you can understand that wearing this overcoming beauty makes your own head brighter.
+I am sure you will understand that your mind will become cleverer when you put on this conquest every once in a while. Specifically, it is a helmet that increases the intelligence and wisdom of those who are equipped with it.
+
+152 ITEMS The tools that await you in the cave of favor
+
+ELVEN CLOAK
+
+FEDORA
+
+HELMET
+
 elven leather helm エ ル ブ ン レ ザ ー ヘ ル ム AC-①
 エ ル フ た ち が 好 ん で 使 う と ぃ う 皮 で で き た ヘ ル メ ッ ト 。 凝 っ た 意 匠 が 全 体
 

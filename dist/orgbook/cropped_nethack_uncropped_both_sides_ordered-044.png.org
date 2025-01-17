@@ -1,5 +1,45 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-045.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-044.png]]
+The first step is to stand on the target item and press the (,) key.
+The first step is to stand on the target ice and press the (,) key. The key is pressed.
+If only one item has fallen, the item is picked up. If there are more than one, then
+If there are more than one, TATLEERGT is picked up by pressing the (y) or (n) key.
+TATLEERGT : @⑧.
+
+Picking up is an essential step in the game. It is a valuable item.
+Many valuable items are often lost by accident. The items that we wanted to have were often dropped by the end of the year.
+The most important information that I wanted was the SATAs.
+
+S AT A s
+
+The labyrinth
+
+Only a thin gown covers the body of Teeke, who is no longer a child.
+The only thing covering Tique's body, who is no longer a child in the labyrinth, is a thin sheet of 1.
+
+All that Teeke was wearing was a mountain of dust, and it was a pile of dirt under her feet.
+All of the items that T'Keh was wearing were piled up in a heap at his feet.
+
+The smooth silk gowns allowed the lines of her body to show through.
+The lines of Teeke's body were clearly visible through the smooth silk gown.
+
+"Hmmm..." Hm..."
+
+Teeke chokes weakly and regains consciousness.
+
+Between blinks (2, 3), she realized the situation she was in, and moved her body to the side.
+L, ③.
+
+Tique's upper body rose up and the gown slid down from her chest. The gown slid down from her chest.
+There are many cherry-red patches from her chest to her neck.
+Teeke grabbed Gaun tightly and pulled her to her chest.
+
+Her body was completely cold. I thought it was a dream that she had been so hot just a few days ago.
+It was almost as if it had been a dream. But I was not so sure that it was not a dream.
+But her body remembered that it was not a dream.
+
+48 COMMANDS 1 To Walk Through the Cave ......
+
 木 S ② な ⑮ m は ョ マ ン だ 細 の 資 啓 同 騎 ド う に 目
 標 と な る ア イ テ ム の 上 に 立 ち 、(,) キ ー を 押 す の で あ る 。 め ウ r カ M と つ
 し か 落 ち て い な い 場 合 に は 、 そ の ア イ テ ム が 拾 い あ げ ら れ る 。 複 数 あ る 時 に

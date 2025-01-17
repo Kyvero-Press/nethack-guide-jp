@@ -1,5 +1,42 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-012.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-011.png]]
+Select a user. After copying is complete, select `Mode setting' in the Note menu (9) (8).
+Select [Set mode], set [System activation device designation ① % `standard], set [System activation device designation TT] to [FDJ], and select [System activation device designation FDJ].
+Set "System Starter Designation TT" to "FDJ" and "First Drive Designation" to "FD".
+Reconfigure each of these settings. Once set, set the `Startup Disk' to the floppy drive.
+Set the `Startup Disk' to the floppy drive, press the ESCJ key twice (9) to exit the Note menu (8), and the floppy drive will now be set to the floppy drive.
+The floppy drive should now become the A drive and start up. Now press again.
+
+B INSTED B A
+
+and press the key ( ).
+
+You will see various messages on the screen, but all you need to do is to open the program on the NetHack to the `Startup Disk'.
+The NetHack program will be deployed in the `Startup Disk'. BHET, 74 X
+If you are instructed to replace the `Startup Disk', you can insert the `Data Server Disk' into the floppy drive.
+CG and other data can be opened in the `disk for data'.
+CG and other data can be opened in `discs for data'.
+
+If EMS can be used afterwards, we would like to use the EMS interface that we normally use to create a pseudo-disk.
+SYS and configure it in CONFIG. SYS.
+SYS. The specifics of how to do this are beyond the scope of this document, as they require a separate explanation.
+
+Instituting a hard disk in the park
+
+When trying to install a NetBackup to a hard disk, it is recommended that at least the minimum amount of free space be used (see Section 3.3).
+(2) Install the network buffer pack to the electronic disk: When installing the network buffer pack to the electronic disk, make sure that at least (3) MB of free space is required.
+
+The keystroke must first be MS-DOS 2B L.BT+ 2272709 P Lagoon.
+(2) Set the keystone to the MS-DOS 2B L. BT+ 2272709 pee drive, and move the cursor to the drive.
+The N-layer is the B-drive.
+
+A
+
+From the state of ・・・・・・
+
+Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo
+
+Yama
 ユ ピ ー を 選 ほ う 。 コ ピ ー が 終 っ た ら 、 そ の ま ま ⑨⑧ ノ ー ト メ ニ ュ ー で ` モ
 ー ド 設 定 】 を 選 び 、『 シ ス テ ム 起 動 装 置 の 指 定 ① % ` 標 準 』 に 、` シ ス テ ム
 超 動 装 置 の 指 定 TT』 を 『FDJ に 、『 第 一 ド ラ イ ブ の 指 定 』 を FD』 に 、 そ れ

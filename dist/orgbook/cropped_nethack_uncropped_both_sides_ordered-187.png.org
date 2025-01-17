@@ -1,5 +1,39 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-188.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-187.png]]
+DAGGERS Short Sword
+
+Rather than using a short sword as a primary weapon, it is better to think of it as a secondary weapon in case of emergency.
+It is also easy to throw. Also, it is easy to throw, so it doesn't hurt to have a few.
+It should not be too risky to have several.
+
+athame athame athame athame athame athame athame
+A short sword favored by mages. It is cast from an extremely hard material.
+The blade does not break because it is cast from an extremely hard material. It is extremely easy to handle, but its power is considerable.
+crysknife crysknife
+The crysknife is a knife made of meteoric iron with a blade width of about 「⑳⑳⑳）. The magic power is hidden in it.
+It is said that its power and sharpness are comparable to that of a large sword.
+
+Dagger dagger
+The dagger is as strong and sharp as the big swords.
+The dagger is as strong as the big sword in terms of power and cutting ability.
+
+The dagger is beautifully decorated with elf-shaped ornaments. Hobbits and other races who are not tall enough to use the sword are called elven daggers.
+It is favored by hobbits and other races that are too short to use swords.
+knife knife
+A knife knife is a knife (can you think of any others?). It is a knife knife. It is a weapon that should be thrown rather than held.
+It is one of the weapons that should be thrown rather than held.
+Orcish dagger
+A short dagger favored by the Aukukyuans. It is the most commonly obtained dagger in Jiba, the dungeon of the Jendār.
+The dagger is a very common weapon in Jiba, probably the most commonly obtained weapon in Jedi's lair. The power of the sword is to be reckoned with.
+scalpel scalpel
+The scalpel is a medical scalpel, the first weapon a healer has, but it should be replaced by another weapon as soon as possible.
+It is the first weapon a healer has, and should be replaced by another as soon as possible.
+wakizashi wakizashi
+The wakizashi is a short sword favored by warriors on a solitary island in the east as a weapon of katana.
+It is made in the same way as the katana. It is made in the same way as the katana, and even though it is a short sword, it boasts a great deal of power.
+
+Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1 Weapons1
+
 DAGGERS 短 剣
 
 短 剣 は 主 武 装 と し て 使 う よ り も 、 も し も の と き の 副 武 装 と 考 え た ほ う が い

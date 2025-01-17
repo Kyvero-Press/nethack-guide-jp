@@ -2,6 +2,30 @@
 [[.././cropped_nethack_uncropped_both_sides_ordered-188.png]]
 CRYSKNIFE
 
+STAFFS Cane
+
+A wand is a weapon that is favored by weak mages. It should not be used by mages who are not strong enough to use it, or by barbarians or ogres who lack the dexterity to use sophisticated weapons such as swords and spears.
+Or perhaps it is used by barbarians or ogres who lack the dexterity to use sophisticated weapons such as swords and spears.
+
+aklys aklys aklys
+They increased their power by philosophizing with wires and burying sharp pieces of metal between them.
+
+A cudgel. It is said to be favored by the ogre and others.
+
+club club
+A short wooden club. A strong man could inflict this damage with it, but it is not a primary weapon.
+It is a short wooden club, but it is not a primary weapon.
+
+flail
+An interlocking club developed from an agricultural tool. The grip part and the club part, which strikes the enemy, are connected by a chain or gold chain.
+
+The grip is connected to the club by a chain or metal ring. It uses centrifugal force to give even a man without a club a great deal of power.
+The cudgel is used to strike the enemy.
+
+192 ITEMS Tools waiting for you in the cave
+
+CRYSKNIFE
+
 STAFFS 杖
 
 体 力 の な い 魔 導 師 が 好 ん で 使 う な 。 あ る い は 剣 や 槍 の よ う な 洗 練 さ れ た 武

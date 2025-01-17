@@ -1,5 +1,62 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-038.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-037.png]]
+And in the grotto in the center of the screen is what the character found as he walked around.
+
+The letters shown below are the ones that are displayed in the grotto. The following is a description of what the characters mean.
+L@ o lip
+
+(8) "You are a bad person.
+
+An open door in a vertical or horizontal wall of a room.
+Open door on the horizontal or vertical wall of the room
+Floor of the room, or an entry/exit hall without a door.
+
+A passageway, or a kitchen sink, or a movable bridge
+
+Stairs to the top
+
+Stairs to the bottom
+
+Closed door or spellbook
+
+A human (player) or a monster with a human appearance
+Gold
+
+B (not revealed until discovered or caught)
+
+Weapon (weap. n)
+
+Armor (arm.r)
+
+Food (food, including dead monsters)
+
+Spells and scrolls with various effects (scrolls)
+
+Wands
+
+rings
+
+Water cypress (potiom)
+
+Various tools (tooD)
+
+AmuleD or spider web
+
+Treasure stone (leweD, or pebble)
+
+Rock, or statue
+
+An iron sphere (to be given as an ankronym for any crime)
+An altar, or an iron stake to connect the sphere to a charge.
+A ball of iron, or an iron fountain to connect the ball to a crime.
+- - - - - - - - - - - - - - - or
+
+A grandiose throne (something can happen to it if it falls).
+
+Be Invoked
+
+Be Invoked Net Havac Startup
+
 そ し て 、 画 面 中 央 の 魔 窟 内 に は キ ャ ラ ク タ ー が 歩 き 回 っ て 見 つ け た も の が
 
 表 示 さ れ ん て い る 。 以 下 に 表 示 さ れ て い ぃ る 文 字 が な に を 意 味 し て ぃ る の か を 記

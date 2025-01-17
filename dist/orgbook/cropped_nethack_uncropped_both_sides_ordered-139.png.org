@@ -1,5 +1,38 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-140.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-139.png]]
+@porec ON/OEE
+
+If you press the (@) key while playing the netbahack, you can pass through the A of E that is dropped in the palace (you can pick it up with the decision =).
+You can pick it up by pressing the (@) key, and it will pass through the E of the E (you can pick it up by resolution = and so on), or you can use the Eck 9.
+7 ON state)
+
+Then, if you press (@) key once more, the pickup will be in the OFF state and you can use the eye-tracking function.
+If you do not press the (@) key, you will not be able to pick up the pickup without pressing the (@) key again. In other words, @ every time you press the key, the beeper will be turned off.
+In other words, each time the @ key is pressed, the QN/QFF of the bit up cycles in sequence.
+QN and QFF of the bic-ap are cycled in sequence as you press the @ key.
+
+The pickup ON state may indeed be convenient, but some ITEMs have a problem with the QN and QFF of the pickup.
+However, some of the items can cause disasters just by being removed, so I wouldn't recommend it to beginners.
+However, some of the items can cause disasters just by being discharged, so I would not recommend them to novice users.
+
+$ = $ = $ =
+
+The $$ command lets you know how much money you currently have.
+The most amount of money is in the Prerez. Since the amount of money is always displayed on the play screen, you will probably not need to use the %$ command.
+You will probably never need to use the %$ command since the amount is already displayed on the screen during play.
+
+List of identified items
+
+By entering the %G you can also see a list of all the items you have found so far.
+(2) It is possible to see a list of all the ITEMs that have been found so far. The old and the new are still in use. I have been using it for a long time. (2) The "commando" is a commando that has been used, read, or discarded.
+We can also see the things that have been discarded or thrown away (8). By looking at them, we can see the details that are still unclear.
+By looking at them, you may be able to guess what the items are for which details are still unknown.
+We recommend that you try it once in a while.
+
+Other Symbols 143
+
+Other symbols 143
+
 @ ぽ ッ レ ク ア ッ ン ON/OEE
 
 ネ ッ ト バ ハ ッ ク を プ レ イ 中 あ な た が (@) キ ー を 押 せ ば 、 魔 宮 に 落 ち て い る ア

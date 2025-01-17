@@ -1,5 +1,44 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-119.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-118.png]]
+The C and #n commands are both used to give unique names to items and monsters.
+The C command can be used to give a monster its own name.
+
+It would be difficult to give a new pet a business name, as in the case of the two victims of the disaster,
+It is also a good idea to give a favorite name to a monster you meet on your way to the dangerous lands (who does not challenge you to a fight) to help you identify it.
+It would be good to identify the monsters you meet on your way to the dangerous places (that do not challenge you to a fight) by giving them names you like.
+
+The #n command can be used to give a special name to an item, such as a weapon.
+The #n command is used to give a specific name to a weapon or other item. The #n commands are used to give special names to the weapons and other items.
+This method is useful as a simple distinction when there are several same items. The "Dongno" of Yang can be obtained by the method of preventing the exposure.
+The details are not clear.
+
+The details are not clear.
+| I'm sorry, I'm sorry, I'm sorry, I'm sorry.
+Klein sighs as he talks to his cat, Mike.
+
+Mike is not very interested in the cat, and only takes one look at his master, Cline.
+Then he began furrowing his fur enthusiastically with his gnarled tongue. At Mike's feet was a freshly eaten doe.
+The bones of a freshly-eaten dwarf were scattered around Mike's feet.
+This is the one that makes my stomach growl a little.
+
+With a look of satisfaction on his face, Klein approached the fountain that stood out at the edge of the grotto's small room.
+With a look of affection, Klein approached the fountain that stood out at the edge of the grotto's small room. The fountain was dark blue and made a small bubbling sound every now and then.
+The blue water was a dark blue color and made a small bubbling sound every now and then.
+
+(5) Clain looks at the sword in his right hand.
+
+The cause of the gloom that had been making the normally cheerful man so depressed was there. He was walking through the demon's cave on the upper floor.
+He had picked up the sword while he was walking in the demon's cave on the upper floor, and without examining it carefully, he tried to be beautiful with it.
+It was wrong of me to try to bequeath it to him without examining it carefully. The sword was under a terrible curse. I'll just throw it away!
+The sword would not stay in his hand even if he tried to throw it away, and it seemed to have become part of his right hand.
+It was as if it had become a part of his right hand.
+I don't have a scroll to break the spell, and I don't have ....... How can I do this?"
+
+As I was muttering to myself, Albena's words came to mind.
+Klein, Tomoinmazakata, I'll tell you what to do on your way down.
+
+122 COMMANDS-ERE & 35 { F28DI2-+
+
 C と #n コ マ ン ド は 、 と も に ア イ テ ム や 怪 物 ら に 独 自 の 名 前 を つ け る た め
 の コ マ ン ド だ 。C コ マ ン ド は 怪 物 に 独 自 の 名 前 を つ け る こ と が で き る 。
 

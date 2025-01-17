@@ -1,5 +1,46 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-037.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-036.png]]
+The number in parentheses means the maximum hit point. The number in parentheses represents the maximum hit point.
+No amount of rest or medication will help you recover above this number.
+I I, I
+
+Pw: is magical power. Every time you cast a spell, it will be extinguished.
+As a matter of course, if this number is less than the magic required to cast the spell, the magic will be reduced.
+If this number is less than the magical power required to cast the spell, the spell cannot be used, even if you have learned the magic.
+
+BIC Ji ⑧ is 0 in . The former is the time of disaster (5) The former 5) is the time of the charac
+The 0 in (5) indicates the strength of the protective equipment that the character has. The smaller the number, the less.
+E . The smaller the number, the smaller the E. be(TARS).
+
+Xp next to it is the empirical value. The left figure is the level and the right figure is the empirical value.
+The number on the left is the level and the number on the right is the experienced value. If the experienced value exceeds a certain value, the level increases. As the level increases, the hit point increases.
+As the level increases, the hit point increases and the resistance to poison and magic increases.
+T-ding: indicates the time elapsed.
+
+Next to the elapsed time is the abdominal condition. In a normal state, nothing is shown.
+No indication is shown. Satiated when full, Hungry when hungry, and Hungry when too hungry.
+Faint- ing is when a person is in a state of faintness due to hunger.
+Fainting means you can't even walk. Finally, they starve to death.
+Finally, they starve to death. Food security is a top priority.
+
+The stomach is often indicated by the condition of the body. Lips are often lip-smacking.
+Conf, Sick, Blind, Fainting, Stun, or Faint.
+Stun when you faint, trip from drinking certain medicines or eating certain monsters.
+If a person is in a tripping state due to drinking a certain drug or eating a certain type of monster, he or she will be labeled as Hallu.
+
+The top of the screen depicts the scene and how the fight with the monster went.
+The top part of the screen depicts the scene at the top of the screen and how the fight with the Monster went down.
+The special things that happen around the MiMiKaKaKuKu, such as Pett's sudden disappearance from view, are explained in English.
+) will be explained in English. Also, the names of things that have fallen to the floor, such as the throne and the fountain, are explained in English.
+(The names of the objects on the floor, the ball and the fountain, etc. are also explained in English.
+
+The names of the objects on the floor, the names of the ballroom, the fountain, etc. are also shown in this row. For example
+For example, if you want to drop some items, the choices of which items to drop are shown in this line.
+`What do you want to drop ? [$ad-fi-kwor?
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10)
+
+40 CHARACTERS Your identity to be sent to the magician.
+
 オ ー バ パ ー と な る 。 括 弧 内 の 数 字 は ヒ ッ ト ポ イ ン ト の 最 大 値 を 意 味 し て ぃ る 。
 ど ん な に 休 息 し た り 、 薬 を 飲 ん だ り し て も 、 こ の 数 値 以 上 は 回 復 し な い と ぃ い
 I I,

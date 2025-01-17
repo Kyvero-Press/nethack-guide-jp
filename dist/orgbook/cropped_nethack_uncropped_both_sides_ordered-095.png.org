@@ -1,5 +1,44 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-096.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-095.png]]
+Ma
+
+B e c e s s i o n
+
+P a g e 1 1 A
+
+N i = 1
+
+A=S=S=Se=I=A
+
+B-M-A-R-B-M-A-R...
+
+By using two commands, H and #|, you can open a treasure chest or a long matchstick and get its contents.
+To open the treasure chest, use the two commands ## and #| to open the treasure chest and the long scroll. To open the treasure chest, you can also use the k command to kick it open.
+There is also a way to open the treasure chest by kicking it with the k-command. You can also use the k-command to kick the treasure chest and break it open, or you can use the k-command to sleep (see Fig. 8).
+The treasure box can also be "used" by the command (8), but it is not recommended to use it to remove the heavy treasure box.
+However, the screen requires the user to temporarily drop some of his or her belongings on the floor to remove the heavy treasure box, which is much more inefficient.
+This is much less efficient.
+
+#f When using commands, use a pointed weapon such as a sword, or a pick axe or mace.
+The #f command requires a pointed weapon such as a sword, or a weapon that can be used with X-measles such as a pick axe or mace, but the Pe will be frozen in time.
+
+If the weapon you are preparing is not suitable for opening the treasure chest, the message of the star will be displayed.
+If the weapon is not suitable for unlocking the treasure chest, the message of the star will appear in the field.
+
+#To use the command, stand on the treasure chest and enter the command.
+Vo The first question is: `Will you take out the contents of the treasure chest? If you answer "y" to the question, it will be placed inside.
+If you answer y, the names of the items in the box will be displayed one by one.
+For each of them, the name of the item will be displayed, and the user will be asked to enter m for each item.
+
+When all the items have been displayed, the next question is: "Do you want to put something in the treasure box? After all the items are displayed, the next question is, `What do you put in the treasure chest?
+As with the retrieval process, the participants are now asked to choose one item at a time from each of their own items.
+As with the retrieval, you will now be asked about each item you have.
+
+Pry open, look inside 99
+
+=Pry open, look inside 99
+Outside
+
 ー マ
 
 ベ ー セ シ ー

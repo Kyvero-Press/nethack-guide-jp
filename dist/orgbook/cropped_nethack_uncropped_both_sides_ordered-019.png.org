@@ -1,5 +1,36 @@
 [[./cropped_nethack_uncropped_both_sides_ordered-020.png.org][previous page]]
 [[.././cropped_nethack_uncropped_both_sides_ordered-019.png]]
+Your alter ego to be sent to the brothel
+Your alter ego
+
+The characters you send as your alter egos into the world of NetHack.
+The characters that you send as your alter egos into the world of the NetHack have a variety of parameters and occupations. Therefore, each of them has its own personality and occupation.
+This allows each one of them to find his or her own personality.
+
+Parameter Performance Value
+
+The following is information about the parameters necessary to determine the performance of a contactor.
+The following is a list of information related to the parameters necessary to determine the performance of a contactor. These are mainly found on the bottom line (2) of the NetHack screen.
+These are mainly shown in the status rows across the bottom two lines of the NetHack screen.
+These are mainly shown in the status rows across row 2 at the bottom of the NetHack screen.
+
+St : Strength Strength
+The larger this parameter is, the more powerful and muscular the person is.
+The larger this parameter is, the more powerful and muscular you will be. In the three dangers of weapons, and in the demon cave of the Yenders, how much of a
+Determine how many items you can hold.
+Warrior characters must excel in this parameter at all costs.
+The warrior characters must have this parameter at all costs. Mage characters also need a certain amount of muscle power to cast spells.
+The mage characters also need a certain amount of muscular strength to cast spells.
+
+Dx : Dexterity, Dexterity, Dexterity, Dexterity, Dexterity
+Dexterity is the ability to perform tasks that require dexterity, such as hitting a target or unlocking a lock or disarming a trap.
+Dexterity must be high in order to perform tasks that require dexterity, such as hitting the target of an attack, unlocking a lock, or disarming a trap.
+
+Thief characters must be dexterous with their hands. A thieving character must be dexterous with his or her hands.
+What will happen to a thieving character who is not skilled with his or her hands? It is tragic.
+
+Parameter 1①Power value⑳⑳
+
 魔 宿 に 送 り 出 す あ な た の 分 身
 ⑩駄裁r裁璽士Br掻
 
