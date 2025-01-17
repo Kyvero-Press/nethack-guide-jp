@@ -1,0 +1,23 @@
+Potion of monster detection
+This potion allows the pupil to know the location of monsters in the same floor as long as they have taken the potion.
+Of course, it is not guaranteed that the monsters are in the same place because they also move.
+Potion of object detection
+At the moment the drug is taken, the location and type of the item on the same floor can be determined.
+The monsters pick it up first. In some cases, the monsters pick it up first.
+Potion of paralysis
+This drug causes paralysis of the body. It is not known when the patient will recover.
+It is not known when he will recover. This medicine can also serve as a substitute for a weapon. I am not sure when it will recover, but it will be soon. I don't know if this medicine can be used as a weapon or not.
+Potion of restore ability
+
+Potion of restore ability Restores the value of ability lost for some reason. In many cases, it is caused by poison.
+In many cases, it will restore strength lost due to poison.
+Potion 0f see invisible See invisible Sight-Seeing Potion
+This potion allows you to see through invisible creatures and those made invisible by magic. Also, as a side effect, it can be used to see through objects that have been made invisible by magic.
+As a side effect, it is said to restore direct vision. It tastes like fruit juice.
+Potion of sickness
+Potion of sickness reduces some of the power value and damages the hit point. Also, he may become sick,
+He may also become sick. However, if the patient is suffering from a hallucinogenic agent, a shock may stop the hallucination.
+The hallucinations seem to subside with shock.
+
+164 ITEMS I. The tools that await you in the Yan Cave.
+

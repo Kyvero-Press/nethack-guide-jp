@@ -1,0 +1,57 @@
+And in the grotto in the center of the screen is what the character found as he walked around.
+
+The letters shown below are the ones that are displayed in the grotto. The following is a description of what the characters mean.
+L@ o lip
+
+(8) "You are a bad person.
+
+An open door in a vertical or horizontal wall of a room.
+Open door on the horizontal or vertical wall of the room
+Floor of the room, or an entry/exit hall without a door.
+
+A passageway, or a kitchen sink, or a movable bridge
+
+Stairs to the top
+
+Stairs to the bottom
+
+Closed door or spellbook
+
+A human (player) or a monster with a human appearance
+Gold
+
+B (not revealed until discovered or caught)
+
+Weapon (weap. n)
+
+Armor (arm.r)
+
+Food (food, including dead monsters)
+
+Spells and scrolls with various effects (scrolls)
+
+Wands
+
+rings
+
+Water cypress (potiom)
+
+Various tools (tooD)
+
+AmuleD or spider web
+
+Treasure stone (leweD, or pebble)
+
+Rock, or statue
+
+An iron sphere (to be given as an ankronym for any crime)
+An altar, or an iron stake to connect the sphere to a charge.
+A ball of iron, or an iron fountain to connect the ball to a crime.
+- - - - - - - - - - - - - - - or
+
+A grandiose throne (something can happen to it if it falls).
+
+Be Invoked
+
+Be Invoked Net Havac Startup
+

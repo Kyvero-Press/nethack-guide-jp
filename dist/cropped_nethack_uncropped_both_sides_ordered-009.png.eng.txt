@@ -1,0 +1,36 @@
+When you do this, various messages appear on the screen, but the point is that the NetHack program will be deployed in the `startup disk'.
+In short, the NetHack program is developed into a `disk for activation'. In the middle of the process, the disk is inserted.
+If you are instructed to insert a disk, please insert a disk for the UI in the A-draji [7].
+Data such as CG will be displayed in the `Discs for data' area.
+The data for CG, etc. will be developed in the `disk for data'.
+
+If EMS is available, the EMS driver you normally use will be placed in the `Startup Disk'.
+SYS' and configure it in CONFIG. SYS.
+SYS. The specifics of how to do this are beyond the scope of this document, as they require a separate explanation.
+
+Installing on a notebook PC (RAM drive) in the park
+
+With a notebook PC, you can use the RAM drive to create a more or less comfortable net connection if you puppet the RAM drive properly.
+The first is the RAM drive, and the second is the RAM drive, which can be used to drive the RAM drive.
+The first is to use the W-distance in the direction of the forest, and the second is to use the W-distance in the direction of the forest in the direction of the forest.
+The same as in the case of W-disks, but care must be taken to avoid the same problems as in the case of W-disks.
+
+
+First, you must wait for the contents of the RAM drive before starting installation.
+The contents of the RAM drive must be cleared unless you want the RAM drive to disappear.
+If you want to start up the RAM drive, hold down the (HELP) key to bring up the 98-note menu, and then press the "RAM Drive to Clock" key.
+The "RAM to DRAWFORD Clock Error OSCOPY" 2880 . The clock schedule of the RAM drive is displayed in the box.
+Move the contents of the RAM drive to the ClockSave window.
+
+Next, move the contents of the RAM drive to the NMS-D0S system 788 sctnm -dime,
+Select "Auto mode" to start. Once activated, click the floppy drive and select `New Floppy Drive'.
+Once activated, select the new floppy drive and the new floppy disk, and press SELKLT.
+
+A>
+
+FORMAT B: /M /S
+
+The following is an alignment of the following: A> FORMAT B: /M /S
+
+Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo Instaloo
+

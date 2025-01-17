@@ -1,0 +1,38 @@
+Enter ・・・・・・ to display the menu screen with the message `Welcome to NetHack'.
+The menu screen appears with the message `Welcome to NetHack'. Enter the player's or pet's name, etc., and select a job.
+Enter the player's or pet's name, etc., select a job, and press the key (@) to start the game.
+
+The fire is started by the following @ (@) ummansi.
+
+NTHK ()
+
+When starting the netbahack, the free area of the memory must be at least 4), 5), and 0 KB.
+(4) ⑤0 KB or more of memory is required when starting the netbahack. In particular, if the memory is kept on hard disk, it must be at least 4), 5), and 0 KB in memory.
+If you want to use a hard disk, you should check it using [VMAP.COMJ] or similar. If you use [CHKDSK.
+EXE], the last `available memory' is the free area.
+This is the free area. If this number is 450000 or higher, NetHack can play.
+However, if the number is greater than 450000, NetHack can be played. If the number is 450000 or more, NetHack will be able to play. If it is not
+If it is not possible, please remove the Japanese FEP or do something about it. Specific instructions are given below.
+The specific method of operation depends entirely on the reader's environmental settings and cannot be explained in general terms.
+The specific operation methods vary greatly depending on the reader's environmental settings.
+
+More Info. for reference
+
+The following explanations are for reference only and may be skipped.
+We do not mind if you skip over the rest. However, the information may be quite useful to those who understand it.
+It may be useful information for those who know what they are talking about.
+
+About B NETHACK.CNF
+
+NETHACK.CNF is a file that records the environment in which the NetHack is used.
+It is a file that records the environment for the use of the nethack. In the appendix of this document, the `nethack activation menu program' has been added.
+CNF, so there is no need to modify NETHACK.CNF. On the other hand
+Conversely, if NETHACK.CNF is properly configured, it is possible to directly access the NetHack.CNF without intervening via the startup menu.
+CNF, you can directly activate the nethack without having to go through the activation menu.
+
+18 DISK How to use a single attached disk
+
+(1) DISK (3)
+
+(3) to iNuk with c
+

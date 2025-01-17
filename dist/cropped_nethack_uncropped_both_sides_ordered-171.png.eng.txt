@@ -1,0 +1,35 @@
+Spellbook of detect food Food Detection Magic Level 2
+Displays all food on the surgeon's floor. It is very heavy on an empty stomach.
+Shukusho Yaoru I,
+
+Spellbook of detect monsters
+Displays the location of all monsters present on the magician's floor. Not only the monster's location, but also the location of the monster.
+The user should be able to understand not only the location of the monster, but also its species.
+
+Spellbook of detect treasure Item detection spellbook level (4)
+Shows all items on the same level as the chanter. The general categories of the items are also displayed.
+(4) Displays all the items on the same level as the Chanting player, and also shows the general type of items, which is useful for obtaining weapons and armor.
+e
+
+Spellbook of detect unseen invisibility spell level (3)
+For a short time after casting this spell, you will be able to see invisible objects.
+This spell should be used when you are attacked by a transparent monster.
+Spellbook of dig
+Casting this spell causes the walls of the grotto to crumble, creating a passageway. It can also be used against rocks.
+It can also be used against a rock, turning it into a multitude of small stones.
+Spellbook of extra healing
+Spellbook of extra healing, pinnit point will be restored considerably. Healing in the meantime.
+If healing doesn't seem to be the right choice for you, I'd recommend this one.
+Spellbook of finger of death level (7)
+When the conjurer casts this spell, a ray of death is emitted from the tip of the finger. The target is a candle, a crotch, or a fire.
+The spell is performed by the magician, and the spell is cast on the subject. The "death of the dead" is the result of the "death of the living".
+The only thing that matters is what happens to you.
+Spellbook of fireball
+A ball of fire flies out from the wielder's palm, spreads out, and turns into a huge ball of fire that attacks the enemy. Typical offensive spell
+This is a typical offensive spell.
+Spellbook of force bolt
+A spell to inflict damage by emitting a force field from the palm of the hand. The damage is small,
+It deals little damage and may be avoided by the enemy, but it has the advantage of consuming little magic power.
+
+Spellbook 1 1 grimoire
+

@@ -1,0 +1,54 @@
+Briefly describe the contents of the box or bucket below.
+Use the monster's special powers.
+
+On the Mulberry Altar, offer sacrifices to God.
+
+Pray to God for help.
+
+Rub the solid lamp
+
+Sit on the spot
+
+(if you have the ability to do so) to chase off the immortal monster.
+Remove the head
+
+Wipe your face
+
+Command for the En Players
+
+Open Help menu
+
+Displays a description of the displayed symbol ________________________________________________________________________________________________________________.
+
+Displays a description of the command's operation
+
+Repeats the previous command.
+
+Give a name to each monster
+
+Set up a new option
+
+Re-display the previous message (successive actions will display the previous messages one after the other)
+(By continuing to do this, the previous messages will be displayed one after the other)
+
+Abandoning the game
+
+Re-display if the screen is broken
+
+(7) Safes the game and finishes the game. The next team continues from the place where the game was played.
+The next group can continue from the place where they sep
+
+Display the NETHACK version number.
+
+Displays the history of NETHACK
+
+Displays options when NETHACK is compiled.
+Displays options when NETHACK is copied (dis)valley-mode Lo
+Once entered, the normal state cannot be restored.
+
+Pressing the 0N/.FF button in the "p" option will bring up the rising sun.
+(5) (6) (7) (8) (9) (10) (11)
+(5) (6) (6) S-shell is available. To return to the game, enter `exit
+
+Commands for Players
+

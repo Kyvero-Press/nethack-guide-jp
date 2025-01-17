@@ -1,0 +1,39 @@
+Method of Infringement of Attached Disks
+
+iist
+
+The nethacks included in the accompanying disks in this document have been modified in various ways, so it is not possible to play them with floppy disks.
+The nethacks in the accompanying diskettes in this book have been modified in various ways, so it is not possible to play them with floppy disks.
+It is possible, but nearly impossible in practice, to play on the floppy disk. It is not impossible, but it is close to impractical.
+If you want to play on the Internet, you will need to have a Hack or EMS.
+Let's go over how to prepare to play the hack.
+
+Requirements
+
+Req 臺
+
+Items required to play the nethack stored in the attached disk.
+There are several items that are required.
+
+First, let's list what is absolutely necessary.
+
+First, PC-⑨⑧0① VF or later with main memory of ⑥④0 KB or more is absolutely necessary.
+This is absolutely necessary. In other words, a PC with a CPU of V30 or higher (9), 8), 0①, 0①, 0①, and 1) is absolutely necessary.
+In other words, PC-89⑧0① series with V30 or higher CPU and PC-②⑧⑥/③⑧⑥/④⑧⑥ series are sufficient. The following two series are available.
+The models released within the past two years should be sufficient.
+
+And, MS-DOS version (3) or later is required. The MS-DOS version (3) or later is required.
+
+Next, we will list what we would like to have if possible. First, a hard disk.
+The accompanying disk for this document includes background music and CG images for the Nethack.
+The accompanying disk of this book also contains background music and image CG for the Nethack, so in order to retain them, a floppy disk would require two discs.
+The first set contains the BGM and image CGs for the movie, and the second set contains the BGM and image CGs for the movie.
+
+In addition, an additional memory that can be used as an EMS and a corresponding EMS driver would be a nice addition to the system.
+If there is an EMS driver for the EMS and an additional memory that can be used as an EMS, it would be a good choice. The nethack is not necessarily stuck without it, but it does slow it down.
+The nethack would be slow and almost unplayable in practice.
+
+In the meantime, you will want to be sure to have an English-Japanese dictionary and a large number of other useful documents available.
+
+DISK 1: How to use the attached disk (7)
+

@@ -1,0 +1,51 @@
+e
+
+Command
+
+
+
+Command to move
+
+If the command is marked with "⑪", press the key of the specified alphabet while holding down the [CTRLJ] key.
+(5) (5)
+
+If the command has a ``command'', press the key first (also press the key) and then the specified alphabetical character.
+(6) Input the specified alphabetical character.
+
+(6) Commands related to movement
+
+E on the top step, corner on the bottom step (if the floor is good).
+Go down the stairs (when you are on the stairs)
+Take a rest.
+
+Close the door.
+
+Open the door
+
+Teleport (if capable) Teleport
+Jump to another location
+
+Check your belongings, etc. Command
+
+Yuan all belongings.
+
+Display the specified type of items
+
+Displays a list of spells you know (same with [ + | ])
+Displays the weapons he has in his possession
+
+Displays the armor you have in your possession
+
+Displays rings worn
+
+Displays the removal of the amulet being worn
+
+Shows the tool being used
+
+Count the gold you have
+
+Show what kinds of objects you have found so far
+Find out what kind of punishment
+
+Command to act
+

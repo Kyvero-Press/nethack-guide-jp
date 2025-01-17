@@ -1,5 +1,5 @@
 makepage () {
-    cat <( [[ "cropped_nethack_uncropped_cover.png" == "$filename" ]] && echo "" || echo "[[$PREV_FILE.org][previous page]]") <(echo "[[../$filename]]" ) "$filename.txt" <( [[ $PAGE_NUM -gt "267" ]] && echo "" || echo "[[$NEXT_FILE.org][next page]]" ) > orgbook/$filename.org
+    cat <( [[ "cropped_nethack_uncropped_cover.png" == "$filename" ]] && echo "" || echo "[[$PREV_FILE.org][previous page]]") <(echo "[[../$filename]]" ) "$filename.eng.txt" "$filename.txt" <( [[ $PAGE_NUM -gt "267" ]] && echo "" || echo "[[$NEXT_FILE.org][next page]]" ) > orgbook/$filename.org
 }
 
 filename="cropped_nethack_uncropped_cover.png"

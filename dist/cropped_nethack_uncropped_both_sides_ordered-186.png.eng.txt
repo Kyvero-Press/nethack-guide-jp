@@ -1,0 +1,14 @@
+BROADSWORD
+
+SHORT SWORD
+
+SCIMITAR
+
+TWO-HANDED SWORD
+
+The tools that await you in the cave
+
+ITEMS
+
+ITEMS 190
+

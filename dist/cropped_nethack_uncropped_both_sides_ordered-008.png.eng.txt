@@ -1,0 +1,24 @@
+Enter "+" and press the (key). The disk drive will then run in the same manner, and the B-drive disk will be formatted.
+The B dock drive will then format the B drive disk. When the process is complete, the B drive's disk is removed.
+After processing is complete, remove the disk on the B drive and paste a label labeled `Disk for data' on it.
+X,.
+
+Next, remove the MS-DOS system disk from the A drive.
+X, then retrieve the MS-DOS system disk on the A drive, set the `Startup Disk' instead, reset, and start the PC.
+LEZ 3,
+
+Then, when MS-DOS starts, set the attached disk to the B drive.
+0 for w, e for e, and
+
+A>
+
+...... The following is a summary of the situation,
+
+B: INSTED B A
+
+and press the (directional key).
+
+TRM-U - U DECK FOR STARTING DECK FORMAT
+
+(7) (2) How to use the Dlsk 1 Attached Disk
+
