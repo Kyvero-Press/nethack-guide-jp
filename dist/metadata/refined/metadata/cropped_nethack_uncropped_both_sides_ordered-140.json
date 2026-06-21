@@ -1,0 +1,75 @@
+{
+  "page_number": 146,
+  "output_name": "cropped_nethack_uncropped_both_sides_ordered-140.png",
+  "source_filename": "pdf146__nethack_uncropped_both_sides_ordered-140.png",
+  "split": null,
+  "mode": "body",
+  "target_size": [
+    1700,
+    2440
+  ],
+  "source_size": [
+    2550,
+    4200
+  ],
+  "output_size": [
+    1700,
+    2440
+  ],
+  "angle_projection": 0.64,
+  "angle_hough": 0.682060393172652,
+  "angle_line": 0.5589654808321644,
+  "angle_used": 0.5589654808321644,
+  "projection_peak_z": 0.8706319200818148,
+  "projection_second_gap": 0.1821441650390625,
+  "projection_hough_delta": 0.04206039317265198,
+  "hough_confidence": 0.5002292926964285,
+  "line_confidence": 4.047924365558267,
+  "line_segment_count": 13,
+  "foreground_component_count": 962,
+  "content_bbox": [
+    580,
+    171,
+    1982,
+    2291
+  ],
+  "expanded_bbox": [
+    485,
+    76,
+    2077,
+    2426
+  ],
+  "crop_window": [
+    414,
+    0,
+    2114,
+    2440
+  ],
+  "trim_insets": [
+    36,
+    0,
+    52,
+    72
+  ],
+  "page_side": "left",
+  "inner_edge": "right",
+  "outer_edge": "left",
+  "book_page_number": 146,
+  "reference_match_score": 0.9040969014167786,
+  "scanner_tail_detected": true,
+  "scanner_tail_confidence": 6.371335317077432,
+  "content_area_ratio": 0.27752007469654527,
+  "min_crop_margin": 132,
+  "padding_px": 0,
+  "flags": [
+    "reference_crop",
+    "reference_trim",
+    "scanner_tail_detected",
+    "used_line_angle"
+  ],
+  "paths": {
+    "color": "work/processed-refined/color/cropped_nethack_uncropped_both_sides_ordered-140.png",
+    "gray_for_ocr": "work/processed-refined/gray_for_ocr/cropped_nethack_uncropped_both_sides_ordered-140.png",
+    "debug": "work/processed-refined/debug/cropped_nethack_uncropped_both_sides_ordered-140.png"
+  }
+}

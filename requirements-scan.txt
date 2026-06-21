@@ -1,0 +1,7 @@
+# Dependencies for the OpenCV scan post-processing pipeline.
+numpy>=1.26
+opencv-python-headless>=4.8
+Pillow>=10.0
+img2pdf>=0.5
+ocrmypdf>=16.0
+pytest>=8.0

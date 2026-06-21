@@ -1,0 +1,20 @@
+* dist layout
+
+=pdforder.txt= remains at the root because it is the canonical final page order
+used by the processing, validation, PDF, and OCR scripts.
+
+- =crops/reference/= legacy untrimmed crops retained as stable crop-window priors.
+  Do not use these as final output pages.
+- =crops/refined/= current refined crop milestone. These are the pages to use for
+  PDF builds and downstream OCR.
+- =metadata/refined/= metrics and per-page JSON sidecars from the refined crop
+  run.
+- =text/ocr-jpn/= legacy per-page Japanese OCR text from the older flat layout.
+- =text/translation-deepl-pages/= legacy per-page DeepL translation text.
+- =text/translation-google-pages/= legacy per-page Google translation text.
+- =text/full_eng*.txt= full-book legacy translation outputs.
+- =scripts/= old one-off shell helpers retained for provenance; prefer the
+  top-level =scripts/= OpenCV pipeline for new processing.
+
+Raw scans are stored outside =dist= under =scan/= and are never overwritten by the
+processing pipeline.

@@ -1,11 +1,155 @@
 * intro
 This is a scan and OCR of the japanese nethack guide book
-[[file:dist/cropped_nethack_uncropped_cover.png]]
+[[file:dist/crops/refined/cropped_nethack_uncropped_cover.png]]
 
 * download
 - [[file:dist/orgbook/cropped_nethack_uncropped_cover.png.org][read online]]
 - [[https://drive.google.com/file/d/1-eAczSVXnPrMW5MCCRnYmlNN93wTOEBf/view?usp=sharing][uncompressed OCR'ed PDF (google drive link)]] 
 - [[https://drive.google.com/file/d/1JYKaW0vbtiBVhV253mfTABP37RUmbaSY/view?usp=sharing][compressed OCR'ed PDF (google drive link)]]
 - [[file:ocr_nethack_guide_COMPRESSED.pdf][compressed OCR'ed PDF (github link)]]
-- [[file:dist/full_eng.txt][deepl english translation]]
-- [[file:dist/full_eng2.txt][google translate english translation]]  
+- [[file:dist/text/full_eng.txt][deepl english translation]]
+- [[file:dist/text/full_eng2.txt][google translate english translation]]
+
+* OpenCV scan post-processing pipeline
+
+The non-destructive scan pipeline reads renamed raw scans from =scan/=, keeps
+=dist/pdforder.txt= as the canonical final page order, and uses
+=scan/pdforder-rename-manifest.tsv= to map final pages back to source images.
+The landscape opening scan =pdf002-003__nethack_uncropped_openpages_1_2_3-1.png=
+is split into left/right final pages before deskew/crop. Body pages use the
+legacy crop as a raw-scan placement prior, then trim inside the physical page:
+extra pixels are removed from the inferred inner/ragged binding edge and from
+the scanner-tail-prone bottom edge. Text/rule line segments are preferred for
+deskew, because reader-visible baselines matter more than paper-edge angle.
+
+The committed =dist/= layout is intentionally organized as:
+
+- =dist/crops/reference/= legacy untrimmed crops used only as stable reference windows.
+- =dist/crops/refined/= current refined cropped pages for publishing/PDF builds.
+- =dist/metadata/refined/= metrics and per-page JSON sidecars for the refined crops.
+- =dist/text/= legacy OCR and translation text assets.
+- =dist/scripts/= old one-off shell helpers retained for provenance.
+
+Install the Python/image tooling in an environment of your choice:
+
+#+begin_src bash
+python -m pip install -r requirements-scan.txt
+#+end_src
+
+Pilot run with debug overlays and the example overrides:
+
+#+begin_src bash
+rm -rf work/processed-pilot work/qa-pilot
+python scripts/process_scans.py \
+  --scan-dir scan \
+  --manifest scan/pdforder-rename-manifest.tsv \
+  --pdforder dist/pdforder.txt \
+  --out work/processed-pilot \
+  --target 1788x2512 \
+  --reference-crops dist/crops/reference \
+  --pages 001-020,050,100,150,160,200,240,274 \
+  --jobs 4 \
+  --overrides config/scan-process-overrides.example.json \
+  --debug
+python scripts/make_scan_qa.py \
+  --metrics work/processed-pilot/metrics.jsonl \
+  --processed-dir work/processed-pilot/color \
+  --debug-dir work/processed-pilot/debug \
+  --out work/qa-pilot
+python scripts/validate_processed_scans.py \
+  --pdforder dist/pdforder.txt \
+  --processed-dir work/processed-pilot/color \
+  --metrics work/processed-pilot/metrics.jsonl \
+  --target auto \
+  --expected-pages 27 \
+  --pages 001-020,050,100,150,160,200,240,274
+#+end_src
+
+Outputs are written under =work/processed-pilot/=:
+
+- =color/= final color PNG pages, named exactly as =dist/pdforder.txt= entries.
+- =gray_for_ocr/= background-normalized grayscale helper PNGs.
+- =debug/= QA overlays when =--debug= is used.
+- =metadata/= per-page JSON sidecars.
+- =metrics.jsonl= machine-readable per-page metrics and flags.
+
+QA contact sheets and =review.html= are written under =work/qa-pilot/=. Body
+pages should all have one output size (currently =1700x2440= with the example
+trim defaults); the first cover/front pages may retain their reference sizes. If
+a page needs manual correction, add a page or output-name override to a JSON file
+based on =config/scan-process-overrides.example.json=, e.g. =angle_deg=,
+=page_side=, =inner_edge=, or =trim_insets=. For a subset test, write to a
+separate output directory such as =work/processed-check=; =--force= replaces the
+entire output directory and is intentionally restricted to generated
+=work/processed*= directories.
+
+Full run after reviewing pilot output:
+
+#+begin_src bash
+rm -rf work/processed work/qa
+python scripts/process_scans.py \
+  --scan-dir scan \
+  --manifest scan/pdforder-rename-manifest.tsv \
+  --pdforder dist/pdforder.txt \
+  --out work/processed \
+  --target 1788x2512 \
+  --reference-crops dist/crops/reference \
+  --jobs 8 \
+  --overrides config/scan-process-overrides.example.json \
+  --debug
+python scripts/make_scan_qa.py \
+  --metrics work/processed/metrics.jsonl \
+  --processed-dir work/processed/color \
+  --debug-dir work/processed/debug \
+  --out work/qa
+python scripts/validate_processed_scans.py \
+  --pdforder dist/pdforder.txt \
+  --processed-dir work/processed/color \
+  --metrics work/processed/metrics.jsonl \
+  --target auto \
+  --expected-pages 274
+# Optional stricter structural gate for reviewed severe flags:
+python scripts/validate_processed_scans.py \
+  --pdforder dist/pdforder.txt \
+  --processed-dir work/processed/color \
+  --metrics work/processed/metrics.jsonl \
+  --target auto \
+  --expected-pages 274 \
+  --fail-on-flags content_overflow,crop_near_content
+#+end_src
+
+The default validator checks order, dimensions, metadata, and metrics. It prints
+QA flags but only fails on them when =--fail-on-flags= is supplied. In refined
+trim mode, expected informational flags include =reference_crop=,
+=reference_trim=, =used_line_angle=, and sometimes =scanner_tail_detected= (the
+bottom trim is meant to remove those stretched rows from the final crop).
+
+To publish a reviewed full run into =dist/crops/refined/=:
+
+#+begin_src bash
+rsync -a --delete work/processed/color/ dist/crops/refined/
+rsync -a --delete work/processed/metadata/ dist/metadata/refined/metadata/
+cp work/processed/metrics.jsonl dist/metadata/refined/metrics.jsonl
+python scripts/validate_processed_scans.py \
+  --pdforder dist/pdforder.txt \
+  --processed-dir dist/crops/refined \
+  --metrics dist/metadata/refined/metrics.jsonl \
+  --target auto \
+  --expected-pages 274
+#+end_src
+
+Build a PDF in canonical order. Add =--out-ocr-pdf ... --lang jpn+eng= only
+after installing Japanese Tesseract data (=tesseract --list-langs= should show
+=jpn=); the build script intentionally does not deskew a second time.
+
+#+begin_src bash
+bash scripts/build_processed_pdf.sh \
+  --processed-dir dist/crops/refined \
+  --pdforder dist/pdforder.txt \
+  --out-pdf work/nethack-guide-processed.pdf \
+  --dpi 300
+#+end_src
+
+=dist/scripts/croppages.bash= is the legacy fixed-crop baseline; the OpenCV
+pipeline is preferred for new work. The source scans in =scan/= are never
+overwritten.

@@ -1,0 +1,49 @@
+{
+  "defaults": {
+    "target_size": [1788, 2512],
+    "analysis_max_dim": 1600,
+    "body_margin_x": 95,
+    "body_margin_top": 95,
+    "body_margin_bottom": 135,
+    "front_margin_x": 80,
+    "front_margin_top": 80,
+    "front_margin_bottom": 110,
+    "deskew": true,
+    "reference_crop_strategy": "trim",
+    "body_outer_trim_px": 36,
+    "body_inner_trim_px": 52,
+    "body_top_trim_px": 0,
+    "body_bottom_trim_px": 72,
+    "line_projection_agreement_threshold": 0.25,
+    "line_confidence_threshold": 2.0,
+    "scanner_bed_rgb_samples": ["#f6f6f4", "#f5f5f3", "#f4f4f2"],
+    "paper_rgb_samples": ["#fbf8f1", "#faf9f5"]
+  },
+  "pages": {
+    "001": {
+      "mode": "cover",
+      "deskew": false,
+      "reason": "Example conservative cover override; front/cover pages keep the reference size and are not body-trimmed."
+    },
+    "002": {
+      "split": "left",
+      "angle_deg": 0.0,
+      "reason": "Opening landscape scan: left half becomes final page 002."
+    },
+    "003": {
+      "split": "right",
+      "angle_deg": 0.0,
+      "reason": "Opening landscape scan: right half becomes final page 003."
+    }
+  },
+  "outputs": {
+    "cropped_nethack_uncropped_tocpage-1.png": {
+      "mode": "front"
+    },
+    "cropped_nethack_uncropped_both_sides_ordered-154.png": {
+      "page_side": "left",
+      "inner_edge": "right",
+      "reason": "Example: pdf160 is a left-hand/back page with the ragged debinding edge on the right."
+    }
+  }
+}

@@ -1,5 +1,5 @@
 
-[[../cropped_nethack_uncropped_cover.png]]
+[[../crops/refined/cropped_nethack_uncropped_cover.png]]
 PC-9801a
 
 Free software library
