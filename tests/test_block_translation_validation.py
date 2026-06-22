@@ -35,6 +35,7 @@ def args(tmp_path: Path, input_path: Path, source_path: Path) -> argparse.Namesp
         expected_records=0,
         expected_pages=0,
         max_ja_ratio=0.05,
+        max_cjk_chars=0,
         min_length_ratio=0.18,
         max_length_ratio=5.0,
         write_report=None,
@@ -63,4 +64,18 @@ def test_validate_flags_cjk_leakage(tmp_path: Path) -> None:
     write_jsonl(output, [{**row, "record_id": "block:001:001-000:abc", "status": "ok", "translation": "hello 世界"}])
     _summary, issues, retry = validate(args(tmp_path, output, source))
     assert any(issue["kind"] == "cjk_leakage" for issue in issues)
+    assert any(issue["kind"] == "cjk_character_count" for issue in issues)
+    assert retry == [row]
+
+
+def test_validate_flags_low_ratio_cjk_character_leakage(tmp_path: Path) -> None:
+    source = tmp_path / "source.jsonl"
+    output = tmp_path / "out.jsonl"
+    row = source_row()
+    write_jsonl(source, [row])
+    long_translation = "This mostly English sentence contains one leaked term 復活 that should fail."
+    write_jsonl(output, [{**row, "record_id": "block:001:001-000:abc", "status": "ok", "translation": long_translation}])
+    _summary, issues, retry = validate(args(tmp_path, output, source))
+    assert not any(issue["kind"] == "cjk_leakage" for issue in issues)
+    assert any(issue["kind"] == "cjk_character_count" for issue in issues)
     assert retry == [row]

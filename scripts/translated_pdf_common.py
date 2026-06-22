@@ -357,10 +357,20 @@ def px_bbox_to_pt_box(
 def register_font(font_path: Path | None = None, name: str = "TranslatedPdfFont") -> str:
     candidates = [
         font_path,
-        Path("/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"),
+        # Debian/Ubuntu-style paths.
+        Path("/usr/share/fonts/truetype/dejavu/DejaVuSansCondensed.ttf"),
         Path("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"),
-        Path("/usr/share/fonts/truetype/liberation2/LiberationSerif-Regular.ttf"),
+        Path("/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf"),
         Path("/usr/share/fonts/truetype/liberation2/LiberationSans-Regular.ttf"),
+        Path("/usr/share/fonts/truetype/liberation2/LiberationSerif-Regular.ttf"),
+        # Arch/GNU Guix-style paths seen on the restoration workstation.
+        Path("/usr/share/fonts/TTF/DejaVuSansCondensed.ttf"),
+        Path("/usr/share/fonts/TTF/DejaVuSans.ttf"),
+        Path("/usr/share/fonts/TTF/DejaVuSerif.ttf"),
+        Path("/usr/share/fonts/liberation/LiberationSans-Regular.ttf"),
+        Path("/usr/share/fonts/liberation/LiberationSerif-Regular.ttf"),
+        # Broad fallback, if present.
+        Path("/usr/share/fonts/noto/NotoSans-Regular.ttf"),
     ]
     for candidate in candidates:
         if candidate and candidate.exists():

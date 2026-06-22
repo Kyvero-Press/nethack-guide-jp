@@ -122,7 +122,23 @@ Final translation validation result:
 - Final block records: 3,809 / 3,809
 - Hard validation issues: 0
 - Soft validation issues: 0
-- Manual guarded patches: 44
+- Manual guarded patches: 142
+
+A later visual QA pass found that low-ratio CJK leakage could still render as black rectangles when the embedded PDF font lacked glyphs. For example, page 014 block `014-000` contained a Chinese phrase after "remove the B drive disk," and the unsupported glyphs appeared as solid boxes in the PDF. The validator was tightened with `--max-cjk-chars 0`, remaining CJK-leaking blocks were patched to English, and punctuation/placeholders unsupported by the embedded font were normalized to ASCII/Latin equivalents. The renderer now prefers DejaVu Sans Condensed from local font paths because it covers circled key markers and common symbols while staying narrow enough for Japanese-sized blocks.
+
+Extra post-cleanup checks:
+
+```bash
+python scripts/validate_translation_outputs.py \
+  --source-jsonl work/translation/source/blocks-surya.jsonl \
+  --input dist/text/translation-local/qwen2_5_7b_instruct/blocks/translation-records.jsonl \
+  --record-type block \
+  --expected-records 3809 \
+  --max-ja-ratio 0.08 \
+  --max-cjk-chars 0
+```
+
+A font coverage check against `/usr/share/fonts/TTF/DejaVuSansCondensed.ttf` found zero unsupported non-ASCII characters in the final translation records, and placeholder markers such as `<<<SOURCE ... >>>` were removed.
 
 ## 6. Render overrides for cover, art, and special blocks
 
@@ -179,13 +195,13 @@ python scripts/make_block_translated_pdf_hybrid.py \
 Final PDF result:
 
 - Pages: 274
-- File size: about 78 MiB (`80,770,529` bytes)
+- File size: about 78 MiB (`80,792,426` bytes)
 - Missing translation blocks: 0
 - Overflow blocks: 0
 - Fit statuses:
   - `preserve_original`: 21
-  - `fitted`: 2,811
-  - `shrunk`: 977
+  - `fitted`: 2,619
+  - `shrunk`: 1,169
 
 ## 9. QA artifacts
 

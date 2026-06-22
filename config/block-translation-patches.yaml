@@ -7,10 +7,18 @@ patches:
   source_sha256: 9883ead0333cc5ae31bcc49dee25a1e23aafc95ea2fd7441940b0a0c416d1c57
   translation: For PC-9801
   reason: Short title-page platform label should be English-only.
-- block_id: 196-007
-  source_sha256: a3a4fe47ed31da3c63842d7e05056179a30760a62773a4a1370a331948765e24
-  translation: A pickaxe-shaped axe. It boasts tremendous power when swung forcefully by short-statured dwarves.
-  reason: Qwen2.5-7B leaked Chinese into this page-196 weapon description.
+- block_id: 004-003
+  source_sha256: d0378cdf6619c9f4d56bcdb2fcaaaabecdb231f28b0c685b0f6f0bf0f34cd2a7
+  translation: If playing computer games is one of your hobbies, then even if you do not know the details, you have probably heard of Rogue at least once or twice. NetHack is a game that evolved from Rogue.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 014-000
+  source_sha256: 5be4e3355a3bfca02dc101edcba0d34640d9366a0fd5a1a0afbda3b6d5cdda47
+  translation: Type that in and press the key. The disk drive will move again and format the disk in drive B. When the process finishes, remove the disk from drive B and put a label on it saying "Data Disk."
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 022-013
+  source_sha256: 8c4889a59611d77b6bbf5708fdcb1ef46080c9ce3a3e8ce9d211e5d9d7eb7c31
+  translation: Start it this way. When your hit points reach 0 and you die, the game will ask whether you really died; enter 'n' there and you can revive.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 029-007
   source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
   translation: Class -- profession
@@ -19,6 +27,10 @@ patches:
   source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
   translation: Class -- profession
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 032-005
+  source_sha256: f9ddad60cc777f91afc10a0a94816e4efa6cba555b9ac2f1e2cba159f1369389
+  translation: Elves are said to head into Yendor's dungeon out of their rare curiosity. When exploring, they often carry beautiful elven-made short swords and wear light but sturdy chain mail. Of course, as natural-born hunters, they would never forget bows and arrows.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 033-010
   source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
   translation: Class -- profession
@@ -27,18 +39,170 @@ patches:
   source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
   translation: Class -- profession
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 037-009
+  source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
+  translation: Class -- Occupation
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 039-010
   source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
   translation: Class -- profession
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 048-016
+  source_sha256: 042a2990ca7b28a89a56c2ebae75aa60a1063882601bacf5364d6fdd1fe581ac
+  translation: I feel no sympathy for elves. A warrior should use full strength even to defeat a rat. A warrior who loses while using not even half his strength is a failure.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 051-006
   source_sha256: f6728710156b979c26b43f996760b62ca8da8ebab3cf93b5a7eac1c65c3c5597
   translation: While concentrating on memorizing a new spell, Tike did not notice the incubus approaching from behind. Although all the doors in the room were closed, they had not been locked with Wizard Lock. Against most monsters, even after taking the first blow, Tike would have noticed at once and been able to counterattack.
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 052-000
+  source_sha256: e45a6deca99cede9791c40fe82b68d2439a5eeb3e5f8a14befecebaca50ff818
+  translation: The r command is used to read scrolls and spellbooks. If you enter ? after the command, a list of the scrolls and spellbooks you have will appear, so make good use of it. By the middle of the adventure, you will always be carrying several scrolls.
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 055-002
+  source_sha256: aa94bba2cbd7da088636e5c1f05bded75410b22d6e0250c6d9175f5d6736c785
+  translation: (Sad to see you go.)
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 059-012
+  source_sha256: f9169504a3e0484fecbebdae4e84062f1fcbaa89439d96a5f8d7df71ec74944e
+  translation: '"..."'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 060-001
+  source_sha256: e266532c35cce87bcb1a3a3779765e36f0a62e8fcf945db61ddb1d4d16d1463e
+  translation: Nasrula asked, and Master Nealco smiled faintly.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 060-003
+  source_sha256: f9169504a3e0484fecbebdae4e84062f1fcbaa89439d96a5f8d7df71ec74944e
+  translation: '"..."'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 062-003
+  source_sha256: b4d26045e95b5846739a3fdefb546af15c199fa087eee5e4469ec494029dedbd
+  translation: If you cannot get through this, you will not be able to survive later.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 066-004
+  source_sha256: d7ffa97d844834603331a967ebed11b2c7d2aefefb1c1755d4d7b01f4f734a13
+  translation: I was careless. I thought I had checked everything, but it seems that some strange food had gotten mixed in.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 066-010
+  source_sha256: 8e6b9fef8dc72af32699c3e9be69e70c72591e6684bd075be7a8989fae7d40bb
+  translation: He meant to smirk, but he could not even move his lips.
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 070-003
+  source_sha256: 21bc1312c716563eaf0cec9c3aafe3836b027ded01973fe8b81e28b3813a70de
+  translation: An acrid odor and smoke, characteristic of metal dissolving in acid, drifted from the katana. At the very least, several chips must have formed in the blade. But if Yoshitsune carelessly reached out to wipe it off, he would burn himself. He could only watch in silence.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 070-012
+  source_sha256: 717dfd47dc997f05a8ce48fbfe5782a8eb4cb782db8a122af3186de4e0e5af32
+  translation: '"...how many more times--no, can it still be used?"'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 073-004
+  source_sha256: 5ec6996b42794febdde4f64f55a150e742d17b02639b9e3c348376bead5e24eb
+  translation: As an adventurer, Master Nealco explored many uncharted places, including the Sea of Chinarock, and after retiring he achieved great success in training adventurers. Countless famous adventurers came from among his pupils, including Nealktic, who explored Eclipse Mountain, and Royalchi Ranger, who revealed the full extent of the Falamond Caves.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 074-001
+  source_sha256: a11f741dd1f18c5c7da4cea956831b729c0b80434aea35ab7ab350597941f0b5
+  translation: Master Nealco gazed at Nasrula for a while. There was no anger in his eyes. Rather, they were filled with a fatherly kindness.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 074-003
+  source_sha256: 2287d5d6d6dd65c7703f31c22f95a5effa9b091ffbcb69ec29e9b53b7773732d
+  translation: Master Nealco said in a whisper.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 074-007
+  source_sha256: 7c695b71d72f177689baacb7f018626d16f0665692d25074db84d70b59e7f7bc
+  translation: Still looking into Nasrula's eyes, Master Nealco declared firmly.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 077-003
+  source_sha256: 23d5261c7b92228ac03f6ac4c35454f024a43e3ae5e373ea257e4ab221184b4f
+  translation: 'Tike remembered how much Crom had helped him until now: when he was in the shallow levels of the dungeon and was about to starve after running out of food; when cockatrice petrification poison had spread through his body and, just before losing consciousness, he called out to Crom; and when Crom restored his strength after he was surrounded by minotaurs. He had also prayed for trivial reasons, such as removing a cursed ring.'
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 079-000
+  source_sha256: 7b7c3c6fce028d471ee60bb392cc20cd9e494fcbc3355aa36def4b5907d80368
+  translation: Praying without need will anger the gods and bring down appropriate divine punishment.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 080-014
+  source_sha256: 650048e55a4697d8e91214b3b841da9aebe9bbc644cc3787d193f6f89ec9de96
+  translation: '"Was it you who called me?"'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 082-002
+  source_sha256: d336122c5875d08859b6fde22aa04a47cfb9e2ca04f3c8375fa2461fd750a664
+  translation: But seeking accidental luck by drinking from fountains at random is foolish. In the effects of fountains, the scales of good fortune and bad fortune are balanced. Before you encounter good fortune, you may end up shouldering fatal misfortune.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 085-001
+  source_sha256: f5df8f45e3c0650848779ea11f957c0ac7f307b7293d48cf1726ec8b8d4422cb
+  translation: Nasrula began descending the stairs. He had also taught her the trick of going up and down stairs, and she was simply doing as he had shown her.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 086-010
+  source_sha256: f9169504a3e0484fecbebdae4e84062f1fcbaa89439d96a5f8d7df71ec74944e
+  translation: '"..."'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 087-021
+  source_sha256: 260bac6b8d01c10d943dece618e41cad0f54f0cc8f2d07e3bc2f3284acc58ab9
+  translation: Rings, weapons, armor
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 088-004
+  source_sha256: f9169504a3e0484fecbebdae4e84062f1fcbaa89439d96a5f8d7df71ec74944e
+  translation: '"..."'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 089-011
+  source_sha256: 260bac6b8d01c10d943dece618e41cad0f54f0cc8f2d07e3bc2f3284acc58ab9
+  translation: Rings, weapons, armor
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 091-009
+  source_sha256: c2d17928a751a73482625a258e05bd9e965fe1ab05409928fddf4aba274d8d7c
+  translation: '"Is it not resentment, rather than a mistake?"'
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 099-008
+  source_sha256: 34368aa8863a39b65209577a75f10dac6789c2d354755b1712786b26792dc22a
+  translation: '"!"'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 103-010
+  source_sha256: 92db9c34ee2d9885979bc87e19aa9d527c8b8b10609e9973252b5492e7cf4231
+  translation: Before her strength ran out, Nasrula decided she had no choice but to make one final counterattack. She thrust out the point of her blade and crouched low.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 105-000
   source_sha256: 8fbe57cb55295426591e5ccbaa344defd319448816d2dbc68ed40a5a5e557495
   translation: can.
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 107-005
+  source_sha256: fe7180be4788469cce4d620f41c381d75c3fc6064e2b39f3202de2ee5e539e6b
+  translation: (Ouch!)
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 109-004
+  source_sha256: 2302ce242391dde0f452272d49e595236630f8729271fbd6e04449bfbfb8ea7c
+  translation: Nasrula no longer knew when she had entered the dungeon. A week ago? A month? Two months? Hearing her aunt's tearful attempts to stop her felt as if it had happened only recently, yet ignoring her friend's advice also felt as if it had happened more than a year ago.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 109-010
+  source_sha256: 896df40560913388c602c49b6ca276b1dab1a602fe2dc3382f2734be38db30d0
+  translation: Nasrula's father was killed by a monster dozens of floors beneath the dungeon. Her mother, shocked by the news, took to her bed and then died as if following him. Left alone, Nasrula was taken in by her childless aunt and uncle.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 110-002
+  source_sha256: f9169504a3e0484fecbebdae4e84062f1fcbaa89439d96a5f8d7df71ec74944e
+  translation: '"..."'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 111-009
+  source_sha256: dd9a480df07bec050327f0d18a5050c182e5aa58c466196b68d519e6cc4c445c
+  translation: '"!"'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 115-014
+  source_sha256: 08fe91e05f87267b3c07d86f6ff131f8eab2876caa61a206a91477c03b50a264
+  translation: Traps
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 117-003
+  source_sha256: a4e26fe3a1e6d13d86fe162c2d44a62a890d44d2f929c166638ba9ddf0384c98
+  translation: Disarming traps requires a suitable degree of dexterity, so be careful. If your Dx value is around 11 or lower, you will learn the importance of knowing your own limits. Sometimes triggering such a trap can even be fatal. Of course, once a trap has been triggered, there will be no further trap there to find.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 117-006
+  source_sha256: 08fe91e05f87267b3c07d86f6ff131f8eab2876caa61a206a91477c03b50a264
+  translation: Traps
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 118-010
+  source_sha256: afbc2897be661ae2be9d712ee7899aa8a86096f9a015943fc139ab7144ba2c3f
+  translation: Tike realized that he had left the room door open. Once before, while absorbed in eating, he had failed to notice a monster approaching. Still holding the ration wrapper in his hand, Tike stood up.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 120-005
+  source_sha256: 247ee9dfd19a66574363154617e13b88de48385b91505d518cc27f1c426b2f17
+  translation: Tike ripped the cap off the marker and began writing vigorously on the floor. "Do not eat K-rations unless you are on the brink of life and death. -- Tike"
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
 - block_id: 121-008
   source_sha256: 6b21bc3425db06eb1e168acdb5d57c31945f24d102722ba5e33dff8c6a6e1f09
   translation: In any case, Fommy was an irreplaceable partner.
@@ -47,6 +211,18 @@ patches:
   source_sha256: 275c85e5a5c08ff41afd551ae3916a7921caf585a7a0eacfbde5dfcaedd8ecbc
   translation: With a look that said he had had enough, Klein approached the spring bubbling up at the edge of a small room in the dungeon. The dark blue spring occasionally made small bubbling sounds.
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 125-014
+  source_sha256: 5c10eae62644ab698a2adcf61c3fcc901fd6548e2f99884bf4965ef010b331d6
+  translation: (Oh no! A water nymph!)
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 128-000
+  source_sha256: 2833b417407cb1eae8ed054c724662da71bc077286df597c01884fdbb3459401
+  translation: Although Yoshitsune was startled for an instant, he was still a hard-trained warrior. In the next moment he drew his katana and split the killer bee in two with a quick-draw slash.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 128-003
+  source_sha256: b34faf1111b5745e5d4433b0c9d963d38a05378616d88e3307e664b022e5308b
+  translation: '"?"'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
 - block_id: 130-010
   source_sha256: cbb9b013cc7440d651f84c90759ffc6bd8075f601acff36e1c5c154d6196d940
   translation: Panting roughly, Klein sheathed his short sword. Klein's armor was stained deep crimson with the blood spattered back on it.
@@ -55,66 +231,86 @@ patches:
   source_sha256: b0bdfeff37526452807a9af55f1fa70b49951102cfb8c89a6c0713fee0f85726
   translation: Klein called out without looking at Mike. Mike paid no attention to Klein and simply devoted himself to filling his own stomach.
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 131-014
+  source_sha256: 60277330c75194c39661607000d105c8b425ef36c8e265c59b13d2dba6701c89
+  translation: The hobgoblin's body, collapsed as if leaning against something, was swaying faintly.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 131-018
   source_sha256: e1fedacec8a6d64aab8af3f5d5e953f86926faed09b20f00ce7e6a70156a53bc
   translation: Mike did not even look at Klein, but simply continued eating the hobgoblin. He drove his newly sharpened fangs into the hobgoblin's arm, and Mike shook his head from side to side. When the hobgoblin's corpse collapsed to the ground, he rested against its back. [OCR?]
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 132-005
+  source_sha256: b1688c1a43017c363fc9357faadfed4ebce5d2b4e7fc16d80b8b6e659c1bd4dd
+  translation: '"...!"'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
 - block_id: 133-004
   source_sha256: d9cc10f1204589b0cfb1269655e1c58e894ee7f4ef89f2b6029eade87d3edbc8
   translation: With a battle cry, Klein ran toward the group of monsters.
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 134-006
+  source_sha256: 600bdff0e137be5ecb819311a41fdc67783c5da606cb705f4a652a68360966fe
+  translation: Fghyaaaaaaar!
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 136-017
+  source_sha256: 6ec2b345f6d611be76ae389904774e87479361db531272844377ddc71887f76c
+  translation: The minotaur charged straight at Klein. Thick, powerful-looking bundles of muscle writhed beneath the minotaur's reddish-copper skin.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 140-007
   source_sha256: fb4f24dc359e036b6af7e9d2ddc698a624393f58d00499695dd284b78366497c
   translation: Klein muttered while frowning at the noise.
   reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
-- block_id: 152-012
-  source_sha256: 411dad523e8447302c5b9d19fde4526be88324c0c6ccfb3e935de9bd4a0e2242
-  translation: The wearer of this cloak will notice that their own form becomes invisible. Yes, this cloak has a spell of invisibility sealed into it. However, its defensive power itself cannot be relied upon.
-  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
-- block_id: 154-008
-  source_sha256: 33916b3654bd09c4c9e7e563944d8b1dbec2748a67e044457e46cfc7b493b6c8
-  translation: An ordinary helmet. Perhaps its defining feature is that it has no special features.
-  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
-- block_id: 166-004
-  source_sha256: 96396c1c087b8a009ba6ac8a0fc21e4ac6ed68f5425aca0d5eed70ebc38e514b
-  translation: Potion of object detection
-  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
-- block_id: 206-011
-  source_sha256: 4ddeb710095c77b9214f0a6d847c15eb6ab0008f776455efb94f2d94f40f453f
-  translation: Piercing Blade
-  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
-- block_id: 241-013
-  source_sha256: e13bed8b71acd6b1320dcf24a3ab84c99138defd104e360b75da62f73d719a77
-  translation: Giant beasts, rats, rock moles, spiders, scorpions, lurkers
-  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
-- block_id: 271-001
-  source_sha256: f83d39cf229e7cca8a4594f28b0bcf2d1d5e5956f2700a10f0acffd4915ac2a0
-  translation: April 1, 1993 -- Ryojiro Hasukawa
-  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
-- block_id: 087-021
-  source_sha256: 260bac6b8d01c10d943dece618e41cad0f54f0cc8f2d07e3bc2f3284acc58ab9
-  translation: Rings, weapons, armor
-  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
-- block_id: 089-011
-  source_sha256: 260bac6b8d01c10d943dece618e41cad0f54f0cc8f2d07e3bc2f3284acc58ab9
-  translation: Rings, weapons, armor
-  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
-- block_id: 115-014
-  source_sha256: 08fe91e05f87267b3c07d86f6ff131f8eab2876caa61a206a91477c03b50a264
-  translation: Traps
-  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
-- block_id: 117-006
-  source_sha256: 08fe91e05f87267b3c07d86f6ff131f8eab2876caa61a206a91477c03b50a264
-  translation: Traps
-  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 143-009
+  source_sha256: 47587083e5cd98b218f232c1c5c608b65d9909bb8f289909eac4f9341052af31
+  translation: Gross caught the old-fashioned lamp the woman threw at him.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 143-019
+  source_sha256: 5c11d1edba039f7e8639837764242748689a0fb03bea750a5ea4647f402b1ecd
+  translation: The woman said this while pouring liquor into Klein's cup.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 143-020
+  source_sha256: df8993d4853a12ec6e2474af04f06c5e1cb387320d5db3fa170b972f21578e7f
+  translation: '"What is your name? I am Klein."'
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 144-001
+  source_sha256: ed3ea2a2752818de7bf29fc04060a891d52b32975008413ca02dc441fae5e05e
+  translation: Klein and Albena raised the cups before them and drained them at the same time.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 145-004
+  source_sha256: bde11bc58d05a3cea4143dbd481c92965abb7b411a3ff4d2cf5adf84b8419d3a
+  translation: Having Pickup turned ON may certainly be convenient, but some items bring disaster merely by being picked up, so it is not recommended for beginners.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 146-009
+  source_sha256: 443bca55342477e557b973333f6d7fe458adf5bff58a70faaae0757ebb1e0758
+  translation: life-saving amulet
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 146-010
+  source_sha256: 3dd813243818c8077a5cb2a278c81a8bc93626f673f8bde7234a074392db3b70
+  translation: Wearing this amulet makes it possible to revive even if your hit points reach 0 and you die. However, there are cases where even it cannot save you.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 147-004
   source_sha256: aa53e6d64cbb41ad2a9de3fcca5b221519fc4832d9999fddd1fd57ac0e7c7f58
   translation: Strangulation amulet
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 148-005
+  source_sha256: 47dcff142697cf5272c8d41f8d20bec3e5aab5eaa7791a171bcd514d8de2cdbc
+  translation: This is so-called leather armor, made from animal hide that has been tanned and hardened. Although it has advantages such as being quiet and very light, its defensive power cannot be relied upon at all. However, it also has the advantage that it is not damaged by acid or rust.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 152-012
+  source_sha256: 411dad523e8447302c5b9d19fde4526be88324c0c6ccfb3e935de9bd4a0e2242
+  translation: The wearer of this cloak will notice that their own form becomes invisible. Yes, this cloak has a spell of invisibility sealed into it. However, its defensive power itself cannot be relied upon.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
 - block_id: 152-015
   source_sha256: 8d9a7d86ba560522cb5de48d4c72f337f54037e1cda3b14ad699c28508387e84
   translation: A cloak that protects against magic. It nullifies many spells used by wizards. You will understand its value when you enter the lower levels of the dungeon.
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 154-008
+  source_sha256: 33916b3654bd09c4c9e7e563944d8b1dbec2748a67e044457e46cfc7b493b6c8
+  translation: An ordinary helmet. Perhaps its defining feature is that it has no special features.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 160-006
+  source_sha256: 40e10e3068175479da0dd1fcc6132c7126dcfb9889f0f538d2618f43d11a20aa
+  translation: Hey, welcome. This is Fortilia's grocery store. We have everything from candy to rations to satisfy your hunger.
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
 - block_id: 164-007
   source_sha256: e2912edd9b902ea49d2559a24b8326f343285dff113b5e8abba50769468b16a8
   translation: confusion
@@ -131,10 +327,18 @@ patches:
   source_sha256: 095af5a44fe74971bfa137e5b18e38e6b8cc0691163db8a21c6313267b88b35a
   translation: invisibility
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 165-022
+  source_sha256: 862d81e85f4a5ad839c36ede6fc7f49a63439e9e4c2b2b7fc55f48ffb31122cf
+  translation: levitation
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
 - block_id: 166-001
   source_sha256: cf20b1e3335a218287f9d70da84efe185f99eab190127a47b47ccbe7f2a26025
   translation: monster detection
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 166-004
+  source_sha256: 96396c1c087b8a009ba6ac8a0fc21e4ac6ed68f5425aca0d5eed70ebc38e514b
+  translation: Potion of object detection
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
 - block_id: 166-007
   source_sha256: d7f41755ae86df2001627783d9059db8d865eecb304dd5015caf96993da38260
   translation: paralysis
@@ -147,26 +351,158 @@ patches:
   source_sha256: 992b7e3c2754042f275d38e2aa83438c83f585251f2e2c6176778879728028b5
   translation: see invisible
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 167-001
+  source_sha256: 87bb323ee092417056cf5bb1fb78345aaa5028b5c92a283dbefef605364c2d8d
+  translation: speed potion
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 168-007
+  source_sha256: e476e9d7ab3441bcbd0c751de17fdf991db385a927300336c11266732f7c3b87
+  translation: cold ring
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
 - block_id: 170-019
   source_sha256: 0df03b58c8f9b0d57e1d288a7f2c4d32c09980c4ad2fc9d041a541b6f074f394
   translation: ring of detection
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 171-005
+  source_sha256: 7309d08089ffc6e0752625f586c706483a25f9f877a8473eca3a33f796241a8a
+  translation: A scroll of amnesia can even be fatal for a wizard. The moment this scroll is read, it causes the reader to forget most of the map and many memorized spells. For someone with little weapon attack ability who relies on magic, this would be the worst possible situation.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 177-014
+  source_sha256: e0bd31d0fef4d85425fc2cb7a67ea4580316afbd179f796db11206f42c70936f
+  translation: When this spell is cast, the dungeon wall crumbles and a passage is created. It can also be used on boulders, turning a boulder into countless small stones.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 178-005
+  source_sha256: 355a55980b35bf86a18c5fac750c7ecec3e333d96a176f0734c494b4478cd71e
+  translation: This spell can double the caster's movement speed, number of attacks, and similar abilities. It is used in combat or when facing creatures that are too fast to catch.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 182-011
+  source_sha256: 6dd1e87c99dd12c19292044a598489f415e2ba3c1a725584541933ba8fae8305
+  translation: When this horn is blown, flames burst from its tip. Of course, it can be used as a powerful weapon.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 184-007
   source_sha256: 932ee938fe1cfc9eff4dd6a2a339caffb4c405c95919aa0c6e0b925bacafe980
-  translation: large box
-  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+  translation: box
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 185-008
+  source_sha256: b49e79688811930378b04b3f98b628aec6cd26c2b9109111ef290e1b17042e82
+  translation: It becomes easier to carve messages into the dungeon floor. It also has the ability to write a desired spell onto a blank scroll. Because it uses magic ink, it can write anywhere and the writing does not easily fade.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 186-002
+  source_sha256: b9f8fd358f1a8a17bea46bd0e73290596c347098cda212fe61e7a650a329dd85
+  translation: This is a pickaxe. It can open holes in walls and break rocks. It can also be used as a weapon, but if you have another weapon, I recommend using that instead. It is quite heavy, so unless you are very confident in your strength, carrying it around will be difficult.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 186-007
   source_sha256: de2daa2b4de60cb7aa185e8ac28772ce025f3d5fb2f32474d478ee90ccf0110a
   translation: key
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 190-005
+  source_sha256: bca069f409b8cd5b2f591d7b0b38143d950ca697afa5291ee9b666214718e7e0
+  translation: It has the effect of driving away creatures that belong to the realm of death. It is also said to have the power to reanimate corpses.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 190-015
+  source_sha256: 92695670d34db3cb782032e295a327432cbe091215186ec995679814870d51c6
+  translation: This is the typical sword we imagine when we hear the word "sword." It is basic equipment for knights. Its blade is about 1 to 1.5 meters long. Compared with a longsword, its distinctive feature is its fairly broad blade.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 191-012
   source_sha256: f8eecef4315fdee3799f0726c7e7649696173c5e3d7885f48404021731607148
   translation: A sword somewhat shorter than a longsword, favored by thieves who prefer maneuverable weapons and by races whose build prevents them from using long swords.
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 196-007
+  source_sha256: a3a4fe47ed31da3c63842d7e05056179a30760a62773a4a1370a331948765e24
+  translation: A pickaxe-shaped axe. It boasts tremendous power when swung forcefully by short-statured dwarves.
+  reason: Qwen2.5-7B leaked Chinese into this page-196 weapon description.
+- block_id: 199-005
+  source_sha256: ef6484cd773d2f106061f0633cb8ebeebe4fcaea4d35c49775b0ca52cd19b641
+  translation: A bow made by elves. Fine runes are engraved on it, increasing its power above that of an ordinary bow.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 199-008
+  source_sha256: 205883dbe3462675a918ca8e9dda062439756a1fb159e6a480031b78a5165e16
+  translation: An ordinary arrow. It can also be thrown, but its power is considerably weaker than when shot from a bow.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 200-015
+  source_sha256: 658c54992f4b5041c3879094102bced4b4cd7c23220285e346b98b3d0a958949
+  translation: Bardiche
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 203-015
+  source_sha256: 458e41dca431ba004749d93cd6b6b9139c584dd4e60b7834ec55b3ced0a1d254
+  translation: shuriken
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 206-000
+  source_sha256: 5fb98e8829e1335b942b63bd0ff5f85cb595fa10e50d8022adb17330ec87bb29
+  translation: Because its power is sealed within it in a manner different from the Sun Sword, it seems to boast tremendous power against ogres.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 206-003
+  source_sha256: 215612829eaf853bbb4bfb89108ee4c29d56d50338bb92c07003aeeea217cbdb
+  translation: This greatsword, called Orcrist among elves and Biter among orcs, is feared by orcs. It is a famous blade that has cut down hundreds of orcs.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 206-011
+  source_sha256: 4ddeb710095c77b9214f0a6d847c15eb6ab0008f776455efb94f2d94f40f453f
+  translation: Piercing Blade
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 208-002
+  source_sha256: 75ea9ac45a5328b99346755da8e976c646563830bd29ff238fa2ab4a8d465596
+  translation: The ape is a giant primate that can reach several meters in body length. Because it is originally omnivorous, it may attack adventurers and eat their flesh.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 211-004
+  source_sha256: af06a20c7c71240fb042ca1874a99d9243a7d6b787bfbb130f2164f0f68648bf
+  translation: 'Elementals mean the elements of this world: fire, water, air, and earth. In this case, however, elementals are not merely abstract beings. They are pseudo-life forms generated from those elements. Normally these spirits would merely live calmly in the spirit world as beings that shape the world. But because powerful magic has dragged them into Yendor''s dungeon, where space is distorted, they too become distorted spirits: monsters that oppose humans.'
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 212-012
+  source_sha256: 7ce88b1e4e4de63e0c178abfa197396254b9f356df7025f162a6a72044576dfb
+  translation: First, let us discuss the so-called giants. Giants are humanoids like humans and elves; they are simply enormous in body.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 216-003
+  source_sha256: 7a7f93d17884bad8b2242e266dd49e3492d86ac2618f7bee478e4861c23f2c21
+  translation: lich, demi~, master~
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 219-005
+  source_sha256: 8d82c3d827fcda0aa87883c3aa64653877144b478ab78c5dc7ee3dbcd1291c55
+  translation: gray ooze, brown pudding, black ~
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 219-007
+  source_sha256: 8d287268762fccbdc575aff344023d66ce29059162aedd9c8c65192f8ae2e025
+  translation: Basically, slimes have nothing that can be called intelligence; they merely exist as living things. However, if they are in the direction an adventurer needs to travel, you may have to fight them. When you must fight them, do not use corrosive weapons. Weapons made of materials that rust or rot will quickly corrode and become dull when they strike these slimes. Also, because they resist acid, poison, and cold, defeating them should be very difficult. However, many slime-like creatures are confirmed to be weak against fire. Magical fireballs or a wand of fire would be useful.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 220-007
   source_sha256: 5118f1d76d32b3b6d6ef3faeaac6df2cded2d278f2d218172fc2f725f171f87d
   translation: Acid monster
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 221-003
+  source_sha256: af7d4101b9fc7efc56159a5a7234c4d7fa89e501582cff96d69edc874bf75fac
+  translation: 'snake, garter~, water moccasin,
+
+    pit viper, cobra, python'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 221-008
+  source_sha256: cd6458838fcacf725e86ece8698f0d05c3cabcd731e58c306bcbed376c6af811
+  translation: troll, ice~, rock~, water~, Olog-hai
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 223-000
+  source_sha256: b1bf8f507a8c25042df6b1dd6e2b1ec32da555e12eb3073c2dd29a6ba404f1c7
+  translation: Until you have reached a certain level and have sufficient weapons and armor, trolls are dangerous. If you succeed in defeating a troll, it is better to eat the corpse quickly or run away before it revives.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 224-007
+  source_sha256: c908a763eebf5b58a45d1dd2fb1c929bf00bce2744c33b96bc387003df68928a
+  translation: The power of hatred is immense, and even experienced adventurers who are fully prepared cannot be guaranteed absolute safety. If some of them touch you, or if their swords merely graze your arm, they can drain the energy you should have built up through continued fighting. Strength fades and stamina decreases. Many adventurers shrink by two sizes, and white hairs begin to appear in their hair.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 227-004
+  source_sha256: 9a508365ace207c5d798202a2772d9e56177e5ae48ab28be2c7bc06c14863fd0
+  translation: 'kobold zombie, gnome~, orc~,
+
+    elf~, human~, ettin~, giant~'
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.
+- block_id: 227-005
+  source_sha256: 59f43046b73358ffba5b2e2bfe99f0bb168cce35f5a0f337863242d191b0420d
+  translation: A zombie is a corpse given false life by Yendor's magic. There does not seem to be any particular causal relationship between race and becoming a zombie. In fact, it has been confirmed that humans, kobolds, orcs, gnomes, giants, and even elves can become zombies.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 228-006
+  source_sha256: 2af3238a5c4e1fd28e0a76ceeb09e541edd34577776efb192dbf1fc98b602f7c
+  translation: Their attacks are made using parts of their bodies. Some corrode swords and armor with acid bubbles and dissolve adventurers' bodies; others split an opponent's body open merely by touching it. Sometimes they paralyze the body and render the victim unable to act. The wounds themselves will not be fatal once you have enough experience, but an indescribable unpleasantness remains. While fighting, you may be entangled by their sticky bodies, and even if you manage to defeat them, a foul odor lingers stubbornly. To remove it completely, you must wash your body with clean spring water for at least three days.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 231-001
+  source_sha256: 5f0697ec44820d527ef8d18637039091a254eaec2fa9b45fd742b5545b628e48
+  translation: Some monsters, in addition to wounding you with their fangs, may have the monster itself possess you. When possessed, adventurers can no longer act normally and fall into a dangerous state. In the dungeon, there are corpses that cannot be identified as human or animal; these are almost certainly the result of possession. Monsters that cause possession often have the bodies of beastmen, so the adventurer training school textbook says that appropriate countermeasures should be taken when encountering half-human, half-beast monsters.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
 - block_id: 231-010
   source_sha256: d003eeccb8a627ae8ba95a667f58f83115e190c4db02a9b6a741f3c744b6d88d
   translation: Spheres
@@ -175,3 +511,63 @@ patches:
   source_sha256: 0c5bec9720bc291a95aaedd138f771ebf365a9b4730d6a38f1cda0f35021a48f
   translation: Mysterious
   reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 235-013
+  source_sha256: 6795039821e01d0c2351731fc1ad607b2316e9d719d6858d58aaeb7e8e6e0b3c
+  translation: Mysterious / Jellies
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 236-011
+  source_sha256: 6d2e68f130ef9701f9773d82a9ed65fc4685ba229ff146eb25e3b61405f47acc
+  translation: The leprechaun moves quickly and also has the ability to teleport, so it is difficult to catch no matter how much an adventurer chases it. If you want to defeat one, the best approach is to attack with missiles or to become invisible before attacking.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 241-013
+  source_sha256: e13bed8b71acd6b1320dcf24a3ab84c99138defd104e360b75da62f73d719a77
+  translation: Giant beasts, rats, rock moles, spiders, scorpions, lurkers
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 243-008
+  source_sha256: d0a75101c0091029fc9b689fcff1c09c01815c7bf7b1915b7e385601fe42a4d1
+  translation: In the dungeon, besides the well-known white unicorn, gray unicorns and black unicorns also live. They are sacred beasts of Law, Neutrality, and Chaos respectively. According to legend, it is a calamitous act for an adventurer to kill a unicorn of the same alignment.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 244-000
+  source_sha256: 904073caed83f87e46165f0b9f11963758da2a2a145cab378c212e0dfc7d52c8
+  translation: Energy vortices are whirlwinds that flash with lightning, and anyone caught in the wind is attacked by lightning. Ice vortices have chunks of ice whirling in the wind and attack with extremely low-temperature cold. Those enveloped by steam vortices or fire vortices are attacked by superheated steam or crimson flame respectively.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 247-004
+  source_sha256: 6f977eb5b01d26cfa73749930098fc9f08a96f20b3227d6568007168da3d31ae
+  translation: Based on those rumors and adventurers' testimonies, it seems certain that the monster has sharp pointed claws and huge, razor-sharp fangs. Although somewhat sluggish, it is said to move fairly quickly.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 247-009
+  source_sha256: 5fc7d5208c3198cf954f93addc6cbdc72d4c3d87c42a4d7b273e4e9e30e70d2f
+  translation: Golems continue to obey the commands of the one who created them faithfully and precisely. The effect of those commands lasts semi-permanently until the golem's body is completely shattered or the caster changes the order.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 247-010
+  source_sha256: fef59316b53b87f8d0acaba8c238c97fb663b2677fe0d99eb17096575a07ee3a
+  translation: Some golems also have special abilities. For example, rope golems entangle enemies with the ropes of their bodies and prevent them from moving, while stone golems blow poisonous mist from their mouths at opponents.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 248-003
+  source_sha256: d5cd4361bbbf45b8181243daa4bf52f5575258c86f6addff13befd3e04b58755
+  translation: A giant eel attacks adventurers with its dreadful fangs; an electric eel, in addition to biting, sends an electric current through its enemies powerful enough to kill a buffalo in a single blow. But the most terrifying aspect of the eels' attacks is probably the way they wrap their thick, long bodies around adventurers and drag them underwater.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 248-006
+  source_sha256: c5bab4a355c39f18ddbd7348c4e34ee6a72ee4b845de84ce9f3e1ceb88fef06b
+  translation: Because the kraken is so huge, its movements are slow, so attacking with quick movements is effective. However, if you are caught by a kraken's tentacles, you may be dragged deep underwater, so extreme caution is needed in battle. If an adventurer is pulled underwater, there is no way to save them, because the water is the battlefield where krakens are strongest.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 258-000
+  source_sha256: b3ed3952990989727ecf4b2448c7035101cfbe1573d69fa5a3bc7b83806e9084
+  translation: '"Offer sacrifices at the altar of the god to whom you belong. Keep offering the corpses of the monsters you defeat. The larger and more powerful the sacrifice, the greater the reward. If four-leaf clovers begin to fall, it means the offering has pleased the god. By doing this, you can gain divine favor. Yes, you may even speak with the god, and it seems that a famous blade may be bestowed by the god. I received no such favor, though."'
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 260-008
+  source_sha256: fa0b96e12a2d5875f2a2fe67eb3df8d9302e1da1d355335e7a97fa3bfd77c083
+  translation: Here he drank the liquor down in one gulp. The intoxication loosened his tongue and seemed, temporarily at least, to re-form his shattered mind.
+  reason: Manual English-only correction for CJK leakage/unsupported glyph artifacts in the block-hybrid PDF.
+- block_id: 271-001
+  source_sha256: f83d39cf229e7cca8a4594f28b0bcf2d1d5e5956f2700a10f0acffd4915ac2a0
+  translation: April 1, 1993 -- Ryojiro Hasukawa
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 274-004
+  source_sha256: d337a5b37659122019f77696686f6da82bfb0de2e09258b58a13e9257275f068
+  translation: 'Authors: Hasukawa Ryushiro, Iba Soichiro, Suzuki Naoyuki, Araki Shin'
+  reason: Manual cleanup for placeholder artifacts or post-font-change fit overflow in the block-hybrid PDF.
+- block_id: 274-006
+  source_sha256: da924cdad5b12dfb7c261c2be04f6734d6cd9462a012dbae1839d60438f036da
+  translation: "Publisher: Shuwa System Trading Co., Ltd.\n\n    107 Tokyo, Minato-ku, Akasaka 8-5-29 Checker Building\n\n    TEL 03-3470-4941"
+  reason: Manual ASCII/Latin normalization for unsupported PDF glyphs in the block-hybrid render.

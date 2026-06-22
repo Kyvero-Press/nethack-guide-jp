@@ -89,10 +89,24 @@ def validate(args: argparse.Namespace) -> tuple[dict[str, Any], list[dict[str, A
         text = str(row.get("translation") or "")
         source_text = str(row.get("source_text") or "")
         key = output_key(row, record_type)
+        cjk_matches = CJK_RE.findall(text)
+        cjk_count = len(cjk_matches)
         ratio = cjk_ratio(text)
         repeated = repeated_loop(text)
         if ratio > args.max_ja_ratio:
-            issues.append(make_issue("cjk_leakage", "hard", row, cjk_ratio=ratio, preview=text[:160]))
+            issues.append(make_issue("cjk_leakage", "hard", row, cjk_ratio=ratio, cjk_count=cjk_count, preview=text[:160]))
+            retry_keys.add(key)
+        if args.max_cjk_chars >= 0 and cjk_count > args.max_cjk_chars:
+            issues.append(
+                make_issue(
+                    "cjk_character_count",
+                    "hard",
+                    row,
+                    cjk_count=cjk_count,
+                    max_cjk_chars=args.max_cjk_chars,
+                    preview=text[:160],
+                )
+            )
             retry_keys.add(key)
         if repeated:
             issues.append(make_issue("repeated_output", "hard", row, preview=text[:160]))
@@ -190,6 +204,12 @@ def main() -> None:
     parser.add_argument("--expected-records", type=int, default=0)
     parser.add_argument("--expected-pages", type=int, default=0)
     parser.add_argument("--max-ja-ratio", type=float, default=0.25)
+    parser.add_argument(
+        "--max-cjk-chars",
+        type=int,
+        default=0,
+        help="Maximum CJK characters permitted in an ok translation; use -1 to disable this English-only check.",
+    )
     parser.add_argument("--min-length-ratio", type=float, default=0.18)
     parser.add_argument("--max-length-ratio", type=float, default=5.0)
     parser.add_argument("--write-report", type=Path)

@@ -43,10 +43,11 @@ Block translation artifacts:
 - Block source records: 3,809 text/layout blocks across 273 pages; page 272 has no text block.
 - Final block translations: 3,809/3,809 records.
 - Final translation validation: zero hard issues, zero soft issues.
-- Manual translation patches: 44 guarded block patches.
+- Final English-only/glyph validation: zero CJK leakage and zero unsupported characters for the embedded DejaVu Sans Condensed font.
+- Manual translation patches: 142 guarded block patches, including English-only cleanup for CJK leakage, placeholder artifacts, unsupported punctuation, and post-font-change fit fixes.
 - Full block-hybrid PDF: 274 pages.
 - Final fit report: zero missing translations and zero overflow rows.
-- Render statuses: preserved original artistic/cover blocks plus fitted/shrunk English text blocks.
+- Render statuses: `preserve_original=21`, `fitted=2619`, `shrunk=1169`.
 
 ## Known limitations
 

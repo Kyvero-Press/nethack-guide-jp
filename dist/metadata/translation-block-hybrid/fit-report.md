@@ -5,7 +5,7 @@
 - `output`: dist/pdf/nethack-guide-qwen2_5_7b-block-hybrid.pdf
 - `pages`: 274
 - `blocks`: 3809
-- status counts: `{'preserve_original': 21, 'fitted': 2811, 'shrunk': 977}`
+- status counts: `{'preserve_original': 21, 'fitted': 2619, 'shrunk': 1169}`
 - action counts: `{'preserve_original': 21, 'auto': 3786, 'manual_text': 2}`
 
 ## Blocks needing review
