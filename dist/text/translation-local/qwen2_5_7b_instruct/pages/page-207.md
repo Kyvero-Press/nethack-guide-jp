@@ -1,0 +1,15 @@
+# Page 207
+
+Preface Copybook·Dungeon Ecology Museum
+
+The monsters described here are detailed accounts of the grotesque creatures believed to lurk in Yendor's dungeon. They are either summoned there by amulets for protection, have somehow taken up residence in Yendor's dungeon, or have been warped by too much magic in Yendor, causing them to wander into the dungeon from elsewhere.
+
+After many years of research, several chroniclers have finally compiled this information into a single book titled "Dungeon Ecology Museum." This comprehensive work is being sold for 1000 zmarks to adventurers who wish to enter Yendor's dungeon. Here, we present a copybook containing only the most important information extracted from this book.
+
+However, the monsters listed here are not all the creatures that lurk in Yendor's dungeon. Furthermore, not everything described in this book is necessarily true. It is your task to explore Yendor's dungeon and see for yourself.
+
+Editor/Ceridia Foren
+
+Monsters Preface
+
+Page 205

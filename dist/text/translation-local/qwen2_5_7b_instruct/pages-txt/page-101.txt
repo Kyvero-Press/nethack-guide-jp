@@ -1,0 +1,13 @@
+Page 101
+
+Using #f and #l two commands, you can open chests and long cabinets and take their contents. To open a chest, there is also a method of breaking it by kicking it with the k command. Additionally, you can take out the contents by first picking up the items with the pickup command and then using the a command to "use" the chest, but this method becomes inefficient as you may need to temporarily drop some of your items on the floor to pick up heavy chests.
+
+To use the #f command, you must equip a weapon with a sharp point such as a sword, or a weapon that can be used to bash, such as a pickaxe or mace. After inputting the command, you will be asked to confirm, and if the equipped weapon is unsuitable for opening the chest, a message will appear indicating so.
+
+To use the #l command, stand on top of the chest and input the command. First, you will be asked if you want to take the contents out, and if you answer with y, the names of the items inside will be displayed one by one, each requiring a y or n response.
+
+After displaying all the items, you will be asked if you want to put something in the chest, and similar to taking items out, you will be asked about each item you are carrying.
+
+Opening, viewing contents
+
+99

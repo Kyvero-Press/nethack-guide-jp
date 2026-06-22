@@ -1,0 +1,51 @@
+# Page 197
+
+SPEARS 棍
+
+Can be used as a throwing spear and also in close combat, making it a versatile weapon. It has decent power and isn't too heavy, so carrying it as a secondary weapon isn't a bad idea.
+
+dwarvish spear
+
+Dwarvish Spear
+
+A shining spear made by dwarves. Given that its tip is made of mithril silver, it boasts one of the highest attack powers among spears.
+
+elven spear
+
+Elven Spear
+
+An elven-made spear. Runes are carved all the way from the handle to the tip.
+
+javelin
+
+Javelin
+
+A slender spear. Primarily made for throwing, it's not suitable for close combat.
+
+lance
+
+Lance
+
+A cavalry spear. Usually used by mounted attackers for charge attacks, but there are lances for infantry as well.
+
+orcish spear
+
+Orcish Spear
+
+A black spear favored by orcs. Like other weapons made by orc hands, its power is inferior to other spears.
+
+spear
+
+Spear
+
+A basic spear. Length varies, but those around 1.5 meters to 2 meters long are referred to as spears.
+
+trident
+
+Trident
+
+A trident with three-pronged tips. Originally used for catching fish in water. Its ease of handling is a notable feature.
+
+Weapons—武器
+
+195

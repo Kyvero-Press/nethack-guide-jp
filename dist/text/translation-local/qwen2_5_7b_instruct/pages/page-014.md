@@ -1,0 +1,13 @@
+# Page 014
+
+Enter the command and press the Enter key. Then, the disk drive will move again to format the B drive disk. When the processing is finished, it is good to remove the B drive disk and stick a label saying "Data Disk" on it.
+
+Next, take out the MS-DOS system disk from the A drive and set the "Boot Disk" as a replacement, then reset the computer to restart it.
+
+And after MS-DOS has started, set the attached disk to the B drive. Thereafter, ...
+
+From the state of ...
+
+Type B: INSTFD B A and press the Enter key.
+
+12 DISK—Usage of Attached Disk

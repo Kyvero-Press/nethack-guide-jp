@@ -1,0 +1,11 @@
+KATANA
+
+SHORT SWORD
+
+TWO-HANDED SWORD
+
+SCIMITAR
+
+190
+
+ITEMS—魔窟であなたを待ち受ける道具たち

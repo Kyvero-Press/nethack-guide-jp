@@ -1,0 +1,25 @@
+Page 033
+
+Healer
+
+Healer: Healer
+
+A healer can be considered quite a unique existence as an adventurer. In terms of personality, they are close to priests, possessing numerous healing potions and books of healing spells. However, their healing power does not rely on divine intervention but rather on their own means such as medicine and magic. They venture into the depths of the dungeon of Yendor in search of spirit herbs.
+
+However, when it comes to combat, they can be considered complete novices, just like priests. When they enter the dungeon, the only weapon they carry is a small knife. And the only piece of armor they wear is a glove to prevent their skin from being affected by drugs.
+
+However, all healers possess a special stethoscope that allows them to instantly discern the abilities of monsters. This will provide them with much wisdom in the dungeon of Yendor. It is said that if used correctly, this stethoscope can guide them to use various medicines to turn battles against monsters into advantageous ones.
+
+And due to handling too many chemicals, it is said that they have resistance to all poisons.
+
+Attributes: Cowardly
+
+Combat Direct: ×
+
+Magic: √
+
+God: Athena
+
+Class——Occupation
+
+31

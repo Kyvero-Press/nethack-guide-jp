@@ -1,0 +1,103 @@
+pages:
+  '001':
+    note: 'Cover art/title typography: preserve original rather than auto-whiting narrow/artistic text.'
+    blocks:
+      001-000:
+        action: preserve_original
+        note: Cover media label.
+      001-001:
+        action: preserve_original
+        note: Cover library label.
+      001-002:
+        action: preserve_original
+        note: Vertical/artistic cover series text.
+      001-003:
+        action: preserve_original
+        note: Main title art already English.
+      001-004:
+        action: preserve_original
+        note: Cover platform label.
+      001-005:
+        action: preserve_original
+        note: Main cover title block; preserve original art.
+      001-006:
+        action: preserve_original
+        note: Cover subtitle already English-like.
+      001-007:
+        action: preserve_original
+        note: Cover credit text; preserve original.
+      001-008:
+        action: preserve_original
+        note: Cover publisher/price line; preserve original.
+      001-009:
+        action: preserve_original
+        note: Cover ISBN line; preserve original.
+  '003':
+    note: 'Interior title art: preserve original layout/artistic typography.'
+    blocks:
+      003-000:
+        action: preserve_original
+        note: Title page platform label.
+      003-001:
+        action: preserve_original
+        note: Title page library label.
+      003-002:
+        action: preserve_original
+        note: Title page collection label.
+      003-003:
+        action: preserve_original
+        note: Main NetHack title art.
+      003-004:
+        action: preserve_original
+        note: The RPG title-page label.
+      003-005:
+        action: preserve_original
+        note: Title-page credit label.
+      003-006:
+        action: preserve_original
+        note: Title-page credit name.
+      003-007:
+        action: preserve_original
+        note: Publisher logo/art.
+  '273':
+    note: 'Back matter/front-style closing page: preserve short artistic caption, translate colophon text automatically.'
+    blocks:
+      273-000:
+        action: preserve_original
+        note: Artistic farewell caption in image area.
+      273-001:
+        action: preserve_original
+        note: Mixed English title artwork already readable.
+      273-002:
+        action: auto
+        min_font_size: 3.6
+        max_font_size: 5.8
+        mask_padding_px: 4
+        note: Dense back-matter credit table needs smaller text to avoid overflow.
+  '274':
+    note: 'Colophon page: use manual English for title/date labels if model keeps Japanese dates.'
+    blocks:
+      274-002:
+        action: manual_text
+        manual_text: NetHack the R. P. G.
+        max_font_size: 9
+        note: Title block contains Japanese reading plus English; render concise English title.
+      274-003:
+        action: manual_text
+        manual_text: 'Issue date: July 14, 1993'
+        max_font_size: 7
+        note: Avoid retaining Japanese date markers.
+  '041':
+    note: ASCII map block should remain original for visual fidelity.
+    blocks:
+      041-006:
+        action: preserve_original
+        note: ASCII dungeon map; preserve original glyph art instead of fitting as prose.
+  '191':
+    blocks:
+      191-012:
+        action: auto
+        min_font_size: 3.8
+        max_font_size: 7.2
+        mask_padding_px: 4
+        note: Long short-sword description needs smaller text.

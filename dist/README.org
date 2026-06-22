@@ -9,6 +9,52 @@ used by the processing, validation, PDF, and OCR scripts.
   PDF builds and downstream OCR.
 - =metadata/refined/= metrics and per-page JSON sidecars from the refined crop
   run.
+- =metadata/ocr-bakeoff/= notes comparing local OCR engines, documenting the
+  YomiToku full-book OCR run, and recording the later successful Surya-via-
+  Podman sample and full-book comparison.
+- =pdf/nethack-guide-surya-searchable-uncompressed.pdf= current recommended
+  lossless/uncompressed-style searchable PDF generated from the refined crops
+  with a Surya text layer. It embeds the 300 DPI page images without JPEG
+  quantization.
+- =pdf/nethack-guide-surya-searchable-compressed.pdf= smaller searchable PDF with
+  the same Surya text layer and a JPEG-compressed image layer.
+- =pdf/nethack-guide-yomitoku-searchable-uncompressed.pdf= earlier
+  lossless/uncompressed-style searchable PDF generated from the refined crops
+  with a YomiToku text layer.
+- =pdf/nethack-guide-yomitoku-searchable-compressed.pdf= earlier smaller
+  searchable PDF with the same YomiToku text layer and a JPEG-compressed image
+  layer.
+- =text/surya/= current recommended Surya OCR outputs from the full-book
+  Podman/vLLM run: combined Markdown/text, =pdftotext= QA extractions from the
+  searchable PDFs, per-page Markdown/text, and page map.
+- =text/yomitoku/= current YomiToku OCR outputs: combined Markdown/text,
+  =pdftotext= QA extractions from the searchable PDFs, per-page Markdown, and
+  page map.
+- =text/translation-local/qwen2_5_7b_instruct/= local full-book Japanese-to-
+  English machine translation generated from Surya OCR using
+  =Qwen/Qwen2.5-7B-Instruct= served by vLLM. Includes raw JSONL records,
+  combined Markdown/text, per-page files, block-level translation records,
+  validation logs, and =pdftotext= QA extractions from translated PDFs.
+- =metadata/translation-bakeoff/= local translation model/sample comparisons.
+- =metadata/translation-pdf-prototype/= translated facsimile prototype metadata,
+  Oracle reconstruction recommendations, preview images, and fit summaries.
+- =metadata/translation-block-hybrid/= block-level translated hybrid PDF source
+  manifest, generation writeup, cleaned-background summary, fit reports,
+  validation notes, and previews.
+- =metadata/translation-review-pdf/= side-by-side original/translation review
+  PDF metadata and previews.
+- =pdf/nethack-guide-qwen2_5_7b-block-hybrid.pdf= current block-level translated
+  hybrid PDF: original/refined page imagery with derived cleaned backgrounds,
+  final English block translations keyed to Surya block IDs, and fit-report
+  validation.
+- =pdf/nethack-guide-qwen2_5_7b-translated-prototype.pdf= older page-level
+  translated facsimile prototype: original scan background with Surya text
+  boxes whitened and page-level English translation flowed through those boxes.
+  Kept for comparison; not recommended as the primary facsimile artifact.
+- =pdf/nethack-guide-qwen2_5_7b-translation-review.pdf= side-by-side review PDF
+  with original page image on the left and local English translation on the
+  right. This is the preferred human-evaluation artifact for translation
+  quality.
 - =text/ocr-jpn/= legacy per-page Japanese OCR text from the older flat layout.
 - =text/translation-deepl-pages/= legacy per-page DeepL translation text.
 - =text/translation-google-pages/= legacy per-page Google translation text.

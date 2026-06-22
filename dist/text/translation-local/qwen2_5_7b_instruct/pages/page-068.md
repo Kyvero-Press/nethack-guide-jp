@@ -1,0 +1,39 @@
+# Page 068
+
+Nasrula moved her fingers by instinct.
+
+She felt the texture of a bottle of medicine at the tip of her finger. The unicorn's horn was beneath it.
+
+But that was as far as it went. Nasrula could no longer move her fingers. The monster was looking down at her.
+
+The true identity of the monster was unknown. But even if it were the weakest monster, it would be a formidable opponent for her now.
+
+(That's it so far)
+
+She had made up her mind.
+
+However, to her surprise, there was no attack. Most monsters would not hesitate to attack an adventurer the moment they spot one. Whether with a sword or fangs, there was never any hesitation.
+
+(Maybe...)
+
+The monster might be hesitating. It might think she was already dead, like a jackal that feeds on corpses. Monsters that feed on corpses do not attack corpses. And certainly not intelligent creatures like elves...
+
+Nasrula did not move her body at all. Her breathing, as well as every muscle in her body, was completely still. She was pretending to be dead by not moving.
+
+Nasrula's gamble paid off. The monster had been watching her for a while but eventually left.
+
+Once again, Nasrula moved her fingers. She felt something hard against the tip of her finger.
+
+(This is it)
+
+She reflexively grabbed it and pulled it out with all her strength. She forcibly lifted the arm that tried to resist and held it to her forehead. Because her sense of touch was incomplete, the tip of the horn had pierced her finger. She realized how severe the numbness was because she felt no pain. However, what she pulled out was undoubtedly the unicorn's horn.
+
+Nasrula felt the numbness being sucked away from the unicorn's horn. At the same time, her sense of pain returned to her fingers.
+
+(We can do this)
+
+She grasped her sword and stood up. The monster turned around and stared at her.
+
+66
+
+COMMANDS——To walk through the dungeon...

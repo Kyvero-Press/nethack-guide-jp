@@ -1,0 +1,27 @@
+# Page 012
+
+Appendix Disk Usage Instructions
+
+Disk
+
+Due to various modifications made to the NetHack included on the attached disk, it is theoretically possible to play it using a floppy disk, but practically impossible. A hard disk or EMS would be ideal. Let's start by explaining how to prepare to play NetHack.
+
+Requirements Necessary Items
+
+There are several things you need to prepare to play the NetHack included on the attached disk.
+
+First, let's list the absolutely necessary items.
+
+Firstly, a PC-9801 VF or later model with at least 640 KB of main memory is absolutely required. In other words, any series of PC-9801 with a CPU version V30 or higher, and PC-286/386/486 series would work. Machines released within the last 2 to 3 years should suffice.
+
+And, MS-DOS version 3.1 or later is also necessary.
+
+Next, let's list some desirable items to have. First, a hard disk. Since the attached disk includes NetHack background music (BGM) and image CGs, using them would require two floppy disks.
+
+Additionally, if you have expandable memory that can be used as EMS and the corresponding EMS driver, that would be great. While NetHack can run without it, performance will be significantly slower, making it practically unplayable.
+
+Also, it would be nice to have an English-Japanese dictionary, and plenty of
+
+10
+
+DISK—Appendix Disk Usage Instructions

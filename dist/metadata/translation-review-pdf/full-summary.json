@@ -1,0 +1,1931 @@
+{
+  "renderer": "make_translation_review_pdf.py",
+  "strategy": "side-by-side-original-scan-plus-page-level-translation",
+  "output_pdf": "dist/pdf/nethack-guide-qwen2_5_7b-translation-review.pdf",
+  "source_pages": 274,
+  "pdf_pages": 276,
+  "continuation_source_pages": [
+    181,
+    188
+  ],
+  "pages": [
+    {
+      "source_page": 1,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_cover.png",
+      "translation_chars": 299,
+      "overflow": false
+    },
+    {
+      "source_page": 2,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_openpages_1_2_3-1_left.png",
+      "translation_chars": 498,
+      "overflow": false
+    },
+    {
+      "source_page": 3,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_openpages_1_2_3-1_right.png",
+      "translation_chars": 137,
+      "overflow": false
+    },
+    {
+      "source_page": 4,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_openpages_1_2_3-2.png",
+      "translation_chars": 347,
+      "overflow": false
+    },
+    {
+      "source_page": 5,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_tocpage-1.png",
+      "translation_chars": 354,
+      "overflow": false
+    },
+    {
+      "source_page": 6,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_tocpage-2.png",
+      "translation_chars": 1291,
+      "overflow": false
+    },
+    {
+      "source_page": 7,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-001.png",
+      "translation_chars": 353,
+      "overflow": false
+    },
+    {
+      "source_page": 8,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-002.png",
+      "translation_chars": 1724,
+      "overflow": false
+    },
+    {
+      "source_page": 9,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-003.png",
+      "translation_chars": 1912,
+      "overflow": false
+    },
+    {
+      "source_page": 10,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-004.png",
+      "translation_chars": 1150,
+      "overflow": false
+    },
+    {
+      "source_page": 11,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-005.png",
+      "translation_chars": 1647,
+      "overflow": false
+    },
+    {
+      "source_page": 12,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-006.png",
+      "translation_chars": 1348,
+      "overflow": false
+    },
+    {
+      "source_page": 13,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-007.png",
+      "translation_chars": 886,
+      "overflow": false
+    },
+    {
+      "source_page": 14,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-008.png",
+      "translation_chars": 544,
+      "overflow": false
+    },
+    {
+      "source_page": 15,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-009.png",
+      "translation_chars": 1459,
+      "overflow": false
+    },
+    {
+      "source_page": 16,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-010.png",
+      "translation_chars": 613,
+      "overflow": false
+    },
+    {
+      "source_page": 17,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-011.png",
+      "translation_chars": 1322,
+      "overflow": false
+    },
+    {
+      "source_page": 18,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-012.png",
+      "translation_chars": 1230,
+      "overflow": false
+    },
+    {
+      "source_page": 19,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-013.png",
+      "translation_chars": 919,
+      "overflow": false
+    },
+    {
+      "source_page": 20,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-014.png",
+      "translation_chars": 1384,
+      "overflow": false
+    },
+    {
+      "source_page": 21,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-015.png",
+      "translation_chars": 1510,
+      "overflow": false
+    },
+    {
+      "source_page": 22,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-016.png",
+      "translation_chars": 1187,
+      "overflow": false
+    },
+    {
+      "source_page": 23,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-017.png",
+      "translation_chars": 1336,
+      "overflow": false
+    },
+    {
+      "source_page": 24,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-018.png",
+      "translation_chars": 883,
+      "overflow": false
+    },
+    {
+      "source_page": 25,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-019.png",
+      "translation_chars": 1117,
+      "overflow": false
+    },
+    {
+      "source_page": 26,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-020.png",
+      "translation_chars": 1571,
+      "overflow": false
+    },
+    {
+      "source_page": 27,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-021.png",
+      "translation_chars": 1635,
+      "overflow": false
+    },
+    {
+      "source_page": 28,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-022.png",
+      "translation_chars": 1634,
+      "overflow": false
+    },
+    {
+      "source_page": 29,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-023.png",
+      "translation_chars": 1282,
+      "overflow": false
+    },
+    {
+      "source_page": 30,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-024.png",
+      "translation_chars": 1072,
+      "overflow": false
+    },
+    {
+      "source_page": 31,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-025.png",
+      "translation_chars": 1111,
+      "overflow": false
+    },
+    {
+      "source_page": 32,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-026.png",
+      "translation_chars": 1294,
+      "overflow": false
+    },
+    {
+      "source_page": 33,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-027.png",
+      "translation_chars": 1197,
+      "overflow": false
+    },
+    {
+      "source_page": 34,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-028.png",
+      "translation_chars": 1096,
+      "overflow": false
+    },
+    {
+      "source_page": 35,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-029.png",
+      "translation_chars": 1173,
+      "overflow": false
+    },
+    {
+      "source_page": 36,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-030.png",
+      "translation_chars": 1002,
+      "overflow": false
+    },
+    {
+      "source_page": 37,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-031.png",
+      "translation_chars": 985,
+      "overflow": false
+    },
+    {
+      "source_page": 38,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-032.png",
+      "translation_chars": 1126,
+      "overflow": false
+    },
+    {
+      "source_page": 39,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-033.png",
+      "translation_chars": 1085,
+      "overflow": false
+    },
+    {
+      "source_page": 40,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-034.png",
+      "translation_chars": 1097,
+      "overflow": false
+    },
+    {
+      "source_page": 41,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-035.png",
+      "translation_chars": 1930,
+      "overflow": false
+    },
+    {
+      "source_page": 42,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-036.png",
+      "translation_chars": 2153,
+      "overflow": false
+    },
+    {
+      "source_page": 43,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-037.png",
+      "translation_chars": 1133,
+      "overflow": false
+    },
+    {
+      "source_page": 44,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-038.png",
+      "translation_chars": 1212,
+      "overflow": false
+    },
+    {
+      "source_page": 45,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-039.png",
+      "translation_chars": 1337,
+      "overflow": false
+    },
+    {
+      "source_page": 46,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-040.png",
+      "translation_chars": 1512,
+      "overflow": false
+    },
+    {
+      "source_page": 47,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-041.png",
+      "translation_chars": 1526,
+      "overflow": false
+    },
+    {
+      "source_page": 48,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-042.png",
+      "translation_chars": 2064,
+      "overflow": false
+    },
+    {
+      "source_page": 49,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-043.png",
+      "translation_chars": 842,
+      "overflow": false
+    },
+    {
+      "source_page": 50,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-044.png",
+      "translation_chars": 1298,
+      "overflow": false
+    },
+    {
+      "source_page": 51,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-045.png",
+      "translation_chars": 1752,
+      "overflow": false
+    },
+    {
+      "source_page": 52,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-046.png",
+      "translation_chars": 1120,
+      "overflow": false
+    },
+    {
+      "source_page": 53,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-047.png",
+      "translation_chars": 1933,
+      "overflow": false
+    },
+    {
+      "source_page": 54,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-048.png",
+      "translation_chars": 874,
+      "overflow": false
+    },
+    {
+      "source_page": 55,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-049.png",
+      "translation_chars": 1826,
+      "overflow": false
+    },
+    {
+      "source_page": 56,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-050.png",
+      "translation_chars": 1967,
+      "overflow": false
+    },
+    {
+      "source_page": 57,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-051.png",
+      "translation_chars": 1641,
+      "overflow": false
+    },
+    {
+      "source_page": 58,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-052.png",
+      "translation_chars": 809,
+      "overflow": false
+    },
+    {
+      "source_page": 59,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-053.png",
+      "translation_chars": 1724,
+      "overflow": false
+    },
+    {
+      "source_page": 60,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-054.png",
+      "translation_chars": 2024,
+      "overflow": false
+    },
+    {
+      "source_page": 61,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-055.png",
+      "translation_chars": 764,
+      "overflow": false
+    },
+    {
+      "source_page": 62,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-056.png",
+      "translation_chars": 1689,
+      "overflow": false
+    },
+    {
+      "source_page": 63,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-057.png",
+      "translation_chars": 1437,
+      "overflow": false
+    },
+    {
+      "source_page": 64,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-058.png",
+      "translation_chars": 975,
+      "overflow": false
+    },
+    {
+      "source_page": 65,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-059.png",
+      "translation_chars": 1999,
+      "overflow": false
+    },
+    {
+      "source_page": 66,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-060.png",
+      "translation_chars": 1776,
+      "overflow": false
+    },
+    {
+      "source_page": 67,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-061.png",
+      "translation_chars": 1035,
+      "overflow": false
+    },
+    {
+      "source_page": 68,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-062.png",
+      "translation_chars": 1865,
+      "overflow": false
+    },
+    {
+      "source_page": 69,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-063.png",
+      "translation_chars": 1694,
+      "overflow": false
+    },
+    {
+      "source_page": 70,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-064.png",
+      "translation_chars": 1986,
+      "overflow": false
+    },
+    {
+      "source_page": 71,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-065.png",
+      "translation_chars": 942,
+      "overflow": false
+    },
+    {
+      "source_page": 72,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-066.png",
+      "translation_chars": 1704,
+      "overflow": false
+    },
+    {
+      "source_page": 73,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-067.png",
+      "translation_chars": 1821,
+      "overflow": false
+    },
+    {
+      "source_page": 74,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-068.png",
+      "translation_chars": 859,
+      "overflow": false
+    },
+    {
+      "source_page": 75,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-069.png",
+      "translation_chars": 2027,
+      "overflow": false
+    },
+    {
+      "source_page": 76,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-070.png",
+      "translation_chars": 1629,
+      "overflow": false
+    },
+    {
+      "source_page": 77,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-071.png",
+      "translation_chars": 835,
+      "overflow": false
+    },
+    {
+      "source_page": 78,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-072.png",
+      "translation_chars": 1688,
+      "overflow": false
+    },
+    {
+      "source_page": 79,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-073.png",
+      "translation_chars": 1719,
+      "overflow": false
+    },
+    {
+      "source_page": 80,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-074.png",
+      "translation_chars": 1523,
+      "overflow": false
+    },
+    {
+      "source_page": 81,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-075.png",
+      "translation_chars": 913,
+      "overflow": false
+    },
+    {
+      "source_page": 82,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-076.png",
+      "translation_chars": 1863,
+      "overflow": false
+    },
+    {
+      "source_page": 83,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-077.png",
+      "translation_chars": 1433,
+      "overflow": false
+    },
+    {
+      "source_page": 84,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-078.png",
+      "translation_chars": 1028,
+      "overflow": false
+    },
+    {
+      "source_page": 85,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-079.png",
+      "translation_chars": 1764,
+      "overflow": false
+    },
+    {
+      "source_page": 86,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-080.png",
+      "translation_chars": 1802,
+      "overflow": false
+    },
+    {
+      "source_page": 87,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-081.png",
+      "translation_chars": 1414,
+      "overflow": false
+    },
+    {
+      "source_page": 88,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-082.png",
+      "translation_chars": 646,
+      "overflow": false
+    },
+    {
+      "source_page": 89,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-083.png",
+      "translation_chars": 1690,
+      "overflow": false
+    },
+    {
+      "source_page": 90,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-084.png",
+      "translation_chars": 1712,
+      "overflow": false
+    },
+    {
+      "source_page": 91,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-085.png",
+      "translation_chars": 1493,
+      "overflow": false
+    },
+    {
+      "source_page": 92,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-086.png",
+      "translation_chars": 681,
+      "overflow": false
+    },
+    {
+      "source_page": 93,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-087.png",
+      "translation_chars": 1704,
+      "overflow": false
+    },
+    {
+      "source_page": 94,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-088.png",
+      "translation_chars": 1774,
+      "overflow": false
+    },
+    {
+      "source_page": 95,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-089.png",
+      "translation_chars": 1037,
+      "overflow": false
+    },
+    {
+      "source_page": 96,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-090.png",
+      "translation_chars": 1529,
+      "overflow": false
+    },
+    {
+      "source_page": 97,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-091.png",
+      "translation_chars": 1578,
+      "overflow": false
+    },
+    {
+      "source_page": 98,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-092.png",
+      "translation_chars": 1021,
+      "overflow": false
+    },
+    {
+      "source_page": 99,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-093.png",
+      "translation_chars": 1558,
+      "overflow": false
+    },
+    {
+      "source_page": 100,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-094.png",
+      "translation_chars": 1804,
+      "overflow": false
+    },
+    {
+      "source_page": 101,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-095.png",
+      "translation_chars": 1232,
+      "overflow": false
+    },
+    {
+      "source_page": 102,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-096.png",
+      "translation_chars": 1834,
+      "overflow": false
+    },
+    {
+      "source_page": 103,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-097.png",
+      "translation_chars": 1837,
+      "overflow": false
+    },
+    {
+      "source_page": 104,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-098.png",
+      "translation_chars": 564,
+      "overflow": false
+    },
+    {
+      "source_page": 105,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-099.png",
+      "translation_chars": 1811,
+      "overflow": false
+    },
+    {
+      "source_page": 106,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-100.png",
+      "translation_chars": 1522,
+      "overflow": false
+    },
+    {
+      "source_page": 107,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-101.png",
+      "translation_chars": 786,
+      "overflow": false
+    },
+    {
+      "source_page": 108,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-102.png",
+      "translation_chars": 1870,
+      "overflow": false
+    },
+    {
+      "source_page": 109,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-103.png",
+      "translation_chars": 2091,
+      "overflow": false
+    },
+    {
+      "source_page": 110,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-104.png",
+      "translation_chars": 825,
+      "overflow": false
+    },
+    {
+      "source_page": 111,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-105.png",
+      "translation_chars": 1907,
+      "overflow": false
+    },
+    {
+      "source_page": 112,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-106.png",
+      "translation_chars": 1715,
+      "overflow": false
+    },
+    {
+      "source_page": 113,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-107.png",
+      "translation_chars": 918,
+      "overflow": false
+    },
+    {
+      "source_page": 114,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-108.png",
+      "translation_chars": 1898,
+      "overflow": false
+    },
+    {
+      "source_page": 115,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-109.png",
+      "translation_chars": 1721,
+      "overflow": false
+    },
+    {
+      "source_page": 116,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-110.png",
+      "translation_chars": 960,
+      "overflow": false
+    },
+    {
+      "source_page": 117,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-111.png",
+      "translation_chars": 1448,
+      "overflow": false
+    },
+    {
+      "source_page": 118,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-112.png",
+      "translation_chars": 1517,
+      "overflow": false
+    },
+    {
+      "source_page": 119,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-113.png",
+      "translation_chars": 860,
+      "overflow": false
+    },
+    {
+      "source_page": 120,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-114.png",
+      "translation_chars": 1857,
+      "overflow": false
+    },
+    {
+      "source_page": 121,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-115.png",
+      "translation_chars": 1556,
+      "overflow": false
+    },
+    {
+      "source_page": 122,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-116.png",
+      "translation_chars": 1712,
+      "overflow": false
+    },
+    {
+      "source_page": 123,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-117.png",
+      "translation_chars": 586,
+      "overflow": false
+    },
+    {
+      "source_page": 124,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-118.png",
+      "translation_chars": 1813,
+      "overflow": false
+    },
+    {
+      "source_page": 125,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-119.png",
+      "translation_chars": 1773,
+      "overflow": false
+    },
+    {
+      "source_page": 126,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-120.png",
+      "translation_chars": 884,
+      "overflow": false
+    },
+    {
+      "source_page": 127,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-121.png",
+      "translation_chars": 1870,
+      "overflow": false
+    },
+    {
+      "source_page": 128,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-122.png",
+      "translation_chars": 987,
+      "overflow": false
+    },
+    {
+      "source_page": 129,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-123.png",
+      "translation_chars": 1622,
+      "overflow": false
+    },
+    {
+      "source_page": 130,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-124.png",
+      "translation_chars": 1529,
+      "overflow": false
+    },
+    {
+      "source_page": 131,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-125.png",
+      "translation_chars": 1696,
+      "overflow": false
+    },
+    {
+      "source_page": 132,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-126.png",
+      "translation_chars": 999,
+      "overflow": false
+    },
+    {
+      "source_page": 133,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-127.png",
+      "translation_chars": 1392,
+      "overflow": false
+    },
+    {
+      "source_page": 134,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-128.png",
+      "translation_chars": 1596,
+      "overflow": false
+    },
+    {
+      "source_page": 135,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-129.png",
+      "translation_chars": 684,
+      "overflow": false
+    },
+    {
+      "source_page": 136,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-130.png",
+      "translation_chars": 1433,
+      "overflow": false
+    },
+    {
+      "source_page": 137,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-131.png",
+      "translation_chars": 1000,
+      "overflow": false
+    },
+    {
+      "source_page": 138,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-132.png",
+      "translation_chars": 1567,
+      "overflow": false
+    },
+    {
+      "source_page": 139,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-133.png",
+      "translation_chars": 1677,
+      "overflow": false
+    },
+    {
+      "source_page": 140,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-134.png",
+      "translation_chars": 684,
+      "overflow": false
+    },
+    {
+      "source_page": 141,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-135.png",
+      "translation_chars": 1424,
+      "overflow": false
+    },
+    {
+      "source_page": 142,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-136.png",
+      "translation_chars": 1789,
+      "overflow": false
+    },
+    {
+      "source_page": 143,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-137.png",
+      "translation_chars": 1624,
+      "overflow": false
+    },
+    {
+      "source_page": 144,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-138.png",
+      "translation_chars": 765,
+      "overflow": false
+    },
+    {
+      "source_page": 145,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-139.png",
+      "translation_chars": 1107,
+      "overflow": false
+    },
+    {
+      "source_page": 146,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-140.png",
+      "translation_chars": 993,
+      "overflow": false
+    },
+    {
+      "source_page": 147,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-141.png",
+      "translation_chars": 1227,
+      "overflow": false
+    },
+    {
+      "source_page": 148,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-142.png",
+      "translation_chars": 1601,
+      "overflow": false
+    },
+    {
+      "source_page": 149,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-143.png",
+      "translation_chars": 53,
+      "overflow": false
+    },
+    {
+      "source_page": 150,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-144.png",
+      "translation_chars": 1682,
+      "overflow": false
+    },
+    {
+      "source_page": 151,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-145.png",
+      "translation_chars": 62,
+      "overflow": false
+    },
+    {
+      "source_page": 152,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-146.png",
+      "translation_chars": 1712,
+      "overflow": false
+    },
+    {
+      "source_page": 153,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-147.png",
+      "translation_chars": 1101,
+      "overflow": false
+    },
+    {
+      "source_page": 154,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-148.png",
+      "translation_chars": 660,
+      "overflow": false
+    },
+    {
+      "source_page": 155,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-149.png",
+      "translation_chars": 1375,
+      "overflow": false
+    },
+    {
+      "source_page": 156,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-150.png",
+      "translation_chars": 1301,
+      "overflow": false
+    },
+    {
+      "source_page": 157,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-151.png",
+      "translation_chars": 1461,
+      "overflow": false
+    },
+    {
+      "source_page": 158,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-152.png",
+      "translation_chars": 392,
+      "overflow": false
+    },
+    {
+      "source_page": 159,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-153.png",
+      "translation_chars": 1106,
+      "overflow": false
+    },
+    {
+      "source_page": 160,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-154.png",
+      "translation_chars": 1124,
+      "overflow": false
+    },
+    {
+      "source_page": 161,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-155.png",
+      "translation_chars": 876,
+      "overflow": false
+    },
+    {
+      "source_page": 162,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-156.png",
+      "translation_chars": 1206,
+      "overflow": false
+    },
+    {
+      "source_page": 163,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-157.png",
+      "translation_chars": 1476,
+      "overflow": false
+    },
+    {
+      "source_page": 164,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-158.png",
+      "translation_chars": 1140,
+      "overflow": false
+    },
+    {
+      "source_page": 165,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-159.png",
+      "translation_chars": 1436,
+      "overflow": false
+    },
+    {
+      "source_page": 166,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-160.png",
+      "translation_chars": 1272,
+      "overflow": false
+    },
+    {
+      "source_page": 167,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-161.png",
+      "translation_chars": 1481,
+      "overflow": false
+    },
+    {
+      "source_page": 168,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-162.png",
+      "translation_chars": 1682,
+      "overflow": false
+    },
+    {
+      "source_page": 169,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-163.png",
+      "translation_chars": 1336,
+      "overflow": false
+    },
+    {
+      "source_page": 170,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-164.png",
+      "translation_chars": 1110,
+      "overflow": false
+    },
+    {
+      "source_page": 171,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-165.png",
+      "translation_chars": 1673,
+      "overflow": false
+    },
+    {
+      "source_page": 172,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-166.png",
+      "translation_chars": 1425,
+      "overflow": false
+    },
+    {
+      "source_page": 173,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-167.png",
+      "translation_chars": 1676,
+      "overflow": false
+    },
+    {
+      "source_page": 174,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-168.png",
+      "translation_chars": 1289,
+      "overflow": false
+    },
+    {
+      "source_page": 175,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-169.png",
+      "translation_chars": 1745,
+      "overflow": false
+    },
+    {
+      "source_page": 176,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-170.png",
+      "translation_chars": 1232,
+      "overflow": false
+    },
+    {
+      "source_page": 177,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-171.png",
+      "translation_chars": 1818,
+      "overflow": false
+    },
+    {
+      "source_page": 178,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-172.png",
+      "translation_chars": 1752,
+      "overflow": false
+    },
+    {
+      "source_page": 179,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-173.png",
+      "translation_chars": 1271,
+      "overflow": false
+    },
+    {
+      "source_page": 180,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-174.png",
+      "translation_chars": 1696,
+      "overflow": false
+    },
+    {
+      "source_page": 181,
+      "pdf_pages": 2,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-175.png",
+      "translation_chars": 1506,
+      "overflow": true
+    },
+    {
+      "source_page": 182,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-176.png",
+      "translation_chars": 821,
+      "overflow": false
+    },
+    {
+      "source_page": 183,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-177.png",
+      "translation_chars": 705,
+      "overflow": false
+    },
+    {
+      "source_page": 184,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-178.png",
+      "translation_chars": 773,
+      "overflow": false
+    },
+    {
+      "source_page": 185,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-179.png",
+      "translation_chars": 827,
+      "overflow": false
+    },
+    {
+      "source_page": 186,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-180.png",
+      "translation_chars": 809,
+      "overflow": false
+    },
+    {
+      "source_page": 187,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-181.png",
+      "translation_chars": 1160,
+      "overflow": false
+    },
+    {
+      "source_page": 188,
+      "pdf_pages": 2,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-182.png",
+      "translation_chars": 1548,
+      "overflow": true
+    },
+    {
+      "source_page": 189,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-183.png",
+      "translation_chars": 1023,
+      "overflow": false
+    },
+    {
+      "source_page": 190,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-184.png",
+      "translation_chars": 1308,
+      "overflow": false
+    },
+    {
+      "source_page": 191,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-185.png",
+      "translation_chars": 1615,
+      "overflow": false
+    },
+    {
+      "source_page": 192,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-186.png",
+      "translation_chars": 91,
+      "overflow": false
+    },
+    {
+      "source_page": 193,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-187.png",
+      "translation_chars": 1331,
+      "overflow": false
+    },
+    {
+      "source_page": 194,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-188.png",
+      "translation_chars": 729,
+      "overflow": false
+    },
+    {
+      "source_page": 195,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-189.png",
+      "translation_chars": 524,
+      "overflow": false
+    },
+    {
+      "source_page": 196,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-190.png",
+      "translation_chars": 481,
+      "overflow": false
+    },
+    {
+      "source_page": 197,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-191.png",
+      "translation_chars": 1109,
+      "overflow": false
+    },
+    {
+      "source_page": 198,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-192.png",
+      "translation_chars": 486,
+      "overflow": false
+    },
+    {
+      "source_page": 199,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-193.png",
+      "translation_chars": 640,
+      "overflow": false
+    },
+    {
+      "source_page": 200,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-194.png",
+      "translation_chars": 1383,
+      "overflow": false
+    },
+    {
+      "source_page": 201,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-195.png",
+      "translation_chars": 586,
+      "overflow": false
+    },
+    {
+      "source_page": 202,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-196.png",
+      "translation_chars": 577,
+      "overflow": false
+    },
+    {
+      "source_page": 203,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-197.png",
+      "translation_chars": 1040,
+      "overflow": false
+    },
+    {
+      "source_page": 204,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-198.png",
+      "translation_chars": 1391,
+      "overflow": false
+    },
+    {
+      "source_page": 205,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-199.png",
+      "translation_chars": 664,
+      "overflow": false
+    },
+    {
+      "source_page": 206,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-200.png",
+      "translation_chars": 1492,
+      "overflow": false
+    },
+    {
+      "source_page": 207,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-201.png",
+      "translation_chars": 999,
+      "overflow": false
+    },
+    {
+      "source_page": 208,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-202.png",
+      "translation_chars": 1994,
+      "overflow": false
+    },
+    {
+      "source_page": 209,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-203.png",
+      "translation_chars": 2347,
+      "overflow": false
+    },
+    {
+      "source_page": 210,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-204.png",
+      "translation_chars": 62,
+      "overflow": false
+    },
+    {
+      "source_page": 211,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-205.png",
+      "translation_chars": 2208,
+      "overflow": false
+    },
+    {
+      "source_page": 212,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-206.png",
+      "translation_chars": 1889,
+      "overflow": false
+    },
+    {
+      "source_page": 213,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-207.png",
+      "translation_chars": 1976,
+      "overflow": false
+    },
+    {
+      "source_page": 214,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-208.png",
+      "translation_chars": 70,
+      "overflow": false
+    },
+    {
+      "source_page": 215,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-209.png",
+      "translation_chars": 1912,
+      "overflow": false
+    },
+    {
+      "source_page": 216,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-210.png",
+      "translation_chars": 2103,
+      "overflow": false
+    },
+    {
+      "source_page": 217,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-211.png",
+      "translation_chars": 2367,
+      "overflow": false
+    },
+    {
+      "source_page": 218,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-212.png",
+      "translation_chars": 77,
+      "overflow": false
+    },
+    {
+      "source_page": 219,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-213.png",
+      "translation_chars": 2187,
+      "overflow": false
+    },
+    {
+      "source_page": 220,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-214.png",
+      "translation_chars": 2057,
+      "overflow": false
+    },
+    {
+      "source_page": 221,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-215.png",
+      "translation_chars": 2200,
+      "overflow": false
+    },
+    {
+      "source_page": 222,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-216.png",
+      "translation_chars": 68,
+      "overflow": false
+    },
+    {
+      "source_page": 223,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-217.png",
+      "translation_chars": 2352,
+      "overflow": false
+    },
+    {
+      "source_page": 224,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-218.png",
+      "translation_chars": 2529,
+      "overflow": false
+    },
+    {
+      "source_page": 225,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-219.png",
+      "translation_chars": 2109,
+      "overflow": false
+    },
+    {
+      "source_page": 226,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-220.png",
+      "translation_chars": 75,
+      "overflow": false
+    },
+    {
+      "source_page": 227,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-221.png",
+      "translation_chars": 2082,
+      "overflow": false
+    },
+    {
+      "source_page": 228,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-222.png",
+      "translation_chars": 2338,
+      "overflow": false
+    },
+    {
+      "source_page": 229,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-223.png",
+      "translation_chars": 2443,
+      "overflow": false
+    },
+    {
+      "source_page": 230,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-224.png",
+      "translation_chars": 40,
+      "overflow": false
+    },
+    {
+      "source_page": 231,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-225.png",
+      "translation_chars": 4669,
+      "overflow": false
+    },
+    {
+      "source_page": 232,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-226.png",
+      "translation_chars": 2628,
+      "overflow": false
+    },
+    {
+      "source_page": 233,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-227.png",
+      "translation_chars": 2146,
+      "overflow": false
+    },
+    {
+      "source_page": 234,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-228.png",
+      "translation_chars": 35,
+      "overflow": false
+    },
+    {
+      "source_page": 235,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-229.png",
+      "translation_chars": 2305,
+      "overflow": false
+    },
+    {
+      "source_page": 236,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-230.png",
+      "translation_chars": 1924,
+      "overflow": false
+    },
+    {
+      "source_page": 237,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-231.png",
+      "translation_chars": 1981,
+      "overflow": false
+    },
+    {
+      "source_page": 238,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-232.png",
+      "translation_chars": 38,
+      "overflow": false
+    },
+    {
+      "source_page": 239,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-233.png",
+      "translation_chars": 2020,
+      "overflow": false
+    },
+    {
+      "source_page": 240,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-234.png",
+      "translation_chars": 2055,
+      "overflow": false
+    },
+    {
+      "source_page": 241,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-235.png",
+      "translation_chars": 2080,
+      "overflow": false
+    },
+    {
+      "source_page": 242,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-236.png",
+      "translation_chars": 23,
+      "overflow": false
+    },
+    {
+      "source_page": 243,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-237.png",
+      "translation_chars": 2144,
+      "overflow": false
+    },
+    {
+      "source_page": 244,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-238.png",
+      "translation_chars": 2120,
+      "overflow": false
+    },
+    {
+      "source_page": 245,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-239.png",
+      "translation_chars": 1988,
+      "overflow": false
+    },
+    {
+      "source_page": 246,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-240.png",
+      "translation_chars": 48,
+      "overflow": false
+    },
+    {
+      "source_page": 247,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-241.png",
+      "translation_chars": 1676,
+      "overflow": false
+    },
+    {
+      "source_page": 248,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-242.png",
+      "translation_chars": 2013,
+      "overflow": false
+    },
+    {
+      "source_page": 249,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-243.png",
+      "translation_chars": 1944,
+      "overflow": false
+    },
+    {
+      "source_page": 250,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-244.png",
+      "translation_chars": 23,
+      "overflow": false
+    },
+    {
+      "source_page": 251,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-245.png",
+      "translation_chars": 477,
+      "overflow": false
+    },
+    {
+      "source_page": 252,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-246.png",
+      "translation_chars": 1374,
+      "overflow": false
+    },
+    {
+      "source_page": 253,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-247.png",
+      "translation_chars": 1513,
+      "overflow": false
+    },
+    {
+      "source_page": 254,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-248.png",
+      "translation_chars": 1603,
+      "overflow": false
+    },
+    {
+      "source_page": 255,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-249.png",
+      "translation_chars": 922,
+      "overflow": false
+    },
+    {
+      "source_page": 256,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-250.png",
+      "translation_chars": 1900,
+      "overflow": false
+    },
+    {
+      "source_page": 257,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-251.png",
+      "translation_chars": 752,
+      "overflow": false
+    },
+    {
+      "source_page": 258,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-252.png",
+      "translation_chars": 1047,
+      "overflow": false
+    },
+    {
+      "source_page": 259,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-253.png",
+      "translation_chars": 1580,
+      "overflow": false
+    },
+    {
+      "source_page": 260,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-254.png",
+      "translation_chars": 1909,
+      "overflow": false
+    },
+    {
+      "source_page": 261,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-255.png",
+      "translation_chars": 697,
+      "overflow": false
+    },
+    {
+      "source_page": 262,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-256.png",
+      "translation_chars": 1707,
+      "overflow": false
+    },
+    {
+      "source_page": 263,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-257.png",
+      "translation_chars": 1176,
+      "overflow": false
+    },
+    {
+      "source_page": 264,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-258.png",
+      "translation_chars": 1895,
+      "overflow": false
+    },
+    {
+      "source_page": 265,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-259.png",
+      "translation_chars": 1437,
+      "overflow": false
+    },
+    {
+      "source_page": 266,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-260.png",
+      "translation_chars": 127,
+      "overflow": false
+    },
+    {
+      "source_page": 267,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-261.png",
+      "translation_chars": 831,
+      "overflow": false
+    },
+    {
+      "source_page": 268,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-262.png",
+      "translation_chars": 941,
+      "overflow": false
+    },
+    {
+      "source_page": 269,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-263.png",
+      "translation_chars": 1116,
+      "overflow": false
+    },
+    {
+      "source_page": 270,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-264.png",
+      "translation_chars": 1581,
+      "overflow": false
+    },
+    {
+      "source_page": 271,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-265.png",
+      "translation_chars": 848,
+      "overflow": false
+    },
+    {
+      "source_page": 272,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-266.png",
+      "translation_chars": 20,
+      "overflow": false
+    },
+    {
+      "source_page": 273,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-267.png",
+      "translation_chars": 520,
+      "overflow": false
+    },
+    {
+      "source_page": 274,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-268.png",
+      "translation_chars": 1423,
+      "overflow": false
+    }
+  ]
+}

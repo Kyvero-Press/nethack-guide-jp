@@ -1,0 +1,28 @@
+# Page 260
+
+This can be considered the most crucial point in advancing through the demon's dungeon. This was something that became clear through my previous research. There have been quite a few adventurers who lost their lives by carelessly equipping items they obtained without knowing that they were under a strong curse.
+
+"Just remember, pouring water on the altar is pointless. Water is blessed or cursed by the power of the god on the altar. If you pour water on an altar of a chaotic god like Molrigan, everything will turn into cursed water. The altars of gods of discipline work in the opposite way."
+
+He also taught me how to make holy water. It is said that if you immerse a cursed object in holy water, it can be de-cursed.
+
+These two pieces of information can be considered highly significant results. That day, I was satisfied with just these two answers. And the next day, when I visited his home—
+
+"Recalling the cursed objects..."
+
+He suddenly began answering my question from the previous day.
+
+"When entering the dungeon, having a pet along is not only a friend but also a useful tool. Do you understand? Dogs and cats can judge whether something is cursed or not. Cursed items emit a scent that only they can detect. They won't step on cursed objects. Priests may rely on their holy powers, but it might just be their sense of smell."
+
+Diores let a vulgar smile play at the corners of his mouth. My nape bristled with disgust, and chills ran down my spine.
+
+He then downed a drink. The alcohol had smoothed his tongue and temporarily reformed his shattered mind.
+
+Next, I asked him about scrolls. After several discussions, one statement stood out:
+
+"I was once forced to wear leg irons and a ball and chain in the dungeon after reading three scrolls of punishment. I either read a scroll of remove curse or cast the remove curse spell to escape..."
+
+258
+
+INFORMATION—For Overcoming the Dungeon
+SOURCE

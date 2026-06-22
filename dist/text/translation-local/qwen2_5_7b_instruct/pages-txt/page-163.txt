@@ -1,0 +1,33 @@
+Page 163
+
+Orange
+
+Orange. It has nutritional value comparable to that of a banana.
+
+Pancake
+
+Pancake. It has decent nutritional value, but it doesn't have any notable features.
+
+Pear
+
+Pear. Among many fruits, it is recognized as having the lowest nutritional value.
+
+Slime Mold
+
+Slime mold. In NETHACK.CNF, if something is described after "fruit:", it refers to that fruit. Given its great fondness, it can be considered to have some nutritional value, including a placebo effect.
+
+Tin
+
+Canned goods. There are various types of canned goods, and their nutritional value varies depending on what's inside. Occasionally, you might find a can of spinach, which should prove very useful to adventurers.
+
+Tripe Ration
+
+Dog food. To be honest, it's not something humans should eat. You might consider eating it if you're extremely hungry, but you'll likely regret it.
+
+Potions — Water potions
+
+Welcome, welcome. You've come to Wendy's Elixir Shop.
+
+We deal in potions here. From strong drinks that only dwarves can drink to fruit juices. What would you like? Want to move faster? Float in the air while adventuring? We even have potions that increase your strength or charisma. Blindness potions and confusion potions can also serve as weapons. As long as you have gold coins, you can buy anything. By the way, potions that are cursed or blessed may have different effects, so be careful.
+
+Or, shall we buy the potion you found during your adventure? Of course, we'll pay a high price for it.

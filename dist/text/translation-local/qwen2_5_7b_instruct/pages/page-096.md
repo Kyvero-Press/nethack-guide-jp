@@ -1,0 +1,33 @@
+# Page 096
+
+You can give the effect of a potion to monsters. For example, if it's a potion that makes you unable to see, the monster will be in a state where it cannot see the player for a while.
+
+That said, it's not a good idea to throw potions at monsters recklessly. After all, if it's a potion that restores vitality, the monsters' wounds will also heal as a result.
+
+Finally, regarding feeding your pet, you don't have to do it frequently. If you want to train your pet, just give it food occasionally.
+
+k ^D
+
+Kick 蹴る
+
+Ping!
+
+With a clear sound of a steel breaking, the dart needle that was inserted into the keyhole of the treasure chest flew apart.
+
+"Ahn, mooh!"
+
+Tike threw the dart without its tip into the corner of the room and sat down on the floor. Having tried to pick the lock like a thief, he couldn't manage it well. Using the darts he broke earlier, this is his fifth attempt.
+
+Tike glared hatefully at the pentagonal keyhole. If there were a key that fits this keyhole, he could get the contents without such trouble, but the keys he has are triangular and square ones only.
+
+"Why would anyone put a lock on it!!"
+
+Michael, who had been walking around the room, turned to Tike and meowed "nya". He probably thought he was being called.
+
+Now Tike has two choices:
+
+He can give up on the treasure chest and leave, or continue trying to pick the lock until the key opens. Another option is to carry the chest around until he finds a pentagonal key, but that's out of the question.
+
+94
+
+COMMANDS—To walk through the dungeon...

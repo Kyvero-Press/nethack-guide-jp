@@ -1,0 +1,22 @@
+Page 108
+
+In the real world as well, you must pay the price for any item you purchase. However, the fact that there is a separate command p (pay) in NetHack can be attributed to the nature of NetHack itself.
+
+Whether to pay the store owner is left to the player's free will. However, if you leave the store without paying, it can lead to trouble (refer to the Command Introduction section for "#w" to see what happens).
+
+If you intend to pay, after picking up the item, input "p" and all the items' prices will be automatically paid from your gold. If you don't have enough gold, you can sell unnecessary items by dropping them using the d command, but you will only receive about half the purchase price. There are also stores that specialize in selling wands and rings, and other items cannot be bought from such stores. Most stores will buy gems, but it's worth remembering that many gems picked up in the dungeon are worthless "glass balls" with a value of 0. However, some genuine gems can be bought for very high prices, and certain uses can earn divine favor. In this sense, the archaeological gem appraisal skills of an archaeologist prove to be very useful.
+
+Now, since ancient times, many adventurers in this world have been working on the theme of "how to deceive the store owner and obtain items for free?" Here, we will only briefly mention a few methods. They are using pets, kicking, polymorphing (changing form), and teleportation (causing someone else to teleport).
+
+Rest 休憩する
+
+The wound was deeper than I thought. Blood continues to gush from the Minotaur's claw marks, showing no signs of stopping. No matter how many times I change the bandages, they remain red.
+
+(If only I had a healing potion at this moment)
+
+Even a deep wound would heal instantly. But the scrolls and potions have already been used up.
+
+106
+
+Commands—To Walk Through the Dungeon...
+SOURCE

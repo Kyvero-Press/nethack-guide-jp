@@ -1,0 +1,49 @@
+Page 148
+
+Here's the translation:
+
+Check out the catalog here and compare it with our items. If you can find a balance between your budget and requirements, you should be able to find the best item.
+
+ARMORS Armor
+
+Armor worn on the body. While many armors include helms and gauntlets, we don't treat them as such, so please forgive us.
+
+leather armor
+
+Leather Armor AC-2
+
+Made from leather hardened by tanning animal hides, this is what is commonly known as leather armor. It has the advantages of being quiet and very light, but it is not reliable for defense. However, it does not corrode or rust.
+
+orcish ring mail
+
+Orcish Ring Mail AC-2
+
+A crude ring mail that orcs prefer to use.
+
+ring mail
+
+Ring Mail AC-3
+
+An armor made by connecting metal rings. While it is relatively light for its metal composition, there is nothing particularly notable about its defensive capabilities.
+
+studded leather armor
+
+Studded Leather Armor AC-3
+
+A leather armor reinforced with iron nails. While its defensive power has slightly improved due to this, it remains fundamentally a leather armor.
+
+scale mail
+
+Scale Mail AC-4
+
+A leather armor with scale-like metal plates attached. It is somewhat heavy, but as a warrior, you should at least equip this level of armor.
+
+chain mail
+
+Chain Mail AC-5
+
+A garment-like armor made by weaving chains and covering down to mid-thigh. This is what is commonly known as a chainmail. It makes a considerable noise when moving. Additionally, while it can prevent cuts from swords and similar weapons, it cannot absorb the impact itself.
+
+146
+
+ITEMS—Dungeons waiting for you with their tools

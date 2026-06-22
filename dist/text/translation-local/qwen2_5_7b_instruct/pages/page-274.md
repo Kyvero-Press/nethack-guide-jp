@@ -1,0 +1,35 @@
+# Page 274
+
+● Please send your comments and feedback about this book and the game to our service center in writing. However, please note that we may not be able to answer all content-related questions due to the nature of the game.
+
+● If you believe there is a malfunction, please write in detail about your name, address, the type of computer you are using, how you operated it, and what happened before and after the issue occurred. Please also enclose a return envelope and send it to our service center in writing. We may not be able to respond to inquiries made by phone, so please understand this.
+
+● The disk attached to this book does not contain the source code of NetHack due to storage limitations. If you wish to obtain the source code, please fill out the necessary information on the reader card attached to this book and return it to us. 
+
+Free Software Library • Game Collection • Extra
+
+NetHack the R. P. G.
+
+Published July 14, 1993
+
+Authors: Haska Wariyashiro, Iba Zoichiro, Suzuki Naoyuki,
+
+    Araki Shin
+
+    Suzuki Shin
+
+Publisher: Kusa Yoshizou
+
+Publisher's Office: Showa System Trading Co., Ltd.
+
+    〒107 Tokyo, Chuo Ward, Akasaka 8-5-29 Checker Building
+
+    TEL 03-3470-4941
+
+Printer: Jokyosha Printing Co., Ltd. Printed in Japan
+
+ISBN4-87966-322-0 C3055
+
+The cover shows the price.
+
+If you have a book with missing pages or lost pages, please send it to our sales office for replacement at no shipping cost.

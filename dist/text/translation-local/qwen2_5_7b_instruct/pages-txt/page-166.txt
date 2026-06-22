@@ -1,0 +1,41 @@
+Page 166
+
+Potion of monster detection
+
+Monster Detection Potion
+
+By drinking this potion, you can immediately know the position of monsters on the same floor. Of course, since monsters move around, they may not be in the same place.
+
+Potion of object detection
+
+Object Detection Potion
+
+By drinking this potion, you can immediately know the position and type of items on the same floor. There is also a possibility that monsters will pick them up first.
+
+Potion of paralysis
+
+Paralysis Potion
+
+By drinking this potion, your body will instantly become paralyzed. It is unknown when you will recover. You can also use this potion as a weapon.
+
+Potion of restore ability
+
+Restore Ability Potion
+
+It restores lost ability points for some reason. In most cases, it will restore strength lost due to poison.
+
+Potion of see invisible
+
+Invisible See Potion
+
+You can see transparent creatures or creatures made transparent by magic. It seems that blindness will also be cured as a side effect. It tastes like fruit juice.
+
+Potion of sickness
+
+Toxic Potion
+
+Some ability values decrease, and you take damage to your hit points. You may also fall ill. However, if you are plagued by hallucinogens, a shock may cause the hallucinations to subside.
+
+164
+
+ITEMS—Dungeons Await These Tools for You

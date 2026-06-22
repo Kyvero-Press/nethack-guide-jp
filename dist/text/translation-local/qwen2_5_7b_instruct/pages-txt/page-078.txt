@@ -1,0 +1,27 @@
+Page 078
+
+Several minutes passed, and Tike was between the altars. Struggling to place the giant's corpse on the altar, Tike fell onto the floor, panting heavily like a horse that had run too far and was about to collapse. After resting for a few minutes, Tike finally managed to sit up, mumbling prayer words with a look of reluctance.
+
+"O Crom, lord of this world's battles and swords. Accept this offering as a token of my gratitude..."
+
+At the end of his sentence, he raised both hands above his head.
+
+"...What?..."
+
+After waiting for a while, nothing happened. Normally, the sacrifice should vanish instantly.
+
+"Um, excuse me... Crom?"
+
+As Tike began to wonder whether he had made a mistake in his prayer or if he had fallen asleep at the altar, a loud "Old man!!" echoed in his mind.
+
+"Sorry! Sorry!"
+
+Tike clutched his head and desperately shouted.
+
+The giant's corpse had apparently deteriorated since it was brought here.
+
+Tike had noticed a strange smell and suspected it might be in poor condition.
+
+The #p and #o commands are both related to gods. However, one would not typically use the #o command unless they had found an altar. The #p command is more commonly used.
+
+Praying with the #p command can sometimes resolve various issues. These may include hunger, a critical loss of hit points, blindness, paralysis, or cursed equipment. If you find yourself in a difficult situation during the game, try praying first. Whether your prayer is answered depends on your wisdom value. However, if the god is angry or enough time has not passed since your last prayer, help will not be forthcoming. Additionally, if you are on what is called the 'hell' level, divine power cannot reach you.

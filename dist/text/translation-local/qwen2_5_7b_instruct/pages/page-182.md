@@ -1,0 +1,35 @@
+# Page 182
+
+BAG OF HOLDING
+
+CREDIT CARD
+
+DRUM OF EARTHQUAKE
+
+expensive camera
+
+a high-priced camera
+
+It is a high-priced camera. Of course, it comes equipped with a flash, so it can be used to blind monsters by setting it off.
+
+figurine
+
+フィギュア
+
+A small statue. Using this statue will cause the same monster as the statue to appear, and it will serve as a obedient pet to the character. For example, using a red dragon statue will summon a red dragon as a pet, and using a nymph statue will summon a nymph as a pet.
+
+fire horn
+
+ファイアホーン
+
+When this horn is blown, flames will erupt from its tip. Naturally, it can be used as a powerful weapon.
+
+flute
+
+フルート
+
+In some place, playing a certain melody will be useful. Also, if the player is skilled at blowing the flute, they can tame snakes.
+
+180
+
+ITEMS—Dungeons await you with these tools

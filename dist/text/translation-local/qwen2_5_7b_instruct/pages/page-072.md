@@ -1,0 +1,34 @@
+# Page 072
+
+Of course, one more sacrifice will be added (who that sacrifice might be... this is also needless to say). It would be better to avoid using attack-type wands unless there is a spacious area.
+
+Other 'convenient' wands should be a great help in your adventure. By the way, if you want to use a wand on yourself, just input when asked for direction.
+
+However, all wands have a 'usage count' set. The number in parentheses when listed with the i command indicates the usage count. When this becomes zero, the wand runs out of power and can no longer be used. Wands that are unidentified may not react at all when their power is known but the usage count is unknown, rendering them useless.
+
+Moreover, cursed wands have the weakness of potentially exploding along with their normal effects.
+
+In this way, while wands are convenient, they come with dangers when used. However, if you properly identify them and use them in the right place and situation, they will be very helpful.
+
+S
+
+Searching the Dungeon
+
+The path ended here.
+
+Nasrula examined her handmade map. Calculating from the steps, there must be a room beyond the wall.
+
+However, what stands before her is merely a stone wall; no door is visible. "There must be a secret passage somewhere..."
+
+She ran her hand over the wall, but there was no reaction. She prodded it with the tip of her sword, but no change was observed. Upon rechecking, the result remained the same.
+
+Nasrula bit her lip.
+
+"Dead end...?"
+
+If there is no door here, she will have to return the same way. But, if she takes a few steps, she will encounter an ogre. At her current level, she could not defeat that monster. Earlier
+
+70
+
+COMMANDS—To walk through the dungeon...
+SOURCE

@@ -1,0 +1,27 @@
+Page 089
+
+Here it is. This is all I can ask of you.
+
+Nasrula hugged without saying anything. She knew that if she spoke, she would start crying.
+
+(Auntie)
+
+Nasrula thought while looking at the armor.
+
+(Thanks to Auntie. I got the best armor.)
+
+She took the armor. It was lighter than plate mail. When she tried to pierce it with a sword just now, no scratch appeared. It's clear that its defense is high.
+
+She looked away from her previous armor. She switched the sword to Stormbringer and stepped on the descending stairs. The 25th floor underground awaited her.
+
+To wear armor, use the W command. Pressing [W] will ask which armor you want to wear. If you're unsure which one it is, pressing [?] is a good idea. A list of armors will be displayed. After confirming, choose the armor you want to wear.
+
+It's important to note that when wearing new armor, you need to take off the previously equipped armor first. You must remove the old armor before putting on the new one. This applies to shields, gloves, helmets, and boots as well.
+
+Some armors cannot be worn unless a specific armor is removed first. A Hawaiian shirt cannot be worn over armor. You must take off the armor first. Also, cloaks are equipped over armor. Therefore, once you put them on, you cannot change your armor until you take off the cloak.
+
+The command to equip weapons is w. Pressing [w] and selecting the desired weapon will smoothly proceed unless the weapon is cursed. If you're unsure which weapon to choose, pressing [?] will display a list of weapons, and you can select one by choosing an alphabet. If you don't want to carry any weapon, pressing [-] is a good idea.
+
+Ring wearing, weapon equipping, armor donning
+
+87

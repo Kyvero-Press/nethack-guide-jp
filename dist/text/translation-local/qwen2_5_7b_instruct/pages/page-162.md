@@ -1,0 +1,29 @@
+# Page 162
+
+food ration
+
+A regular food. It has high nutritional value, but it is very heavy and cannot be carried in large quantities, which is its weakness.
+
+fortune cookie
+
+Fortune cookie. Originally, it is a cookie that comes out in Chinese cuisine, containing a piece of paper with fortune written on it. Here, it mostly contains a little advice for the dungeon (it is not guaranteed that what is written inside is true).
+
+K-ration
+
+Military rations. Carried by soldiers like Sergeant and Captain. It is famous for its hard-to-describe subtle taste, and is occasionally released from the military.
+
+lembas wafer
+
+Lembas. A portable food of elves, and one wafer of this thin cookie-like substance provides the same nutritional value as a full meal. It is very light and can be considered the ideal food. However, it does not provide a feeling of fullness.
+
+lump of royal jelly
+
+Killer bee's royal jelly. The royal jelly made in the hive of killer bees has special power and is said to increase the strength of the eater.
+
+melon
+
+Melon. While it has the highest nutritional value among fruits, the nutritional value of fruits in general is not particularly high.
+
+160
+
+ITEMS—The tools waiting for you in the dungeon

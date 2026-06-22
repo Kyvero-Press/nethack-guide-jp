@@ -1,0 +1,17 @@
+# Page 117
+
+It will happen every time. Whether he knows that there is nothing inside when he successfully disarms the trap is another matter.
+
+Sometimes, traps are found on doors or the lock parts of chests. Most traps set on doors explode when you try to open them. Traps set on chests or treasure boxes can contain poison needles or sleep gas, among other types.
+
+The command to discover these traps is #u. After inputting this command, you need to indicate the direction to investigate the trap. If you find a trap, you will be asked whether you want to disarm it. Entering (y) here will start the process of disarming the trap, but if you fail, you will trigger the trap instead.
+
+Disarming traps requires a certain degree of dexterity, so be careful. If your Dx value is around II, you should know the importance of 'knowing one's limits.' Sometimes, triggering such a trap can be fatal, so be cautious. As expected, once a trap is triggered, there won't be any more traps to find.
+
+Also, traps set on the floor or elsewhere may be discovered using commands like s. These traps indicated by □ cannot be disarmed. However, you can determine the type of trap using the □ command.
+
+Sometimes, it is necessary to intentionally fall for a trap. For example, if you find a teleport trap in a sealed-off dungeon, you would probably jump into it regardless. Even if it is a trap, thinking flexibly can lead to unexpected uses.
+
+Trap Detection, Trap Disarming
+
+115

@@ -1,0 +1,23 @@
+# Page 123
+
+Yoshitane shook himself to clear his mind and drew his katana, making a single slash.
+
+Spray of the centaur's red blood danced in the air.
+
+"Ha ha. …Thanks."
+
+Yoshitane smiled wryly and thanked the black dog. When he stroked its head, it wagged its tail happily in response.
+
+"You've got a name too, don't you? Well, let's see…"
+
+Yoshitane looked at the black dog. The lustrous fur color reminded him of something from his father's hometown.
+
+"Alright, from now on you're Urshi. How does that sound, Urshi?"
+
+"Baou!"
+
+The black dog—Urshi barked once and followed Yoshitane.
+
+Naming
+
+121

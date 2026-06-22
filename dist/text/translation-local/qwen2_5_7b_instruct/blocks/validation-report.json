@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "input": "dist/text/translation-local/qwen2_5_7b_instruct/blocks/translation-records.jsonl",
+    "source_jsonl": "work/translation/source/blocks-surya.jsonl",
+    "record_type": "block",
+    "rows": 3809,
+    "ok": 3809,
+    "errors": 0,
+    "pages": 273,
+    "expected_records": 3809,
+    "expected_pages": 0,
+    "source_records": 3809,
+    "hard_issues": 0,
+    "soft_issues": 0,
+    "retry_records": 0
+  },
+  "issues": []
+}

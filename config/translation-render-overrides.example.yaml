@@ -1,0 +1,30 @@
+# Manual render/background overrides for block-level translated PDFs.
+#
+# Blocks are keyed by Surya block_id from work/translation/source/blocks-surya.jsonl.
+# Supported actions:
+#   auto              mask original text and render final block translation
+#   preserve_original keep original pixels and do not render English
+#   skip_mask         keep original pixels but allow rendering if manual_text/text exists
+#   manual_text       mask original text and render manual_text instead of model translation
+#   caption_only      keep original pixels and render manual_text as a small caption overlay
+#   omit              mask/omit or skip text depending on renderer context
+#
+# Optional fields:
+#   source_sha256: guard override against source drift
+#   manual_text: replacement/caption text
+#   bbox: [x0, y0, x1, y1] override in source image pixels
+#   mask_padding_px: integer padding around the bbox mask
+#   rotation_deg: currently intended only for short manual labels
+#   min_font_size: minimum renderer font size
+#   max_font_size: maximum renderer font size
+#   note: human explanation
+
+blocks:
+  "050-000":
+    action: auto
+    mask_padding_px: 6
+    note: Example: slightly larger mask around a body paragraph.
+  "001-005":
+    action: caption_only
+    manual_text: "Freesoft Library Game Collection Extra — NetHack the RPG"
+    note: Example: preserve cover art while adding a small English caption.

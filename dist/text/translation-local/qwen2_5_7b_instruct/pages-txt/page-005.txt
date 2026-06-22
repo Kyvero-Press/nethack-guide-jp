@@ -1,0 +1,25 @@
+Page 005
+
+NetHack the RPG—with FMP & MAG loader—
+
+Table of Contents
+
+DISK Usage of Attached Disk 10
+
+• Requirements Necessary Items 10
+
+• Install Installation 11
+
+• Start Up! Method of Startup 16
+
+• More Info. For Reference 18
+
+CHARACTERS Characters 23
+
+• Parameter Ability Values 23
+
+• Class Occupation 26
+
+• Be Invoked NetHack Activation 39
+
+COMMANDS Commands 43

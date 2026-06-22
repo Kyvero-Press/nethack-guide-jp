@@ -1,0 +1,62 @@
+{
+  "summary": {
+    "input": "dist/text/translation-local/qwen2_5_7b_instruct/blocks/translation-records.sample.raw.jsonl",
+    "source_jsonl": "/dev/fd/63",
+    "record_type": "block",
+    "rows": 180,
+    "ok": 180,
+    "errors": 0,
+    "pages": 13,
+    "expected_records": 0,
+    "expected_pages": 0,
+    "source_records": 180,
+    "hard_issues": 4,
+    "soft_issues": 0,
+    "retry_records": 3
+  },
+  "issues": [
+    {
+      "kind": "cjk_leakage",
+      "severity": "hard",
+      "record_id": "block:001:001-008:134be6e178e782a77ee27ccaa106e63ff5386182449d29a7ce9719265d8bfa91",
+      "page": 1,
+      "page_label": "001",
+      "block_id": "001-008",
+      "source_sha256": "134be6e178e782a77ee27ccaa106e63ff5386182449d29a7ce9719265d8bfa91",
+      "cjk_ratio": 0.14,
+      "preview": "秀和系统 trading株式会社 定价2,800円(本体2,718円)\n\nShowa System Trading Co., Ltd. Price 2,800 yen (Body 2,718 yen)"
+    },
+    {
+      "kind": "cjk_leakage",
+      "severity": "hard",
+      "record_id": "block:003:003-000:9883ead0333cc5ae31bcc49dee25a1e23aafc95ea2fd7441940b0a0c416d1c57",
+      "page": 3,
+      "page_label": "003",
+      "block_id": "003-000",
+      "source_sha256": "9883ead0333cc5ae31bcc49dee25a1e23aafc95ea2fd7441940b0a0c416d1c57",
+      "cjk_ratio": 0.125,
+      "preview": "PC-9801用"
+    },
+    {
+      "kind": "unchanged_cjk_source",
+      "severity": "hard",
+      "record_id": "block:003:003-000:9883ead0333cc5ae31bcc49dee25a1e23aafc95ea2fd7441940b0a0c416d1c57",
+      "page": 3,
+      "page_label": "003",
+      "block_id": "003-000",
+      "source_sha256": "9883ead0333cc5ae31bcc49dee25a1e23aafc95ea2fd7441940b0a0c416d1c57",
+      "preview": "PC-9801用"
+    },
+    {
+      "kind": "cjk_leakage",
+      "severity": "hard",
+      "record_id": "block:196:196-007:a3a4fe47ed31da3c63842d7e05056179a30760a62773a4a1370a331948765e24",
+      "page": 196,
+      "page_label": "196",
+      "block_id": "196-007",
+      "source_sha256": "a3a4fe47ed31da3c63842d7e05056179a30760a62773a4a1370a331948765e24",
+      "cjk_ratio": 0.125,
+      "preview": "pickaxe-shaped axe. It boasts tremendous power when wielded by矮小的矮人用力挥舞。"
+    }
+  ]
+}

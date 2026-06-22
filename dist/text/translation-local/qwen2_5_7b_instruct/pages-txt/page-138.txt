@@ -1,0 +1,29 @@
+Page 138
+
+As consciousness faded, a sudden change occurred in Klein's body, having prepared to face death. The outline of the dragon's body became blurred, and his massive limbs gradually shrunk.
+
+"Hey?"
+
+Noticing this, Klein found himself back in his familiar form. He checked his left chest, but there was no sign of injury.
+
+Looking up, he saw the Minotaur looking around. It seemed to be searching for where the dragon that they had been fighting had gone.
+
+Suddenly, the Minotaur looked down and spotted Klein. After a moment of silence, it roared, its fangs emerging from the burned mouth.
+
+"M-Mike... Run!"
+
+With that, Klein ran off with Mike.
+
+If you are tired of exploring the dungeon as a human character, you might enjoy playing as one of the monsters that live in the dungeon.
+
+The easiest way is to wear both the Ring of Polymorph and the Ring of Teleportation. While the effects won't appear immediately, after some time, the game will ask what monster you want to transform into, and all you need to do is input the name of your desired monster.
+
+At this point, if the transformed monster has special abilities, you can use the #m command to activate those abilities.
+
+For example, if you transform into a Red Dragon, pressing the #m command allows you to attack with fire. If you turn into a Werewolf, you can summon your pack of wolves.
+
+In any case, once you have transformed into a monster, you should use the #m command to check its special abilities. This will make your NetHack experience much more enjoyable.
+
+136
+
+COMMANDS—To walk through the dungeon...

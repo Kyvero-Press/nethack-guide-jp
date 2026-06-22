@@ -1,0 +1,45 @@
+Page 155
+
+helm of opposite alignment
+
+Helmet of Opposite Alignment AC-1
+
+A helmet that dramatically changes your character's attributes. In most cases, it is cursed, so the attribute change will persist until it is removed by a blessed removal spell. Even if you can remove the helmet, the attribute will revert to its original state.
+
+helm of telepathy
+
+Helmet of Telepathy AC-1
+
+Wearing this helmet grants you the ability of telepathy. It might be easier to understand the power of this helmet when using a blindfold.
+
+orcish helm
+
+Orcish Helmet AC-1
+
+A helmet commonly used by orcs and goblins. Although quite heavy, it provides a minimum level of defense.
+
+SHIELDS Shields
+
+Shields are more of an auxiliary piece of equipment. They are more useful in melee combat rather than one-on-one battles. Still, if you don't have a two-handed weapon, it might be better to use a shield.
+
+dwarvish roundshield
+
+Dwarfish Round Shield AC-2
+
+A medium-sized round shield favored by dwarves. It can be considered a fairly ordinary shield.
+
+elven shield
+
+Elven Shield AC-2
+
+An elven-made shield. It is somewhat light and has a decent amount of defensive power. The use of mithril silver likely contributes to its partial strength.
+
+large shield
+
+Large Shield AC-2
+
+A large shield. It is about twice the size and weight of a small shield, and its defensive power is also doubled.
+
+Armors—Armor
+
+153

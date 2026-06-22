@@ -1,0 +1,23 @@
+# Page 035
+
+Priest / Priestess
+
+Priest: Priest
+
+Priests challenge the dungeons of Yendor as a trial to elevate their own faith. Their nature makes them particularly receptive to prayers addressed to the gods compared to any other humans or elves. Additionally, they possess considerable skill in magic—especially in healing. The only class allowed to carry two spellbooks when entering the dungeon is the priest.
+
+As a result of their training, priests have the ability to discern blessings and curses. This ability is highly effective in surviving the dungeons of Yendor. There is nothing more pitiful than seeing an adventurer covered in cursed weapons and armor. Priests will not wear cursed items. This is the greatest favor granted by the gods to priests. Furthermore, like knights, priests can use divine power to annihilate cursed creatures that possess the origin of life in the realm of death.
+
+However, they do not possess notable combat abilities. Yet, their kicks are powerful enough to break treasure chests and sometimes kill monsters with a single blow. Could this also be a divine favor?
+
+Attributes: Neutral
+
+Melee Combat: △
+
+Magic: ○
+
+God: Crom
+
+Class——Occupation
+
+33

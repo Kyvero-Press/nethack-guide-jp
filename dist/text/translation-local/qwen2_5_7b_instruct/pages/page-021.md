@@ -1,0 +1,27 @@
+# Page 021
+
+For example, my NETHACK.CNF is as follows:
+
+OPTIONS=!pickup,number_pad,time
+OPTIONS=98_BIOS,rawio,98graphics
+OPTIONS=name:Avelna-R,female,
+                dogname:Suezow,catname:Patty,fruit:satuma
+HACKDIR=A:\GAMES\NETHACK
+LEVELS=A:\GAMES\NETHACK\BONES
+SAVE=A:\GAMES\NETHACK\BONES;n
+
+In this case, the character's name is Avelna, the class is Rouge, and it is female. The dog's name is Suezow, the cat's name is Patty, and the favorite fruit is satuma (orange). Additionally, it shows that PC-9800 series-specific features are utilized, and NetHack is installed in the directory "A:\GAMES\NETHACK".
+
+Normally, if you want to modify it, you would change the three lines related to character and pet settings. The "-R" after the name indicates the class, and classes correspond to English letters as follows:
+
+AArcheologistBBarbarianCCavemanEElf
+
+HHealerKKnightPPriestRRogue
+
+SSamuraiTTouristVValkyrieWWizard
+
+Regarding fruits, melons, oranges, bananas, apples, and pears already exist in the game, so you need to specify other types of fruits.
+
+Also, for notebook computers or other models without a numeric keypad, you can remove the "98_BIOS" on the second line and the "number_pad" on the first line. This allows you to move the character or specify directions using b,j,n,h,l,y,k,u instead of the numeric keypad. Not doing this would require pressing (NUM) lock each time.
+
+Lastly, note that the last three lines specify directories. These should be the actual drive and directory where NetHack is installed.

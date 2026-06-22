@@ -1,0 +1,41 @@
+# Page 175
+
+Spellbooks 魔導書
+
+Hello, welcome to Laas Louek's rare book shop. Ah, we deal with spellbooks here. The catalog is available, but I can't guarantee the contents of the books themselves. Why not? Well, I can't read Runes. But I can guarantee that all the books here are spellbooks. You can tell they're spellbooks just by looking at them, even if you can't read their contents.
+
+So, which one are you planning to buy? What? Want to see the catalog? Fine, here it is. This is the catalog of spellbooks. It also includes a brief description of the spells. They are supposedly classified by earth-based mages.
+
+Spellbook of cancellation
+
+Power Drain Magic Level 7
+
+This spell has the power to nullify magic power. When used on oneself, it can remove curses from items, but blessings and weapons sharpened by magic will become ordinary. Additionally, it can strip magical effects from living beings (such as leprechauns' teleportation ability).
+
+Spellbook of cause fear
+
+Cause Fear Magic Level 3
+
+A spell that induces panic in monsters. Monsters affected by this spell will try to flee from the caster as quickly as possible.
+
+Spellbook of charm monster
+
+Charm Magic Level 3
+
+This spell charms monsters and tames them. No matter how fierce the monster may be, it will start behaving like the caster's friend as soon as the spell takes effect.
+
+Spellbook of clairvoyance
+
+Clairvoyance Magic Level 3
+
+When this spell is cast, the character can see the terrain within a certain distance around them. Even outside a room or down a passage, they can see the presence of monsters.
+
+Spellbook of cone of cold
+
+Cone of Cold Magic Level 5
+
+A freezing ray emanates from the caster's fingertips. It is effective against ice-type spells.
+
+Spellbook——Magic Book
+
+173

@@ -1,0 +1,48 @@
+Page 170
+
+Ring of searching
+
+Ring of Searching
+
+A ring that makes it easier to discover hidden doors and traps. Just by walking around, you can find these things.
+
+Ring of see invisible
+
+Ring of See Invisibility
+
+Allows you to see monsters that are magically invisible or have invisibility as a quality.
+
+Ring of shock resistance
+
+Ring of Shock Resistance
+
+A ring that protects you from lightning-based magic and electrical traps.
+
+Ring of stealth
+
+Ring of Stealth
+
+This ring allows you to enter a room with sleeping monsters without waking them up. It's a ring that enables stealthy actions.
+
+Ring of teleport control
+
+Ring of Teleport Control
+
+A ring that lets you choose where to teleport to when you do. It seems you can also choose to teleport between floors.
+
+Ring of teleportation
+
+Ring of Teleportation
+
+Suddenly teleports you to a random location without any warning. Without teleport control ability, you cannot choose your destination.
+
+Ring of warning
+
+Ring of Warning
+
+Wearing this ring causes it to emit various colors as a warning when a monster approaches nearby.
+
+168
+
+ITEMS—Dungeons awaiting you
+SOURCE

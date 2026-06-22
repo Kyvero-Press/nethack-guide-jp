@@ -1,0 +1,39 @@
+# Page 103
+
+The creature is large. It was the biggest jackal she had fought.
+
+"Whoa!"
+
+Nasrula let out a cheer.
+
+"Protein!"
+
+Before the jackal could attack, Nasrula lunged forward with all her might, swinging her sword. But it was deflected to the right. Due to hunger, her body lacked strength. Normally, her opponent's neck and torso would have been cleanly severed.
+
+Before Nasrula could reposition her sword, the jackal attacked. Her sword barely blocked the jackal's teeth. The teeth and sword entangled, and the jackal's stench hit Nasrula's nose.
+
+Nasrula retreated while swinging her sword, but it only grazed her ear.
+
+"Fucking hell."
+
+Nasrula continued attacking, but it wasn't going well. She was being pressed back by the jackal's claws and teeth. This wasn't a difficult opponent under normal circumstances, but now it was proving challenging. Her arm lacked the strength to swing the sword effectively.
+
+(If I don't act now, I'll be eaten before I can eat.)
+
+Before her strength ran out, she had to make a final counterattack. She thrust her sword forward and crouched down.
+
+"Come on!"
+
+As Nasrula gathered her strength, the jackal leaped. There was no intention to run away. The jackal intercepted Nasrula's attack with its teeth, halting its movement. The jackal pressed forward, but Nasrula did not yield. Without retreating, she pushed the sword forward.
+
+Her determination to pierce the jackal's flesh was intense. Using all her remaining strength, she pushed against the much stronger jackal.
+
+Feeling the disadvantage, the jackal retreated to increase the distance between them.
+
+"Gotcha!"
+
+Taking advantage of the brief opening, Nasrula swung her sword. Since the jackal had just retreated, it couldn't dodge. The fatal blow shattered the skull, and the brain matter splattered, along with the eyeball that fell out.
+
+Eat
+
+101

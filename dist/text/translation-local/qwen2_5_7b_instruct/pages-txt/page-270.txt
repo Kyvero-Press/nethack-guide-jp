@@ -1,0 +1,19 @@
+Page 270
+
+And to my surprise, this book came into being (laughs).
+
+To recall, it all began when I started searching for interesting free software games to write about for the Game Collection 30 that came out at the beginning of last year. All the games covered in this book were excellent, but NetHack particularly suited my feelings so well that the first time I played it, I found myself losing track of time, having passed an entire day and night.
+
+Also, due to file size constraints, we had to abandon including NetHack with the Game Collection 30, but upon returning, the survey postcards showed that there was a relatively high demand for playing NetHack.
+
+So, rather than just introducing NetHack in a single volume and putting it on a disk, it wouldn't be interesting enough or too trivial. Could we make it more interesting by incorporating various experimental elements... The result of such deliberation led to the creation of this book (laughs).
+
+In a way, one co-author stopped communicating for a while, and when I placed an order for illustrations, the results were something entirely different. This unusually difficult and lengthy writing process from concept to execution took up to nearly a year, but it was quite enjoyable.
+
+For this reason, I would greatly appreciate any feedback you might send. Your voices truly have power.
+
+Now, how will I present myself in front of you all next time? Please look forward to it (surely it will be part 3 of the Game Collection 30, right? I'm not that straightforward of a person). 
+
+268
+
+Have you enjoyed your own hacking?—Afterword

@@ -1,0 +1,25 @@
+Page 135
+
+```
+Phew, that was close.
+
+"Phew, that was close"
+
+Clein breathes heavily as he looks at the trap.
+
+A goblin had fallen into the trap, its sharp fangs bared and it let out a roar of anger.
+
+"Well then, Mike, I'll set some bait for you now."
+
+Mike responds with a pleased chirp.
+
+Clein switches his weapon to an arrow and shoots a poisoned arrow at the goblin.
+
+If you can jump, you can use the #jump command to make your character jump.
+
+By jumping, you will be able to easily escape from monsters and also be able to escape from certain traps. However, if you are wearing Jumping Boots and have too many items, the weight might prevent you from jumping, so be careful.
+
+Jump
+
+133
+```

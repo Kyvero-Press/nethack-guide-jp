@@ -1,0 +1,25 @@
+# Page 244
+
+The energy vortex (energy vortex) is a whirlwind that emits lightning bolts, and anyone caught in the wind will be struck by lightning attacks. The ice vortex has chunks of ice swirling in the wind, and performs attacks with extremely low temperatures. Next are the steam vortex and fire vortex, where those enveloped by them will be attacked by scalding steam and blazing flames, respectively.
+
+Adventurers caught in a vortex not only suffer severe injuries, but there is also a risk of valuable items being destroyed. The lightning from the energy vortex often destroys staves and rings, while the cold from the ice vortex turns potions to ice. The steam and fire from the steam and fire vortices can ignite scrolls and magic books, and even cause potions to boil and explode.
+
+If you encounter them, it would be best to avoid combat, or if you must fight, hide the types of items that the vortex can destroy before engaging in battle.
+
+Worms
+
+baby long worm, baby purple worm, long worm, purple worm
+
+Worms are giant ring-shaped animals. They move through the interior of the dungeon by writhing their massive bodies and immediately attack any living beings they encounter.
+
+In the dungeon, two types of worms have been confirmed.
+
+One is the long worm (long worm), whose copper-colored body is incredibly long. The nerve center of the long worm is in its head, and no matter how much the body is cut, it will continue to attack as long as the head is not crushed. Additionally, the long worm's mouth contains sharp and sturdy fangs that can be crafted into excellent weapons.
+
+The other is the purple worm (purple worm), which, as its name suggests, has a eerie purple body. Although its body length is not as long as the long worm's, its offensive power surpasses that of the long worm. When a purple worm encounters an enemy, it attacks with its fangs and then opens its enormous mouth to swallow the opponent and dissolve it inside its body.
+
+Baby long worms and baby purple worms have also been confirmed, but they are reported to pose no such danger as adult worms.
+
+242
+
+MONSTERS—Monsters wandering the dungeon

@@ -1,0 +1,21 @@
+おかえり
+
+Freesoft library Game Collection Extra
+
+NetHack the RPG\-with FMP & MAG loader\-
+
+企画 · 監修蓮川龍司郎
+
+執筆蓮川龍司郎 鈴木直幸 新木伸 伊庭宗一郎
+
+表紙 CG · 中表紙 CG
+
+AROUND^2
+
+本文イラスト五菱清隆 たか 久納よう子 井上元博 石川恭子
+
+CG久納よう子 五菱清隆 たか 井上元博
+
+音楽KID 上野栞 \(Fiction\)
+
+Special thanx to ...Kzoo ぐう SAM 子安進之介 篠崎砂美 M. Stephenson

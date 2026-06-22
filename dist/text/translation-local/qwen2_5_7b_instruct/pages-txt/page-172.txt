@@ -1,0 +1,33 @@
+Page 172
+
+A scroll that can summon monsters
+
+Scroll of create monster
+
+You can summon several desired monsters. However, the summoned monsters will not obey the summoner. You might also consider summoning them as food when you are hungry. Additionally, you can try to recover hit points by summoning monsters with healing powers.
+
+A scroll that can destroy armor
+
+Scroll of destroy armor
+
+When you read this scroll while wearing some kind of armor, the armor will be destroyed. Whether the armor is magical, blessed, or cursed does not matter.
+
+A scroll that can enchant armor
+
+Scroll of enchant armor
+
+This scroll has the power to make armor or gloves more durable. When you read it, if the armor turns silver, it indicates an increase in its defensive power. However, you must be careful if the scroll itself is cursed, as reading it will curse the armor itself.
+
+Also, there is a risk that the armor may collapse due to excessive enhancement of its defensive power.
+
+A scroll that can enchant weapons
+
+Scroll of enchant weapon
+
+When you read this scroll, the weapon in your hand will glow blue. This light increases the weapon's power and improves accuracy. However, if the scroll is cursed, it not only dulls the weapon but also seals the curse within the weapon.
+
+Furthermore, there have been reports that the weapon may collapse if you attempt to enhance its attack power too much.
+
+170
+
+ITEMS—Dungeons await you with these tools

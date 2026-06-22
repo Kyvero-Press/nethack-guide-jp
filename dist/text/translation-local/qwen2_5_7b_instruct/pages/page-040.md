@@ -1,0 +1,25 @@
+# Page 040
+
+Wizard
+
+Wizard: Magic User
+
+As the name suggests, they are a person skilled in magic arts. They are practically unskilled in close combat, and their preferred weapons are limited to small swords. Moreover, while they have enough stamina to cast basic spells, their physique, which has been shaped by a life of continuous magical research, seems far removed from the term "robust."
+
+When venturing into the dungeon, these magic users carry several magical items. These include one spellbook, one magic wand, and two magic rings.
+
+If they cannot skillfully use these items, it will be impossible for them to survive the dungeon of Yendor with such a frail physique.
+
+However, their diverse array of magical skills more than makes up for their weakness in close combat. Provided you can acquire many spellbooks… That being said. If you find a spellbook in the dungeon shop, you should sell everything you own to buy it. For them to survive, they must learn as much magic as possible. 
+
+Attributes: Neutral
+
+Melee Combat: ×
+
+Magic: √
+
+God: Thoth
+
+38
+
+CHARACTERS—Your Doppelganger Sent into the Dungeon

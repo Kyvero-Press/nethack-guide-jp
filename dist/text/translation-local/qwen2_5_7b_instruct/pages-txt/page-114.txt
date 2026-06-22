@@ -1,0 +1,21 @@
+Page 114
+
+In order to rely on nothing but one's own strength.
+
+"Chrom's fool!"
+
+Tike shouted as he charged at the Mummy.
+
+Tike would eventually realize that his inexperience was causing the Undead's turn to fail, but that is another story.
+
+Turn Undead is a special skill possessed by Priests and Knights. There is a spell with the same name, but its effect is the same, and it can destroy one Undead body. However, while the spell has a limited number of uses, the two aforementioned classes possess this ability innately and can use it unlimited times. Note that there is also a wand called Undead Turning, but this merely instills fear in the Undead and causes them to flee, and its effects differ from those of the skill and spell.
+
+The effect of Turn extends to visible Undead within sight. If you are in a room, all Undead within the room are targets, but if you are in a corridor where you can see only one step ahead, only the adjacent Undead are targets. Additionally, Undead whose location is known through telepathy are not affected even though they are not actually seen. The same applies if you are blind.
+
+Now, whether Turn will successfully destroy the Undead depends on the character level and the monster level. Against Undead that are a few levels lower than yours, Turn is almost guaranteed to succeed. For higher-level Undead, they may resist (regain) the Turn, and the success rate decreases as the level difference increases.
+
+However, considering that no experience is gained from a successful Turn, and that only one Undead can be destroyed per Turn, and that Turn is reliably successful only against Undead that are several levels lower, attacking with your weapon might be more advantageous. Furthermore, blessed weapons hit Undead more easily and deal greater damage. If you have a blessed weapon, you should attack without hesitation.
+
+112
+
+COMMANDS—Walking through the dungeon...

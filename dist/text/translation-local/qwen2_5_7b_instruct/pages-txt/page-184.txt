@@ -1,0 +1,41 @@
+Page 184
+
+key
+
+Key
+
+Various keys. The type is indicated by the part you hold.
+
+lamp
+
+Lamp
+
+Can be used to illuminate dark rooms. No other effects.
+
+large box
+
+Large Box
+
+Similar to a sack, it can store items. However, it seems it has no advantage in carrying due to its considerable weight.
+
+leash
+
+Leash
+
+Enables you to walk with your pet. In other words, you can treat your pet like an item. Even if it gets caught in a teleport trap, the pet will teleport along with the character.
+
+lock pick
+
+Lock Pick
+
+Can open locked doors and large boxes. Many thieves prefer their own skills over credit cards or spare keys and cherish this lock pick.
+
+magic flute
+
+Magic Flute
+
+The soothing sound of the magic flute can put many monsters to sleep.
+
+182
+
+ITEMS—Waiting for you in the dungeon

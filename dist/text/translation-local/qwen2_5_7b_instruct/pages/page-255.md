@@ -1,0 +1,17 @@
+# Page 255
+
+Became talkative and started talking about the dungeon of Yendor.
+
+"The dungeon of Yendor is beyond description with words of terror. No, it was an amazing experience... but..."
+
+When the subject turned to the dungeon, he would either become completely mute or extremely talkative. This time, because he became extremely talkative, I was able to obtain some important information.
+
+First, I asked about the legendary weapons said to be sleeping in the dungeon of Yendor. The rumors of swords forged in ancient times always make our hearts race.
+
+Diores struggled to find the right words to answer my question, scratching his white hair. In an attempt to coax out the words, he drank more alcohol. And the answer that came back from him was somewhat unclear.
+
+Several mutterings of blasphemy against the gods leaked out, and only then did he squeeze out the words from the depths of his heart.
+
+Exchange, First Meeting
+
+253

@@ -1,0 +1,25 @@
+# Page 224
+
+It is indeed fangs. They gain vitality by drinking the blood of adventurers.
+
+An adventurer bitten on the carotid artery suffers not only physical injuries but also mental damage. Their accumulated mental energy is stolen through continuous combat. Mental energy encompasses not just spiritual elements like experience and knowledge, but also the vitality that sustains the body. To have one's energy drained means that the adventurer's abilities will decline.
+
+To guard against vampire attacks, one must prepare items they are weak against, as these items are passed down orally and are strictly forbidden to be written down.
+
+In the hierarchy of vampires, those belonging to a higher rank must unconditionally obey the commands of those above them. Vampire Lords (vampire load) are among the upper echelons of vampires. They are stronger than other vampires and possess greater magical abilities. According to rumors, there may exist a vampire that surpasses even the Vampire Lord, but their true identity has yet to be confirmed.
+
+W  Wraiths
+
+Barrow wights, wraiths, Nazgul
+
+Wraiths are among the very dangerous entities in the dungeons of Yendor. Although their true form remains unknown, their intelligence has been confirmed by several reports. Adventurers have witnessed wraiths attacking prey with a sinister smile. Some say that they were the resentful spirits of those who died without being able to fully die. The resentful spirits trapped in the dungeons of Yendor sometimes take over the bodies of buried kings, and at other times, the resentful spirits themselves materialize to block new adventurers.
+
+The power of resentment is formidable, and even experienced adventurers cannot guarantee their safety despite taking all precautions. Just touching a wraith or having their sword graze an arm can result in the draining of the adventurer's accumulated energy through continuous combat. Arms tremble, strength diminishes. Many adventurers shrink in size, and white hair appears in their hair.
+
+Furthermore, some wraiths can summon strange mists to induce sleep in adventurers or cast spells to inflict wounds upon them.
+
+To fight wraiths, adequate equipment is essential. "If your equipment is insufficient, run away. You should not engage in battle with wraiths until you have absolute confidence. Otherwise, you will be taken in by the wraiths and unable to achieve reincarnation," reads the blood-written text in the training manuals of the adventurer's school.
+
+222
+
+MONSTERS——Monsters that wander the dungeons

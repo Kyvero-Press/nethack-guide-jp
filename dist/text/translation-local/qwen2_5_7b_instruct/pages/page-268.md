@@ -1,0 +1,61 @@
+# Page 268
+
+• Commands to Manipulate Items
+
+A Remove all worn armor
+
+d Drop all items
+
+D Drop some items
+
+P Put on amulet, ring
+
+r Read scroll or spell book
+
+R Remove amulet or ring
+
+T Remove any one piece of armor you are wearing
+
+w Pick up a weapon. Use "w-" to be unarmed
+
+W Wear armor
+
+u Pick up an item from the floor
+
+#n Name an item you are holding
+
+• Commands to Use Items
+
+a Use a tool
+
+e Eat food (or a monster corpse)
+
+q Drink a potion of water
+
+t Throw an object. Or shoot an arrow with a bow
+
+z Strike with a wand. If it's a magic wand, its effect may occur
+
+#d Soak an item you are holding
+
+• Other Actions
+
+^D Kick something (usually a door)
+
+⊞ Carve a message into the floor
+
+p Pay for items bought at a shop
+
+s Search for secret doors or traps (usually requires several searches)
+
+Z Cast a spell
+
+: Show what is on the floor near you
+
+#c Talk to something next to you.
+
+#f Pry open a door with a key
+
+266
+
+List of Commands——Command List

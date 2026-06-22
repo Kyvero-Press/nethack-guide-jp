@@ -1,0 +1,57 @@
+# Page 193
+
+DAGGERS 短剣
+
+It's better to think of daggers as secondary weapons rather than primary ones. Also, since they are easy to throw, there's no harm in carrying a few of them.
+
+athame
+
+アサメ
+
+A short sword favored by mages. It is cast from very hard material, so it doesn't chip. It is very easy to handle, but its power is negligible.
+
+crysknife
+
+クリスナイフ
+
+A knife with a blade length of about 20 centimeters made from meteor iron. Its power and sharpness are said to match those of a greatsword due to the magic within it.
+
+dagger
+
+ダガー
+
+A short sword with a blade length of about 20 centimeters.
+
+elven dagger
+
+エルブン ダガー
+
+A short sword beautifully decorated by elves. Used by races that are too short to wield swords, such as hobbits.
+
+knife
+
+ナイフ
+
+A knife (did anything else come to mind?). One of the weapons you should consider throwing rather than using to hold.
+
+orcish dagger
+
+オーキッシュ ダガー
+
+A short sword favored by orcs. It is likely the most commonly available weapon in Yendor's dungeons. Its power can be guessed.
+
+scalpel
+
+メス
+
+A surgical scalpel. It is a weapon that healers start with, but it's best to switch to another weapon as soon as possible.
+
+wakizashi
+
+ワキザシ
+
+A short sword used as a katana's auxiliary weapon by warriors from the eastern islands. Although it is a short sword, it boasts considerable power.
+
+Weapons—武器
+
+191

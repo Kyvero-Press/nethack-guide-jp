@@ -1,0 +1,37 @@
+# Page 073
+
+She had been on the verge of being killed. In her current state where her wounds had not yet healed, it was clear that she would become an ogre's meal.
+
+She faced the wall.
+
+"Are you going to give up?"
+
+Nasrula remembered the words of Nealko the Master.
+
+Nealko the Master had explored many uncharted lands as an adventurer, including the Sea of Chaos, and achieved great success in adventurer education even after retirement. Countless famous adventurers such as Narktik who explored Eclipso Mountain and L'Yorlachien Ranger who revealed the full extent of the Farmandon Caverns were among his disciples.
+
+He was also Nasrula's mentor at the adventurer training school. Nealko the Master taught Nasrula the skills necessary for an adventurer. The techniques he taught were perfectly useful in the dungeon. In fact, without his techniques, it would have been impossible to survive in the dungeon.
+
+That man gave a final lecture to all graduates before their graduation.
+
+"Do not give up."
+
+Nealko the Master peered into the eyes of his disciples.
+
+"In the dungeon, those who give up lose. Whether your stamina is low or you are surrounded by monsters and at a dead end, you must not give up."
+
+"Master!"
+
+Nasrula raised her hand. Her companions frowned and stared at Nasrula. It was the greatest disrespect to interrupt a teacher's speech in the training school. Some teachers might even hit the student who interrupted. However, Nealko the Master merely chuckled slightly.
+
+"What is it?"
+
+"I have a question."
+
+"Go ahead."
+
+"I agree with what you said about not giving up. But there are times when it truly seems impossible. For example, when surrounded by monsters on all sides with no escape route, or when fighting is futile. What should one do in such situations? Should one really give up?"
+
+Dungeon Exploration
+
+71

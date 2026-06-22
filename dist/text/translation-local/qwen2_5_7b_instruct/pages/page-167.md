@@ -1,0 +1,25 @@
+# Page 167
+
+Potion of speed
+
+Speed Increase Potion
+
+This potion doubles the movement speed of the one who drinks it. Naturally, the distance moved and the number of attacks also double. Additionally, it can heal injured feet for some reason (kicking a wall, stepping on a land mine, etc.).
+
+Water (clear potion)
+
+Water
+
+Water is classified into three types. First, ordinary water. This provides a slight effect to cure hunger. Next, cursed water. Immersing any item in this will curse it, but if the character's attribute is chaotic, drinking it will restore a few hit points. Lastly, holy water. This damages demons, undead creatures, or those with a chaotic attribute. Furthermore, immersing a cursed item in holy water can remove the curse.
+
+Rings —— Finger Rings
+
+Welcome to the Ring Jewelry Shop.
+
+We have a wide variety of magical rings to satisfy your needs. What kind of ring would you like? The Alluring Ring will greatly enhance your charm. The Ring of Strife will become more and more necessary as you delve deeper into the dungeon. Of course, we also have catalogs that clearly explain the effects of each ring, which you may freely read.
+
+One thing you should be careful about is that actual effective magical rings use the wearer's energy directly. Therefore, wearing a magical ring results in high energy consumption... in other words, your hunger will increase more rapidly. If you don't have food, it's better to take them off as much as possible. 
+
+Rings —— Finger Rings
+
+165

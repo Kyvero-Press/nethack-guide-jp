@@ -1,0 +1,40 @@
+# Page 134
+
+Mike gives a resentful cry to the repentant Klein.
+
+"Are you saying sorry? Anyway, this Klein is interesting. With these jumping boots, it seems I could move faster than you."
+
+Shaking his head at Klein's satisfied expression, Mike moved to a corner of the room. It seemed he had made a wise judgment to stay away from his fidgety master for now.
+
+As Mike approached the door, he turned around. Klein was still hopping around excitedly in the jumping boots. Mike looked around for something nearby that might be fun to play with, but found nothing more than a rotting jackal corpse.
+
+At that moment, Mike caught a whiff of a beast-like odor while scanning his surroundings.
+
+Just as Mike turned to look, a huge foot came down in front of him.
+
+Gyaar!
+
+Fortunately, Mike dodged quickly, but his recently stepped-on tail was stepped on again, causing him to scream in pain.
+
+"What's wrong, Mike?"
+
+Looking at Mike, Klein saw him running towards him desperately.
+
+Behind Klein was a large shadow.
+
+"Oh, Ohgga!"
+
+Seeing the approaching Ohgga, Klein took a step back.
+
+Suddenly, the ground beneath Klein's feet crumbled. Klein's body fell into a deep pit.
+
+Painfully, Klein looked up to see Mike peering down at him from the edge of the pit.
+
+"F***. A trap at a time like this... wait, if I use this..."
+
+As the sound of Ohgga's footsteps grew closer, Klein concentrated all his strength in his legs and pushed off the ground. Floating in mid-air, Klein's body leaped over the pit and landed in front of Mike. The loud thud echoed through the dungeon.
+
+---
+
+COMMANDS—To walk through the dungeon...
+---

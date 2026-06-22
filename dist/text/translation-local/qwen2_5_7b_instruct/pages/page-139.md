@@ -1,0 +1,35 @@
+# Page 139
+
+Wipe Face
+
+"What the hell is going on!"
+
+Clain was running through the dungeon.
+
+His and Mike's bodies were covered in large amounts of white cream and torn pie crust.
+
+Reaching the door of the room, as he tried to open it, the lock was already secured. Quickly pulling out a lockpick, Clain began to pick the lock.
+
+From behind the door that Clain had entered, strange men in odd clothing started running out. The moment they spotted Clain, they began throwing cream pies at him. One of the pies hit Clain's face directly as he turned around.
+
+"Ugh"
+
+Clain wiped the cream that stuck to his face with his right hand. Mike vigorously shook his head from side to side, trying to knock off the pie.
+
+(Maybe it was a mistake to bring those?)
+
+As Clain opened the door, he muttered.
+
+---This bizarre escape began with an incident at a certain store.
+
+"Welcome, Clain! You always come to Tom's scroll shop."
+
+When Clain, exploring the dungeon, opened the usual door leading to the room, he was greeted by a cheerful voice.
+
+Standing in front of the surprised Clain was an elderly man who appeared to be quite old and short. From the hem of the black robe wrapped around his body, his wrinkled face and emaciated arms resembling withered branches could be seen.
+
+Behind the elderly man, who wore a static smile, there were countless scrolls carelessly laid out on the ground. Clain cautiously stepped into the store and picked up one of the scrolls near his feet. The elderly man immediately told Clain the price of the scroll he had picked up.
+
+"It's expensive. What kind of scroll is this?"
+
+Clain unfolded the scroll and began muttering words that made no sense as he traced them.

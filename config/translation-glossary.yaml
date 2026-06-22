@@ -1,0 +1,17 @@
+terms:
+  NetHack: NetHack
+  ネットハック: NetHack
+  イェンダー: Yendor
+  魔窟: dungeon
+  ティケ: Tike
+  エクスカリバー: Excalibur
+  ミスリル: mithril
+  チェインメイル: chain mail
+  プレートメイル: plate mail
+  ハワイアンシャツ: Hawaiian shirt
+  ピックアップ: pickup
+style:
+  - Preserve page boundaries and headings.
+  - Translate faithfully; do not summarize or add content.
+  - Preserve item names in English when the Japanese page gives an English item heading.
+  - Keep game command names, item names, AC values, and numbers literal.

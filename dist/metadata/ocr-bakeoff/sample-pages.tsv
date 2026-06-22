@@ -1,0 +1,13 @@
+page	image	page_type	reason
+001	cropped_nethack_uncropped_cover.png	cover	Cover/front matter with decorative layout, English title text, ISBN, and quoted disk-size text.
+002	cropped_nethack_uncropped_openpages_1_2_3-1_left.png	front-matter	Copyright/notice page with dense small Japanese prose.
+005	cropped_nethack_uncropped_tocpage-1.png	toc	Table of contents with mixed English/Japanese headings and page numbers.
+011	cropped_nethack_uncropped_both_sides_ordered-005.png	license-prose	Clean Japanese prose license page; good fidelity smoke test.
+016	cropped_nethack_uncropped_both_sides_ordered-010.png	instructions	Command/instruction prose with PC-98 text and punctuation.
+050	cropped_nethack_uncropped_both_sides_ordered-044.png	command-prose	Mixed command explanation and narrative prose with small command glyphs.
+100	cropped_nethack_uncropped_both_sides_ordered-094.png	prose	Dense narrative prose page.
+150	cropped_nethack_uncropped_both_sides_ordered-144.png	item-list	Mixed English item names, Japanese item names, and descriptions.
+160	cropped_nethack_uncropped_both_sides_ordered-154.png	item-list	Armor/food page with English item labels and Japanese prose.
+200	cropped_nethack_uncropped_both_sides_ordered-194.png	item-list	Weapon/item list with English and Japanese terms.
+240	cropped_nethack_uncropped_both_sides_ordered-234.png	monster-list	Monster prose/list page with romanized monster names.
+274	cropped_nethack_uncropped_both_sides_ordered-268.png	colophon	Colophon/legal/contact page with names, address, ISBN, and mixed layout.

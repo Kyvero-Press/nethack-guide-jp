@@ -1,0 +1,18 @@
+{
+  "models": [
+    {
+      "slug": "qwen2_5_3b_instruct",
+      "model": "Qwen/Qwen2.5-3B-Instruct",
+      "backend": "vllm",
+      "port": 8001,
+      "notes": "Cached locally; small and fast baseline."
+    },
+    {
+      "slug": "qwen2_5_7b_instruct",
+      "model": "Qwen/Qwen2.5-7B-Instruct",
+      "backend": "vllm",
+      "port": 8001,
+      "notes": "Cached locally; stronger multilingual baseline but higher VRAM."
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+Page 062
+
+She, however, does not enter the dungeon from the beginning.
+
+(This is a trial)
+
+Nasrula thinks.
+
+(If I cannot break through here, I will not be able to survive in the future)
+
+She touches the door.
+
+Taking a deep breath, she opens the door.
+
+The monsters' gazes converge on Nasrula as she jumps into the room. A strange scream rises, and the monsters sitting on chairs stand up. An orc wields a sword and intimidates her.
+
+Nasrula raises the flame wand. The wand glows crimson.
+
+"Go ahead!"
+
+Flames writhing like snakes burn the monsters. Screams echo through the room, and a foul smell assaults the nose. Corpses roll like wood and disintegrate.
+
+Even though there is a room in front of her, she cannot enter or advance. This is because she has not opened the room's door. To open the door, you need to press key ① and specify the direction of the door. When the door opens, a message appears, and you can freely enter and exit.
+
+Usually, it opens with one try, but if the door is poorly made, it may not open easily. In that case, try several times. By the third or fourth attempt, if the key is not engaged, it should open.
+
+A door with a key needs to have the key removed first. There is a high chance that your effort to open it will be in vain without a key. It would be better to stop or find another way to open it.
+
+To close an opened door, press key ③ and specify the direction of the door. The door will close, and you will no longer be able to enter or leave the room. Although this is used less frequently than opening a door, it is effective when escaping from a monster without hands. Please try it when you feel it's dangerous.
+
+60
+
+COMMANDS—To walk through the dungeon...

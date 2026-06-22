@@ -1,0 +1,118 @@
+{
+  "renderer": "make_translated_pdf_prototype.py",
+  "strategy": "hybrid-image-background-surya-text-block-whiteout-page-translation-flow",
+  "output_pdf": "dist/pdf/nethack-guide-qwen2_5_7b-translated-prototype-sample.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "source_image": "cropped_nethack_uncropped_cover.png",
+      "text_boxes": 10,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 299
+    },
+    {
+      "page": 2,
+      "source_image": "cropped_nethack_uncropped_openpages_1_2_3-1_left.png",
+      "text_boxes": 2,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 498
+    },
+    {
+      "page": 5,
+      "source_image": "cropped_nethack_uncropped_tocpage-1.png",
+      "text_boxes": 7,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 354
+    },
+    {
+      "page": 11,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-005.png",
+      "text_boxes": 11,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 1647
+    },
+    {
+      "page": 50,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-044.png",
+      "text_boxes": 18,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 1298
+    },
+    {
+      "page": 100,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-094.png",
+      "text_boxes": 15,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 1804
+    },
+    {
+      "page": 150,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-144.png",
+      "text_boxes": 26,
+      "font_size": 7.5,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 1682
+    },
+    {
+      "page": 196,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-190.png",
+      "text_boxes": 13,
+      "font_size": 6.5,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 481
+    },
+    {
+      "page": 200,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-194.png",
+      "text_boxes": 28,
+      "font_size": 6.5,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 1383
+    },
+    {
+      "page": 233,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-227.png",
+      "text_boxes": 11,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 2146
+    },
+    {
+      "page": 240,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-234.png",
+      "text_boxes": 16,
+      "font_size": 8.0,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 2055
+    },
+    {
+      "page": 274,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-268.png",
+      "text_boxes": 11,
+      "font_size": 7.5,
+      "remaining_tokens": 0,
+      "used_fallback_box": false,
+      "translation_chars": 1423
+    }
+  ],
+  "page_count": 12,
+  "fallback_pages": [],
+  "overflow_pages": []
+}

@@ -1,0 +1,21 @@
+# Page 099
+
+Kicking monsters deals damage to them. In particular, the "kick" of a Samurai and Priest is powerful, and they can knock down monsters in shallow layers with a single kick.
+
+Normal doors can be opened with the o command, but to open a door that is locked, you have to use a key, credit card, or break it with a kick. However, once a door has been broken with a kick, it cannot be closed again. It would be wise to refrain from breaking a door if you plan to use it later, especially if you need a secret room. Kicking a wall will only hurt your feet, but if it's a hidden door, you can break it like a visible door.
+
+Kicking an item usually causes it to move in the direction you kicked it. However, kicking a potion may cause it to break due to the impact, so it's best to avoid doing so. The distance an item moves depends on its weight and your strength (heavier items won't move). Also, keep in mind that kicking a treasure chest can destroy its key.
+
+#f #1
+
+Force, Loot Open, Examine Contents
+
+"Enough already! Ugh!"
+
+Tike growled as he swung his sword at the ogre in front of him. Excalibur easily split the ogre's torso, and the upper body fell back with a clean cut. Over the corpse, another monster emerged. This time, it was a demon enveloped in flames.
+
+Tike's surroundings were filled with the corpses of monsters. He had lost count of how many there were.
+
+"!"
+
+Tike blocked a dragon breath attack from a distance with his shield. The Blue Dragon's "Thunder Breath" reflected off the mirror-like surface of his shield, striking several monsters.

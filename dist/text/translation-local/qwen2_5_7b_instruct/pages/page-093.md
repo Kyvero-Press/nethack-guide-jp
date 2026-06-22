@@ -1,0 +1,25 @@
+# Page 093
+
+I didn't want to throw it away. I wanted to carry it with me until I returned to the surface.
+
+However, the dungeon has reached level 24. Although we defeated the Medusa, there are surely more monsters like her waiting ahead. We had no choice but to leave them behind to survive the battles.
+
+Narsula hugged the armor tightly before slowly placing it on the ground.
+
+The T and A commands are used to remove armor.
+
+The T command is used to remove one piece of armor at a time. If you are wearing a single piece of armor, that piece will be removed. If you are wearing multiple pieces of armor, it will ask which piece you want to remove. Enter the alphabet corresponding to the armor you wish to take off, such as K for chain mail, B for shield, M for gauntlets, or H for helm, and it should come off unless it is cursed. If you don't know which piece of armor to remove, try entering 1 to check the armor list and then enter the corresponding alphabet to remove the armor.
+
+The A command is used to remove all armor at once. Press 2 if none of your armor is cursed, and all armor should come off. Enter 3 to remove your weapon and become bare-handed.
+
+To remove a ring, use the R command. If only one hand has a ring, press 4. If both hands have rings, make sure to check which one you want to remove. Unless it is cursed, the R command should easily remove the ring.
+
+Throw
+
+Blood splatters on the dungeon floor.
+
+Clain panted heavily as he pulled his short sword out of the goblin's body. The dead goblin collapsed onto the floor, having lost its support.
+
+"Ah well, I messed up this time."
+
+Clain touched his right shoulder and felt the leather armor torn through, revealing the raw flesh underneath.

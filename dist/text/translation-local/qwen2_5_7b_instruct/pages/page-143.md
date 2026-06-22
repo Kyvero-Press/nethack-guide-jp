@@ -1,0 +1,45 @@
+# Page 143
+
+They were facing off with weapons. One was Reglos, a regular customer known as the Drunk Priest. The other was Layla, a Walhalla warrior with a refined northern appearance.
+
+"Even if you are a woman, those who insult my god shall not be forgiven!" Reglos raised his voice, slightly nasal from the alcohol.
+
+"Here we go again. It always happens when he's drunk."
+
+Clein muttered to himself.
+
+"Hey Clain. Regy has been a childhood friend since we were kids, try to help him out. The opponent is Walhalla warrior Layla."
+
+Clain gave Groth a worried look as he hurried back.
+
+"Help him out, huh. When he gets drunk... "
+
+While they were talking, Reglos and Layla's swords clashed twice or thrice, sending sparks flying. The customers gathered around Reglos and Layla didn't try to stop them; instead, they started betting on which one would win. They were shouting encouragement or insults to the person they had placed their bets on.
+
+"Groth, use this."
+
+The woman threw an old lantern at Groth.
+
+"Oh, a magic lamp!"
+
+"In return, I'll clear all your debts."
+
+Groth grinned and nodded, rubbing the lamp in his hand. Dark gray smoke began rising from the lamp. The smoke spread and formed the shape of a large man.
+
+"...At your service, my lord."
+
+A deep voice echoed from the large man's mouth.
+
+"Jin, throw out the two causing a commotion over there."
+
+"As you wish."
+
+Jin casually approached Reglos and Layla, grabbed both by the collars with his thick arms, and tossed them through the open door without any trouble. 
+
+"Thanks for that."
+
+The woman poured some drink into Clain's cup.
+
+"What's your name? I'm Clain."
+
+rubbing

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "image": "/home/tay/projects/nethack-guide-jp/dist/metadata/translation-pdf-prototype/previews/sample-page-200-09.png",
+  "spec_id": null,
+  "components": [
+    {
+      "id": "auto_1",
+      "role": "unknown",
+      "box": [
+        92,
+        425,
+        617,
+        474
+      ],
+      "source": "detector",
+      "label": null,
+      "score": 1.0,
+      "meta": {
+        "area": 4408
+      }
+    }
+  ],
+  "checks": [],
+  "issues": [],
+  "summary": {
+    "pass": 0,
+    "fail": 0,
+    "warning": 0,
+    "needs_review": 0,
+    "error": 0
+  },
+  "diagnostics": {
+    "used_fields": [
+      "image_pixels",
+      "auto_detection"
+    ],
+    "warnings": [],
+    "detected_count": 1
+  },
+  "artifacts": {
+    "annotation": "/tmp/pi-ui-feedback-1UFfRZ/annotation.png",
+    "markdown": "/tmp/pi-ui-feedback-1UFfRZ/report.md"
+  }
+}

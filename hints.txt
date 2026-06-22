@@ -1,0 +1,23 @@
+lets refine the cropping a little more. I have some hints that may be helpful.
+
+   First of all, the gray color in the approximate range of #f6f6f4, #f5f5f3, and #f4f4f2 at the left and right edges are the scanner bed. The beige in the approx range of fbf8f1, faf9f5 is the actual sheet of
+   paper. A faint shadow is often visible at the edge of the page. Additionally, the way the scan worked, the top of the scan is normally closer to the top of the page than the sides or bottom - often an
+   insignificant part of the margin on the top of the page is cut off in the scan. this means that you cannot reliably determine the geometry of the page based on the top since part of it is often occluded.
+
+   Second of all, one side of the sheet is often slightly ragged from the debinding process. For example, on pdf160, it is showing the back of a sheet (or left-hand side when the book is opened), which can be
+   determined by the fact that the right side is slightly ragged.
+
+   Additionally, the scanner has an artifact where it sometimes stretches the last few lines of pixels after the page has ended, often stretching a shadow of one corner of the page that is skewed lower than the
+   other, sometimes stretching content of the page that bleeds to the very edge of the page. This stretching is visible on page pdf011 and most other pages. However, it does not appear to have happened on
+   pdf016.
+
+   Now, we want to deskew/unrotate the page so that the following things are true as a priority:
+   - the text baseline and any long horizontal lines (eg section separators) are 100% horizontal and any long vertical lines are 100% vertical. this is the most important factor since it is what determines if
+   the page looks correct to the reader. It is important that this is very exact
+   - the edges of the paper are vertical/horizontal (this should help you determine the orientation, but will not ultimately be important and could be misleading
+
+   And then, we want to crop the page so that the edge of the page is not visible. Think of it like a trim in printing. We can assume that a few mm of the edges are bleed that can safely removed. And what we
+   want to end up with is a set of pages that are consistent as relates to the margins (however, you must take into account the fact that since it was a book, inner margins should be consistent with other inner
+   margins, and not for example left-margins consistent with left-margins). For example, the page number should always be a consistent distance from the relevant corner, and the body of the text should be
+   basically consistent in its placement on the cropped page (again taking into account the fact that there are inner and outer margins, not left and right). All cropped pages outside of the first few special
+   pages/cover should be the exact same size

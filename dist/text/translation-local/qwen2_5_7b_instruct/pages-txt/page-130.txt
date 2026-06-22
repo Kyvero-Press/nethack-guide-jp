@@ -1,0 +1,27 @@
+Page 130
+
+"Such a power beyond my control! I wanted to shout, but I restrained myself. I remembered the rumor that the guardman Coloesas was looking for is a robust warrior."
+
+Beings that can teleport can eat them or acquire teleportation ability by taking a certain ring. To teleport, press the Ctrl key while typing 't'. However, just having the teleportation ability alone does not allow you to teleport to your desired location. The ability to control teleportation must be obtained through another method. Also, skilled mages can learn to control teleportation.
+
+However, there are times when you cannot control your own will to teleport, and at other times, teleportation ability activates suddenly without your desire. If teleportation occurs suddenly while shopping, it would be a tragedy (or a comedy).
+
+But, if you use teleportation instead of fleeing during combat to escape, or to save movement points, you can freely run around the dungeon. This advantage is hard to give up.
+
+Although this teleportation ability is very convenient, it has one major weakness. Teleportation consumes a lot of stamina. Even if you are full, you may become hungry after teleporting a few times. Please be careful about this point.
+
+# s
+
+Sit - 座る
+
+The dungeon was filled with a stench reminiscent of rusted iron blood.
+
+Standing among the piled corpses of goblins and oaks, Klein panted heavily. Klein's armor was drenched in deep red from the splattered blood.
+
+"Strange room, Mike"
+
+128
+
+Commands - For walking through the dungeon...
+SOURCE
+>>>

@@ -1,0 +1,28 @@
+# Page 118
+
+Engrave write
+
+"Ugh, there's nothing here, isn't it"
+
+Standing in the center of the dimly lit room, Tike let out a disgruntled voice.
+
+Having descended the stairs to this floor, this is the third room he has come to, but there is absolutely nothing here. No items have fallen, no treasure chests are present.
+
+Until now, every room he had checked was dark, so time was wasted just confirming that "nothing" was there. If a monster had appeared, Tike wouldn't have been as upset. Most monsters can be eaten after being defeated.
+
+"Still, it's nice to have a peaceful moment like this sometimes"
+
+Tike muttered to himself, letting down his backpack from his shoulder. Having walked around quite a bit, he had been feeling hungry for some time. From the jumbled contents of his pack, Tike took out a K ration packet. He had picked up one recently and saved it, looking forward to tasting it.
+
+Tike also thinks that the food situation in the dungeon is not bad at all. However, that's without considering the taste.
+
+"Oh, no"
+
+Tike realized he had left the door open. Previously, he had once failed to notice a monster approaching while engrossed in eating. With the rusted hinge, Tike forced it shut and looked down at the words written on the floor. They were carved with a sword or something, in strong male handwriting: "It's not a good idea to slash at the Acid Blob." The name must be "Yoshitane," as his signature is readable.
+
+"Mr. Yoshitane... A strange name"
+
+116
+
+COMMANDS—To walk through the dungeon...
+SOURCE

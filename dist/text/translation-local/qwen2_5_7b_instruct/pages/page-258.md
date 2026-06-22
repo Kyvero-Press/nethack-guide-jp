@@ -1,0 +1,14 @@
+# Page 258
+
+"It is to offer sacrifices at the altar of the god you belong to. Continue offering the bodies of the monsters you slay. The larger and more powerful the sacrifice, the greater the回报 will be. When four-leaf clovers fall, it means the gods have accepted your offerings. By doing this, you can gain the favor of the gods. You can even communicate with them, and they might even bestow a legendary sword upon you. I did not receive such favor."
+
+It seems that on Yendor, the power of the gods increases compared to our world. Only a handful of priests can communicate with the gods on the surface, and even they cannot receive gifts from the gods.
+
+When he could not find the altar of the god he was offering sacrifices to, the question arose as to what he should do.
+
+"Any god will do. First, find the altar. Just keep offering sacrifices to it. Of course, to the god you worship. If the power of the god you worship is strong, the altar will transform. For example, turning into Morrigan's altar,"
+
+256
+
+INFORMATIONS——To Overcome the Dungeon
+SOURCE

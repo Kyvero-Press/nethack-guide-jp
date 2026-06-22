@@ -1,0 +1,39 @@
+# Page 187
+
+Tinning Kit
+
+Can opener
+
+A magical tool that makes it easy to open cans that take a considerable amount of time to open. Note that this tool is heavy.
+
+Whistle
+
+Whistle
+
+Blowing this whistle will cause your pet to start moving towards you. However, other monsters will also become aware of the location where the whistle was blown, so be cautious.
+
+Wands - Wand
+
+Hello, glad to see you. Welcome to Dax's wand shop. What can I do for you? Even if you're not a mage, these wands can give you a taste of magic. There are even wands like "Wand of Wish" that can produce any item. Take your time and browse. Oh, and be careful with the "Wand of Nothingness." It has no power at all.
+
+Wand of cancellation
+
+Wand of Disruption Magic
+
+This wand contains the power to nullify magical power. Monsters pointed at by this wand will lose their special abilities. For example, you can make a leprechaun lose its teleportation ability.
+
+Wand of create monster
+
+Wand of Monster Creation
+
+It summons monsters. Useful when you don't have food.
+
+Wand of cold
+
+Wand of Cold
+
+It emits freezing rays. When the rays hit a monster, they can deal significant damage.
+
+Wands - Wand
+
+185

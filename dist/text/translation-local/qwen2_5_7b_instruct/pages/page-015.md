@@ -1,0 +1,23 @@
+# Page 015
+
+Then, various messages will appear on the screen, essentially indicating that the NetHack program is being expanded onto the "boot disk". If instructed to change disks halfway through, please put the "data disk" into drive A. The CG and other data will be expanded onto the data disk.
+
+Afterwards, if EMS is available, it would be good to copy the EMS driver you usually use onto the boot disk and set it up in CONFIG.SYS. Although the specifics of how to do this would get into individual instructions, we will omit them here.
+
+■ Installation on a Notebook Computer (RAM Drive)
+
+On a notebook computer, you can play NetHack somewhat comfortably if you make good use of the RAM drive (if there is an internal hard disk, installing to it would be better). The basic installation method is the same as with floppy disks, but there are still several things to keep in mind.
+
+First, before starting the installation, you need to save the contents of the RAM drive. If the contents of the RAM drive can be lost without issue, you can start by booting while pressing the HELP key to display the 98 Notebook menu, then selecting "RAM Drive → Floppy Disk Copy" to move the RAM drive's contents onto one floppy disk.
+
+Next, set the MS-DOS system disk in the floppy drive and choose "Auto Mode" to boot. After booting, set a new floppy disk in the floppy drive and...
+
+From this state,
+
+FORMAT B: /M /S
+
+should be entered and the key pressed.
+
+Install——Installation
+
+13

@@ -1,0 +1,25 @@
+# Page 225
+
+X Thon
+
+xorn
+
+A mysterious monster.
+
+While not as powerful as dragons, the lack of information about them is extraordinary compared to ordinary monsters. The only things that are certain are that their weapons are claws and fangs, and they have incredibly thick skin. Beyond that, reports and rumors are relied upon.
+
+Reports regarding their ability to pass through walls are included among the unreliable ones. According to one adventurer, they possess the ability to pass through walls. He was resting in a room to heal his wounds, and the room had only one door, which was locked. There were mechanisms set up so that if the monster tried to open the door, it would trigger and alert him to the presence of the monster. Thus, he rested in peace. However, Thon interrupted his rest. Fortunately, he managed to escape before making eye contact with Thon, so he did not suffer fatal injuries. Nevertheless, it remains unknown how Thon entered and attacked him, as he opened the only door when fleeing, and there were no signs of tunneling. Desperate, he wrote in his adventurer's diary, "It may have passed through the door."
+
+Since this report by the adventurer, there have been many similar reports of attacks by Thons. However, because these stories are too unbelievable, they are not recorded in official reports. They remain mere rumors.
+
+It seems it will take quite some time for a brave adventurer to accurately report on their ecology.
+
+Y Yeti
+
+yeti
+
+The ecology of yetis has been well-documented and can be found in detailed descriptions at the adventurer training school library. They have a large body, comparable to giants in size and strength. Their entire body, except for part of their face, fingers, and soles of their feet, is covered in white fur. Their skin is thin, and even a sword wielded by an adventurer can penetrate it. It has been confirmed that they possess intelligence, though at a low level. They cannot read or use many words for conversation. They often travel in groups of 10 to 20, but do not hunt in groups; they mostly act alone when seeking food.
+
+Undead, Thon, Yeti
+
+223

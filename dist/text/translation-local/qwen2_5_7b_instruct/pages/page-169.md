@@ -1,0 +1,47 @@
+# Page 169
+
+Ring of Levitation
+
+Ring of Levitation
+
+When this ring is worn, you can levitate. It allows you to avoid most traps, but you will no longer be able to pick up items that fall on the ground.
+
+Ring of Poison Resistance
+
+Ring of Poison Resistance
+
+A ring that grants resistance to poison. While it prevents sickness from eating rotten food, you can still remain healthy even if you eat a corpse with poison, such as a kobold.
+
+Ring of Polymorph
+
+Ring of Polymorph
+
+Wearing this ring causes random polymorphs without any warning. Since the type of monster you transform into is random, there is a great risk involved.
+
+Ring of Polymorph Control
+
+Ring of Polymorph Control
+
+If this ring is worn during polymorph, you can control the transformation. Transforming into powerful monsters like a red dragon or minotaur might not be a bad idea.
+
+Ring of Protection
+
+Ring of Protection
+
+A ring that increases your defense. Even the best ones can provide defense comparable to chain mail.
+
+Ring of Protection from Shape-Changers
+
+Ring of Protection from Shape-Changers
+
+A ring that prevents shape-change disease caused by attacks from various parasitic creatures.
+
+Ring of Regeneration
+
+Ring of Regeneration
+
+A ring that regenerates one hit point per step taken. However, your hunger increases tremendously each time you regenerate.
+
+Rings——指輪
+
+167

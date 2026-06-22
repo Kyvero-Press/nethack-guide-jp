@@ -1,0 +1,23 @@
+# Page 038
+
+Tourist
+
+Tourist: Traveler
+
+The tourist is just a regular person. They have no notable abilities. Why did they come to this terrifying dungeon? There is no room for debate. They came to the famous Yendorian dungeon as tourists!
+
+Their main weapon is darts, but their camera could be considered their true weapon. The flash of this expensive camera can blind monsters living underground who are not accustomed to bright light.
+
+Moreover, the Hawaiian shirts they wear—their only armor—are something shopkeepers should beware of, as they might try to disguise themselves as camouflaged creatures. Additionally, they carry credit cards, but cash is the only form of payment accepted in Yendor's dungeon. However, there is no need to worry about the tourist's funds. They possess a large amount of cash. Perhaps they plan to buy souvenirs in the dungeon.
+
+They also carry a magic mapping scroll—a scroll that reveals the dungeon's layout. If by any chance they were to conquer the dungeon, it would be a great shame for Yendor.
+
+Attributes: Neutral
+
+Combat: None
+
+God: Chih Sung-tzu
+
+36
+
+CHARACTERS—Your avatar sent to the dungeon

@@ -1,0 +1,21 @@
+# Page 228
+
+Ants among them are those that inflict pain on adventurers with heat and flames when bitten, becoming a more dangerous existence than generally thought. The training manuals at the adventurer's training facility also state, "Do not underestimate insects. In the early stages of adventure, they will likely be the most formidable enemies."
+
+Their danger lies in their tendency to act in groups. Like insect monsters, ants often hunt in groups, frequently attacking adventurers as a group. If an adventurer is struggling to defeat a single ant, they may find themselves with no escape route, completely surrounded and torn apart. Corpses ravaged by ants can be found scattered throughout the dungeon.
+
+In this way, insects are a dangerous presence for adventurers, but occasionally bring about tremendous good fortune. When encountering large numbers of bees, one must not retreat. Several reports confirm that they can bestow powers beyond imagination upon victory.
+
+b Liquid Creatures
+
+acid blob, quivering blob, gelatinous cube
+
+These mysterious beings are covered entirely in liquid or foam. They are born through the magic of Yendor and can only survive within the dungeon. Their shapes vary, sometimes forming small spherical blocks or cubes. Generally, they are smaller than humans, but there are rare instances of individuals larger than humans, surprising adventurers. Their eyes and ears are mostly black, emitting a smell akin to rotting fish.
+
+Their attacks are carried out using parts of their bodies. Some creatures corrode swords and armor with acid foam, dissolving adventurers' bodies, while others can tear through opponents' bodies with a touch. Occasionally, they paralyze their targets, leaving them unable to act. While wounds themselves are rarely fatal, the unpleasant sensation remains. During combat, one can be entangled by their sticky bodies, even if successfully defeated, the foul odor persists. To completely eliminate them, one must wash their body with clean water for at least three days.
+
+Adventurers have also devised ways to combat their foul odor, resulting in entire books dedicated to the subject. The efforts of predecessors are detailed in the "Several Strategies for Maintaining Cleanliness in the Dungeon" found at the adventurer's training facility.
+
+226
+
+MONSTERS—Monsters Roaming the Dungeons

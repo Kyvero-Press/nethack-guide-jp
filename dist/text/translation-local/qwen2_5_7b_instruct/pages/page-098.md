@@ -1,0 +1,25 @@
+# Page 098
+
+It would be fine if we could just kick it apart!
+
+Tike turned around and ran back, kicking the chest with all his momentum.
+
+At that moment.
+
+"Kyaah!"
+
+A thunderous sound accompanied by a pillar of fire rose from the chest, enveloping Tike's feet.
+
+The chest had a trap set on it.
+
+"Ach, ach, chichi-chi..."
+
+After burning his feet, Tike managed to pick up several dozen scrolls.
+
+Of course, they were all completely blackened and charred.
+
+There are several ways to use the k command. You can kick monsters, structures like doors and walls, or items. In each case, the procedure is the same: input (k) and then indicate the direction with the number keys. However, when you kick something other than a monster, it is common to injure your feet, especially at low levels. When injured, you lose hit points and your dexterity decreases. It will heal naturally over time, but during this period, the weight of the items you can carry decreases, making things rather troublesome.
+
+96
+
+COMMANDS—To walk through the dungeon...

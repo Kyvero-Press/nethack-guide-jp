@@ -5,3 +5,4 @@ Pillow>=10.0
 img2pdf>=0.5
 ocrmypdf>=16.0
 pytest>=8.0
+PyYAML>=6.0

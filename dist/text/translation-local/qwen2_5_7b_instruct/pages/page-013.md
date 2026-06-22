@@ -1,0 +1,23 @@
+# Page 013
+
+Time. These two might be necessities to complete NetHack.
+
+Install - インストール
+
+■Floppy Disk Installation
+
+As I have mentioned repeatedly, playing NetHack on a computer with only floppy disks is very difficult. However, it's not impossible, so let me explain the procedure for installing onto a floppy disk.
+
+First, please prepare two double-sided high-density (2 HD) floppy disks.
+
+Insert the MS-DOS system disk into drive A and an empty disk into drive B, then boot the computer. Once the MS-DOS system has booted...
+
+From the state of...
+
+Enter `FORMAT B: /M /S` and press the key.
+
+Then, the disk drive will start formatting the disk in drive B. When this process is finished, remove the disk from drive B. We will call this disk the "boot disk," so it would be good to put a label on it saying so. Now, insert the other disk into drive B...
+
+From the state of...
+
+Enter `FORMAT B: /M`

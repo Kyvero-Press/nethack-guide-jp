@@ -1,0 +1,94 @@
+{
+  "renderer": "make_translation_review_pdf.py",
+  "strategy": "side-by-side-original-scan-plus-page-level-translation",
+  "output_pdf": "dist/pdf/nethack-guide-qwen2_5_7b-translation-review-sample.pdf",
+  "source_pages": 12,
+  "pdf_pages": 12,
+  "continuation_source_pages": [],
+  "pages": [
+    {
+      "source_page": 1,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_cover.png",
+      "translation_chars": 299,
+      "overflow": false
+    },
+    {
+      "source_page": 2,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_openpages_1_2_3-1_left.png",
+      "translation_chars": 498,
+      "overflow": false
+    },
+    {
+      "source_page": 5,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_tocpage-1.png",
+      "translation_chars": 354,
+      "overflow": false
+    },
+    {
+      "source_page": 11,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-005.png",
+      "translation_chars": 1647,
+      "overflow": false
+    },
+    {
+      "source_page": 50,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-044.png",
+      "translation_chars": 1298,
+      "overflow": false
+    },
+    {
+      "source_page": 100,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-094.png",
+      "translation_chars": 1804,
+      "overflow": false
+    },
+    {
+      "source_page": 150,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-144.png",
+      "translation_chars": 1682,
+      "overflow": false
+    },
+    {
+      "source_page": 196,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-190.png",
+      "translation_chars": 481,
+      "overflow": false
+    },
+    {
+      "source_page": 200,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-194.png",
+      "translation_chars": 1383,
+      "overflow": false
+    },
+    {
+      "source_page": 233,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-227.png",
+      "translation_chars": 2146,
+      "overflow": false
+    },
+    {
+      "source_page": 240,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-234.png",
+      "translation_chars": 2055,
+      "overflow": false
+    },
+    {
+      "source_page": 274,
+      "pdf_pages": 1,
+      "source_image": "cropped_nethack_uncropped_both_sides_ordered-268.png",
+      "translation_chars": 1423,
+      "overflow": false
+    }
+  ]
+}

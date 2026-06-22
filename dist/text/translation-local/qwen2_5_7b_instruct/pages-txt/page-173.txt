@@ -1,0 +1,47 @@
+Page 173
+
+Scroll of fire
+
+Scroll of Fire
+
+This scroll spews flames from its surface as it is read. Naturally, these flames will harm and burn the reader, taking away basic hit points. However, at the same time, they can damage surrounding monsters, so if you have fire resistance, you might be able to use it as a weapon.
+
+Scroll of food detection
+
+Scroll of Food Detection
+
+After reading this scroll, the location of all food on the level you are on becomes clear. It could be useful when you are hungry.
+
+Scroll of genocide
+
+Scroll of Genocide
+
+When this scroll is read, you are asked to call out the name of a monster. Then, you can sweep that monster from Yendor's dungeon. However, if the scroll was cursed, you may find yourself surrounded by the very monster you tried to kill.
+
+Scroll of gold detection
+
+Scroll of Gold Detection
+
+This scroll tells you the location of all gold coins on the level you are on. It will be valuable at the beginning of your adventure.
+
+Scroll of identify
+
+Scroll of Identify
+
+There is no disagreement that this scroll is one of the most important scrolls among all scrolls. It reveals the true nature of any item. Whether it is the effect of a red potion or the power hidden in a staff adorned with gems, reading this scroll will bring everything into the light.
+
+Scroll of light
+
+Scroll of Light
+
+A scroll that produces magical light. However, if the scroll is cursed, it may instead cover you in magical darkness.
+
+Scroll of magic mapping
+
+Scroll of Magic Mapping
+
+A scroll that allows the level you are on to be mapped in your mind through magic. If there are fountains or altars in the dungeon, you can know about them as well.
+
+Scrolls——卷物
+
+171

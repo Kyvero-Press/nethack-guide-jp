@@ -1,0 +1,29 @@
+たとえば、私の NETHACK. CNF は以下のようになっている。
+
+OPTIONS=!pickup,number_pad,time
+OPTIONS=98_BIOS,rawio,98graphics
+OPTIONS=name:Avelna-R,female,
+                dogname:Suezow,catname:Patty,fruit:satuma
+HACKDIR=A:¥GAMES¥NETHACK
+LEVELS=A:¥GAMES¥NETHACK¥BONES
+SAVE=A:¥GAMES¥NETHACK¥BONES;n
+
+この場合、キャラクターの名前は Avelna、職業は Rouge で女性である。犬の名前が Suezow、猫の名前が Patty、好きなフルーツが satuma（みかん）となるわけである。また、PC-9800 シリーズ独自の機能を利用すること、ネットハックは A ドライブの「¥GAMES¥NETHACK」というディレクトリにインストールしてあることが示されている。
+
+普通、修正するとすれば3行目の、キャラクターやペットに関する設定である。名前の後にある「-R」が職業を表わすのだが、英字と職業は次のように対応している。
+
+AArcheologistBBarbarianCCavemanEElf
+
+HHealerKKnightPPriestRRogue
+
+SSamuraiTTouristVValkyrieWWizard
+
+また、フルーツに関しての注意だが、メロン、オレンジ、バナナ、りんご、そして洋梨はゲーム中にもとから存在するので、それ以外のフルーツを指定する必要がある。
+
+もうひとつ、ノートパソコンなどテンキーのない機種では、2行目の「98_BIOS」と、1行目の「number_pad」の文字を削除するとよい。そうするとテンキーの代わりに b,j,n,h,l,y,k,u でキャラクターの移動や方向の指定ができるようになるわけである。これをしないといちいち(NUM)ロックが必要になる。
+
+それから、最後の3行にあるディレクトリの指定にも注意が必要である。これが実際にネットハックがインストールされているドライブ、ディレクト
+
+More Info.——参考として
+
+19

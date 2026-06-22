@@ -1,0 +1,42 @@
+# Page 060
+
+"Then what should I do?"
+
+When Nasrula asked, Nearchus smiled faintly.
+
+"Already decided."
+
+"..."
+
+"You run away."
+
+Nasrula turned her back to the door. She intended to follow her master's words faithfully.
+
+However, her feet did not move.
+
+Certainly, if they fought normally, they would not be able to defeat the enemy.
+
+(but, if we launch a surprise attack, it might work)
+
+The monster has not noticed that Nasrula opened the door. Fortunately, she still had one more use of the wand of fire. She also had a ring of protection. If she could take down one-third of them before they were ready, and face them at the entrance... Even if she couldn't come out unscathed, she should be able to fight evenly.
+
+She had undergone surprise attack training multiple times at the training facility. In the surprise attack course, Nasrula had received a grade of "Excellent." She would approach and attack the opponent unnoticed by her comrades. The opponent wouldn't even realize they were found until they were defeated. She had once managed to kill nearly twenty trainees in a mock battle alone. She was confident.
+
+(but, shall I do it?)
+
+Nasrula had bought quite a bit of food on the 8th floor underground, so she wasn't financially strained. However, she no longer had the funds to buy armor or scrolls.
+
+It was said that there was a large amount of money in the room where monsters gathered, taken from adventurers. She wanted to save up for future adventures. The best way to get money was to find a treasure chest, but without teleport scrolls or magic maps, it was difficult in her current situation.
+
+While this room where monsters gather was not the best option for making money, it was still a second-best choice.
+
+(but...)
+
+Nasrula hesitated to put her hand on the handle.
+
+"Avoiding danger as much as possible is a fundamental rule for adventurers," Nearchus often repeated. One shouldn't risk their life for short-term gains. It may seem like a detour, but it's sure.
+
+58
+
+COMMANDS—To walk through the dungeon...
+SOURCE

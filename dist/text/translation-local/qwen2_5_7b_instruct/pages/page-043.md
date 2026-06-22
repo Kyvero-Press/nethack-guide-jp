@@ -1,0 +1,61 @@
+# Page 043
+
+And in the central part of the screen, what the character has found in the dungeon is displayed. Below, I will explain what the following characters mean:
+
+a~z: Various monsters nesting in the dungeon
+
+A~Z: Open doors on the vertical or horizontal walls of the room
+
+;&: Open doors on the horizontal or vertical walls of the room
+
+||: Floor of the room, or entrance without a door
+
+——: Passage, or sink in the kitchen, or movable bridge
+
+..: Stairs up
+
+##: Stairs down
+
+<>: Closed door, or spellbook
+
+++: Human (player), or a monster in human form
+
+@@: Gold coin
+
+$$: Trap (not displayed until discovered or triggered)
+
+^^: Weapon (weapon)
+
+)): Armor
+
+[[: Food (includes monster corpses)
+
+%%: Scroll with spells or various effects
+
+??: Wand
+
+//: Ring
+
+==: Potion of water
+
+!!: Various tools
+
+((: Amulet or spider's web
+
+””: Jewel or pebble
+
+**: Rock or statue
+
+00: Iron ball (used as leg irons for some sin)
+
+——: Altar, or iron chain to attach the iron ball to the convict
+
+}}: Puddle or moat (falling into it causes drowning)
+
+{{: Fountain
+
+¥¥: Luxurious throne (something may happen if you sit on it)
+
+Be Invoked——NetHack Start
+
+41

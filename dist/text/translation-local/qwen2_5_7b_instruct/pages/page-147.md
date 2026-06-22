@@ -1,0 +1,33 @@
+# Page 147
+
+Amulet of Restful Sleep
+
+Amulet of Restful Sleep
+
+This amulet does not show its effects immediately upon wearing. However, after a long period of time, it suddenly induces sleep in the wearer.
+
+Amulet of Strangulation
+
+Amulet of Strangulation
+
+Wearing this amulet causes something to stick to the throat and attempt to stop the wearer's breathing. In most cases, it is cursed and can be fatal.
+
+Amulet Versus Poison
+
+Amulet Against Poison
+
+When worn, this amulet grants resistance to poison. Even if stung by a bee or pierced by a scorpion's sting, one can remain in perfect health.
+
+Amulet of Yendor
+
+Amulet of Yendor
+
+Not only does this amulet confer no benefit on the wearer, but merely possessing it prevents floor-to-floor teleportation and increases the energy required to cast spells. It can only be obtained at the deepest level of Yendor's magic dungeon. Also, there are said to be fake Amulets of Yendor.
+
+Armors 防具
+
+Oh? Ah, welcome. This is Maxis's armor shop. Look, we have plenty of helmets and armors in stock. Of course, some of them might be cursed. But there are also blessed ones and those enchanted with magic. I don't really understand much about magic, but I know about the forms of armors.
+
+Armors—防具
+
+145

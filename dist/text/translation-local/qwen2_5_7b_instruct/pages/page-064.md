@@ -1,0 +1,23 @@
+# Page 064
+
+And then, his eyes widened in disbelief. There was not a single weapon to be found. Even his trusted Thunderbolt Wand and a single shuriken were missing.
+
+"Whaddya know?"
+
+Yoshitane couldn't help but look up at the sky. Since he needed to defeat a Nymph to retrieve what was stolen, he now found himself fighting bare-handed.
+
+At that moment——a Nymph appeared in the room where Yoshitane was.
+
+With the power to transcend space, the Nymphs appeared and disappeared at will. With a beautiful and alluring smile on her face, she seemed to be closing in on Yoshitane once again...
+
+"Damn, if there's nothing..."
+
+Even though the distance was still great, Yoshitane was not yet entranced. However, once her naked body pressed against his, his mind went blank in an instant.
+
+"Piss off, I'll give it a try."
+
+He knew that only one option remained for him. But it was a hand that lacked certainty. Yet, it was the only hand he had left.
+
+62
+
+COMMANDS—To walk through the dungeon...

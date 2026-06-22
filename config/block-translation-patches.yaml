@@ -1,0 +1,177 @@
+patches:
+- block_id: 001-008
+  source_sha256: 134be6e178e782a77ee27ccaa106e63ff5386182449d29a7ce9719265d8bfa91
+  translation: 'Shuwa System Trading Co., Ltd. Price: 2,800 yen (base price 2,718 yen)'
+  reason: Sample block run mixed Japanese/Chinese into the cover publisher/price line; preserved in rendering but patched for clean final block text.
+- block_id: 003-000
+  source_sha256: 9883ead0333cc5ae31bcc49dee25a1e23aafc95ea2fd7441940b0a0c416d1c57
+  translation: For PC-9801
+  reason: Short title-page platform label should be English-only.
+- block_id: 196-007
+  source_sha256: a3a4fe47ed31da3c63842d7e05056179a30760a62773a4a1370a331948765e24
+  translation: A pickaxe-shaped axe. It boasts tremendous power when swung forcefully by short-statured dwarves.
+  reason: Qwen2.5-7B leaked Chinese into this page-196 weapon description.
+- block_id: 029-007
+  source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
+  translation: Class -- profession
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 031-010
+  source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
+  translation: Class -- profession
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 033-010
+  source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
+  translation: Class -- profession
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 035-009
+  source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
+  translation: Class -- profession
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 039-010
+  source_sha256: 00917b2f8f9f5b29852e6545d39a3a5b4af6079fe0580f11e94f09cf1a7ca7b6
+  translation: Class -- profession
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 051-006
+  source_sha256: f6728710156b979c26b43f996760b62ca8da8ebab3cf93b5a7eac1c65c3c5597
+  translation: While concentrating on memorizing a new spell, Tike did not notice the incubus approaching from behind. Although all the doors in the room were closed, they had not been locked with Wizard Lock. Against most monsters, even after taking the first blow, Tike would have noticed at once and been able to counterattack.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 105-000
+  source_sha256: 8fbe57cb55295426591e5ccbaa344defd319448816d2dbc68ed40a5a5e557495
+  translation: can.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 121-008
+  source_sha256: 6b21bc3425db06eb1e168acdb5d57c31945f24d102722ba5e33dff8c6a6e1f09
+  translation: In any case, Fommy was an irreplaceable partner.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 124-009
+  source_sha256: 275c85e5a5c08ff41afd551ae3916a7921caf585a7a0eacfbde5dfcaedd8ecbc
+  translation: With a look that said he had had enough, Klein approached the spring bubbling up at the edge of a small room in the dungeon. The dark blue spring occasionally made small bubbling sounds.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 130-010
+  source_sha256: cbb9b013cc7440d651f84c90759ffc6bd8075f601acff36e1c5c154d6196d940
+  translation: Panting roughly, Klein sheathed his short sword. Klein's armor was stained deep crimson with the blood spattered back on it.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 131-000
+  source_sha256: b0bdfeff37526452807a9af55f1fa70b49951102cfb8c89a6c0713fee0f85726
+  translation: Klein called out without looking at Mike. Mike paid no attention to Klein and simply devoted himself to filling his own stomach.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 131-018
+  source_sha256: e1fedacec8a6d64aab8af3f5d5e953f86926faed09b20f00ce7e6a70156a53bc
+  translation: Mike did not even look at Klein, but simply continued eating the hobgoblin. He drove his newly sharpened fangs into the hobgoblin's arm, and Mike shook his head from side to side. When the hobgoblin's corpse collapsed to the ground, he rested against its back. [OCR?]
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 133-004
+  source_sha256: d9cc10f1204589b0cfb1269655e1c58e894ee7f4ef89f2b6029eade87d3edbc8
+  translation: With a battle cry, Klein ran toward the group of monsters.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 140-007
+  source_sha256: fb4f24dc359e036b6af7e9d2ddc698a624393f58d00499695dd284b78366497c
+  translation: Klein muttered while frowning at the noise.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 152-012
+  source_sha256: 411dad523e8447302c5b9d19fde4526be88324c0c6ccfb3e935de9bd4a0e2242
+  translation: The wearer of this cloak will notice that their own form becomes invisible. Yes, this cloak has a spell of invisibility sealed into it. However, its defensive power itself cannot be relied upon.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 154-008
+  source_sha256: 33916b3654bd09c4c9e7e563944d8b1dbec2748a67e044457e46cfc7b493b6c8
+  translation: An ordinary helmet. Perhaps its defining feature is that it has no special features.
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 166-004
+  source_sha256: 96396c1c087b8a009ba6ac8a0fc21e4ac6ed68f5425aca0d5eed70ebc38e514b
+  translation: Potion of object detection
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 206-011
+  source_sha256: 4ddeb710095c77b9214f0a6d847c15eb6ab0008f776455efb94f2d94f40f453f
+  translation: Piercing Blade
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 241-013
+  source_sha256: e13bed8b71acd6b1320dcf24a3ab84c99138defd104e360b75da62f73d719a77
+  translation: Giant beasts, rats, rock moles, spiders, scorpions, lurkers
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 271-001
+  source_sha256: f83d39cf229e7cca8a4594f28b0bcf2d1d5e5956f2700a10f0acffd4915ac2a0
+  translation: April 1, 1993 -- Ryojiro Hasukawa
+  reason: Manual English-only patch for remaining hard CJK/Chinese leakage after retry validation.
+- block_id: 087-021
+  source_sha256: 260bac6b8d01c10d943dece618e41cad0f54f0cc8f2d07e3bc2f3284acc58ab9
+  translation: Rings, weapons, armor
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 089-011
+  source_sha256: 260bac6b8d01c10d943dece618e41cad0f54f0cc8f2d07e3bc2f3284acc58ab9
+  translation: Rings, weapons, armor
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 115-014
+  source_sha256: 08fe91e05f87267b3c07d86f6ff131f8eab2876caa61a206a91477c03b50a264
+  translation: Traps
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 117-006
+  source_sha256: 08fe91e05f87267b3c07d86f6ff131f8eab2876caa61a206a91477c03b50a264
+  translation: Traps
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 147-004
+  source_sha256: aa53e6d64cbb41ad2a9de3fcca5b221519fc4832d9999fddd1fd57ac0e7c7f58
+  translation: Strangulation amulet
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 152-015
+  source_sha256: 8d9a7d86ba560522cb5de48d4c72f337f54037e1cda3b14ad699c28508387e84
+  translation: A cloak that protects against magic. It nullifies many spells used by wizards. You will understand its value when you enter the lower levels of the dungeon.
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 164-007
+  source_sha256: e2912edd9b902ea49d2559a24b8326f343285dff113b5e8abba50769468b16a8
+  translation: confusion
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 164-013
+  source_sha256: 017fd2663779f482e0569e35d773c70f49b0096388c30790f28d9f73e43df986
+  translation: full healing
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 165-013
+  source_sha256: ca89d79f74747d3fbcb7b31dab1dc5cd35b03ab1e57411d083ba402aaf05ed38
+  translation: hallucination
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 165-019
+  source_sha256: 095af5a44fe74971bfa137e5b18e38e6b8cc0691163db8a21c6313267b88b35a
+  translation: invisibility
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 166-001
+  source_sha256: cf20b1e3335a218287f9d70da84efe185f99eab190127a47b47ccbe7f2a26025
+  translation: monster detection
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 166-007
+  source_sha256: d7f41755ae86df2001627783d9059db8d865eecb304dd5015caf96993da38260
+  translation: paralysis
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 166-010
+  source_sha256: 731c2b75c8cd5e258dc668f84dfadac59ff7ff0477c52efeff37a0ab117344f2
+  translation: restore ability
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 166-013
+  source_sha256: 992b7e3c2754042f275d38e2aa83438c83f585251f2e2c6176778879728028b5
+  translation: see invisible
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 170-019
+  source_sha256: 0df03b58c8f9b0d57e1d288a7f2c4d32c09980c4ad2fc9d041a541b6f074f394
+  translation: ring of detection
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 184-007
+  source_sha256: 932ee938fe1cfc9eff4dd6a2a339caffb4c405c95919aa0c6e0b925bacafe980
+  translation: large box
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 186-007
+  source_sha256: de2daa2b4de60cb7aa185e8ac28772ce025f3d5fb2f32474d478ee90ccf0110a
+  translation: key
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 191-012
+  source_sha256: f8eecef4315fdee3799f0726c7e7649696173c5e3d7885f48404021731607148
+  translation: A sword somewhat shorter than a longsword, favored by thieves who prefer maneuverable weapons and by races whose build prevents them from using long swords.
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 220-007
+  source_sha256: 5118f1d76d32b3b6d6ef3faeaac6df2cded2d278f2d218172fc2f725f171f87d
+  translation: Acid monster
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 231-010
+  source_sha256: d003eeccb8a627ae8ba95a667f58f83115e190c4db02a9b6a741f3c744b6d88d
+  translation: Spheres
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.
+- block_id: 235-001
+  source_sha256: 0c5bec9720bc291a95aaedd138f771ebf365a9b4730d6a38f1cda0f35021a48f
+  translation: Mysterious
+  reason: Manual patch to keep block-level hybrid PDF label/body text English-only and fitted within the Surya block bbox.

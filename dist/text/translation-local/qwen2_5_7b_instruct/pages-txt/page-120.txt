@@ -1,0 +1,24 @@
+Page 120
+
+Aku, and Tike's stomach growled.
+
+He tore the silver paper off the ration that he had been holding and bit into the semi-solid object.
+
+"What is this!"
+
+It's bad.
+
+It's thin and tasteless. Tike had never eaten anything this bad before. Since coming to the dungeon, it seems.
+
+Tike peeled off the lid of the marker and wrote vigorously on the floor.
+{Do not eat K ration unless it is a life-or-death situation. ——Tike}
+
+The E command is a somewhat special command. As an action, it simply involves writing characters on the floor, and there is no problem with that. However, one must wonder what use it can be. The written characters have no meaning if no one reads them. In version 98 of NetHack, it is a single-player game, and the dungeon is rebuilt every time you create a new character.
+
+However, there may exist random messages generated on the dungeon floor. These could be useful advice or perhaps lies that seem true. It is up to you to judge their truthfulness.
+
+The characters written on the floor will wear away over time and eventually become illegible, and finally disappear. The time until they become illegible or disappear varies depending on how they were written. There are two methods: writing on the accumulated dust with your fingers or a wand, or engraving them into the stone floor with a sharp weapon like a sword. Writing on the dust is easy, but the characters will become illegible after passing over them a few times. Engraving into the stone will last several times longer, but there is a risk that the weapon used will deteriorate. Regardless of which method is used, passing over the characters will shorten their lifespan.
+
+According to unverified information, it seems that by engraving the name of a monster's god and standing on it, almost all monsters' attacks can be sealed.
+
+118 COMMANDS——To walk through the dungeon...

@@ -1,0 +1,9 @@
+# Page 151
+
+PLATE MAIL
+
+DRAGON SCALE MAIL
+
+Armors—Defensive Equipment
+
+149

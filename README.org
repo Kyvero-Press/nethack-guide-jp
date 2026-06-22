@@ -4,9 +4,22 @@ This is a scan and OCR of the japanese nethack guide book
 
 * download
 - [[file:dist/orgbook/cropped_nethack_uncropped_cover.png.org][read online]]
-- [[https://drive.google.com/file/d/1-eAczSVXnPrMW5MCCRnYmlNN93wTOEBf/view?usp=sharing][uncompressed OCR'ed PDF (google drive link)]] 
-- [[https://drive.google.com/file/d/1JYKaW0vbtiBVhV253mfTABP37RUmbaSY/view?usp=sharing][compressed OCR'ed PDF (google drive link)]]
-- [[file:ocr_nethack_guide_COMPRESSED.pdf][compressed OCR'ed PDF (github link)]]
+- [[file:dist/pdf/nethack-guide-surya-searchable-uncompressed.pdf][Surya searchable PDF (lossless/uncompressed image layer)]]
+- [[file:dist/pdf/nethack-guide-surya-searchable-compressed.pdf][Surya searchable PDF (compressed image layer)]]
+- [[file:dist/text/surya/nethack-guide-surya.md][Surya Japanese OCR Markdown]]
+- [[file:dist/text/surya/nethack-guide-surya.txt][Surya Japanese OCR plain text]]
+- [[file:dist/pdf/nethack-guide-yomitoku-searchable-uncompressed.pdf][YomiToku searchable PDF (lossless/uncompressed image layer)]]
+- [[file:dist/pdf/nethack-guide-yomitoku-searchable-compressed.pdf][YomiToku searchable PDF (compressed image layer)]]
+- [[file:dist/text/yomitoku/nethack-guide-yomitoku.md][YomiToku Japanese OCR Markdown]]
+- [[file:dist/text/yomitoku/nethack-guide-yomitoku.txt][YomiToku Japanese OCR plain text]]
+- [[file:dist/text/translation-local/qwen2_5_7b_instruct/nethack-guide-qwen2_5_7b-instruct-en.md][Local Qwen2.5-7B English translation Markdown]]
+- [[file:dist/text/translation-local/qwen2_5_7b_instruct/nethack-guide-qwen2_5_7b-instruct-en.txt][Local Qwen2.5-7B English translation plain text]]
+- [[file:dist/pdf/nethack-guide-qwen2_5_7b-translation-review.pdf][Local Qwen2.5-7B side-by-side translation review PDF]]
+- [[file:dist/pdf/nethack-guide-qwen2_5_7b-block-hybrid.pdf][Local Qwen2.5-7B block-level translated hybrid PDF]]
+- [[file:dist/pdf/nethack-guide-qwen2_5_7b-translated-prototype.pdf][Older page-level translated facsimile prototype PDF]]
+- [[https://drive.google.com/file/d/1-eAczSVXnPrMW5MCCRnYmlNN93wTOEBf/view?usp=sharing][legacy uncompressed OCR'ed PDF (google drive link)]]
+- [[https://drive.google.com/file/d/1JYKaW0vbtiBVhV253mfTABP37RUmbaSY/view?usp=sharing][legacy compressed OCR'ed PDF (google drive link)]]
+- [[file:ocr_nethack_guide_COMPRESSED.pdf][legacy compressed OCR'ed PDF (github link)]]
 - [[file:dist/text/full_eng.txt][deepl english translation]]
 - [[file:dist/text/full_eng2.txt][google translate english translation]]
 
@@ -27,7 +40,17 @@ The committed =dist/= layout is intentionally organized as:
 - =dist/crops/reference/= legacy untrimmed crops used only as stable reference windows.
 - =dist/crops/refined/= current refined cropped pages for publishing/PDF builds.
 - =dist/metadata/refined/= metrics and per-page JSON sidecars for the refined crops.
-- =dist/text/= legacy OCR and translation text assets.
+- =dist/text/= legacy OCR/translation assets plus local Surya OCR and local
+  Qwen2.5-7B English machine translation outputs.
+- =dist/metadata/ocr-bakeoff/= OCR engine comparisons and run metadata.
+- =dist/metadata/translation-bakeoff/= local translation model comparisons.
+- =dist/metadata/translation-pdf-prototype/= translated facsimile prototype
+  summaries, previews, and Oracle reconstruction guidance.
+- =dist/metadata/translation-block-hybrid/= block-level translated hybrid PDF
+  source manifest, cleaned-background summary, fit reports, validation notes,
+  and previews.
+- =dist/metadata/translation-review-pdf/= side-by-side review PDF summaries and
+  preview images.
 - =dist/scripts/= old one-off shell helpers retained for provenance.
 
 Install the Python/image tooling in an environment of your choice:

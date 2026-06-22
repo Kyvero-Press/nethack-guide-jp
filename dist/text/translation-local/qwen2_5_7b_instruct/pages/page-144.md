@@ -1,0 +1,21 @@
+# Page 144
+
+"Albena... they are calling her that"
+
+Clain and Albena raised their glasses and drank them dry at the same time.
+
+If you find a lamp while exploring the dungeon, you should check if it lights up using the 'a' command. If a dark room becomes bright, it's just a normal lamp. However, in most cases, if nothing happens, it is likely a magic lamp.
+
+If you luckily obtain a magic lamp, it would be good to try rubbing it with the '#' r command. In most cases, a genie will appear after rubbing it a few times.
+
+However, keep in mind that the effects of a magic lamp can vary depending on whether it is blessed or cursed.
+
+# v
+
+Version
+
+The version of NetHack you are currently playing can be known by using the #v command.
+
+142
+
+COMMANDS—To Walk Through the Dungeon...

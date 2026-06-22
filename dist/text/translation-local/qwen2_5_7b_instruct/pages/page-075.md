@@ -1,0 +1,31 @@
+# Page 075
+
+"Even if it seems reckless, that's fine. Even crazy actions are acceptable. There's no need to think calmly. Move forward. Just keep moving forward. Then a way out will open up."
+
+Nasrula listened silently. She wanted to argue but couldn't find the words.
+
+"You don't have to understand now. You'll understand after you've had some adventures."
+
+Nasrula nodded at Nealko's words.
+
+At that time, she couldn't understand it. It was a lie to say she wasn't afraid of death. But she didn't want to die in a pathetic manner.
+
+However, after descending into the real dungeon, her way of thinking changed. She no longer wanted to die. She didn't know why, but as she saw the bones of those who died unseen in the dark dungeon, she became afraid. She didn't want to be like that. She desperately wanted to survive and get back to the surface.
+
+Attachment grew in Nasrula's heart.
+
+"Are you going to give up?"
+
+Nasrula muttered and began checking the walls. She broke apart bricks, dug through mud, and meticulously checked to see if anything was missed.
+
+She found the handle of the hidden door just a few hours later.
+
+When stairs cannot be found in Yendor's dungeon or when there's a message but no shop is found, it's likely that hidden doors or secret passages were overlooked.
+
+In such cases, use the 's' command. Press the 's' key in places where a door or passage might be hidden. Often, it won't be found on the first try, so try the 's' command again wherever you think it might be. Typing "n 10 s" will allow you to explore 10 times in a row.
+
+Additionally, elves automatically check walls and passages without needing to input the 's' command. They possess a superhuman ability to discern slight differences in walls and passages. However, they are not infallible, so don't overtrust them. If something seems suspicious, use the 's' command. Only elves are born with this exploration ability, but archaeologists, thieves, and (for some reason) tourists can develop similar skills through experience.
+
+Dungeon Exploration
+
+73

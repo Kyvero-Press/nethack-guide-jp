@@ -1,0 +1,43 @@
+# Page 189
+
+If you wave it, you can transform any item into another.
+
+Wand of probing
+
+Identification wand
+
+When waved at monsters or pets, you can learn their hit points, gold, and other characteristics.
+
+Wand of secret door detection
+
+Detection wand
+
+When waved in a room, this wand can discover secret doors. Of course, if there are no secret doors, there will be no reaction.
+
+Wand of sleep
+
+Sleep wand
+
+When waved at monsters, they can fall asleep. However, this does not apply to monsters that have resistance to sleep.
+
+Wand of slow monster
+
+Slow monster wand
+
+When waved at monsters, it can cast the slow spell on them, halving their movement speed and attack frequency.
+
+Wand of speed monster
+
+Speed monster wand
+
+It can double the target's movement speed and attack frequency when waved. Of course, it can also be used by the character itself.
+
+Wand of striking
+
+Striking wand
+
+When waved at monsters or other targets, it can deal some damage. Additionally, it can also be used to destroy rocks (boulders).
+
+Wands——Wands
+
+187

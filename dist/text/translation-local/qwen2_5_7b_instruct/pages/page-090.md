@@ -1,0 +1,33 @@
+# Page 090
+
+Finally, there is a command to equip a ring. It's the P command. Enter [P], and you can select which ring to put on. However, only one ring can be equipped on each hand. You cannot equip more than three rings. If you want to put on a new ring while already having one on each hand, you will have to remove one of them.
+
+R T A
+
+Remove, Take off Remove armor, Remove ring
+
+Nasrula took off her plate mail.
+
+It was covered in scratches. Several grooves were scratched into the chest piece, and part of the shoulder was missing. If compared to a human, it would be like a warrior who had fought to the death with numerous injuries. The scars shone like medals.
+
+(But, I've done well to last this long...)
+
+Nasrula stared at the armor. She had worn it since purchasing it on the 6th floor underground, and had never replaced it until reaching the 24th floor underground. She had been slashed by a zombie's sword, bitten by a jackal's fangs, and clawed by a dragon's claws. It had been a rough use. It was miraculous that its defensive power hadn't dropped even after such intense battles.
+
+"Really a masterpiece, wasn't it?"
+
+Nasrula stroked the armor and muttered.
+
+"Miss, that is a masterpiece."
+
+The shopkeeper addressed her as she stared at the armor.
+
+"This is a special piece made by the renowned master craftsman, Sir Hyperion. Although it lacks magical power, it's unsurpassed as his final work. Such items are rare."
+
+"Maybe so. To me, it doesn't seem all that special..."
+
+Nasrula showed no particular interest. Indeed, the black-painted armor looked sturdy. The chest piece was thick, and the overall balance was good. It was clearly not a cheap, inferior item.
+
+88
+
+COMMANDS—To walk through the dungeon...

@@ -1,0 +1,27 @@
+# Page 241
+
+It appears as if they are rocks. There are few objects that can hinder the movement of rock moles that can pierce even hard rock, so they can move around freely throughout the dungeon.
+
+It is not easy to defeat rock moles with their tough skin, but experienced adventurers can take advantage of their sluggish movements and easily defeat them.
+
+S Spider, Scorpion
+
+Representative spiders found in the dungeon are two types: one is the cave spider (cave spider), and the other is the vicious giant spider (giant spider).
+
+Cave spiders are predatory spiders that do not build nests and hunt by ambushing their prey. Their attack consists solely of biting their target with their fangs.
+
+Giant spiders are larger than cave spiders, and their fangs contain a terrible venom. When this venom enters the body, it weakens the victim's strength, leaving them unable to fight at full capacity, and they become prey for the giant spiders.
+
+In most cases, giant spiders wait in their nests for prey, and in the center of their nest, various items are placed to lure victims, such as humans. When an adventurer tries to pick up an item and gets caught in the spider's nest, the giant spiders approach the foolish victim while dripping poison.
+
+The tail of a scorpion contains a well-known potent venom. Although the type of venom differs, like the giant spider's venom, it has the effect of lowering the enemy's strength. It is crucial to quickly resolve a battle against a scorpion and avoid attacks from its venom.
+
+T Lurker Above, Trapper
+
+Lurkers above, also known as lurkers above (lurker above), hang from the ceiling of the dungeon and wait for adventurers to pass by. When an adventurer arrives, the lurker spreads its wings, resembling bat wings, and descends silently vertically, opening its huge and flexible mouth to swallow the adventurer whole.
+
+If an adventurer is swallowed by a lurker, they must find a way to escape immediately. Otherwise, they will be slowly dissolved by the lurker's powerful stomach acid.
+
+Giants, mice, rock moles, spiders, scorpions, lurkers above
+
+239

@@ -1,0 +1,27 @@
+# Page 245
+
+Grid Bug, Xan
+
+Grid bug (grid bug) is a bug that feeds on electricity, rarely taking any damage but capable of attacking with electric shocks. It appears in shallow layers and it has been reported that there is no monster as easy to defeat as the grid bug for adventurers.
+
+Xan (xan) is an insect with jaws that can open to reveal large pincers. They can fly swiftly through the air by flapping their wings, and their bodies are covered with a thick exoskeleton, making it difficult to inflict fatal injuries upon them.
+
+If you enter combat with a Xan, it would be better to use an item's power to float in the air. This is because they constantly hover low to the ground, trying to tear at the legs of humans with their fangs, and showing their vulnerable lower abdomen to the enemy would be disadvantageous.
+
+Y Yellow Light
+
+Yellow light
+
+If you see a spherical object floating in the darkness of the dungeon's air and emitting yellow light, it is undoubtedly a Yellow Light (yellow light).
+
+It is said that the Yellow Light is a semi-biological creation made by the magician Yendor to torment adventurers. They wander inside the dungeon day and night, approaching adventurers who have come seeking treasures.
+
+If you find a Yellow Light, attacking it with a sword is a very dangerous choice. This is because the only method of attack for a Yellow Light is to explode and injure the enemy. Moreover, when a Yellow Light explodes, it is accompanied by intense flash. As a result, adventurers will suffer severe injuries and become blind. Even seasoned adventurers could easily be defeated if discovered in this state by other monsters.
+
+To deal with a Yellow Light, it would be best to use ranged weapons while becoming transparent and maintaining distance, or to blind yourself and attack directly.
+
+Becoming blind in a dangerous dungeon is akin to inviting death, so it is not recommended to engage in battle with a Yellow Light without any preparation.
+
+Worms, Bugs, Yellow Light
+
+243

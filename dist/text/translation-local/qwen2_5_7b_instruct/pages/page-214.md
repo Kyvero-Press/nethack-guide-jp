@@ -1,0 +1,15 @@
+# Page 214
+
+gnome
+
+minotaur
+
+giant
+
+jabberwock
+
+guardian
+
+YUKI / HIRO
+
+YUKI / HIRO

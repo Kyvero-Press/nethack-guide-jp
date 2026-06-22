@@ -1,0 +1,11 @@
+2026-06-21 15:07:24,360 [INFO] surya: Spawning vllm server on port 53067
+2026-06-21 15:07:24,360 [INFO] surya: Spawning: /tmp/surya-bin/docker run --rm -d --name surya-vllm-53067 --runtime nvidia --gpus device=0 -v /home/tay/projects/nethack-guide-jp/work/surya-hf:/root/.cache/huggingface -p 53067:8000 --ipc=host vllm/vllm-openai:v0.20.1 --model datalab-to/surya-ocr-2 --no-enforce-eager --max-num-seqs 32 --dtype bfloat16 --max-model-len 18000 --max-num-batched-tokens 8192 --gpu-memory-utilization 0.75 --enable-prefix-caching --mm-processor-kwargs {"min_pixels": 3136, "max_pixels": 6291456} --served-model-name datalab-to/surya-ocr-2 --speculative-config {"method": "mtp", "num_speculative_tokens": 2}
+2026-06-21 15:11:42,906 [INFO] surya: vllm server ready on port 53067 (model=datalab-to/surya-ocr-2)
+2026-06-21 15:31:32,606 [INFO] surya: dropped 1 blank text block(s) from full-page OCR
+2026-06-21 15:31:35,431 [INFO] surya: full-page output for page 40 appears to loop; falling back to layout + block OCR
+2026-06-21 15:31:59,935 [INFO] surya: full-page output for page 265 appears to loop; falling back to layout + block OCR
+2026-06-21 15:32:00,257 [INFO] surya: dropped 13 blank text block(s) from full-page OCR
+2026-06-21 15:32:00,303 [INFO] surya: running layout for 2 page(s) requiring block-mode fallback
+2026-06-21 15:32:05,242 [INFO] surya: dropped 4 text-labeled layout block(s) over blank/uniform regions
+2026-06-21 15:32:24,270 [INFO] surya: Wrote results to /home/tay/projects/nethack-guide-jp/work/ocr-final/surya/raw/ordered-pages
+2026-06-21 15:32:29,062 [INFO] surya: Stopped docker container surya-vllm-53067

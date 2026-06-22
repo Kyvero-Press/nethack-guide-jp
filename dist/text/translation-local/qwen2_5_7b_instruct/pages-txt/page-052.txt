@@ -1,0 +1,13 @@
+Page 052
+
+Commands are used to read scrolls and spellbooks. After entering the command followed by〔?〕, a list of your scrolls and spellbooks will be displayed, so it's useful to do so. As adventures progress into mid-game, you will always have several scrolls on hand.
+
+When reading a scroll, its effects are immediately manifested. Unlike wands or rings, the effects of scrolls are often clearly visible, so even with unknown items, they are usually registered in the identification list displayed as〔〒〕. Scrolls that have not been identified are labeled with meaningless tags, but once identified, they change to meaningful names.
+
+When attempting to read a spellbook, it takes some time until completion. During this period, monsters move around and attack, so it is better to learn spells in a closed space. If for any reason you stop reading halfway through, the spellbook will not disappear. There is no need to worry.
+
+All spellbooks have a difficulty set equal to their level, which serves as a guideline for the required level to learn them (the spellbook level is the 'spell level'. 
+
+50
+
+COMMANDS—To walk the dungeon...

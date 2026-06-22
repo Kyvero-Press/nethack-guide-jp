@@ -1,0 +1,29 @@
+# Page 199
+
+orcish bow
+
+Orcish Bow
+
+A shortbow that orcs are known to use. Among the three types of bows, it has the weakest power. This is due to the poor quality common to items made by orcs.
+
+elven bow
+
+Elven Bow
+
+An arrow made by elves. It is engraved with fine runes, which increases its power compared to a regular bow.
+
+arrow
+
+Arrow
+
+A plain arrow. It can be thrown, but its power is significantly weaker when used with a bow compared to other arrows.
+
+silver arrow
+
+Silver Arrow
+
+An arrow with a silver tip or silver-plated. Silver, which possesses holy power, is effective against demons and ghosts and similar monsters. 
+
+Weapons—Weapons
+
+197

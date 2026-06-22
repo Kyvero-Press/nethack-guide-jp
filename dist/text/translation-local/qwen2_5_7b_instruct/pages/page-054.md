@@ -1,0 +1,17 @@
+# Page 054
+
+Another is a scroll of charm. I haven't used it yet, but it seems to lower the combat will of monsters. It should be effective in rooms where there are swarms of monsters.
+
+The other two are scrolls whose purpose is unknown. They might be cursed or blessed. What effects they have, Nasrula couldn't guess. Like the wand, using them directly was too dangerous.
+
+(It's frustrating.)
+
+The rest are rings and potions.
+
+All the rings' identities have been revealed. It's a ring of fire resistance. With this, one can walk through fire. This was a valuable item for Nasrula, who is weak to heat. It was clear that a defensive ring would be advantageous during combat. The two rings are quite useful as one progresses in the adventure.
+
+On the other hand, the potions were almost useless. Most of the potion identities remained unknown.
+
+52
+
+COMMANDS—To walk through the dungeon...

@@ -1,0 +1,5 @@
+distribution as originally released over Usenet or updated copies of the filesin this distribution used to create the object code or executable.
+
+4. You may not copy, sublicense, distribute or transfer NetHack except asexpressly provided under this License Agreement. Any attempt otherwise tocopy, sublicense, distribute or transfer NetHack is void and your rights to usethe program under this License agreement shall be automatically terminated.However, parties who have received computer software programs from youwith this License Agreement will not have their licenses terminated so longas such parties remain in full compliance.
+
+Stated plainly: You are prohibited by the terms of this License Agreementfrom using NetHack for gainful purposes. You are permitted to modifyNetHack, or otherwise use parts of NetHack, provided that you comply withthe conditions specified above; in particular, your modified NetHack orprogram containing parts of NetHack must remain freely available as pro\-vided in this License Agreement. In other words, go ahead and share NetH\-ack, but don't try to stop anyone else from sharing it farther.

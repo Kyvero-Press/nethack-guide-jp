@@ -1,0 +1,15 @@
+{
+  "source_records": 180,
+  "final_records": 180,
+  "input_files": [
+    "dist/text/translation-local/qwen2_5_7b_instruct/blocks/translation-records.sample.raw.jsonl"
+  ],
+  "candidate_records": 180,
+  "manual_patches": 3,
+  "missing_records": 0,
+  "patched_block_ids": [
+    "001-008",
+    "003-000",
+    "196-007"
+  ]
+}

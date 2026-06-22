@@ -1,0 +1,30 @@
+# Page 229
+
+<<<SOURCE
+c Cockatrice
+
+cockatrice
+
+In some regions, it is also called basilisk or basilicock.
+
+A strange monster with the body of a snake, the head and feathers of a male bird, and legs. It is larger than a human but does not grow as large as a dragon. While emitting a terrifying scream that even makes devils tremble, it flies through the air. It is said that its appearance is even more bizarre than that of a snake flying through the air.
+
+Originally, it lived far away from the dungeons in deserts. However, it moved to dwell in response to Yendor's summoning. Details about its true form are not well known. It is said that snakes will flee upon hearing the cockatrice's (cockatrice) call, but no one has ever witnessed this. This is because if one were present at the scene, they would not survive.
+
+The cockatrice's greatest weapon seems to be its body. Just touching the dark brown scales can turn adventurers into stone. Even if an adventurer manages to strike the cockatrice's body successfully, it is said that magic power flows through the weapon and turns their body to stone. Methods to defeat the cockatrice have been researched, but no official tactics have been officially published yet. Magic is said to be effective, but the truth of this claim is unknown.
+
+Even if extremely hungry, it is better not to eat the carcass of a cockatrice. The cockatrice's magic remains in the corpse. The outcome is easy to imagine.
+
+d Dogs and Dog-like Monsters
+
+dog, little dog, large dog, jackal, were-jackal, warg, wolf, were-wolf, winter wolf, hell hound, pup
+
+Canines are the closest creatures to adventurers. Many live closely with humans as pets, hunting dogs, or guard dogs on land. In the dungeons as well, they are similar. Dogs are trained in breeding facilities to guide adventurers into the dungeons. They sense the location of monsters by sound and attack together with their master. Using a faint scent that adventurers cannot detect, they judge whether a treasure is cursed and never touch it if it is. From the moment they enter the dungeon, dogs act alongside adventurers and fight by their side. They are the most trusted and reliable allies. Please cherish them.
+
+Canine monsters basically use attacks based on fangs and claws. For small animals, it is just minor injuries, but for monsters, significant damage can be inflicted. Hell hounds from
+
+liquid creatures. cockatrice. dogs and dog-like monsters
+
+227
+SOURCE
+>>>

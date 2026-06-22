@@ -1,0 +1,47 @@
+# Page 087
+
+Nasrula shook her head. It was something not taught at the training facility.
+
+"Dragon armor is armor made from dragon scales. It's much harder than ordinary armor. You can't even scratch it with most weapons. It's the strongest armor."
+
+"I didn't know that."
+
+Nasrula muttered.
+
+"The training facility didn't tell us."
+
+"Of course not. Few have seen dragon armor. In ancient times, only a few such as the Prophet King Bialy, Ring King Gudorfin, Sir Eclipse, Sir Saint Simon, and Sir Hyperion."
+
+"So why does my uncle know about it?"
+
+Nasrula stared at her uncle.
+
+"Maybe Uncle knows too..."
+
+"It's an old story."
+
+He waved his hand.
+
+"But more important is the dragon armor. Listen carefully. Dragon armor is made from a dragon's corpse. If you happen to defeat a dragon... "
+
+Nasrula listened to her uncle's story. He explained every detail meticulously. When she finished listening, she had no questions left.
+
+"I understand. With this, I should be able to make dragon armor. If there's a chance, don't hesitate to try. Got it?"
+
+Nasrula nodded. She understood dragon armor well.
+
+(But...)
+
+Something still bothered Nasrula.
+
+"Uncle?"
+
+"Hmm, what is it?"
+
+"Why did you teach me how to make dragon armor? I don't quite understand, but if dragon armor is valuable, shouldn't the method of making it also remain unknown—no, shouldn't it stay secret?"
+
+"Yes..."
+
+Ring Wearing, Weapon Equipping, Armor Putting On
+
+85

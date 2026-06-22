@@ -1,0 +1,31 @@
+# Page 056
+
+If "scrolls of enchant weapon" is displayed, it means you have two unencharmed enchant weapon scrolls.
+
+The I command can display only the items you specify. Pressing ① and then a key will bring up a selection screen. Entering a symbol at this time will show a list of specific equipment or items. For example, entering ② would display a list of scrolls. If you enter ①, it will be staves, and if you enter ②, it will be scrolls. Additionally, entering "!" or "/" when using the I command will display the list without bringing up the selection screen.
+
+There are special uses for the I command such as "lu," "lx," and "l$." "lu" shows items that are unpaid for, "lx" shows used items that are unpaid for, and "l$" counts money. This might be useful when you get confused about your purchases in a large shop.
+
+D Drop 落とす
+
+Nasrula felt her steps becoming heavier. It takes three to four steps' worth of effort to take one step. After ten steps, she starts to run out of breath, and every thirty steps, she needs to rest.
+
+(Probably picked up too many treasures, huh?)
+
+It's a compulsion; whenever she sees something that seems usable, she can't help but pick it up. As a result, mysterious potions and scrolls are stuck all over her body. She has sorted through them many times but still can't bring herself to throw them away.
+
+However, if her inventory continues to grow, it will become a hindrance to her actions. In some cases, it could even affect her life.
+
+"Guess I'll have to get rid of some."
+
+First, she'll start with the gems. Nasrula had picked up quite a number of blue, red, green, and white gems. She doesn't know the names of these stones since she grew up in a world far from gemstones.
+
+(If only Rapshee were here now.)
+
+Nasrula was thinking of her friend from the training facility.
+
+Rapshee, who shared the same room in the dormitory, is the closest friend among the daughters at the training facility.
+
+54
+
+COMMANDS—To walk through the dungeon...

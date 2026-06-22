@@ -1,0 +1,29 @@
+# Page 113
+
+"Sh, guardian god Crom… please help me!"
+
+Without conscious thought, Tike muttered the name of the deity as her outstretched finger drew a symbol in the air.
+
+The zombie at the front of the line was enveloped in a blinding light.
+
+As the light faded after a few seconds, the zombie collapsed and stopped moving, like a puppet whose strings had been cut.
+
+"Crom!"
+
+With renewed momentum, Tike shouted the name of the deity again.
+
+The mummy, dragging its decayed bandages, was enveloped in a white glow...
+
+But the mummy did not fall. As soon as the light faded, it resumed walking as if nothing had happened.
+
+"Stop it why! ——Crom!"
+
+She hurried to shout again, but the result was the same.
+
+The light shattered instantly, and the mummy's steps did not stop.
+
+Tike held back the urge to cry and readied her mace. Her will, which had almost faltered once, was now holding steady. In the end, survival
+
+Purification
+
+111

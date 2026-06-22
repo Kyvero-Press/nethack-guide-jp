@@ -1,0 +1,35 @@
+{
+  "source_jsonl": "work/translation/source/blocks-surya.jsonl",
+  "overrides": "config/translation-render-overrides.yaml",
+  "images_dir": "dist/crops/refined",
+  "out_dir": "work/translation-pdf-hybrid/backgrounds/cleaned",
+  "pages_requested": 1,
+  "pages_written": 1,
+  "total_masked_blocks": 9,
+  "total_preserved_blocks": 1,
+  "pages": [
+    {
+      "source_image": "dist/crops/refined/cropped_nethack_uncropped_both_sides_ordered-035.png",
+      "output_image": "work/translation-pdf-hybrid/backgrounds/cleaned/cropped_nethack_uncropped_both_sides_ordered-035.png",
+      "debug_image": "work/translation-pdf-hybrid/backgrounds/debug-selected/041.png",
+      "width": 1700,
+      "height": 2440,
+      "blocks": 10,
+      "masked_blocks": [
+        "041-000",
+        "041-001",
+        "041-002",
+        "041-003",
+        "041-004",
+        "041-005",
+        "041-007",
+        "041-008",
+        "041-009"
+      ],
+      "preserved_blocks": [
+        "041-006"
+      ],
+      "warnings": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Page 076
+
+Sometimes doors and passages are cleverly hidden by location. Don't give up, and search thoroughly several times. Unforeseen good fortune may await you.
+
+# o # p
+
+Offer, Pray - 捧げる、祈る
+
+"Wow, it's heavy..."
+
+Tike was panting as he carried a corpse that weighed almost twice his own body. It was one of the Frost Giants he had killed in the nearby room. There was no way to lift and carry it, so he dragged it by one arm over his shoulder. He took each step slowly, pressing down with each foot.
+
+Tike wasn't going to eat this. He intended to take it to the 'Altar Room' he found on this level.
+
+There, an altar dedicated to the god Crom, whom Tike serves, stands.
+
+If Tike were a Priest and had taken another profession, he could have simply ignored it and walked past. Or if it were a Lawful or Chaotic god, or even a Neutral god other than Crom...
+
+From the style, Tike knew without a doubt that this altar belonged to Crom. No, he knew it. He had seen it every day for years. There was no chance of mistaking it.
+
+Tike cleaned the dilapidated altar and wandered around seeking offerings to present to Crom.
+
+Fortunately, the Giants' lair was on the same level. Tike's strength had grown to the point where he could easily deal with Giants. If he returned to the surface, he would be given the title Canon. The armor he wore was made from scales taken from the Gray Dragon he had defeated earlier, and his sword was none other than Excalibur.
+
+By offering this Giant's corpse, Tike's service would likely come to an end. A Giant of such size should surely satisfy the god.
+
+Still... 
+
+74
+
+Commands—To walk through the dungeon...

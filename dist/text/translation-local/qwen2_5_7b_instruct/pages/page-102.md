@@ -1,0 +1,35 @@
+# Page 102
+
+When you open a chest, it's unlikely that you'll put something inside, but this procedure is common when using convenient tools like sacks or holding bags (especially if you put items in a holding bag, the total weight will drastically decrease! ), so it's not a waste to remember it.
+
+Eat Eat
+
+Nasrula was extremely hungry.
+
+It had been a long time since she lost her last food supply. The grocery store was far away. First of all, she didn't have any money. She thoroughly searched this floor, but there were no fallen food supplies. She could barely find a water fountain, but it wouldn't fill her stomach.
+
+Food, especially meat. Meat was what she needed.
+
+If she kept going like this, she would faint from hunger.
+
+"Please, anything will do. Just come out."
+
+Holding her stomach, she saw a door in front of her as she wandered through the dungeon.
+
+Her hopes rose. It's common for monsters to be in the room right after opening the door. She hesitated, having been attacked by monsters and sustaining serious injuries before. If she was lucky, there might be two or three. No, as long as they could satisfy her hunger, the more the better. She intended to use all kinds of magic and items to defeat the monsters.
+
+Nasrula leaned against the door. She took a deep breath and opened the door.
+
+The room wasn't particularly large. Instinctively, she scanned the room, but she didn't see any monsters.
+
+For a moment, she thought her hopes had been dashed.
+
+(No luck)
+
+She felt the strength draining out of her body.
+
+However, when she heard a growl from the back of the room, her expression brightened. She focused on the point in front of her, to her right, which was the farthest from her. There it was. A jackal. Its red eyes gleamed, and its sharp fangs were bared, intimidating her.
+
+100
+
+Commands—To walk through the dungeon...

@@ -1,0 +1,3 @@
+# Page 266
+
+It is one of the religions. Islam is a religion based on the tenets of Islam. Islam is a religion based on the tenets of Islam.

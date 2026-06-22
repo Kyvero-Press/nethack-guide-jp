@@ -1,0 +1,31 @@
+# Page 127
+
+When items are immersed in a spring, various effects can occur. There may be cases where monsters appear, or where one receives curses or blessings. Indeed, it can vary greatly. When a player's character is at a low level, it might be quite a rash act to attach an item to a spring simply to receive a blessing. It would be wise not to do so unless absolutely necessary or in a desperate situation. Furthermore, according to rumors, there is a possibility of obtaining the legendary holy sword Excalibur by immersing a certain sword in a spring.
+
+↑
+
+Teleport (ティレポート)
+
+Yoshitsune's consciousness was dominated by a vague feeling for some time.
+
+"...I feel awful."
+
+His condition was so off that he repeated this several times within just a dozen steps down the corridor. It wasn't that something was wrong with his body or that he felt pain anywhere; however, he couldn't deny that he felt off.
+
+"Maybe it was that can of food... I didn't check what was inside before eating the cans in the long casket recently."
+
+Since Yoshitsune hadn't killed any eatable monsters lately, he had eaten the cans in the long casket without properly checking their contents.
+
+From then on, he began to experience a sensation of mild fever. His limbs were controlled by a floating sensation, and his head was hazy as if covered in mist.
+
+"It didn't seem like poison—"
+
+He thought to himself. At that moment, Yoshitsune was hit by the sensation of his body floating. It was a different sensation from dizziness. Something seemed to be rising from within his body, and his body was being pulled towards it...
+
+In the next instant, Yoshitsune realized that the surroundings were completely different. Instead of the corridor he had been walking in just now, he had arrived at some large hall. Moreover, he could see several Killer Bees in front of him.
+
+"N-no Teleport trap!?"
+
+Teleport
+
+125

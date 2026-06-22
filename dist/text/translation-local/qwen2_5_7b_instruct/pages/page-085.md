@@ -1,0 +1,27 @@
+# Page 085
+
+(Well, let's continue with the training)
+
+Nasrula started descending the stairs. She followed the tips he had given her on climbing and descending. Finally, Nasrula reached the ground.
+
+When she felt the texture of the ground, she felt as if she were ascending to heaven despite having descended. Thinking that she could no longer fall, Nasrula took a deep breath and sat down on the ground.
+
+"Good job"
+
+After each training session, the man would always call out to her and give her advice.
+
+Even now, it seemed to Nasrula as if she could hear a man's voice from somewhere.
+
+Using stairs is a necessary action to conquer the dungeon.
+
+To use stairs, you first need to find them. Usually, ascending stairs are indicated within the dungeon, while descending stairs are shown by the ">" symbol. When the symbol is not visible, try walking around the statues. There is a possibility that they are hidden beneath the statues.
+
+To ascend or descend, move your character to the symbol and press the same key. The screen should then switch, and you should be able to confirm whether you are on the upper or lower level.
+
+Just carrying too many items can result in being unable to use the stairs and having to reluctantly drop some items. When using stairs, pay attention to both your items and your carrying capacity. Also, if you do not have Yendor's amulet and attempt to use a stair leading to a higher level from level I, the game will end, so be careful.
+
+As the adventure progresses, other means of moving between levels will also appear. However, the basic method remains using stairs, and it is impossible to achieve your goal without using stairs. Once you arrive at a new floor, make sure to secure the downward stairs first.
+
+Stair Ascending and Descending
+
+83

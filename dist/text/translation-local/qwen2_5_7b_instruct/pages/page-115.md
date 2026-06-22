@@ -1,0 +1,31 @@
+# Page 115
+
+Detect Trap, Untrap
+
+"Damn it, thieves' tricks don't suit me at all!"
+
+Yoshitane's scream echoed uselessly through the dungeon.
+
+On the 12th floor, Yoshitane had found a long coffin.
+
+It wasn't unusual. Sometimes there could be three or four coffins or treasure chests. The lock on this long coffin required a square key, but he didn't have even one key. As usual, he tried to kick it open, but this time he felt something. He sensed hostility—perhaps something akin to murderous intent—from the long coffin.
+
+This ability was what allowed him to survive as an adventurer. Yoshitane well knew that he couldn't ignore this feeling—yet he wasn't a thief.
+
+Yoshitane had received basic training from the guild. But that was just training. He passed the exams. However, his instructor whispered to him, "Don't think you'll actually find a trap and try to disarm it."
+
+He's clumsy, to put it simply.
+
+No, perhaps the term 'clumsy' doesn't fit Yoshitane. He was quite dexterous. It's just that disarming traps wasn't suited to his nature.
+
+For nearly two hours, Yoshitane sat in front of the long coffin, trying to determine the type of trap that might be set.
+
+"...I can't figure it out! I can't figure it out!"
+
+Yoshitane lay flat on the floor, face down. He definitely understood that a trap must be set. In fact, the fact that it took two hours to realize this merely proved that his sense was correct.
+
+Disregarding the trap and kicking it open was also an option. The trap would surely activate, but the contents inside could still be obtained. However, if the trap released flames, it was one thing. But if it contained sleep gas or paralyzing poison needles, it was another matter to consider.
+
+Detect Trap, Untrap
+
+113
